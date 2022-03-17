@@ -10,7 +10,8 @@ url: https://rosariorogel.net
 basurl: /newsite
 
 # Name of website
-title: "Juan Pérez: Un proyecto digital"
+title: "Teoría General de los Sistemas Sociales: Niklas Luhmann"
+
 
 # Your name to show in the footer
 author: Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México
@@ -25,7 +26,7 @@ author: Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Es
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: ""
+avatar: "assets/img/luhmann/niklas-luhmann.detail.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -101,8 +102,8 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#336699"
+navbar-text-col: "#FFFFFF" #"#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -111,6 +112,11 @@ hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+
+
+
+#336699#DAF7A6#FFC300#FF5733#C70039#900C3F
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
