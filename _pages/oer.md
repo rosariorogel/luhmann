@@ -30,7 +30,7 @@ Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Hee
 
 Este curso es impartido por la Universidad del Salvador, en Argentina. Se trata de un curso sobre Teoría Sociológica Clásica que está disponible en abierto. Aunque te tienes que registrar para poder descargar los contenidos, se envían un correo de confirmación y sigues las instrucciones para quedar matriculado y acceder al curso.
 
-#### [Classical sociological theory](https://oyc.yale.edu/sociology/socy-151) 
+#### [Classical sociological theory](https://oyc.yale.edu/sociology/socy-151)
 
 Este curso es impartido por la Universidad NYU Abu Dhabi y describe el pensamiento social, prestando atención en el contexto social e intelectual, marcos, métodos conceptuales y análisis social, aunque abarca más escritores es a partir de la clase 16 a la clase 21 donde se habla sobre Max Weber.Estos son los temas del curso:
 * Clase 1.	Introducción 

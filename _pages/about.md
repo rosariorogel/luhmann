@@ -5,7 +5,7 @@ subtitle: Qué ofrece este sitio
 permalink: about
 ---
 
-# Este es un sitio web dedicado a Marianne y Max Weber
+# Este es un sitio web dedicado a Juan Pérez
 
 Todo Weber en Web es un proyecto desarrollado por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso "Fundadores de la Sociología: Max Weber", impartido en la Facultad de Ciencias Políticas y Sociales.
 
