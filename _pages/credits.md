@@ -7,6 +7,8 @@ permalink: credits
 
 ## Desarrollo de contenidos
 
+<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
+**El llanero solitario** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales aquí un ejemplo del enlace a una página de los [Archivos de Luhmann](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
 
 ## Coordinación
 
