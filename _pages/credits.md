@@ -10,14 +10,14 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **El llanero solitario** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales aquí un ejemplo del enlace a una página de los [Archivos de Luhmann](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
 
+<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
+**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
+
 
 ## Coordinación
 
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
-
-<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
-**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
 
 
 ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
