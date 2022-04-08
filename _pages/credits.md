@@ -19,6 +19,14 @@ Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
 
 <div style="clear: both;"></div>
 
+
+<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
+**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanidad y Cultura
+
+Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
 
