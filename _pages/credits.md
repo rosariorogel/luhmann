@@ -21,14 +21,14 @@ Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.png" style="float:left;width:200px;padding-right:20px;">
 **Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Violencia de género y Desigualdad Social. 
 
 Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoFatimaPaola.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFatimaPaola.png" style="float:left;width:200px;padding-right:20px;">
 **Fátima Paola Vargas Gómez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre pobreza y economía. 
 
 Twitter: [@PaolaGo57478287](https://twitter.com/PaolaGo57478287)
