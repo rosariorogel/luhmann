@@ -28,6 +28,13 @@ Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoMariaAranzaRomero.jpg" style="float:left;width:200px;padding-right:20px;">
+**Maria Aranza Romero Serralde** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios Latinoamericanos, feminismo decolonial
+
+Twitter: [@v__a__n__](https://twitter.com/@v__a__n__)
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoFatimaPaola.png" style="float:left;width:200px;padding-right:20px;">
 **Fátima Paola Vargas Gómez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre pobreza y economía. 
 
