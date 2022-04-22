@@ -9,15 +9,13 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoEmmanuelCano.jpg" style="float:left;width:200px;padding-right:20px;">
-**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
+<img src="{{ site.baseurl }}/assets/img/FotoAdileneBecerril.jpg" style="float:left;width:200px;padding-right:20px;">
+**Adilene Becerril Pedraza** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales, Feminismo de Abya Ayala. 
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAranzaCura.jpg" style="float:left;width:200px;padding-right:20px;">
-**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanidad y Cultura
-
-Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
+<img src="{{ site.baseurl }}/assets/img/FotoEmmanuelCano.jpg" style="float:left;width:200px;padding-right:20px;">
+**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
 
 <div style="clear: both;"></div>
 
@@ -26,6 +24,39 @@ Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
 
 ORCID: [0000-0002-8563-9545](https://orcid.org/0000-0002-8563-9545)
 Twitter: [@ORuusu](https://twitter.com/ORuusu)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAdrianaCorona.jpg" style="float:left;width:200px;padding-right:20px;">
+**Adriana Corona Nava** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Innfancias, Sociología Latinoaméricana, Género.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoLeonardoCruz.png" style="float:left;width:200px;padding-right:20px;">
+**Leonardo Cruz Alcalá** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Cultura y Ruralidad.
+
+Twitter: [@leitzcoatl](https://twitter.com/leitzcoatl)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAranzaCura.jpg" style="float:left;width:200px;padding-right:20px;">
+**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanidad y Cultura.
+
+Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoJimenaDafneGarduño.jpg" style="float:left;width:200px;padding-right:20px;">
+**Jimena Dfane Garduño Terrón** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desigualdad Social.
+
+Twitter: [@Dafne3312](https://twitter.com/Dafne3312)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoZuriOcampo.jpg" style="float:left;width:200px;padding-right:20px;">
+**Zuri Yael Jiménez Ocampo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Cultura y familia
+
+Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
 
 <div style="clear: both;"></div>
 
