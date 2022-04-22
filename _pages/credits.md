@@ -27,7 +27,7 @@ Twitter: [@ORuusu](https://twitter.com/ORuusu)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAdrianaCorona.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAdrianaCorona.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Adriana Corona Nava** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Innfancias, Sociología Latinoaméricana, Género.
 
 <div style="clear: both;"></div>
@@ -47,13 +47,13 @@ Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoJimenaDafneGarduño.jpg" style="float:left;width:200px;padding-right:20px;">
-**Jimena Dfane Garduño Terrón** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desigualdad Social.
+**Jimena Dafne Garduño Terrón** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desigualdad Social.
 
 Twitter: [@Dafne3312](https://twitter.com/Dafne3312)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoZuriOcampo.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoZuriOcampo.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Zuri Yael Jiménez Ocampo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Cultura y familia
 
 Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
