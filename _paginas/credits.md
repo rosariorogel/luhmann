@@ -1,5 +1,6 @@
 <img src="{{ site.baseurl }}/assets/img/FotoThaniaHernandez.jpg" style="float:left;width:1080px;padding-right:1052px;">
 **Thania Hernández Sánchez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales,Estudio del Genero,Arte y Medio Ambiente
+Twitter: @thaniah360 (https://twitter.com/thaniah360?t=ECxokN7oRPcazbLYmDENqA&s=08)
 
 ## Desarrollo de contenidos
 
