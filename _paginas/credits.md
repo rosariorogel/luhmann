@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Créditos
+subtitle: Las personas que contribuyen en este sitio
+permalink: credits
+---
 
 ## Desarrollo de contenidos
 
