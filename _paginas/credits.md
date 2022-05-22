@@ -67,6 +67,9 @@ Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
 
 <div style="clear: both;"></div>
 
+img src="{{ site.baseurl }}/assets/img/FotoJocelynMorales.jpg" style="float:left;width:200px;padding-right:20px;">
+**Jocelyn Isis Morales Osorio** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política y Justicia Social.
+
 <img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.png" style="float:left;width:200px;padding-right:20px;">
 **Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Violencia de género y Desigualdad Social. 
 
