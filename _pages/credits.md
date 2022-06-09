@@ -53,7 +53,7 @@ Twitter: [@Dafne3312](https://twitter.com/Dafne3312)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoThaniaHernandez.jpg" style="float:left;width:1080px;padding-right:1052px;">
+<img src="{{ site.baseurl }}/assets/img/FotothaniaHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Thania Hernández Sánchez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales,Estudio del Genero,Arte y Medio Ambiente
 
 Twitter: [@thaniah360](https://twitter.com/thaniah360?t=ECxokN7oRPcazbLYmDENqA&s=08)
@@ -67,8 +67,10 @@ Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
 
 <div style="clear: both;"></div>
 
-img src="{{ site.baseurl }}/assets/img/FotoJocelynMorales.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoJocelynMorales.jpg" style="float:left;width:200px;padding-right:20px;">
 **Jocelyn Isis Morales Osorio** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política y Justicia Social.
+
+<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.png" style="float:left;width:200px;padding-right:20px;">
 **Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Violencia de género y Desigualdad Social. 
