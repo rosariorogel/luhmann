@@ -53,8 +53,8 @@ Twitter: [@Dafne3312](https://twitter.com/Dafne3312)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotothaniaHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Thania Hernández Sánchez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales,Estudio del Genero,Arte y Medio Ambiente
+<img src="{{ site.baseurl }}/assets/img/FotoEmmanuelCano.jpg" style="float:left;width:200px;padding-right:20px;">
+**Thania Hernández Sánchez** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales, Estudios de Género, Arte y Medio Ambiente.
 
 Twitter: [@thaniah360](https://twitter.com/thaniah360?t=ECxokN7oRPcazbLYmDENqA&s=08)
 
