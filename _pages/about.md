@@ -24,6 +24,6 @@ Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recur
 
 <div style="clear:both"></div>
 
-<img src="{{ site.baseurl }}/assets/img/marianne-square.jpg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo y abogado alemán, reconocido por la formulación de la Teoría General de los Sistemas Sociales, considerado uno de los teóricos más importantes de la sociología contemporánea. Luhmann escribió más de treinta libros sobre temas como política, economía, arte, religión, ecología y medios de comunicación, entre ellos: «Sociología del Derecho» (1972), «Economía y Sociedad» (1988), «Sociología del Riesgo» (1991), «Derecho y Sociedad» (1993), «Sistemas Sociales» (1995), «El Arte de la Sociedad» (1995) y su gran obra «La Sociedad de la Sociedad» (1997).
+<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo y abogado alemán, reconocido por la formulación de la Teoría General de los Sistemas Sociales, considerado uno de los teóricos más importantes de la sociología contemporánea. Luhmann escribió más de treinta libros sobre temas como política, economía, arte, religión, ecología y medios de comunicación, entre ellos: «Sociología del Derecho» (1972), «Economía y Sociedad» (1988), «Sociología del Riesgo» (1991), «Derecho y Sociedad» (1993), «Sistemas Sociales» (1995), «El Arte de la Sociedad» (1995) y su gran obra «La Sociedad de la Sociedad» (1997).
 
 <div style="clear:both"></div>
