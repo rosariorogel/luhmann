@@ -24,9 +24,9 @@ Adicional a ello, el proyecto **Luhmann en Web** busca reconocer la imporante la
 * **Recursos de Internet:** En esta sección se integran diversos recursos, medios y herramientas disponibles en web, relacionadas con la Complejidad y la Teoría de Sistemas pero desde una perspectiva no necesariamente académica. Se compilan contenidos de interés general tales como blogs, canales de video, cuentas e hilos de twitter, grupos de facebook entre muchos otros contenidos. 
 * **Niklas Luhmann-Archiv en Español:** En esta sección se ofrece una propuesta inicial de traducción al Español de las temáticas en que se organiza el proyecto web [Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/), desarrollado en colaboración por [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/), [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/index.xml), [Bergische Universität Wuppertal](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) y el [Cologne Center for eHumanities](https://cceh.uni-koeln.de/). 
 
-## Este es un Recurso Aeducativo Abierto
+## Este es un Recurso Educativo Abierto
 
-Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos); por lo tanto, todos los contenidos tienen una licencia abierta CC-BY 4.0 Internacional, que permite la redistribución, modificación y adaptación de toda la información disponible en el sitio, siempre que se mantenga la atribución al proyecto.
+Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos); por lo tanto, todos los contenidos tienen una licencia abierta [CC-BY 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es), que permite la redistribución, modificación y adaptación de toda la información disponible en el sitio, siempre que se mantenga la atribución al proyecto.
 
 **¡Esperamos que este sitio te sea de utilidad!**
 
