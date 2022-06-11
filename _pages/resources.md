@@ -10,3 +10,6 @@ En esta sección se integran diversos recursos, medios y herramientas disponible
 Para integrar esta colección de recursos de Internet hemos utilizado la herrameinta [**Wakelet**](www.wakelet.com) que ayuda a guardar, organizar y compartir contenidos web. El objetivo es ofrecerte una selección contenidos y casi cualquier cosa que puedes localizar en línea sobre Niklas Luhmann. Puedes consultar desde aquí la colección con los contenidos sobre Niklas Luhmann, pero también te invitamos a crear una cuenta gratuita en Wakelet para seguirnos:
 
 <iframe class="wakeletEmbed" width="100%" height="760px" src="https://embed.wakelet.com/wakes/eYmzjSy1yAzW5GMzjV4nV/grid?border=1" style="border: none" allow="autoplay"></iframe><!-- Please only call https://embed-assets.wakelet.com/wakelet-embed.js once per page --><script src="https://embed-assets.wakelet.com/wakelet-embed.js" charset="UTF-8"></script>
+
+###
+**Créditos:** Priscila Romero Contreras y Luis Fernando Martínez Contreras
