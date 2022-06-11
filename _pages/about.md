@@ -1,4 +1,11 @@
-## Este es un sitio web dedicado a Niklas Luhmann
+---
+layout: page
+title: Acerca de
+subtitle: Qué ofrece este sitio
+permalink: about
+---
+
+# Este es un sitio web dedicado a Niklas Luhmann
 
 **Luhmann en Web** es un proyecto desarrollado por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso "Complejidad y Teoría de Sistemas", impartido en la [Facultad de Ciencias Políticas y Sociales](https://fcpysuaemexoficial.wixsite.com/misitio).
 
