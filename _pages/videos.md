@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Videos
-subtitle: Niklas Luhmann
+subtitle: Reflexiones en acción
 permalink: videos
 ---
 
