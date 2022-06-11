@@ -5,7 +5,7 @@ subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
-## Desarrollo de contenidos
+## Desarrollo y curación de contenidos
 
 <div style="clear: both;"></div>
 
