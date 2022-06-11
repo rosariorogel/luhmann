@@ -13,12 +13,15 @@ permalink: como
 
 _Coordinación: Brian Rosenblum, Rosario Rogel y Alan Colín_
 
+
 ## Bibliografía
 <img src="{{ site.baseurl }}/assets/img/Zotero.png" style="float:left;width:200px;padding-right:20px;"> Para poder recopilar la bibliografía citada en esta página web acerca de Niklas Luhmann se recurrió a una herramienta llamada [**Zotero**](https://www.zotero.org/), que ayuda a recopilar y organizar información de fuentes documentales, desde libros digitales hasta fuentes de información de tipo audiovisual. Dentro de Zotero creamos un grupo público y abierto desde se alojan las referencias bibliográficas, curadas y organizadas. Además de ello, en los documentos que así lo permiten, se puede tener acceso a las **notas** que fuimos haciendo los estudaintes a las lecturas donde el curso. Dichas notas tambieén son abiertas tambien. Esta herramienta que te dejamos en la descripción podrá facilitar la citación para trabajos académicos o de otra índole que se puedan trabajar en procesadores de textos que sean compatibles con esta herramienta.
 
 <img src="{{ site.baseurl }}/assets/img/BibBase.jpeg" style="float:left;width:200px;padding-right:20px;"> Para integrar el grupo abierto de Zotero en la página web, recurrimos al uso de la herramienta [**BibBase**](https://bibbase.org/), que permite indexar referencias y mostrar las actualizadas en la página web de forma automática.
 
+
 _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
+
 
 ## Líneas del tiempo
 <img src="{{ site.baseurl }}/assets/img/Timeline JS.jpeg" style="float:left;width:200px;padding-right:20px;"> Las líneas del tanto sobre la vida de Luhmann como  de su prodcción académica se realizó por medio de una investigación y recopilación de datos bibliográficos vía web, posteriormente se utilizamos la plataforma abierta [**Timeline Js**](https://timeline.knightlab.com/) para organizar las líneas del tiempo a través de hojas de cálculo en Google donde se van agregando las fechas y los datos.
@@ -27,20 +30,24 @@ _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
 
 _Coordinación: Isabel Colín y Thania Hernández._
 
+
 ## Arquitectura conceptual
 Aquí la descripción de lo que hicieron ***
 
 _Coordinación: Aranza Cura, Zuri Jiménez y Jimena Garduño_
+
 
 ## Recursos Educativos Abiertos
 Aquí la descripción de lo que hicieron ***
 
 _Coordinación: María Aranza Romero, Adriana Corona y Adilene Becerril_
 
+
 ## Recursos de Internet
 <img src="{{ site.baseurl }}/assets/img/Wakelet.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección nos dimos a la tarea de buscar recursos en línea que fueran dinámicos y fácil de digerir, hicimos una compilación donde se muestran videos, textos, blogs, hilos de Twitter y sitios en línea donde se explican algunos de los conceptos de la Teoría General de Sistemas de Luhmann, para esto nos apoyamos de [**Wakelet**](https://wakelet.com/), una herramienta que permite guardar enlaces de internet para así poder organizar nuestros recursos y consultarlos de manera rápida y fácil.
 
 _Coordinación: Priscila Romero y Luis Fernando Martínez._
+
 
 ## Niklas Luhmann Archiv - Español
 Aquí la descripción de lo que hicieron ***
