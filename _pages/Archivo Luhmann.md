@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Archivo Luhmann
-subtitle: Archivo Niklas Luhmann Universidad de Bielefeld
-permalink: archiveluhmann
+title: Niklas Luhmann Archiv - Español
+subtitle: Propuesta de traducción al Español de la estructura organizativa de los de los Archivos de Niklas Luhmann
+permalink: Archivo Luhmann
 ---
 
 <div style="clear: both;"></div>
