@@ -1,4 +1,11 @@
-## Si los logaritmos comunican ¿pueden tomar desiciones?
+---
+layout: page
+title: Videos
+subtitle: Niklas Luhmann
+permalink: videos
+---
+
+## Si los algoritmos comunican ¿pueden tomar desiciones?
 
 La idea de máquinas vitales y máquinas triviales (Maturana y Varela, 1973) lleva a preguntarnos ¿Qué nos hace humanos en una sociedad deshumanizada? ¿Podrá la tecnología crear organismos artificiales indistinguibles de los seres humanos? ¿Se les podrá considerar seres vivos?
 
@@ -6,8 +13,19 @@ El tema ha sido abordado desde la ciencia ficción, P.K. Dirk [¿Sueñan los and
 
 En esta sección te ofrecemos algunas reflexiones al respecto, presentadas en forma de pequeños videos de no más de 5 minutos donde se aborda la constitución de un imaginario de inteligencia artificial a partir del procesamiento de información. Se examina la propuesta de Maturana y Varela, y se intenta repensar el estudio de la vida como un proceso continuo de autoorganización. 
 
-> 
 
+
+<iframe
+    width="600"
+    height="600"
+    frameBorder="0"
+    src="https://flipgrid.com/+141yexjm?embed=true"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+    allow="microphone; camera; display-capture"></iframe>
+
+> 
 
 ## Referencias
 
