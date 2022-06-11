@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arquitectura Teórica
-subtitle: Sociología comprensiva
+subtitle: Teoría General de Sistemas Sociales
 cover-img: 
 permalink: theory
 ---
