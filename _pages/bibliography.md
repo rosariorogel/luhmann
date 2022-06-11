@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Bibliografía
-subtitle: 
+subtitle: Niklas Luhmann
 permalink: bibliography
 ---
-
-# Bibliografía 
 
 Aquí puedes encontrar diversas referencias bibliográficas a libros y documentos escritos por **Niklas Luhman**, así como bibliografía acerca de su propuesta teórica escrita por terceros.
 
