@@ -15,7 +15,7 @@ Todas las entradas y los recursos web que se ofrecen están en constante constru
 
 Adicional a ello, el proyecto **Luhmann en Web** busca reconocer la imporante labor de sistematización y difusión de la Teoría General de Sistemas Sociales desde la academia latinoamericana, donde esta propuesta teórica ha tenido una gran influencia.
 
-<!-- El sitio web está conformado por seis secciones que integran contenido previamente disponible en web –pero curado cuidadosamente por los y las estudiantes que participan de este estuferzo–, o bien recursos originales de los propios estudiantes: -->
+El sitio web está conformado por seis secciones que integran contenido previamente disponible en web –pero curado cuidadosamente por los y las estudiantes que participan de este este proyecto–, o bien recursos originales elaborados por estudiantes:
 
 * **Bibliografía:** contiene una cuidadosa selección bibliográfica de textos escritos por Luhmann, así como otros textos que analizan, explican o amplian su propuesta teórica.
 * **Líneas del tiempo:** presenta una visualización acerca de la trayectoria académica de Niklas Luhmann y otra acerca de su vasta producción académica.
@@ -32,6 +32,6 @@ Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recur
 
 <div style="clear:both"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo y abogado alemán, reconocido por la formulación de la Teoría General de los Sistemas Sociales, considerado uno de los teóricos más importantes de la Sociología Contemporánea. Luhmann escribió más de treinta libros sobre temas como política, economía, arte, religión, ecología y medios de comunicación, entre ellos: _Sociología del Derecho_ (1972), _Sociología del Riesgo_ (1991), _Derecho y Sociedad_ (1993), _El Arte de la Sociedad_ (1995) y su gran obra _La Sociedad de la Sociedad_ (1997).
+<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo alemán, reconocido por la formulación de la Teoría General de los Sistemas Sociales, considerado uno de los teóricos más importantes del Siglo XX. Luhmann escribió más de treinta libros sobre temas como política, economía, arte, religión, ecología y medios de comunicación, entre ellos: _Sociología del Derecho_ (1972), _Sociología del Riesgo_ (1991), _Derecho y Sociedad_ (1993), _El Arte de la Sociedad_ (1995) y su gran obra _La Sociedad de la Sociedad_ (1997).
 
 <div style="clear:both"></div>
