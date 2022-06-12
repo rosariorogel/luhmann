@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recursos Educativos Abiertos
-subtitle: Materiales didácticos, de aprendizaje e investigación
+subtitle: Cursos, Seminarios, Talleres, Materiales didácticos, de aprendizaje e investigación
 permalink: oer
 ---
 
@@ -14,7 +14,7 @@ permalink: oer
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://[www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://fb.watch/dp0_FKskkb) "Video Title")
 
-
+[Conferencia: El cierre del sistema legal](http//[example.io](https://fb.watch/dp0_FKskkb)/my-link "link title")
 
  https://fb.watch/dp0_FKskkb
 
