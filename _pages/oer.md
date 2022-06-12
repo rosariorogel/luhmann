@@ -2,7 +2,6 @@
 layout: page
 title: Recursos Educativos Abiertos
 subtitle: Materiales didácticos, de aprendizaje e investigación
-cover-img: ""
 permalink: oer
 ---
 
@@ -13,8 +12,11 @@ permalink: oer
 
 **El cierre del sistema legal**: Conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 
-https://fb.watch/dp0_FKskkb
- 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://[www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://fb.watch/dp0_FKskkb) "Video Title")
+
+
+
+ https://fb.watch/dp0_FKskkb
 
 ## Cursos disponibles en línea acerca de la propuesta teórica de Niklas Luhmann 
 
