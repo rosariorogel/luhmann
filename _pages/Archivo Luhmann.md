@@ -20,26 +20,28 @@ El objetivo de este apartado es facilitar el acceso a contendidos extra, que se 
 
 ## Archivo Luhmann 
 
-1. Unidad y unificación del grupo en general [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)]
-   * 1.5 Críticas a las soluciones anteriores al problema unitario [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)]
-      * 1.6 La esencia de la unidad del Estado [Nota Original (https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V)]
-2. Stands como Idea [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)]
-3. Método jurídico en la aplicación del derecho constitucional e internacional [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3_V)]
-4. derecho de veto [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4_V)]
-5. controles [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_5_1_V)]
-6. igualdad [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6_V)]
-   * 6.3 Base conceptual [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3_V)]
-7. El valor de la organización [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_7_1_V)]
-8. El sistema como herramienta de investigación [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_8_1_V)]
-9. Estado como organización en principio [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_9_V)]
-10. Organización como imaginación y como realidad [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_10_V)]
-11. problema individual/comunitario [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_11_V)]
-12. Organización y derecho [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_12_1_V)]
-13. Unificación de voluntad [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_13_1_V)]
-14. Política [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_14_1_V)]
-15. Homogeneidad estructural [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_15_V)]
-16. Soberanía [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_16_V)]
-17. Ideología [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_17_2_V)]
-18. Partido Politico [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18_V)]
-19. Límites de la organización y teoría organizacional [Nota Original (https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_19_V)]
-20. Planificación [Nota Original(https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_20_1_V)]
+A continuación, se presentan al algunos de los temas que constituyen las Notas del Archivo Luhmann, cada una contiene el enlace para redireccionar a la nota original contenida en el archivo digitalizado en la página de la Universidad de Bielefeld. Cabe aclarar que de algunas notas no se encuentra el archivo original y algunas otras no han sido transcritas aun por lo tanto no se encuentran disponibles.
+
+1. Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)
+   * 1.5 Críticas a las soluciones anteriores al problema unitario [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)
+      * 1.6 La esencia de la unidad del Estado [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V)
+2. Stands como Idea [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)
+3. Método jurídico en la aplicación del derecho constitucional e internacional [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3_V)
+4. derecho de veto [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4_V)
+5. controles [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_5_1_V)
+6. igualdad [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6_V)
+   * 6.3 Base conceptual [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3_V)
+7. El valor de la organización [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_7_1_V)
+8. El sistema como herramienta de investigación [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_8_1_V)
+9. Estado como organización en principio [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_9_V)
+10. Organización como imaginación y como realidad [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_10_V)
+11. problema individual/comunitario [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_11_V)
+12. Organización y derecho [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_12_1_V)
+13. Unificación de voluntad [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_13_1_V)
+14. Política [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_14_1_V)
+15. Homogeneidad estructural [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_15_V)
+16. Soberanía [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_16_V)
+17. Ideología [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_17_2_V)
+18. Partido Politico [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18_V)
+19. Límites de la organización y teoría organizacional [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_19_V)
+
