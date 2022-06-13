@@ -9,9 +9,15 @@ permalink: oer
 
 
 ### El cierre del sistema legal 
-Conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
+En el canal de YouTube de Sistemas Sociales, se puede localizar una versión esta conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/Cp3WA70kZkc](https://fb.watch/dp0_FKskkb)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="600" height="600" frameBorder="0" src="https://flipgrid.com/+umlax9jm?embed=true" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+https://www.facebook.com/watch/?extid=WA-UNK-UNK-UNK-AN_GK0T-GK1C&v=944617579353712
 
 ## Cursos disponibles en línea acerca de la propuesta teórica de Niklas Luhmann 
 
