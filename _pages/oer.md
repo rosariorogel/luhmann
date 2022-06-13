@@ -12,11 +12,12 @@ permalink: oer
 En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasSociales/), se puede localizar una versión esta conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 <iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-## Cursos, Seminarios, Talleres –en español– disponibles en línea acerca de la propuesta teórica de Niklas Luhmann 
+## Cursos, Seminarios, Talleres disponibles en línea 
 
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
+<iframe width="600" height="600" frameBorder="0" src="[https://flipgrid.com/+pr1zz000?embed=true](https://www.youtube.com/user/7ghja/featured)" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
 
 ### Amsterdam School of Communication Research
 **Curso: [La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann**](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
