@@ -17,10 +17,8 @@ En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasS
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
-<iframe width="600" height="600" frameBorder="0" src="(https://www.youtube.com/user/7ghja/featured)" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2[Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show](https://www.youtube.com/user/7ghja/featured)_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
+<iframe src="https://www.youtube.com/plugins/video.php?height=410&href=https%3A%2F%2F
+https://www.youtube.com/user/7ghja/featured&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ### Amsterdam School of Communication Research
 **Curso: [La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann**](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
@@ -28,11 +26,7 @@ Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profeso
 ### Università degli Studi di Napoli Federico II
 Como para del SUSEES (Summer Schhol in european Education Studies) 2018, se ofrece el MOOC: [Between semantic and structure: making sense of Europe’s governance of education](http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/) impartido por Eric Mangez de la Universidad de Louvain, Bélgica. En la conferencia No. 3, titulada: *Entre la semantica y la estructura: dar sentido a la gobernanza europea a la educacion* se integra a Niklas Luhmann como parte del curso  
 
-<iframe width="600" height="600" frameBorder="0" src="[https://flipgrid.com/+ilkaqhw5?embed=true](http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/)" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
-
-
 ### Universidad de Buenos Aires
-
 ***La teoría de la sociedad de Niklas Luhmann*** es una clase impartida por [Mariano Sasín](https://twitter.com/marianosasin), profesor en sociología de la Facultad de Ciencias Sociales de la Universidad de Buenos Aires, Argentina. 
 
 Este curso está dividido en cuatro partes y presenta los lineamientos generales de la Teoría de la Sociedad de Niklas Luhmann como parte del programa de la materia Sociología Sistemática, cátedra de Marinis, Carrera de Sociología, Fsoc, UBA. 
@@ -44,7 +38,6 @@ Este curso está dividido en cuatro partes y presenta los lineamientos generales
 
 
 ### Universidad Central del Ecuador
-
 La Facultad de Ciencias Sociales y Humanidades de la [Universidad Central del Ecuador](https://www.uce.edu.ec/) ofrece un curso de cuatro sesiones con duración de aproximadamente dos horas. En él se analiza el texto *Mujeres, Hombres y George Spencer Brown* escrito por Niklas Luhmann. El curso es impartido por [Philipp Altmann](@PhilippAltmann2), docente de la carrera de Sociología.
 
 [**Primera Sesión**](https://www.facebook.com/FacultadSocialesUCE/videos/1020019215516949/) 
@@ -57,14 +50,12 @@ La Facultad de Ciencias Sociales y Humanidades de la [Universidad Central del Ec
 
 
 ### Universidad Autónoma Metropolitana, Azcapotzalco
-
 [**Las Jornadas Sistémicas**](https://fb.watch/dp0GIi8A-o/) son cursos que tienen como objetivo exponer y difundir el legado de Niklas Luhmann, pertenece al Eje de Teoría de la licenciatura de Sociología y a la línea de Teoría y Pensamiento Sociológico del Posgrado en Sociología de UAM Azcapotzalco, así como de la Sociedad mexicana de Sociología.
 
 El  curso está conformado por tres actividades: Una conferencia magistral impartida por [Jorge Galindo](https://twitter.com/galindo45), Doctor en sociología por la universidad Ludwing-Maximiliam de Múnich y dos mesas de ponencias. 
 
 
 ### Centro de Investigación y Docencia Econnómicas (CIDE)
-
 Esta sesión pertenece al curso [*Teoría de la organización*](https://www.youtube.com/watch?v=L4el0ADKR3g) de la Maestría en Administración y Políticas Públicas del CIDE, y es impartido por [David Arellano Gault](https://twitter.com/gaultin) investigador de la Divisón de Administración Pública de CIDE.
 
 Esta sesión tiene como objetivo conocer las bases principales de la Teoría General de Sistemas Sociales de Luhmann y se divide en 6 apartados: 
@@ -79,7 +70,6 @@ Esta sesión tiene como objetivo conocer las bases principales de la Teoría Gen
 
   
 ### Universidad de Guadalajara
-
 El seminario ***Investigación en Sistemas Sociales*** es impartida por [Hugo Cadenas](https://twitter.com/HugoCadenas7), Doctor en sociología por la Universidad Ludwing-Maximiliam de Múnich, Alemania. El curso pertenece al seminario de *Sistemas sociales, redes y complejidad 3*, del Instituto de Investigaciones Sociológicas, departamento de Sociología, Universidad de Guadalajara. Y tiene como objetivo, explicar lo que implica el quehacer investigativo desde el ambito de la teoría de los sitemas sociales y desde una perpectiva Luhmaniana. 
  
 
