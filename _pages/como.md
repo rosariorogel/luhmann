@@ -38,7 +38,9 @@ _Coordinación: Aranza Cura, Zuri Jiménez y Jimena Garduño_
 
 
 ## Recursos Educativos 
-Los  cursos en línea masivos y abiertos, o también llamados MOOC, son una modalidad de aprendizaje a distancia y en línea, para la búsqueda de cursos abiertos sobre Niklas Luhmann, hicimos uso de distintas plataformas, dónde se recopilan cursos que imparten diversas universidades,en diferentes idiomas; sin embargo, en dichas plataformas se encuentran cursos de diversas temáticas en lo general, son muy pocas las que están dedicadas en exclusivo a analizar la propuesta teórica de Niklas Luhmann. Es por esta razón que tuvimos que realizar una búsqueda a fondo para encontrar cursos sobre Luhmann, o donde se le integrará en el temario, para poder realizar nuestra recopilación en la página web. 
+<img src="{{ site.baseurl }}/assets/img/Mooc.jpeg" style="float:left;width:200px;padding-right:20px;">Los  cursos en línea masivos y abiertos, o también llamados MOOC, son una modalidad de aprendizaje a distancia y en línea, para la búsqueda de cursos abiertos sobre Niklas Luhmann, hicimos uso de distintas plataformas, dónde se recopilan cursos que imparten diversas universidades,en diferentes idiomas; sin embargo, en dichas plataformas se encuentran cursos de diversas temáticas en lo general, son muy pocas las que están dedicadas en exclusivo a analizar la propuesta teórica de Niklas Luhmann.
+
+<img src="{{ site.baseurl }}/assets/img/YouTube.png" style="float:left;width:200px;padding-right:20px;">Es por esta razón que tuvimos que realizar una búsqueda no restringiéndonos sólo a Recursos Educativos Abiertos, sino a contenidos web relacionados con la obra teórica de Luhmann, o a cursos donde se le integrará en el temario, para poder realizar nuestra recopilación en la página web. 
 
 _Coordinación: María Aranza Romero, Adriana Corona y Adilene Becerril_
 
