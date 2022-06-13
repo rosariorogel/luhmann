@@ -17,8 +17,12 @@ En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasS
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
-<iframe src="https://www.youtube.com/plugins/video.php?height=410&href=https%3A%2F%2F
-https://www.youtube.com/user/7ghja/featured&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/user/7ghja" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
 
 ### Amsterdam School of Communication Research
 **Curso: [La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann**](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
