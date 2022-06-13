@@ -50,6 +50,6 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 
 
 ## Niklas Luhmann Archiv - Español
-Aquí la descripción de lo que hicieron ***
+Realizamos una compilación de las principales fichas de trabajo del autor, que propone  el sitio web de Bergische Universität Wuppertal y el Cologne Center for eHumanities, las cuales  fueron sometidas en softwares de  traducción del aleman al Español, clasificando  cada ficha con su traducción de manera ordenada, con el objetivo de facilitar el acceso a los hispanohablantes que se interesan en las propuestas de Luhmann
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
