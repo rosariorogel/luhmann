@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Arquitectura Teórica
-subtitle: Algunos conceptos centrales de la Teoría General de Sistemas Sociales
+title: Arquitectura Conceptual
+subtitle: Teoría General de Sistemas Sociales
 permalink: theory
 ---
 
