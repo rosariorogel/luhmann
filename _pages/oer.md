@@ -19,7 +19,7 @@ En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasS
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
-[[<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/user/7ghja" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+[<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/user/7ghja" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>](https://www.youtube.com/user/7ghja)
 ](https://www.youtube.com/user/7ghja)
 
@@ -70,10 +70,9 @@ El  curso está conformado por tres actividades: Una conferencia magistral impar
 
 
 ### Centro de Investigación y Docencia Econnómicas (CIDE)
-Esta sesión pertenece al curso [*Teoría de la organización*](https://www.youtube.com/watch?v=L4el0ADKR3g) de la Maestría en Administración y Políticas Públicas del CIDE, y es impartido por [David Arellano Gault](https://twitter.com/gaultin) investigador de la Divisón de Administración Pública de CIDE.
+Esta sesión pertenece al curso **Teoría de la organización** de la Maestría en Administración y Políticas Públicas del CIDE, y es impartido por [David Arellano Gault](https://twitter.com/gaultin) investigador de la Divisón de Administración Pública de CIDE.
 
-Esta sesión tiene como objetivo conocer las bases principales de la Teoría General de Sistemas Sociales de Luhmann y se divide en 6 apartados: 
-
+Esta sesión tiene como objetivo conocer las bases principales de la Teoría General de Sistemas Sociales de Luhmann y se divide en 6 apartados:
 * Luhmann y la ambición sistémica 
 * Las bases de la teoría de sistemas de Luhmann  
 * Función contingencia: autorreferencia y autopoiesis 
@@ -81,23 +80,18 @@ Esta sesión tiene como objetivo conocer las bases principales de la Teoría Gen
 * Organizaciones como sistemas sociales  
 * Racionalización y democratización organizacional  
 * Curso de Teoría de la Organización. Sesión 10. Sistemas a la Luhmann 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4el0ADKR3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-  
 ### Universidad de Guadalajara
 El seminario ***Investigación en Sistemas Sociales*** es impartida por [Hugo Cadenas](https://twitter.com/HugoCadenas7), Doctor en sociología por la Universidad Ludwing-Maximiliam de Múnich, Alemania. El curso pertenece al seminario de *Sistemas sociales, redes y complejidad 3*, del Instituto de Investigaciones Sociológicas, departamento de Sociología, Universidad de Guadalajara. Y tiene como objetivo, explicar lo que implica el quehacer investigativo desde el ambito de la teoría de los sitemas sociales y desde una perpectiva Luhmaniana. 
  
-
 * El curso, publicidad y relaciones publicas, donde se integra a Niklas Luhmann como parte del temario en el marco teorico de la opinion publica  
 https://www.techtitute.com/mx/periodismo-comunicacion/master-semipresencial/master-semipresencial-publicidad-relaciones-publicas 
-
-* En el curso comunicacion publicitaria, nuevamn¡ente se vueleve a integrar a Niklas Luhmann en el marco de la opinion publica, como modalidad comunicativa  
+* En el curso comunicacion publicitaria, nuevamente se integra a Niklas Luhmann en el marco de la opinion publica, como modalidad comunicativa  
 https://www.techtitute.com/mx/escuela-de-negocios/master-semipresencial/master-semipresencial-comunicacion-publicitaria 
 
 ## Univeridad Nacional Autónoma de México
- 
-*Gestion integral del riesgo de desastres* es un curso impartido por la Universidad Nacional Autonoma de Mexico, que presenta conceptos más importantes, así como ejemplos y problemas para el análisis de temas de gestión integral del riesgo, de la leccion construccion del riesgo, se analiza *el riesgo* como la probabilidad de ocurrencia de un evento. Ademas de plantear si, existen otras formas de entender el riesgo, se cita al sociólogo Niklas Luhmann, quien concibe el riesgo como una noción opuesta a la noción de seguridad. 
-
-https://www.coursera.org/learn/gestion-riesgo#syllabus 
+[**Gestion integral del riesgo de desastres**](https://www.coursera.org/learn/gestion-riesgo#syllabus) es un curso impartido por la Universidad Nacional Autonoma de Mexico, que presenta conceptos más importantes, así como ejemplos y problemas para el análisis de temas de gestión integral del riesgo, de la leccion construccion del riesgo, se analiza *el riesgo* como la probabilidad de ocurrencia de un evento. Ademas de plantear si, existen otras formas de entender el riesgo, se cita al sociólogo Niklas Luhmann, quien concibe el riesgo como una noción opuesta a la noción de seguridad. 
 
 Sesion 1 : Construccion del riesgo 
 Sesion 2: Relacion de la gestion y el desarrollo de riesgo 
