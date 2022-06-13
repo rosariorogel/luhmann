@@ -1,3 +1,10 @@
+---
+layout: page
+title: Arquitectura Teórica
+subtitle: Algunos conceptos centrales de la Teoría General de Sistemas Sociales
+permalink: theory
+---
+
 # Algunos conceptos básicos 
 
 Esta sección se compone de diversas infografías que exponen de manera breve y concisa algunos conceptos importantes para el entendimiento de la Teoría General de Sistemas Sociales de Niklas Luhmann.
