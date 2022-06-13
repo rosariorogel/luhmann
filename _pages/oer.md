@@ -9,41 +9,23 @@ permalink: oer
 
 
 ### El cierre del sistema legal 
-En el canal de YouTube de Sistemas Sociales, se puede localizar una versión esta conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/Cp3WA70kZkc](https://fb.watch/dp0_FKskkb)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="600" height="600" frameBorder="0" src="https://flipgrid.com/+umlax9jm?embed=true" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
-
+En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasSociales/), se puede localizar una versión esta conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 <iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-https://www.facebook.com/watch/?extid=WA-UNK-UNK-UNK-AN_GK0T-GK1C&v=944617579353712
+## Cursos, Seminarios, Talleres –en español– disponibles en línea acerca de la propuesta teórica de Niklas Luhmann 
 
-## Cursos disponibles en línea acerca de la propuesta teórica de Niklas Luhmann 
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
-
-Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía FaceBook y se resguardan en un canal de YouTube dedicado el tema:
-
-Grupo de Facebook:
-https://www.facebook.com/SeminarioSistemasSociales
-
-Canal de Youtube:
-https://www.youtube.com/user/7ghja
-
+Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
 
 ### Amsterdam School of Communication Research
-
-**Curso: La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann** se trata de un curso impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán, sin embargo es posible acudir a los servicios de traducción de que ofrecen las herramientas web hoy en día para tomar este curso de forma diferida.
-
-https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc
-
+**Curso: [La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann**](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
 
 ### Università degli Studi di Napoli Federico II
 
 Como para del SUSEES (Summer Schhol in european Education Studies) 2018, se ofrece el MOOC: [Between semantic and structure: making sense of Europe’s governance of education](http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/) impartido por Eric Mangez de la Universidad de Louvain, Bélgica. En la conferencia No. 3, titulada: *Entre la semantica y la estructura: dar sentido a la gobernanza europea a la educacion* se integra a Niklas Luhmann como parte del curso  
 
-http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/
+<iframe width="600" height="600" frameBorder="0" src="[https://flipgrid.com/+ilkaqhw5?embed=true](http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/)" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="microphone; camera; display-capture"></iframe>
 
 
 ### Universidad de Buenos Aires
