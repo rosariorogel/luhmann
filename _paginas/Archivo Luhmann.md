@@ -15,5 +15,4 @@ El fichero tiene una estructura organizativa específica que constituye no sólo
 
 
 ## ¿Por qué lo integramos?
-
-Consideramos de gran utilidad, no sólo su pensamiento y aporte a la Sociología, las notas y recursos que plasmó en papel y tinta para la creación de su pensamiento teórico
+El objetivo de este apartado es facilitar el acceso a contendidos extra, que se encuentran en otro idioma a los hispanohablantes que se interesan en las propuestas de Luhmann. Consideramos de gran utilidad, no solo su pensamiento y aporte a la sociología sino tambien las notas y demás recursos que plasmó en papel y tinta, para el sustento y creación de sus propuestas teoricas .
