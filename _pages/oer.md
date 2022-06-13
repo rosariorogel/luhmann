@@ -5,20 +5,23 @@ subtitle: Cursos, Seminarios, Talleres, Conferencias, Materiales didácticos y d
 permalink: oer
 ---
 
-## Conferencias en línea impartidas por Niklas Luhmann
+# Conferencias en línea impartidas por Niklas Luhmann
 
 
 ### El cierre del sistema legal 
 En página de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasSociales/), se puede localizar una versión esta conferencia pronunciada por Niklas Luhmann como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 <iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-## Cursos, Seminarios, Talleres disponibles en línea 
+
+
+# Cursos, Seminarios, Talleres disponibles en línea 
 
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten Streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/user/7ghja" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[[<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/user/7ghja" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>](https://www.youtube.com/user/7ghja)
+](https://www.youtube.com/user/7ghja)
 
 ### Amsterdam School of Communication Research
 **Curso: [La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann**](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
@@ -31,28 +34,39 @@ Como para del SUSEES (Summer Schhol in european Education Studies) 2018, se ofre
 
 Este curso está dividido en cuatro partes y presenta los lineamientos generales de la Teoría de la Sociedad de Niklas Luhmann como parte del programa de la materia Sociología Sistemática, cátedra de Marinis, Carrera de Sociología, Fsoc, UBA. 
 
-[Primera parte](https://www.youtube.com/watch?v=s7-NPU60TR4): La Teoría de la Sociedad de Niklas Luhmann (1a parte)
-[Segunda parte](https://www.youtube.com/watch?v=UbHK2OQzzlE): La Teoría de la Sociedad de Niklas Luhmann (2da parte) 
-[Tercera parte](https://www.youtube.com/watch?v=4ekQhFxo4Pw): La Teoría de la Sociedad de Niklas Luhmann (3ra parte) 
-[Cuarta parte](https://www.youtube.com/watch?v=VpRKlVKvpWI): La Teoría de la Sociedad de Niklas Luhmann (4ta parte)
+**Primera parte:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7-NPU60TR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Segunda parte:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbHK2OQzzlE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Tercera parte:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ekQhFxo4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Cuarta parte:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VpRKlVKvpWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Universidad Central del Ecuador
 La Facultad de Ciencias Sociales y Humanidades de la [Universidad Central del Ecuador](https://www.uce.edu.ec/) ofrece un curso de cuatro sesiones con duración de aproximadamente dos horas. En él se analiza el texto *Mujeres, Hombres y George Spencer Brown* escrito por Niklas Luhmann. El curso es impartido por [Philipp Altmann](@PhilippAltmann2), docente de la carrera de Sociología.
 
-[**Primera Sesión**](https://www.facebook.com/FacultadSocialesUCE/videos/1020019215516949/) 
- 
-[**Segunda Sesión**](https://fb.watch/dp02SENDGI/) 
+**Primera Sesión**
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFacultadSocialesUCE%2Fvideos%2F1020019215516949%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-[**Tercera Sesión**](https://fb.watch/dp048QN0yI/)  
+**Segunda Sesión** 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFacultadSocialesUCE%2Fvideos%2F576641436811052%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-[**Cuarta Sesión**](https://fb.watch/dp05pEQMJI/) 
+**Tercera Sesión**
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFacultadSocialesUCE%2Fvideos%2F440668507378569%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+**Cuarta Sesión**
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFacultadSocialesUCE%2Fvideos%2F589217372210648%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ### Universidad Autónoma Metropolitana, Azcapotzalco
-[**Las Jornadas Sistémicas**](https://fb.watch/dp0GIi8A-o/) son cursos que tienen como objetivo exponer y difundir el legado de Niklas Luhmann, pertenece al Eje de Teoría de la licenciatura de Sociología y a la línea de Teoría y Pensamiento Sociológico del Posgrado en Sociología de UAM Azcapotzalco, así como de la Sociedad mexicana de Sociología.
+**Las Jornadas Sistémicas** son cursos que tienen como objetivo exponer y difundir el legado de Niklas Luhmann, pertenece al Eje de Teoría de la licenciatura de Sociología y a la línea de Teoría y Pensamiento Sociológico del Posgrado en Sociología de UAM Azcapotzalco, así como de la Sociedad mexicana de Sociología.
 
 El  curso está conformado por tres actividades: Una conferencia magistral impartida por [Jorge Galindo](https://twitter.com/galindo45), Doctor en sociología por la universidad Ludwing-Maximiliam de Múnich y dos mesas de ponencias. 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSmsociologia%2Fvideos%2F658327315073946%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 
 ### Centro de Investigación y Docencia Econnómicas (CIDE)
