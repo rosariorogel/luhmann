@@ -44,4 +44,4 @@ A continuación, se presentan al algunos de los temas que constituyen las Notas 
 17. Ideología [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_17_2_V)
 18. Partido Politico [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18_V)
 19. Límites de la organización y teoría organizacional [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_19_V)
-
+20. Planificación [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_20_1_V)
