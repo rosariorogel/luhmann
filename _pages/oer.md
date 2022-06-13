@@ -83,10 +83,9 @@ Esta sesión tiene como objetivo conocer las bases principales de la Teoría Gen
 ### Universidad de Guadalajara
 El seminario ***Investigación en Sistemas Sociales*** es impartida por [Hugo Cadenas](https://twitter.com/HugoCadenas7), Doctor en sociología por la Universidad Ludwing-Maximiliam de Múnich, Alemania. El curso pertenece al seminario de *Sistemas sociales, redes y complejidad 3*, del Instituto de Investigaciones Sociológicas, departamento de Sociología, Universidad de Guadalajara. Y tiene como objetivo, explicar lo que implica el quehacer investigativo desde el ambito de la teoría de los sitemas sociales y desde una perpectiva Luhmaniana. 
  
-* El curso, publicidad y relaciones publicas, donde se integra a Niklas Luhmann como parte del temario en el marco teorico de la opinion publica  
-https://www.techtitute.com/mx/periodismo-comunicacion/master-semipresencial/master-semipresencial-publicidad-relaciones-publicas 
-* En el curso comunicacion publicitaria, nuevamente se integra a Niklas Luhmann en el marco de la opinion publica, como modalidad comunicativa  
-https://www.techtitute.com/mx/escuela-de-negocios/master-semipresencial/master-semipresencial-comunicacion-publicitaria 
+* El curso, [publicidad y relaciones publicas](https://www.techtitute.com/mx/periodismo-comunicacion/master-semipresencial/master-semipresencial-publicidad-relaciones-publicas), donde se integra a Niklas Luhmann como parte del temario en el marco teorico de la opinion publica.
+* En el curso [comunicacion publicitaria](https://www.techtitute.com/mx/escuela-de-negocios/master-semipresencial/master-semipresencial-comunicacion-publicitaria ), nuevamente se integra a Niklas Luhmann en el marco de la opinion publica, como modalidad comunicativa  
+
 
 ## Univeridad Nacional Autónoma de México
 [**Gestion integral del riesgo de desastres**](https://www.coursera.org/learn/gestion-riesgo#syllabus) es un curso impartido por la Universidad Nacional Autonoma de Mexico, que presenta conceptos más importantes, así como ejemplos y problemas para el análisis de temas de gestión integral del riesgo, de la leccion construccion del riesgo, se analiza *el riesgo* como la probabilidad de ocurrencia de un evento. Ademas de plantear si, existen otras formas de entender el riesgo, se cita al sociólogo Niklas Luhmann, quien concibe el riesgo como una noción opuesta a la noción de seguridad. 
