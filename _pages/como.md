@@ -44,11 +44,13 @@ _Coordinación: Aranza Cura, Zuri Jiménez y Jimena Garduño_
 <img src="{{ site.baseurl }}/assets/img/Mooc.jpeg" style="float:left;width:200px;padding-right:20px;">Los cursos en línea masivos y abiertos, o también llamados MOOC, son una modalidad de aprendizaje a distancia y en línea, para la búsqueda de cursos abiertos sobre Niklas Luhmann, hicimos uso de distintas plataformas, dónde se recopilan cursos que imparten diversas universidades,en diferentes idiomas; sin embargo, en dichas plataformas se encuentran cursos de diversas temáticas en lo general, son muy pocas las que están dedicadas en exclusivo a analizar la propuesta teórica de Niklas Luhmann.
 
 <img src="{{ site.baseurl }}/assets/img/YouTube.png" style="float:left;width:200px;padding-right:20px;">Es por esta razón que tuvimos que realizar una búsqueda no restringiéndonos sólo a Recursos Educativos Abiertos, sino a contenidos web relacionados con la obra teórica de Luhmann, o a cursos donde se le integrará en el temario, para poder realizar nuestra recopilación en la página web. 
+
 _Coordinación: María Aranza Romero, Adriana Corona y Adilene Becerril_
 
 # Recursos de Internet
 
 <img src="{{ site.baseurl }}/assets/img/Wakelet.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección nos dimos a la tarea de buscar recursos en línea que fueran dinámicos y fácil de digerir, hicimos una compilación donde se muestran videos, textos, blogs, hilos de Twitter y sitios en línea donde se explican algunos de los conceptos de la Teoría General de Sistemas de Luhmann, para esto nos apoyamos de [**Wakelet**](https://wakelet.com/), una herramienta que permite guardar enlaces de internet para así poder organizar nuestros recursos y consultarlos de manera rápida y fácil.
+
 _Coordinación: Priscila Romero y Luis Fernando Martínez._
 
 # Niklas Luhmann Archiv - Español
