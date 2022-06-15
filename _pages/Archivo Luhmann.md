@@ -84,3 +84,5 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 58. El problema como categoría de investigación [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_58_1_V)
 59. Recompensas como incentivos de desempeño y otros impulsores del desempeño [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_59_1_V)
 60. El proceso de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60_1_V)
+
+**Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
