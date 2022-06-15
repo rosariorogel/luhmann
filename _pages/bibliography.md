@@ -11,6 +11,4 @@ En el proceso de selección de la bibliografía cuidamos que todos los datos est
 
 Se trata de un grupo público y abierto desarrollado en el gestor de bibliografía Zotero localizable bajo el nombre: [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)
 
-Adicional a ello, compartimos las anotaciones web que hemos hecho a algunos de los textos de la bibliografia aquí menciondas. Para tener acceso a dichas notas, lo único que tienes que hacer es integrarte a nuestro grupo de anotaciones wen en la plataforma [Hypothes.is](https://web.hypothes.is/) disponible en este enlace: [TGSS 2022A](https://hypothes.is/groups/DxYW7ioX/tgss-2022a).
-
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3D5XT9VKFHmNBwHz5uWqnu7FNl%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
