@@ -13,7 +13,7 @@ Anotaciones sobre el texto:
 
 * J. Galindo, *The concept of risk in the theories of Ulrich Beck and Niklas Luhmann*, Collection of Acta Sociológica (2017). URL https://test.scipedia.com/wd/index.php/Galindo_2015a. [Ver anotaciones web](https://hyp.is/X0vVapB9Eeyn6tcyjZ0KcQ/test.scipedia.com/wd/index.php/Galindo_2015a)
 
-*Cuatro tesis sobre el concepto de sentido en la teoría de sistemas de Niklas Luhmann* – Sistemas Sociales. (s/f). Recuperado el 6 de mayo de 2022, de https://sistemassociales.com/cuatro-tesis-sobre-el-concepto-de-sentido-en-la-teoria-de-sistemas-de-niklas-luhmann-2/ [Ver anotaciones web](https://hyp.is/go?url=https%3A%2F%2Fsistemassociales.com%2Fcuatro-tesis-sobre-el-concepto-de-sentido-en-la-teoria-de-sistemas-de-niklas-luhmann-2%2F&group=__world__)
+* Cuatro tesis sobre el concepto de sentido en la teoría de sistemas de Niklas Luhmann* – Sistemas Sociales. (s/f). Recuperado el 6 de mayo de 2022, de https://sistemassociales.com/cuatro-tesis-sobre-el-concepto-de-sentido-en-la-teoria-de-sistemas-de-niklas-luhmann-2/ [Ver anotaciones web](https://hyp.is/go?url=https%3A%2F%2Fsistemassociales.com%2Fcuatro-tesis-sobre-el-concepto-de-sentido-en-la-teoria-de-sistemas-de-niklas-luhmann-2%2F&group=__world__)
 
 Puedes unirte a las anotaciones web en el marco de este curso en este [enlace](https://hypothes.is/groups/DxYW7ioX/tgss-2022a)
 
