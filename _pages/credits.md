@@ -10,7 +10,7 @@ permalink: credits
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAdileneBecerril.jpg" style="float:left;width:200px;padding-right:20px;">
-**Adilene Becerril Pedraza** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales, Feminismo de Abya Ayala. ya
+**Adilene Becerril Pedraza** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Movimientos Sociales, Feminismo de Abya Ayala.
 
 <div style="clear: both;"></div>
 
