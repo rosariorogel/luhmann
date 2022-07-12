@@ -13,4 +13,4 @@ Se trata de un grupo público y abierto desarrollado en el gestor de bibliograf�
 
 **Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3D5XT9VKFHmNBwHz5uWqnu7FNl%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3DgOUOgVBZemqERoSIQtIxhuVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
