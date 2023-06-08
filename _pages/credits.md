@@ -12,9 +12,10 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoOscarGL.jpg" style="float:left;width:200px;padding-right:20px;">
 **Oscar Geovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana.
 
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoEstefaniaCaamal.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Estefania Caamal Esquivel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desarrollo e inclusión social.
-
 
 <div style="clear: both;"></div>
 
