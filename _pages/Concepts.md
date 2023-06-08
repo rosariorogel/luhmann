@@ -14,3 +14,6 @@ Describir qué se hizo y cómo. Esto se logró gracias a la plataforma [poner aq
 ## Autopoiésis
 
 Se presenta el concepto de 
+
+
+**Créditos:** Poner aquí los nombres del equipo
