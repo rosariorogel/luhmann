@@ -62,3 +62,13 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 <img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
+
+# Conceptos Fundamentales
+
+<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;">Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de Bergische Universität Wuppertal y el Cologne Center for eHumanities.
+
+<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;">Dichas fichas fueron sometidas a softwares de traducción del alemán al español como DeepL Translator y Google Translator, clasificando cada ficha con su traducción de manera ordenada.
+
+<img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
+
+_Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
