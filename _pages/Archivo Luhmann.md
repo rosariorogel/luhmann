@@ -86,3 +86,7 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 60. El proceso de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60_1_V)
 
 **Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
+
+61. El proceso de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60_1_V)
+
+**Créditos de la traducción Luhmann 2.0:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
