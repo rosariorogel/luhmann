@@ -13,4 +13,5 @@ Para integrar esta colección de recursos de Internet hemos utilizado la herrame
 
 
 **Créditos:** Priscila Romero-Contreras y Luis Fernando Martínez-Contreras
+
 **Actualización Luhmann 2.0:** Estefania Caamal, Montserrat Reynaga y Samuel Torres
