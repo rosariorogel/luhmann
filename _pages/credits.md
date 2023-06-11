@@ -29,7 +29,7 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAndreaAlvarez.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaAlavarez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, feminismo, sociología rural y urbana, movimientos sociales y educación.
 
 <div style="clear: both;"></div>
