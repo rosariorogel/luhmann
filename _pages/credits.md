@@ -20,16 +20,19 @@ permalink: credits
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Lizbeth Aguilar Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociologia de las emociones, arte, cultura y genero.
+**Lizbeth Aguilar Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, feminismo, inclusión social, arte, cultura y género.
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alexia Chacon Garcia** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismo. 
+**Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismo en México.
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaAlvarez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, feminismo, sociología rural y urbana, movimientos sociales y educación.
 
+<div style="clear: both;"></div>
 
 ## Desarrollo y curación de contenidos
 
