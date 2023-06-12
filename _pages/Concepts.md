@@ -9,7 +9,7 @@ permalink: Concepts
 
 En esta sección se integran diversos videos de explicaciones simplificadas que ayudan a los usuarios a asimilar los conceptos clave de Luhmann.
 
-La integración de estos videos permite al visitante explorar y comprender mejor sus conceptos de una manera interactiva y accesible, ya que los videos son generados por Inteligencia Artificial (IA). Con el objetivo de brindarle al usuario una experiencia de interración ya sea con el mismo Luhmann o sentir que se encuentra en un espacio más informal, lo que permite asimilar con mayor comodidad y eficacia la información. 
+La integración de estos videos permite al visitante explorar y comprender mejor sus conceptos de una manera interactiva y accesible, ya que los videos son generados por Inteligencia Artificial (IA). Brinda al usuario una experiencia de interación con el mismo Luhmann u otros compañeros que le explican los conceptos clave, permitiendo asimilar con mayor comodidad y eficacia la información. 
 
 Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.com/). 
 
@@ -90,7 +90,10 @@ Se presenta videoejemplo del concepto de [Diferenciación](https://www.tiktok.co
 Se presenta videoejemplo del concepto de [Complejidad](https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
 
 **Créditos:** 
-Zepeda Franco Kay
+Zepeda Franco Kay.
+Ana Laura León Piña.
+Brayan Ismael Flores Ortega.
+Rodolfo Porfirio Olivares Pulido.
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
 
