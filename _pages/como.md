@@ -19,7 +19,7 @@ _Coordinación: Brian Rosenblum, Rosario Rogel y Alan Colín_
 
 <img src="{{ site.baseurl }}/assets/img/Zotero.png" style="float:left;width:200px;padding-right:20px;"> Para poder recopilar la bibliografía citada en esta página web acerca de Niklas Luhmann se recurrió a una herramienta llamada [**Zotero**](https://www.zotero.org/), que ayuda a recopilar y organizar información de fuentes documentales, desde libros digitales hasta fuentes de información de tipo audiovisual. Dentro de Zotero creamos un grupo público y abierto desde se alojan las referencias bibliográficas, curadas y organizadas. Además de ello, en los documentos que así lo permiten, se puede tener acceso a las **notas** que fuimos haciendo los estudaintes a las lecturas donde el curso. Dichas notas tambieén son abiertas tambien. Esta herramienta que te dejamos en la descripción podrá facilitar la citación para trabajos académicos o de otra índole que se puedan trabajar en procesadores de textos que sean compatibles con esta herramienta.
 
-<img src="{{ site.baseurl }}/assets/img/BibBase.jpeg" style="float:left;width:200px;padding-right:20px;"> Para poder integrar en la página web el grupo abierto de Zotero que creamos, recurrimos al uso de la herramienta [**BibBase**](https://bibbase.org/), que permite indexar referencias y mostrar las actualizaciones de forma interactiva en la página web. También permite desplegar las referencias por año de edición, por autor, por tipo de documento o por palabras clave. En otras palabras, si tú piensas que hace falta agregar alguna referencia a esta lista, sólo tienes que agreagrla desde Zotero y se reflejará automáticamente en esta página web, ello además de facilitar la correcta citación en os mmás diversos formatos existentes.
+<img src="{{ site.baseurl }}/assets/img/BibBase.jpeg" style="float:left;width:200px;padding-right:20px;"> Para integrar en la página web el grupo abierto de Zotero que creamos, recurrimos al uso de la herramienta [**BibBase**](https://bibbase.org/), que permite indexar referencias y mostrar las actualizaciones de forma interactiva en la página web. También permite desplegar las referencias por año de edición, por autor, por tipo de documento o por palabras clave. En otras palabras, si tú piensas que hace falta agregar alguna referencia a esta lista, sólo tienes que agreagrla desde Zotero y se reflejará automáticamente en esta página web, ello además de facilitar la correcta citación en os mmás diversos formatos existentes.
 
 _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
 
@@ -41,9 +41,9 @@ _Coordinación: Aranza Cura, Zuri Jiménez y Jimena Garduño_
 
 # Recursos Educativos
 
-<img src="{{ site.baseurl }}/assets/img/Mooc.jpeg" style="float:left;width:200px;padding-right:20px;">Los cursos en línea masivos y abiertos, o también llamados MOOC, son una modalidad de aprendizaje a distancia y en línea, para la búsqueda de cursos abiertos sobre Niklas Luhmann, hicimos uso de distintas plataformas, dónde se recopilan cursos que imparten diversas universidades,en diferentes idiomas; sin embargo, en dichas plataformas se encuentran cursos de diversas temáticas en lo general, son muy pocas las que están dedicadas en exclusivo a analizar la propuesta teórica de Niklas Luhmann.
+<img src="{{ site.baseurl }}/assets/img/Mooc.jpeg" style="float:left;width:200px;padding-right:20px;"> Los cursos en línea masivos y abiertos, o también llamados MOOC, son una modalidad de aprendizaje a distancia y en línea, para la búsqueda de cursos abiertos sobre Niklas Luhmann, hicimos uso de distintas plataformas, dónde se recopilan cursos que imparten diversas universidades,en diferentes idiomas; sin embargo, en dichas plataformas se encuentran cursos de diversas temáticas en lo general, son muy pocas las que están dedicadas en exclusivo a analizar la propuesta teórica de Niklas Luhmann.
 
-<img src="{{ site.baseurl }}/assets/img/YouTube.png" style="float:left;width:200px;padding-right:20px;">Es por esta razón que tuvimos que realizar una búsqueda no restringiéndonos sólo a Recursos Educativos Abiertos, sino a contenidos web relacionados con la obra teórica de Luhmann, o a cursos donde se le integrará en el temario, para poder realizar nuestra recopilación en la página web. 
+<img src="{{ site.baseurl }}/assets/img/YouTube.png" style="float:left;width:200px;padding-right:20px;"> Es por esta razón que tuvimos que realizar una búsqueda no restringiéndonos sólo a Recursos Educativos Abiertos, sino a contenidos web relacionados con la obra teórica de Luhmann, o a cursos donde se le integrará en el temario, para poder realizar nuestra recopilación en la página web. 
 
 _Coordinación: María Aranza Romero, Adriana Corona y Adilene Becerril_
 
@@ -55,20 +55,9 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 
 # Niklas Luhmann Archiv - Español
 
-<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;">Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de Bergische Universität Wuppertal y el Cologne Center for eHumanities.
-
-<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;">Dichas fichas fueron sometidas a softwares de traducción del alemán al español como DeepL Translator y Google Translator, clasificando cada ficha con su traducción de manera ordenada.
+<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;"> Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de [Bergische Universität Wuppertal y el Cologne Center for eHumanities](https://niklas-luhmann-archiv.de/).
 
 <img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
-
-_Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
-
-# Conceptos Fundamentales
-
-<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;">Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de Bergische Universität Wuppertal y el Cologne Center for eHumanities.
-
-<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;">Dichas fichas fueron sometidas a softwares de traducción del alemán al español como DeepL Translator y Google Translator, clasificando cada ficha con su traducción de manera ordenada.
-
-<img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;"> Dichas fichas fueron sometidas a softwares de traducción para ayudarnos a pasar al español las fichas que estaban en alemán. Para ello utilizamos tanto DeepL Translator como Google Translator. Clasificamos cada ficha con su traducción al español, de manera ordenada según el archivo en alemán.
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
