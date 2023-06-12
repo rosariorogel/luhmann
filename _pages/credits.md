@@ -17,6 +17,8 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoEstefaniaCaamal.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Estefania Caamal Esquivel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desarrollo e inclusión social.
 
+Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS8KoUMD9dA&s=09)
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
@@ -36,6 +38,11 @@ permalink: credits
 
 <img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoMontserratValdez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Montserrat Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
 
 <div style="clear: both;"></div>
 
