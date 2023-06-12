@@ -98,8 +98,10 @@ Por medio de una herramienta digital de redes sociales que permite acercar a pú
 
 Este proyecto fue desarrollado usando la plataforma digital: [Tik Tok](https://www.tiktok.com/es/) y  [Canva](https://www.canva.com/es_419/)
 
-Para interactuar de una manera más fácil [Importancia de Niklas Luhmann en la sociológia](https://vm.tiktok.com/ZM2k4cspt/)
+## Importancia
+Para comprender la importancia de Niklas Luhmann en la [Teoría sociógica](https://vm.tiktok.com/ZM2k4cspt/)
 
+## Dato curioso 
 Conocer de cerca al autor es más fácil de comprender su teoria [Dato que casi nadie conoce sobre Niklas Luhmann](https://vm.tiktok.com/ZM2k4s657/)
 
 Para ver más videos relacionados, visita nuestra página oficial de [Tik Tok Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1)
