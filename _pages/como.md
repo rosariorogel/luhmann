@@ -58,6 +58,8 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 <img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;"> Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de [Bergische Universität Wuppertal y el Cologne Center for eHumanities](https://niklas-luhmann-archiv.de/).
 
 <img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
-<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;"> Dichas fichas fueron sometidas a softwares de traducción para ayudarnos a pasar al español las fichas que estaban en alemán. Para ello utilizamos tanto DeepL Translator como Google Translator. Clasificamos cada ficha con su traducción al español, de manera ordenada según el archivo en alemán.
+<img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;"> 
+
+Dichas fichas fueron sometidas a softwares de traducción para ayudarnos a pasar al español las fichas que estaban en alemán. Para ello utilizamos tanto DeepL Translator como Google Translator. Clasificamos cada ficha con su traducción al español, de manera ordenada según el archivo en alemán.
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
