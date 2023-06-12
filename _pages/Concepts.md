@@ -98,9 +98,9 @@ Por medio de una herramienta digital de redes sociales que permite acercar a pú
 
 Este proyecto fue desarrollado usando la plataforma digital: [Tik Tok](https://www.tiktok.com/es/) y  [Canva](https://www.canva.com/es_419/)
 
-[Importancia de Niklas Luhmann en la sociológia]: (https://vm.tiktok.com/ZM2k4cspt/)
+[Importancia de Niklas Luhmann en la sociológia]:(https://vm.tiktok.com/ZM2k4cspt/)
 
-[Dato que casi nadie conoce sobre Niklas Luhmann]: (https://vm.tiktok.com/ZM2k4s657/) 
+[Dato que casi nadie conoce sobre Niklas Luhmann]:(https://vm.tiktok.com/ZM2k4s657/)
 
 Para ver más videos relacionados, visita nuestra página oficial de [Tik Tok](https://www.tiktok.com/es/)
 
