@@ -158,7 +158,7 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoFatimaPaola.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
 **Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre derechos humanos, desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
 
 Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
