@@ -7,16 +7,88 @@ permalink: Concepts
 
 # Conceptos Fundamentales de la TGSS 
 
-Em esta sección se integran diversos videos bla bla bla.
+En esta sección se integran diversos videos de explicaciones simplificadas que ayudan a los usuarios a asimilar los conceptos clave de Luhmann.
 
-Describir qué se hizo y cómo. Esto se logró gracias a la plataforma [poner aquí](https://www.dirección.com/). 
+La integración de estos videos permite al visitante explorar y comprender mejor sus conceptos de una manera interactiva y accesible, ya que los videos son generados por Inteligencia Artificial (IA). Con el objetivo de brindarle al usuario una experiencia de interración ya sea con el mismo Luhmann o sentir que se encuentra en un espacio más informal, lo que permite asimilar con mayor comodidad y eficacia la información. 
+
+Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.com/). 
 
 ## Autopoiésis
 
-Se presenta el concepto de [autopiesis](http://tikititititi) 
+Se presenta videoejemplo del concepto de [Autopiesis](https://vm.tiktok.com/ZM2kydaby/) 
 
-Video de ejemplo 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJnQBXmZ7Ek?start=90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Evolución
 
+Se presenta videoejemplo del concepto de [Evolución](https://vm.tiktok.com/ZM2kyxheV/)
 
-**Créditos:** Poner aquí los nombres del equipo
+## Memoria
+
+Se presenta videoejemplo del concepto de [Memoria](https://vm.tiktok.com/ZM2kyrHoM/)
+
+## Sistema Psiquíco
+
+Se presenta videoejemplo del concepto de [Sistema Psiquíco](https://www.tiktok.com/@luhmann2.0/video/7242442328835722501?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Adquisición evolutiva
+
+Se presenta videoejemplo del concepto de [Adquisición evolutiva](https://www.tiktok.com/@luhmann2.0/video/7242445587902205190?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Irritaciones
+
+Se presenta videoejemplo del concepto de [Irritaciones](https://www.tiktok.com/@luhmann2.0/video/7242446564675833093?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Distinción Sistema-entorno
+
+Se presenta videoejemplo del concepto de [DistinciónSistema-entorno ](https://www.tiktok.com/@luhmann2.0/video/7242453156976692486?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Acoplamientos estructuales
+
+Se presenta videoejemplo del concepto de [Acoplamientos estructurales](https://www.tiktok.com/@luhmann2.0/video/7242454026195979525?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Autonomía
+
+Se presenta videoejemplo del concepto de [Autonomía](https://www.tiktok.com/@luhmann2.0/video/7242457925539597574?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Funcionalismo
+
+Se presenta videoejemplo del concepto de [Funcionalismo](https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Rentry-Entry
+
+Se presenta videoejemplo del concepto de [Rentry-Entry](https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Función
+
+Se presenta videoejemplo del concepto de [Función](https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Medios de comunicación generalizados simbolicamente
+
+Se presenta videoejemplo del concepto de [Medios de comunicación generalizados simbolicamente](https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Medium y forma
+
+Se presenta videoejemplo del concepto de [Medium y forma](https://www.tiktok.com/@luhmann2.0/video/7242518317762645253?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Observación de segundo orden
+
+Se presenta videoejemplo del concepto de [Observación de segundo orden](https://www.tiktok.com/@luhmann2.0/video/7242531826533731589?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Sistemas funcionalistas diferenciados
+
+Se presenta videoejemplo del concepto de [Sistemas funcionalistas diferenciados](https://www.tiktok.com/@luhmann2.0/video/7242711454472834310?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Sentido 
+
+Se presenta videoejemplo del concepto de [Sentido](https://www.tiktok.com/@luhmann2.0/video/7242805542144576773?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Diferenciación
+
+Se presenta videoejemplo del concepto de [Diferenciación](https://www.tiktok.com/@luhmann2.0/video/7242806181562043654?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+## Complejidad
+
+Se presenta videoejemplo del concepto de [Complejidad](https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+
+**Créditos:** 
+Zepeda Franco Kay
+
