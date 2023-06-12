@@ -24,7 +24,6 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
-
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaAlavarez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, feminismo, sociología rural y urbana, movimientos sociales y educación.
 
@@ -75,7 +74,7 @@ Twitter: [@leitzcoatl](https://twitter.com/leitzcoatl)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAranzaCura.jpg" style="float:left;width:200px;padding-right:20px;">
-**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanidad y Cultura.
+**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanismo y Cultura.
 
 Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
 
