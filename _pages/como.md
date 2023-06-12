@@ -31,7 +31,7 @@ _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
 
 _Coordinación: Isabel Colín y Thania Hernández._
 
-<img src="{{ site.baseurl }}/assets/img/FotoArcGISStoryMaps.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección realizamos un mapeo de la trayectoria académica de Luhmann, incorporamos parte de su biografía y donde desarrollo su teoría a través de los lugares más emblemáticos en los que estuvo. Esta sección se llevó a cabo con la ayuda de ArcGIS StoryMaps que es una aplicación de creación de historias basada en web que permite compartir mapas en el contexto de un texto narrativo y otro contenido multimedia. [**ArcGIS StoryMaps **](https://storymaps.arcgis.com/stories).
+<img src="{{ site.baseurl }}/assets/img/FotoArcGISStoryMaps.jpg" style="float:left;width:200px;padding-right:20px;"> Para esta sección realizamos un mapeo de la trayectoria académica de Luhmann, incorporamos parte de su biografía y donde desarrollo su teoría a través de los lugares más emblemáticos en los que estuvo. Esta sección se llevó a cabo con la ayuda de ArcGIS StoryMaps que es una aplicación de creación de historias basada en web que permite compartir mapas en el contexto de un texto narrativo y otro contenido multimedia. [**ArcGIS StoryMaps **](https://storymaps.arcgis.com/stories).
 
 _Coordinación: 
 Andrea Álvarez, Monserrat Hernandez, Andrea Gutiérrez, Alexia Chacón, Lizbeth Hernández
