@@ -31,6 +31,11 @@ _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
 
 _Coordinación: Isabel Colín y Thania Hernández._
 
+<img src="{{ site.baseurl }}/assets/img/FotoArcGISStoryMaps.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección realizamos un mapeo de la trayectoria académica de Luhmann, incorporamos parte de su biografía y donde desarrollo su teoría a través de los lugares más emblemáticos en los que estuvo. Esta sección se llevó a cabo con la ayuda de ArcGIS StoryMaps que es una aplicación de creación de historias basada en web que permite compartir mapas en el contexto de un texto narrativo y otro contenido multimedia. [**ArcGIS StoryMaps **](https://storymaps.arcgis.com/stories).
+
+_Coordinación: 
+Andrea Álvarez, Monserrat Hernandez, Andrea Gutiérrez, Alexia Chacón, Lizbeth Hernández
+
 # Arquitectura conceptual
 
 <img src="{{ site.baseurl }}/assets/img/Canva.png" style="float:left;width:200px;padding-right:20px;"> Como estrategia para explicar de la forma más sencilla e ilustrativa posible algunos de los conceptos centrales de la propuesta teórica de Niklas Luhmann, creamos –a través de la plataforma [Canva](https://www.canva.com/) en su versión gratuita– una serie de infografías. Para su elaboración recurrimos al uso de Google Imagenes con filtros de búsqueda para algunas ilustraciones, y de recursos en línea para la recopilación de información. 
