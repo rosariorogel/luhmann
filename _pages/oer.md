@@ -20,21 +20,23 @@ En el canal de FaceBook de [Sistemas Sociales](https://www.facebook.com/Sistemas
 Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten en streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLk4Ugt5lqZXd0voBJ0zPVI82cFvcWHQhp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Moinho Jurídico
 
-Creado en 2005 como Grupo de Investigación del [CNPq](http://portal.cnpq.br/) de Brasil, y certificado por la Universidad Federal de Pernambuco (UFPE), [Moinho Jurídico](https://sites.ufpe.br/moinhojuridico/) es el laboratorio de investigación social del derecho, del Programa de Posgrado en Derecho de la Universidad Federal de Pernambuco. Cuenta con un cana de YouTube cuya funcionalidad es difundir reflexiones sobre investigación empírica, teoría de sistemas, sociedad compleja y sociología del derecho. 
+Creado en 2005 como Grupo de Investigación del [CNPq](http://portal.cnpq.br/) de Brasil, y certificado por la Universidad Federal de Pernambuco (UFPE), [Moinho Jurídico](https://sites.ufpe.br/moinhojuridico/) es el laboratorio de investigación social del derecho, del Programa de Posgrado en Derecho de la Universidad Federal de Pernambuco. Cuenta con un canal de YouTube cuya funcionalidad es difundir reflexiones sobre investigación empírica, teoría de sistemas, sociedad compleja y sociología del derecho. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQ8efaFVCGp_9D2t8aVnBHVL_09w8CRXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Amsterdam School of Communication Research
 Curso: [*La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann*](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.
 
+
 ### Università degli Studi di Napoli Federico II
 Como parte del SUSEES (Summer Schhol in European Education Studies) 2018, se ofrece el MOOC: [Between semantic and structure: making sense of Europe’s governance of education](http://www.susees.eu/mooc-2018-lecture-3-semantic-structure-making-sense-europes-governance-education/) impartido por Eric Mangez de la Universidad de Louvain, Bélgica. En la conferencia No. 3, titulada: *Entre la semantica y la estructura: dar sentido a la gobernanza europea a la educacion* se integra a Niklas Luhmann como parte del curso  
 
-### Universidad de Buenos Aires
-***La teoría de la sociedad de Niklas Luhmann*** es una clase impartida por [Mariano Sasín](https://twitter.com/marianosasin), profesor en sociología de la Facultad de Ciencias Sociales de la Universidad de Buenos Aires, Argentina. 
 
-Este curso está dividido en cuatro partes y presenta los lineamientos generales de la Teoría de la Sociedad de Niklas Luhmann como parte del programa de la materia Sociología Sistemática, cátedra de Marinis, Carrera de Sociología, Fsoc, UBA. 
+### Universidad de Buenos Aires
+***La teoría de la sociedad de Niklas Luhmann*** es una clase impartida por [Mariano Sasín](https://twitter.com/marianosasin), profesor en sociología de la Facultad de Ciencias Sociales de la Universidad de Buenos Aires, Argentina. Este curso está dividido en cuatro partes y presenta los lineamientos generales de la Teoría de la Sociedad de Niklas Luhmann como parte del programa de la materia Sociología Sistemática, cátedra de Marinis, Carrera de Sociología, Fsoc, UBA. 
 
 **Primera parte:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s7-NPU60TR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,6 +64,7 @@ La Facultad de Ciencias Sociales y Humanidades de la [Universidad Central del Ec
 
 **Cuarta Sesión**
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFacultadSocialesUCE%2Fvideos%2F589217372210648%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 
 ### Universidad Autónoma Metropolitana, Azcapotzalco
 **Las Jornadas Sistémicas** son cursos que tienen como objetivo exponer y difundir el legado de Niklas Luhmann, pertenece al Eje de Teoría de la licenciatura de Sociología y a la línea de Teoría y Pensamiento Sociológico del Posgrado en Sociología de UAM Azcapotzalco, así como de la Sociedad mexicana de Sociología.
@@ -98,7 +101,6 @@ Sesion 1 : Construccion del riesgo
 Sesion 2: Relacion de la gestion y el desarrollo de riesgo 
 Sesion 3 : Evaluacion y construccion de escenarios de riesgos 
 Sesion 4:  Estrategias de intervencion para la gestion del riesgo  
-
 
 
 **Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.
