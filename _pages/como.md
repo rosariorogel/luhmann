@@ -63,3 +63,11 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 Con el objetivo de traducir al español las fichas que se encontraban en alemán, utilizamos softwares de traducción como DeepL Translator y Google Translator. Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
+
+# Conceptos fundamentales
+
+<img src="{{ site.baseurl }}/assets/img/Wakelet.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivoa con los usuarios combinando la calidad y el realismo. Los videos generados por D-ID son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas., para esto nos apoyamos de [**D-ID**](https://www.d-id.com/), una IA que generar contenido visual personalizado y atractivo.
+D-ID utiliza algoritmos de aprendizaje profundo para sintetizar videos de alta calidad con una variedad de características y estilos personalizados. Esta tecnología se basa en una amplia base de datos de imágenes y videos para generar secuencias realistas y convincentes.
+
+_Coordinación: Zepeda Franco Kay._
+
