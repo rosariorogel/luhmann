@@ -55,11 +55,11 @@ _Coordinación: Priscila Romero y Luis Fernando Martínez._
 
 # Niklas Luhmann Archiv - Español
 
-<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;"> Realizamos una compilación de las principales fichas de trabajo de Niklas Luhmann, disponibles en sitio web de [Bergische Universität Wuppertal y el Cologne Center for eHumanities](https://niklas-luhmann-archiv.de/).
+<img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;"> En el Niklas Luhmann Archiv, llevamos a cabo una recopilación de las principales fichas de trabajo de Niklas Luhmann, las cuales están disponibles en el sitio web de la [Bergische Universität Wuppertal y el Cologne Center for eHumanities](https://niklas-luhmann-archiv.de/).
 
 <img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
 <img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;"> 
 
-Dichas fichas fueron sometidas a softwares de traducción para ayudarnos a pasar al español las fichas que estaban en alemán. Para ello utilizamos tanto DeepL Translator como Google Translator. Clasificamos cada ficha con su traducción al español, de manera ordenada según el archivo en alemán.
+Con el objetivo de traducir al español las fichas que se encontraban en alemán, utilizamos softwares de traducción como DeepL Translator y Google Translator. Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
