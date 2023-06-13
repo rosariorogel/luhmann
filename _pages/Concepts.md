@@ -22,9 +22,8 @@ Este proyecto fue desarrollado usando las herramientas:
 
 ## Autopoiésis
 
-Se presenta videoejemplo del concepto de [Autopoiésis]<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a>
+Se presenta el concepto de [Autopoiésis](<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a>)
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>YouTube Shorts</title>
