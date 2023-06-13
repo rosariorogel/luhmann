@@ -90,9 +90,9 @@ Se presenta videoejemplo del concepto de [Diferenciación](https://www.tiktok.co
 Se presenta videoejemplo del concepto de [Complejidad](https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
 
 **Créditos:** 
-Zepeda Franco Kay.
-León Piña Ana Laura.
-Flores Ortega Brayan Ismael.
+Zepeda Franco Kay,
+León Piña Ana Laura,
+Flores Ortega Brayan Ismael,
 Olivares Pulido Rodolfo Porfirio.
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
