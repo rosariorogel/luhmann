@@ -82,7 +82,13 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
 
 <div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Regina Elizabeth Montalvo Gonzalez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de genero.
+
 <div style="clear: both;"></div>
+
+
 
 ## Desarrollo y curación de contenidos Luhmann 1.0
 
