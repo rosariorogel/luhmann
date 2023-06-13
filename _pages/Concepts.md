@@ -15,7 +15,27 @@ Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.co
 
 ## Autopoiésis
 
-https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?refer=embed
+tt_url <- "https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589"
+tt <- tiktok_embed(tt_url)
+tt <- tiktok_embed(https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589) 
+
+tiktok_md(https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589)
+
+tiktok_html(https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589, include_player = FALSE)
+
+@luhmann2.0 tiktok
+
+
+[Autopoiésis](https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?refer=embed)
+
+
+https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589
+
+<p>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0/video/7242518317762645253" data-video-id="7242518317762645253" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@luhmann2.0" href="https://www.tiktok.com/@luhmann2.0?refer=embed">@luhmann2.0</a> Concepto: Médium y forma  Con el fin de poder ayudar a las personas en la complejidad de comprender los conceptos fundamentales de Niklas Lumhann, los alumnos de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma de México, han creado los siguientes conceptos en vídeo, con la ayuda de Inteligencia Artificial para una mejor comprensión. De igual manera los invitamos a visitar la página web sobre Niklas Lumhann; https:&#47;&#47;rosariorogel.net&#47;luhmann&#47; <a title="niklaslumhan" target="_blank" href="https://www.tiktok.com/tag/niklaslumhan?refer=embed">#NiklasLumhan</a> <a title="medium" target="_blank" href="https://www.tiktok.com/tag/medium?refer=embed">#medium</a> <a title="forma" target="_blank" href="https://www.tiktok.com/tag/forma?refer=embed">#forma</a>  <a title="mediosdecomunicación" target="_blank" href="https://www.tiktok.com/tag/mediosdecomunicaci%C3%B3n?refer=embed">#mediosdecomunicación</a>  <a title="comunicacion" target="_blank" href="https://www.tiktok.com/tag/comunicacion?refer=embed">#comunicacion</a> <a title="evolucion" target="_blank" href="https://www.tiktok.com/tag/evolucion?refer=embed">#evolucion</a> <a title="memoria" target="_blank" href="https://www.tiktok.com/tag/memoria?refer=embed">#memoria</a>  <a title="sistema" target="_blank" href="https://www.tiktok.com/tag/sistema?refer=embed">#sistema</a> <a title="funcion" target="_blank" href="https://www.tiktok.com/tag/funcion?refer=embed">#funcion</a> <a title="teoriadesistemas" target="_blank" href="https://www.tiktok.com/tag/teoriadesistemas?refer=embed">#teoriadesistemas</a> <a title="sociologia" target="_blank" href="https://www.tiktok.com/tag/sociologia?refer=embed">#Sociologia</a> <a title="sociology" target="_blank" href="https://www.tiktok.com/tag/sociology?refer=embed">#sociology</a>  <a title="sistemassociales" target="_blank" href="https://www.tiktok.com/tag/sistemassociales?refer=embed">#sistemassociales</a> <a title="cienciassociales" target="_blank" href="https://www.tiktok.com/tag/cienciassociales?refer=embed">#cienciassociales</a> <a title="ciencia" target="_blank" href="https://www.tiktok.com/tag/ciencia?refer=embed">#ciencia</a> <a title="paraty" target="_blank" href="https://www.tiktok.com/tag/paraty?refer=embed">#paraty</a> <a target="_blank" title="♬ sonido original - Luhmann en la web" href="https://www.tiktok.com/music/sonido-original-7242518320250505990?refer=embed">♬ sonido original - Luhmann en la web</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+
 
 ## Evolución
 
