@@ -46,6 +46,11 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaFernanda.jpg" style="float:left;width:200px;padding-right:20px;">
+**Andrea Fernanda Hernández Jiménez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, Movimientos Sociales y Humanidades Digitales.
+ORCID: 0009-0001-5750-1362
+Twitter: [@aeonfers](https://twitter.com/aeonfers)
+
 ## Desarrollo y curación de contenidos
 
 <div style="clear: both;"></div>
