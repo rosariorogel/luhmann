@@ -46,6 +46,11 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoLuisRJ.jpg" style="float:left;width:200px;padding-right:20px;">
+**Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología politica, Multiculturalismo, subculturas, movimientos de autodefensa.
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Andrea Fernanda Hernández Jiménez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de Género, Movimientos Sociales y Humanidades Digitales.
 
