@@ -57,6 +57,10 @@ _Coordinación: María Aranza Romero, Adriana Corona y Adilene Becerril_
 
 _Coordinación: Priscila Romero y Luis Fernando Martínez._
 
+<img src="{{ site.baseurl }}/assets/img/Wakelet.png" style="float:left;width:200px;padding-right:20px;"> En esta sección quisimos proponer la idea de relacionar los conceptos de la Teoría de Sistemas y Sociología de segundo orden con distintas expresiones artíticas, como música, pinturas, cine, así como también algunos podcast que se encuentran en una playlist en Spotify curada por nosotres y otras plataformas. Si bien, no nos consta que tengan una relación directa con la teoría y los conceptos de Luhmann, pero a nosotros nos ayudó a comprender, interpretar y relacionarlo con las artes. Pensamos en que es un buen ejercicio que ayuda a analizar los conceptos de una manera mas cercana, así como también poder interpetar las distintas expresiones artísticas desde nuestra propia observación para comprender la complejidad de la sociedad moderna. Es por esto que decidimos hacer un tipo repositorio desde la platafroma [**Wakelet**](https://wakelet.com/), para poder hacer una descripción de cada enlace.
+
+_Coordinación Luhmann 2.0: Andrea Fernanda Hernández Jiménez y Luis Fernando Romero._
+
 # Niklas Luhmann Archiv - Español
 
 <img src="{{ site.baseurl }}/assets/img/Archivo.jpeg" style="float:left;width:200px;padding-right:20px;"> En el Niklas Luhmann Archiv, llevamos a cabo una recopilación de las principales fichas de trabajo de Niklas Luhmann, las cuales están disponibles en el sitio web de la [Bergische Universität Wuppertal y el Cologne Center for eHumanities](https://niklas-luhmann-archiv.de/).
