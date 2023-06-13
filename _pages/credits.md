@@ -84,7 +84,12 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Regina Elizabeth Montalvo Gonzalez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de genero.
+**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/Foto Brenda Palma.jpg" style="float:left;width:200px;padding-right:20px;">
+**Brenda Ramírez Palma** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología política y cultura
 
 <div style="clear: both;"></div>
 
