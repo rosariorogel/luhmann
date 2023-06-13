@@ -54,7 +54,30 @@ Twitter: [@aeonfers](https://twitter.com/aeonfers)
 
 <div style="clear: both;"></div>
 
-## Desarrollo y curación de contenidos
+<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
+**Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre derechos humanos, desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
+Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoRodolfoPorfirio.jpg" style="float:left;width:200px;padding-right:20px;">
+**Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología sobre las organizaciones y sociología política.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoBrayanIsmael.jpg" style="float:left;width:200px;padding-right:20px;">
+**Brayan Ismael Flores Ortega** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana y microsociología.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAnaLaura.jpg" style="float:left;width:200px;padding-right:20px;">
+**Ana Laura León Piña** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Multiculturalismo y pedagogía infantil.
+
+Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU1w&s=09)
+
+<div style="clear: both;"></div>
+
+## Desarrollo y curación de contenidos Luhmann 1.0
 
 <div style="clear: both;"></div>
 
@@ -171,28 +194,5 @@ Twitter: [@blros](https://twitter.com/blros)
 
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
-**Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre derechos humanos, desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
-Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
 
 <div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoRodolfoPorfirio.jpg" style="float:left;width:200px;padding-right:20px;">
-**Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología sobre las organizaciones y sociología política.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoBrayanIsmael.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brayan Ismael Flores Ortega** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana y microsociología.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoAnaLaura.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ana Laura León Piña** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Multiculturalismo y pedagogía infantil.
-
-Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU1w&s=09)
-
-<div style="clear: both;"></div>
-
