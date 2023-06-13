@@ -9,89 +9,72 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoOscarGL.jpg" style="float:left;width:200px;padding-right:20px;">
-9 **Oscar Geovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana.
+<img src="{{ site.baseurl }}/assets/img/FotoLizHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Lizbeth Aguilar Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, feminismo, inclusión social, arte, cultura y género.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaAlavarez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, feminismo, sociología rural y urbana, movimientos sociales y educación.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEstefaniaCaamal.jpeg" style="float:left;width:200px;padding-right:20px;">
-4 **Estefania Caamal Esquivel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desarrollo e inclusión social.
+**Estefania Caamal Esquivel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Desarrollo e inclusión social.
 
 Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS8KoUMD9dA&s=09)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLizHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
-1 **Lizbeth Aguilar Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, feminismo, inclusión social, arte, cultura y género.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoAndreaAlavarez.jpg" style="float:left;width:200px;padding-right:20px;">
-2 **Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, feminismo, sociología rural y urbana, movimientos sociales y educación.
-
-<div style="clear: both;"></div>
-
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;">
-5 **Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismo en México.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
-3 **Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoMontserratValdez.jpg" style="float:left;width:200px;padding-right:20px;">
-21 **Montserrat Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
-
-<div style="clear: both;"></div>
-
-<<<<<<< Updated upstream
-<img src="{{ site.baseurl }}/assets/img/FotoAndreaFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Andrea Fernanda Hernández Jiménez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, Movimientos Sociales y Humanidades Digitales.
-
-ORCID: 0009-0001-5750-1362
-Twitter: [@aeonfers](https://twitter.com/aeonfers)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
-**Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre derechos humanos, desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
-=======
-<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
-22 **Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre derechos humanos, desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
->>>>>>> Stashed changes
-Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoRodolfoPorfirio.jpg" style="float:left;width:200px;padding-right:20px;">
-<<<<<<< Updated upstream
-**Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología sobre las organizaciones y sociología política.
-=======
-17 **Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología sobre las organizaciones y sociología política.
->>>>>>> Stashed changes
+**Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismo en México.
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoBrayanIsmael.jpg" style="float:left;width:200px;padding-right:20px;">
-<<<<<<< Updated upstream
 **Brayan Ismael Flores Ortega** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana y microsociología.
-=======
-8 **Brayan Ismael Flores Ortega** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana y microsociología.
->>>>>>> Stashed changes
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAnaLaura.jpg" style="float:left;width:200px;padding-right:20px;">
-<<<<<<< Updated upstream
+<img src="{{ site.baseurl }}/assets/img/FotoOscarGL.jpg" style="float:left;width:200px;padding-right:20px;">
+**Oscar Geovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Andrea Fernanda Hernández Jiménez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de Género, Movimientos Sociales y Humanidades Digitales.
+
+ORCID: [0009-0001-5750-1362](https://orcid.org/0009-0001-5750-1362)
+Twitter: [@aeonfers](https://twitter.com/aeonfers)
+
+<div style="clear: both;"></div>
+
 **Ana Laura León Piña** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Multiculturalismo y pedagogía infantil.
-=======
-13 **Ana Laura León Piña** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Multiculturalismo y pedagogía infantil.
->>>>>>> Stashed changes
 
 Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU1w&s=09)
 
+<div style="clear: both;"></div>
+
+**Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las organizaciones y sociología política.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoMontserratValdez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Montserrat Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
+**Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Derechos Humanos, Desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
+
+Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
+
+<div style="clear: both;"></div>
 <div style="clear: both;"></div>
 
 ## Desarrollo y curación de contenidos Luhmann 1.0
@@ -121,7 +104,7 @@ Twitter: [@ORuusu](https://twitter.com/ORuusu)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLeonardoCruz.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoLeonardoCruz.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Leonardo Cruz Alcalá** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Cultura y Ruralidad.
 
 Twitter: [@leitzcoatl](https://twitter.com/leitzcoatl)
@@ -161,7 +144,7 @@ Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Violencia de género y Desigualdad Social. 
 
 Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
@@ -207,14 +190,9 @@ Twitter: [@blros](https://twitter.com/blros)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Colín-Arce** Estudiante de noveno semestre de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis temas de interés son la bibliometría, la ciencia abierta y las humanidades digitales.
+**Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son pedagogía digital, archivado web y humanidades digitales.
 
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 
 <div style="clear: both;"></div>
-<<<<<<< Updated upstream
-=======
-
-<div style="clear: both;"></div>
->>>>>>> Stashed changes
