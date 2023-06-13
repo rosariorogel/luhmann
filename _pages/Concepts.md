@@ -17,7 +17,17 @@ Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.co
 
 Se presenta videoejemplo del concepto de [Autopoiésis](https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?refer=embed)
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" data-video-id="7242440673322863878" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@luhmann2.0" href="https://www.tiktok.com/@luhmann2.0?refer=embed">@luhmann2.0</a> Concepto: Autopoiesis Con el fin de poder ayudar a las personas en la complejidad de comprender los conceptos fundamentales de Niklas Lumhann, los alumnos de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma de México, han creado los siguientes conceptos en vídeo, con la ayuda de Inteligencia Artificial para una mejor comprensión. De igual manera los invitamos a visitar la página web sobre Niklas Lumhann; https:&#47;&#47;rosariorogel.net&#47;luhmann&#47; <a title="niklaslumhan" target="_blank" href="https://www.tiktok.com/tag/niklaslumhan?refer=embed">#NiklasLumhan</a> <a title="autopoiesis" target="_blank" href="https://www.tiktok.com/tag/autopoiesis?refer=embed">#autopoiesis</a> <a title="teoriadesistemas" target="_blank" href="https://www.tiktok.com/tag/teoriadesistemas?refer=embed">#teoriadesistemas</a> <a title="sociologia" target="_blank" href="https://www.tiktok.com/tag/sociologia?refer=embed">#Sociologia</a> <a target="_blank" title="♬ sonido original - Luhmann en la web" href="https://www.tiktok.com/music/sonido-original-7242440673571687174?refer=embed">♬ sonido original - Luhmann en la web</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reproducción de Autopoiésis</title>
+</head>
+<body>
+    <h2>Video de TikTok</h2>
+    <iframe src="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
+
 
 ## Evolución
 
@@ -105,6 +115,7 @@ Para comprender la importancia de Niklas Luhmann en la [Teoría sociógica](http
 ## Dato curioso 
 Conocer de cerca al autor es más fácil de comprender su teoria [Dato que casi nadie conoce sobre Niklas Luhmann](https://vm.tiktok.com/ZM2k4s657/)
 
-Para ver más videos relacionados, visita nuestra página oficial de Tik Tok <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+Para ver más videos relacionados, visita nuestra página oficial de Tik Tok 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script> 
 
 **Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.
