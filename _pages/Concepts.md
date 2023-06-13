@@ -53,9 +53,9 @@ Se presenta videoejemplo del concepto de [Autonomía](https://www.tiktok.com/@lu
 
 Se presenta videoejemplo del concepto de [Funcionalismo](https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
 
-## Rentry-Entry
+## Reentry
 
-Se presenta videoejemplo del concepto de [Rentry-Entry](https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+Se presenta videoejemplo del concepto de [Reentry](https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
 
 ## Función
 
@@ -91,9 +91,9 @@ Se presenta videoejemplo del concepto de [Complejidad](https://www.tiktok.com/@l
 
 **Créditos:** 
 Zepeda Franco Kay.
-Ana Laura León Piña.
-Brayan Ismael Flores Ortega.
-Rodolfo Porfirio Olivares Pulido.
+León Piña Ana Laura.
+Flores Ortega Brayan Ismael.
+Olivares Pulido Rodolfo Porfirio.
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
 
