@@ -107,31 +107,33 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 78. Términos filosóficos: Historia del dogma e Intenciones de sentido.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_78_V)
 79. Los conflictos y su resolución.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_79_1_V)
 80. Saldo.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_80_1_V)
+
 81.Estado natural.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_81_V)
+
 82.Sanciones.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_82_1_V)
 83. Mejora del rendimiento.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_83_V)
-84. Regulierung (Regeln menschlichen Verhaltens).[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_84_1_V
+84. Regulación .[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_84_1_V
 85. La concepción histórica del Estado.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_85_V
-86. Delegación.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_86_1_V
-87. Legislación.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_87_V
-88. Institución.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_88_1_V
-89. Desvinculación del Estado del orden público de la Edad Media.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_89_V
-90. Éxito.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_90_1_V
-91. Ciencia administrativa, reforma administrativa.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_91_V
-92. Financiación estatal de la ciencia.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_92_V
-93. Pedagogía política.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_93_1_V
-94. Ciencias políticas.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_94_1_V
-95. Información.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_95_1_V
-96. Cartel.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_96_V
-97. Promesas.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_97_V
-98. Separación de poderes.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_98_V
-99. Colegialidad.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_99_V
+86. Delegación.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_86_1_V
+87. Legislación.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_87_V
+88. Institución.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_88_1_V
+89. Desvinculación del Estado del orden público de la Edad Media.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_89_V
+90. Éxito.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_90_1_V
+91. Ciencia administrativa, reforma administrativa.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_91_V
+92. Financiación estatal de la ciencia.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_92_V
+93. Pedagogía política.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_93_1_V
+94. Ciencias políticas.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_94_1_V
+95. Información.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_95_1_V
+96. Cartel.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_96_V
+97. Promesas.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_97_V
+98. Separación de poderes.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_98_V
+99. Colegialidad.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_99_V
 100. Sobre el fundamento religioso del orden social.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_100_1_V
-101. Articulo.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_101_V
-102. Iniciativa.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_102_1_V
-103. Orden social moderno.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_103_V
-104. Circunscripción.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_104_V
-105. Retroalimentación, retroalimentación.[Nota Original]https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V
+101. Articulo.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_101_V
+102. Iniciativa.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_102_1_V
+103. Orden social moderno.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_103_V
+104. Circunscripción.[Nota Original] https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_104_V
+105. Retroalimentación. [Nota Original] https://niklasluhmannarchiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V
 
 
 **Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Oscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramirez Palma 
