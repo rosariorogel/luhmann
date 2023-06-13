@@ -126,7 +126,7 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 97. Promesas.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_97_V)
 98. Separación de poderes.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_98_V)
 99. Colegialidad.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_99_V)
-100. Sobre el fundamento religioso del orden social.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_100_1_V(
+100. Sobre el fundamento religioso del orden social.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_100_1_V)
 101. Articulo.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_101_V)
 102. Iniciativa.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_102_1_V)
 103. Orden social moderno.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_103_V)
