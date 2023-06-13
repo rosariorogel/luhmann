@@ -7,26 +7,26 @@ permalink: Concepts
 
 # Conceptos Fundamentales de la TGSS 
 
-En esta sección se integran diversos videos de explicaciones simplificadas que ayudan a los usuarios a asimilar los conceptos clave de Luhmann.
+En esta sección se integran diversos videos con explicaciones simplificadas que ayudan a los usuarios a asimilar algunos conceptos clave de [N. Luhmann](https://es.wikipedia.org/wiki/Niklas_Luhmann).
 
-La integración de estos videos permite al visitante explorar y comprender mejor sus conceptos de una manera interactiva y accesible, ya que los videos son generados por Inteligencia Artificial (IA). Brinda al usuario una experiencia de interación con el mismo Luhmann u otros compañeros que le explican los conceptos clave, permitiendo asimilar con mayor comodidad y eficacia la información. 
+La integración de estos videos permite al usuario explorar y comprender mejor estos conceptos de una manera interactiva y accesible, ya que los videos son generados por [Inteligencia Artificial (IA)](https://www.enae.es/blog/la-inteligencia-artificial-en-nuestra-vida-diaria?gclid=EAIaIQobChMIyJX-0vvA_wIVdS7UAR0b4QqGEAAYAiAAEgLYM_D_BwE&_adin=11551547647). Esta sección brinda una experiencia de interación con el mismo Luhmann, otros compañeros que explican los conceptos claves, lo cual permite asimilar con mayor comodidad y eficacia la información. 
 
-Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.com/). 
+Este proyecto fue desarrollado usando las herramientas:
+[D-ID](https://www.d-id.com/):Se utilizó para la creación de videos, los cuales están disponibles en *aguregar enlace a tik tok y Youtube* D-ID, el productor de audiovisuales impulsado por inteligencia artificial, ofrece una amplia gama de capacidades para transformar y mejorar el contenido visual y sonoro. Con su avanzada tecnología, D-ID puede restaurar y remasterizar imágenes antiguas o de baja calidad, modificar facciones y voces en videos, sintetizar voces realistas a partir de texto, generar contenido visual y audiovisual completamente nuevo, editar automáticamente videos, mejorar la compresión de archivos y mucho más. Con D-ID, la creatividad y la calidad se fusionan con la potencia de la IA para ofrecer experiencias audiovisuales sorprendentes y personalizadas.
+[DALL-E](https://openai.com/blog/dall-e-now-available-without-waitlist):Se utilizó para generar una imagen de N. Luhmann con licencia libre, ya que las fotos en la web no suelen contar con este tipo de licencia. DALL-E es una revolucionaria inteligencia artificial diseñada para producir imágenes increíbles y sorprendentes. Con esta potente tecnología, DALL-E puede generar imágenes completamente nuevas a partir de descripciones textuales detalladas. Ya sea que necesites ilustraciones, diseños conceptuales o imágenes creativas y únicas, DALL-E puede llevar tus ideas más allá de los límites convencionales. Desde paisajes imaginarios hasta objetos y criaturas fantásticas, esta IA tiene la capacidad de transformar palabras en obras visuales asombrosas y de alta calidad. DALL-E redefine el proceso creativo y permite explorar nuevas posibilidades artísticas en la generación de imágenes.
+[CHAT GPT](https://chat.openai.com/): Se utilizo para redactar los concetos y sus ejemplos, y revisar la redacción de los subtítulos en los videos. CHAT GPT es una inteligencia artificial de vanguardia que funciona como un potente procesador de texto. Con CHAT GPT, puedes llevar tus interacciones y conversaciones en línea a un nivel completamente nuevo. Esta IA está diseñada para comprender y generar respuestas coherentes y contextuales, brindando una experiencia de chat fluida y natural. Ya sea que necesites soporte al cliente, asistencia en tiempo real o simplemente una conversación interesante, CHAT GPT está listo para ayudar. Su capacidad para comprender el lenguaje humano y generar respuestas relevantes lo convierte en una herramienta valiosa para mejorar la comunicación en tu página web. Descubre el poder de CHAT GPT y transforma la forma en que interactúas con tus usuarios en línea.
+
 
 ## Autopoiésis
 
-Se presenta videoejemplo del concepto de [Autopoiésis](https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?refer=embed)
-
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a>
-
-Lamentablemente, no es posible incrustar directamente un video de TikTok en un sitio web mediante un iframe. TikTok tiene restricciones de seguridad que evitan que se reproduzcan sus videos fuera de su plataforma... pueden intentar subir los videos a YouTube que sí lo permite.
+Se presenta videoejemplo del concepto de [Autopoiésis]<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a>
 
 <head>
     <title>Reproducción de Autopoiésis</title>
 </head>
 <body>
-    <h2>Video de TikTok</h2>
-    <iframe src="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?is_from_webapp=1&sender_device=pc&web_id=7244053744790275589" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+    <h2>Video de YouTube</h2>
+    <https://youtube.com/shorts/oG4CID7IMOc?feature=share>
 </body>
 </html>
 
