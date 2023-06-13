@@ -99,18 +99,15 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 70. Organización informal[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_70_1_V)
 71. Responsabilidad sistemática.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_71_1_V)
 72. Autorización.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_72_1_V)
-73. Estado.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_73_V)
-
+73. Estado.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_73_V) 
 74.El puesto (El trabajo, el cargo, la oficina, etc.).[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_74_1_V)
 75. Servicio.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_75_1_V)
 76. Causalidad.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_76_1_V)
 77. Concepto de mundo.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_77_1_V)
 78. Términos filosóficos: Historia del dogma e Intenciones de sentido.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_78_V)
 79. Los conflictos y su resolución.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_79_1_V)
-80. Saldo.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_80_1_V)
-
-81.Estado natural.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_81_V)
-
+80. Saldo.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_80_1_V) 
+81.Estado natural.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_81_V) 
 82.Sanciones.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_82_1_V)
 83. Mejora del rendimiento.[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_83_V)
 84. Regulación .[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_84_1_V)
