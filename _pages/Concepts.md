@@ -99,7 +99,7 @@ Olivares Pulido Rodolfo Porfirio.
 
 Por medio de una herramienta digital de redes sociales que permite acercar a público mas interactivo en las nuevas tecnologías a la teoría sociológica de Niklas Luhmann, sus diferentes conceptos y datos relevantes de su vida, haciéndolo de una manera más divertida y fácil de entender.
 
-Este proyecto fue desarrollado usando la plataforma digital: [Tik Tok](https://www.tiktok.com/es/) y  [Canva](https://www.canva.com/es_419/)
+Este proyecto fue desarrollado usando la plataforma digital: [Tik Tok](https://www.tiktok.com/es/) y [CapCut](https://www.capcut.com/es-es/)
 
 ## Importancia
 Para comprender la importancia de Niklas Luhmann en la [Teoría sociógica](https://vm.tiktok.com/ZM2k4cspt/)
