@@ -105,4 +105,6 @@ Conocer de cerca al autor es más fácil de comprender su teoria [Dato que casi 
 
 Para ver más videos relacionados, visita nuestra página oficial de [Tik Tok Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1)
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 **Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.
