@@ -17,8 +17,10 @@ Este proyecto fue desarrollado usando la herramienta: [D-ID](https://www.d-id.co
 
 Se presenta videoejemplo del concepto de [Autopoiésis](https://www.tiktok.com/@luhmann2.0/video/7242440673322863878?refer=embed)
 
-<!DOCTYPE html>
-<html>
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a>
+
+Lamentablemente, no es posible incrustar directamente un video de TikTok en un sitio web mediante un iframe. TikTok tiene restricciones de seguridad que evitan que se reproduzcan sus videos fuera de su plataforma... pueden intentar subir los videos a YouTube que sí lo permite.
+
 <head>
     <title>Reproducción de Autopoiésis</title>
 </head>
