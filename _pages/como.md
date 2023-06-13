@@ -77,6 +77,8 @@ _Coordinación: Zepeda Franco Kay, León Piña Ana Laura, Flores Ortega Brayan I
 
 <img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Se creo una cuenta oficial para los usuarios de [**Tik Tok**](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) que tengan mayor interacción con las nuevas tecnologías y busquen simplificar la información.
 
+
 <img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de los videos generados para [**Tik Tok**](https://www.tiktok.com/es) se utilizó esta herramienta para poder generar los subtítulos y la transición de imágenes para obtener un atractivo audiovisual.
+
 
 _Coordinación: Estefania Caamal, Samuel Torres y Montserrat Reynaga._
