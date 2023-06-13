@@ -89,7 +89,7 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEmmanuelCano.jpg" style="float:left;width:200px;padding-right:20px;">
-**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reincercion social
+**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reinserción social.
 
 <div style="clear: both;"></div>
 
@@ -102,7 +102,7 @@ Twitter: [@ORuusu](https://twitter.com/ORuusu)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAdrianaCorona.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Adriana Corona Nava** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Innfancias, Sociología Latinoaméricana, Género.
+**Adriana Corona Nava** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Infancias, Sociología Latinoaméricana, Género.
 
 <div style="clear: both;"></div>
 
@@ -114,7 +114,7 @@ Twitter: [@leitzcoatl](https://twitter.com/leitzcoatl)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAranzaCura.jpg" style="float:left;width:200px;padding-right:20px;">
-**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Urbanismo y Cultura.
+**Aranza Cura Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios Urbanos y Cultura.
 
 Twitter: [@cura_aranza](https://twitter.com/cura_aranza)
 
@@ -147,19 +147,19 @@ Twitter: [@Yael_Oca_](https://twitter.com/Yael_Oca_)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoSandraRamirez.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Violencia de género y Desigualdad Social. 
+**Sandra Ramírez Zamora** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de Género y Desigualdad Social. 
 
 Twitter: [@SandraZamora22](https://twitter.com/SandraZamora22)
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoPriscilaRomero.jpg" style="float:left;width:200px;padding-right:20px;">
-**Priscila Romero Contreras** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismos, Violencia de género, Igualdades. 
+**Priscila Romero Contreras** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Feminismos, Estudios de Género, Desigualdad Social. 
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoMariaAranzaRomero.jpg" style="float:left;width:200px;padding-right:20px;">
-**Maria Aranza Romero Serralde** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios Latinoamericanos, feminismo decolonial
+**Maria Aranza Romero Serralde** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios Latinoamericanos, Feminismo Decolonial
 
 Twitter: [@v__a__n__](https://twitter.com/@v__a__n__)
 
@@ -192,7 +192,7 @@ Twitter: [@blros](https://twitter.com/blros)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son pedagogía digital, archivado web y humanidades digitales.
+**Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son Pedagogía Digital, Archivado Web y Humanidades Digitales.
 
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
