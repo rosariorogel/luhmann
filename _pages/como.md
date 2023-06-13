@@ -72,7 +72,7 @@ Con el objetivo de traducir al español las fichas que se encontraban en alemán
 
 _Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
 
-_Coordinación 2.0: Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma_
+_Coordinación Luhmann 2.0: Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma_
 # Conceptos fundamentales
 
 <img src="{{ site.baseurl }}/assets/img/FotoD-ID.jpg.jpeg}" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivos con los usuarios combinando la calidad y el realismo. Los videos generados por [**D-ID**](https://www.d-id.com/) son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas, y sobretodo que sean personalizados permitiendo que se acoplen a la estructura de la página web.
