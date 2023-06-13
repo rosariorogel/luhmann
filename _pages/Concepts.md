@@ -22,7 +22,7 @@ Este proyecto fue desarrollado usando las herramientas:
 
 ## Autopoiésis
 
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video de TikTok</a> y que este conectado a la palabra <a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">autopoiesis</a>
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">autopoiesis</a>
 
 <html>
 <head>
