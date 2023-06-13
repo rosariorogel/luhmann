@@ -88,7 +88,10 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/TorresMartinezRoberto.jpg" style="float:left;width:200px;padding-right:20px;">
+**Roberto Samuel Torres Martínez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría crítica de la razón, poder, acción social, filosofía social. 
 
+<div style="clear: both;"></div>
 
 ## Desarrollo y curación de contenidos Luhmann 1.0
 
