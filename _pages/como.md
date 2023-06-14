@@ -33,7 +33,7 @@ _Coordinación: Isabel Colín y Thania Hernández._
 
 <img src="{{ site.baseurl }}/assets/img/FotoArcGISStoryMaps.jpg" style="float:left;width:200px;padding-right:20px;"> Para esta sección realizamos un mapeo de la trayectoria académica de Luhmann, incorporamos parte de su biografía, dónde desarrolló su teoría a través de los lugares más emblemáticos en los que estuvo. Esta sección se llevó a cabo con la ayuda de [**ArcGIS StoryMaps**](https://storymaps.arcgis.com/stories) que es una aplicación gratuita de creación de historias basada en web que permite compartir mapas en el contexto de una línea narrativa, vinculado con contenido multimedia. 
 
-Agradecemos a la profesora Randa El Khatib [@randaelka](https://twitter.com/randaelka?lang=es) por enseñarnos a usar esta herramienta.
+Agradecemos a la profesora Randa El Khatib ([@randaelka](https://twitter.com/randaelka?lang=es)) por enseñarnos a usar esta herramienta.
 
 Coordinación: Andrea Gutiérrez, Monserrat Hernández, Andrea Alvarez, Alexia Chacón, Lizbeth Hernández
 
