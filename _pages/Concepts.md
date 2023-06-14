@@ -43,9 +43,10 @@ Este proyecto fue desarrollado usando las herramientas:
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/oKigFmQb2_o?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oKigFmQb2_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Memoria
 
@@ -56,9 +57,10 @@ Este proyecto fue desarrollado usando las herramientas:
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/6_iXxaBqXdg?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6_iXxaBqXdg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Sistema Psiquíco
 
@@ -69,9 +71,10 @@ Este proyecto fue desarrollado usando las herramientas:
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/E40ekSrC-xo?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/E40ekSrC-xo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Adquisición evolutiva
 
@@ -82,9 +85,10 @@ Este proyecto fue desarrollado usando las herramientas:
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/QuM-rIKFHXA?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QuM-rIKFHXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Irritaciones
 
@@ -92,25 +96,19 @@ Este proyecto fue desarrollado usando las herramientas:
 
 <html>
 <head>
-    <title>YouTube Shorts</title>
+    <title>YouTube Video</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtu.be/04EmOClJUO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/04EmOClJUO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Distinción Sistema-entorno
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242453156976692486?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Distinción Sistema-entorno</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Acoplamientos estructuales
 
@@ -118,12 +116,13 @@ Este proyecto fue desarrollado usando las herramientas:
 
 <html>
 <head>
-    <title>YouTube Shorts</title>
+    <title>YouTube Video</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtu.be/S3ng96_o8-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S3ng96_o8-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Autonomía
 
@@ -131,12 +130,13 @@ Este proyecto fue desarrollado usando las herramientas:
 
 <html>
 <head>
-    <title>YouTube Shorts</title>
+    <title>YouTube Video</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtu.be/8fpS29RWOpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8fpS29RWOpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Clausura operativa
 
@@ -147,140 +147,68 @@ Este proyecto fue desarrollado usando las herramientas:
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/Rf8Rnk_IoJY?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rf8Rnk_IoJY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+
 
 ## Funcionalismo
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Funcionalismo</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Reentry
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Reentry</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-](https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
-</html>
+
 
 ## Función
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Función</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Medios de comunicación generalizados simbólicamente
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medios de comunicación generalizados simbólicame</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Medium y forma
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242518317762645253?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medium y forma</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Observación de segundo orden
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242531826533731589?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Observación de segundo orden</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Subsistemas funcionalistas diferenciados
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242711454472834310?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Subsistemas funcionalistas diferenciados</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Sentido 
 
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242805542144576773?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sentido</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
 
 ## Diferenciación
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242806181562043654?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Diferenciación</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 ## Complejidad
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Complejidad</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+
 
 **Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Isamael Flores Ortega y Rodolfo Porfirio Olivares Pulido.
 
