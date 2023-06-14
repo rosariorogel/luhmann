@@ -22,7 +22,7 @@ Este proyecto fue desarrollado usando las herramientas:
 
 ## Autopoiésis
 
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">TikTok: Autopoiesis</a>
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video en TikTok: Autopoiesis</a>
 
 <html>
 <head>
@@ -36,75 +36,251 @@ Este proyecto fue desarrollado usando las herramientas:
 
 ## Evolución
 
-Se presenta videoejemplo del concepto de [Evolución](https://vm.tiktok.com/ZM2kyxheV/)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242441169160899845?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Evolución</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/oKigFmQb2_o?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Memoria
 
-Se presenta videoejemplo del concepto de [Memoria](https://vm.tiktok.com/ZM2kyrHoM/)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242441862731009285?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Memoria</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/6_iXxaBqXdg?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Sistema Psiquíco
 
-Se presenta videoejemplo del concepto de [Sistema Psiquíco](https://www.tiktok.com/@luhmann2.0/video/7242442328835722501?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242442328835722501?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sistema Psiquíco </a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/E40ekSrC-xo?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Adquisición evolutiva
 
-Se presenta videoejemplo del concepto de [Adquisición evolutiva](https://www.tiktok.com/@luhmann2.0/video/7242445587902205190?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242445587902205190?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Adquisición evolutiva</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/QuM-rIKFHXA?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Irritaciones
 
-Se presenta videoejemplo del concepto de [Irritaciones](https://www.tiktok.com/@luhmann2.0/video/7242446564675833093?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242446564675833093?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Irritaciones</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtu.be/04EmOClJUO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Distinción Sistema-entorno
 
-Se presenta videoejemplo del concepto de [DistinciónSistema-entorno ](https://www.tiktok.com/@luhmann2.0/video/7242453156976692486?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242453156976692486?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Distinción Sistema-entorno</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Acoplamientos estructuales
 
-Se presenta videoejemplo del concepto de [Acoplamientos estructurales](https://www.tiktok.com/@luhmann2.0/video/7242454026195979525?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242454026195979525?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Acoplamientos estructurales</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtu.be/S3ng96_o8-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Autonomía
 
-Se presenta videoejemplo del concepto de [Autonomía](https://www.tiktok.com/@luhmann2.0/video/7242457925539597574?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242457925539597574?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Autonomía</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtu.be/8fpS29RWOpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
+
+## Clausura operativa
+
+<a href="" target="_blank">Video en TikTok: Clausura operativa</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/Rf8Rnk_IoJY?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Funcionalismo
 
-Se presenta videoejemplo del concepto de [Funcionalismo](https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Funcionalismo</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Reentry
 
-Se presenta videoejemplo del concepto de [Reentry](https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Reentry</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+](https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+</html>
 
 ## Función
 
-Se presenta videoejemplo del concepto de [Función](https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Función</a>
 
-## Medios de comunicación generalizados simbolicamente
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
-Se presenta videoejemplo del concepto de [Medios de comunicación generalizados simbolicamente](https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+## Medios de comunicación generalizados simbólicamente
+
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medios de comunicación generalizados simbólicame</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Medium y forma
 
-Se presenta videoejemplo del concepto de [Medium y forma](https://www.tiktok.com/@luhmann2.0/video/7242518317762645253?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242518317762645253?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medium y forma</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Observación de segundo orden
 
-Se presenta videoejemplo del concepto de [Observación de segundo orden](https://www.tiktok.com/@luhmann2.0/video/7242531826533731589?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242531826533731589?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Observación de segundo orden</a>
 
-## Sistemas funcionalistas diferenciados
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
-Se presenta videoejemplo del concepto de [Sistemas funcionalistas diferenciados](https://www.tiktok.com/@luhmann2.0/video/7242711454472834310?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+## Subsistemas funcionalistas diferenciados
+
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242711454472834310?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Subsistemas funcionalistas diferenciados</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Sentido 
 
-Se presenta videoejemplo del concepto de [Sentido](https://www.tiktok.com/@luhmann2.0/video/7242805542144576773?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242805542144576773?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sentido</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Diferenciación
 
-Se presenta videoejemplo del concepto de [Diferenciación](https://www.tiktok.com/@luhmann2.0/video/7242806181562043654?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242806181562043654?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Diferenciación</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Complejidad
 
-Se presenta videoejemplo del concepto de [Complejidad](https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174)
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Complejidad</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 **Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Isamael Flores Ortega y Rodolfo Porfirio Olivares Pulido.
 
