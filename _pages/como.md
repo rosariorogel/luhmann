@@ -41,8 +41,12 @@ _Coordinación Luhmann 2.0: Andrea Gutiérrez, Andrea Álvarez, Montserrat Hérn
 
 # Conceptos fundamentales
 
-<img src="{{ site.baseurl }}/assets/img/FotoD-ID.jpg.jpeg}" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivos con los usuarios combinando la calidad y el realismo. Los videos generados por [**D-ID**](https://www.d-id.com/) son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas, y sobretodo que sean personalizados permitiendo que se acoplen a la estructura de la página web.
+<img src="{{ site.baseurl }}/assets/img/D-ID.jpg}" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivos con los usuarios combinando la calidad y el realismo. Los videos generados por [**D-ID**](https://www.d-id.com/) son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas, y sobretodo que sean personalizados permitiendo que se acoplen a la estructura de la página web.
 D-ID utiliza algoritmos de aprendizaje profundo para sintetizar videos de alta calidad con una variedad de características y estilos personalizados. Esta tecnología se basa en una amplia base de datos de imágenes y videos para generar secuencias realistas y convincentes.
+
+<img src="{{ site.baseurl }}/assets/img/Dall-E.jpg}" style="float:left;width:200px;padding-right:20px;"> Se utilizó para generar una imagen de N. Luhmann con licencia libre, ya que las fotos en la web no suelen contar con este tipo de licencia. DALL-E es una revolucionaria inteligencia artificial diseñada para producir imágenes increíbles y sorprendentes. 
+
+<img src="{{ site.baseurl }}/assets/img/ChatGPT.jpg}" style="float:left;width:200px;padding-right:20px;"> Se utilizó para redactar los concetos y sus ejemplos, y revisar la redacción de los subtítulos en los videos. CHAT GPT es una inteligencia artificial de vanguardia que funciona como un potente procesador de texto.
 
 _Coordinación: Zepeda Franco Kay, León Piña Ana Laura, Flores Ortega Brayan Ismael y Olivares Pulido Rodolfo Porfirio._
 
