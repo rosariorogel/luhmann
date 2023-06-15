@@ -31,13 +31,28 @@ _Coordinación: Sandra Ramírez, Paola Martínez y Fátima Paola Vargas._
 
 _Coordinación: Isabel Colín y Thania Hernández._
 
+# Trayectoria académica Niklas Luhmann
+
 <img src="{{ site.baseurl }}/assets/img/FotoArcGISStoryMaps.jpg" style="float:left;width:200px;padding-right:20px;"> Para esta sección realizamos un mapeo de la trayectoria académica de Luhmann, incorporamos parte de su biografía, dónde desarrolló su teoría a través de los lugares más emblemáticos en los que estuvo. Esta sección se llevó a cabo con la ayuda de [**ArcGIS StoryMaps**](https://storymaps.arcgis.com/stories), una aplicación gratuita de creación de historias basada en web que permite compartir mapas en el contexto de una línea narrativa, vinculado con contenido multimedia. 
 
 Agradecemos a la profesora Randa El Khatib ([@randaelka](https://twitter.com/randaelka?lang=es)) por enseñarnos a usar esta herramienta.
 
 _Coordinación Luhmann 2.0: Andrea Gutiérrez, Andrea Álvarez, Montserrat Hérnandez, Lizbeth Aguilar y Alexia Chacón._
 
-# Arquitectura conceptual
+# Conceptos fundamentales
+
+<img src="{{ site.baseurl }}/assets/img/FotoD-ID.jpg.jpeg}" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivos con los usuarios combinando la calidad y el realismo. Los videos generados por [**D-ID**](https://www.d-id.com/) son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas, y sobretodo que sean personalizados permitiendo que se acoplen a la estructura de la página web.
+D-ID utiliza algoritmos de aprendizaje profundo para sintetizar videos de alta calidad con una variedad de características y estilos personalizados. Esta tecnología se basa en una amplia base de datos de imágenes y videos para generar secuencias realistas y convincentes.
+
+_Coordinación: Zepeda Franco Kay, León Piña Ana Laura, Flores Ortega Brayan Ismael y Olivares Pulido Rodolfo Porfirio._
+
+<img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Hemos creado una cuenta oficial en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.
+
+<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de nuestros videos, hemos utilizado [**CapCut**](https://www.capcut.com/es-es/) una herramineta versátil que nos permite crear y editar videos utilizando una amplia variedad de recursos. Con CapCut, es posible editar texto, video y audio de manera fácil e intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos 
+
+_Coordinación: Estefania Caamal, Samuel Torres y Montserrat Reynaga._
+
+# Infografías
 
 <img src="{{ site.baseurl }}/assets/img/Canva.png" style="float:left;width:200px;padding-right:20px;"> Como estrategia para explicar de la forma más sencilla e ilustrativa posible algunos de los conceptos centrales de la propuesta teórica de Niklas Luhmann, creamos –a través de la plataforma [Canva](https://www.canva.com/) en su versión gratuita– una serie de infografías. Para su elaboración recurrimos al uso de Google Imagenes con filtros de búsqueda para algunas ilustraciones, y de recursos en línea para la recopilación de información. 
 
@@ -69,20 +84,5 @@ _Coordinación Luhmann 2.0: Andrea Fernanda Hernández Jiménez y Luis Fernando 
 
 Con el objetivo de traducir al español las fichas que se encontraban en alemán, utilizamos softwares de traducción como DeepL Translator y Google Translator. Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
 
-_Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales_
-
-_Coordinación Luhmann 2.0: Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma_
-# Conceptos fundamentales
-
-<img src="{{ site.baseurl }}/assets/img/FotoD-ID.jpg.jpeg}" style="float:left;width:200px;padding-right:20px;"> Para esta sección buscamos la manera de hacer que los conceptos de Luhmann fuesen más interactivos con los usuarios combinando la calidad y el realismo. Los videos generados por [**D-ID**](https://www.d-id.com/) son de alta calidad y parecen auténticos. La IA utiliza técnicas avanzadas de procesamiento de imágenes y aprendizaje profundo para garantizar que los resultados sean visualmente atractivos y realistas, y sobretodo que sean personalizados permitiendo que se acoplen a la estructura de la página web.
-D-ID utiliza algoritmos de aprendizaje profundo para sintetizar videos de alta calidad con una variedad de características y estilos personalizados. Esta tecnología se basa en una amplia base de datos de imágenes y videos para generar secuencias realistas y convincentes.
-
-_Coordinación: Zepeda Franco Kay, León Piña Ana Laura, Flores Ortega Brayan Ismael y Olivares Pulido Rodolfo Porfirio._
-
-<img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Hemos creado una cuenta oficial en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.
-
-
-<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de nuestros videos, hemos utilizado [**CapCut**](https://www.capcut.com/es-es/) una herramineta versátil que nos permite crear y editar videos utilizando una amplia variedad de recursos. Con CapCut, es posible editar texto, video y audio de manera fácil e intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos 
-
-
-_Coordinación: Estefania Caamal, Samuel Torres y Montserrat Reynaga._
+_Coordinación: Emmanuel Cano, Leonardo Cruz y Jocelyn Morales._
+_Coordinación Luhmann 2.0: Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma._
