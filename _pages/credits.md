@@ -64,6 +64,11 @@ Twitter: [@aeonfers](https://twitter.com/aeonfers)
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoMonserratHernándezS.jpg" style="float:left;width:200px;padding-right:20px;">
+**Monserrat Hernández Santibañez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, reinserción social, activismo social, estudios de género, movimientos sociales y justicia social.
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoAnaLaura.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Laura León Piña** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Multiculturalismo y pedagogía infantil.
 
@@ -90,11 +95,6 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/Foto Brenda Palma.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brenda Ramírez Palma** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología política y cultura
 
 <div style="clear: both;"></div>
 
