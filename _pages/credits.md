@@ -36,6 +36,11 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlan Flores.jpg" style="float:left;width:200px;padding-right:20px;">
+**Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política y Ciencias Políticas.
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoBrayanIsmael.jpg" style="float:left;width:200px;padding-right:20px;">
 **Brayan Ismael Flores Ortega** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana y microsociología.
 
