@@ -214,9 +214,7 @@ Este proyecto fue desarrollado usando las herramientas:
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
 
-Por medio de una herramienta digital de redes sociales que permite acercar a público mas interactivo en las nuevas tecnologías a la teoría sociológica de Niklas Luhmann, sus diferentes conceptos y datos relevantes de su vida, haciéndolo de una manera más divertida y fácil de entender.
-
-Este proyecto fue desarrollado usando la plataforma digital: [Tik Tok](https://www.tiktok.com/es/) y [CapCut](https://www.capcut.com/es-es/)
+La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo
 
 ## Importancia
 Para comprender la importancia de Niklas Luhmann en la [Teoría sociógica](https://vm.tiktok.com/ZM2k4cspt/)
