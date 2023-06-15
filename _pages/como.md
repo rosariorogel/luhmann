@@ -82,10 +82,10 @@ D-ID utiliza algoritmos de aprendizaje profundo para sintetizar videos de alta c
 
 _Coordinación: Zepeda Franco Kay, León Piña Ana Laura, Flores Ortega Brayan Ismael y Olivares Pulido Rodolfo Porfirio._
 
-<img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Se creo una cuenta oficial para los usuarios de [**Tik Tok**](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) que tengan mayor interacción con las nuevas tecnologías y busquen simplificar la información.
+<img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Hemos creado una cuenta oficial en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.
 
 
-<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de los videos generados para [**Tik Tok**](https://www.tiktok.com/es) se utilizó esta herramienta para poder generar los subtítulos y la transición de imágenes para obtener un atractivo audiovisual.
+<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de nuestros videos, hemos utilizado [**CapCut**](https://www.capcut.com/es-es/) una herramineta versátil que nos permite crear y editar videos utilizando una amplia variedad de recursos. Con CapCut, es posible editar texto, video y audio de manera fácil e intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos 
 
 
 _Coordinación: Estefania Caamal, Samuel Torres y Montserrat Reynaga._
