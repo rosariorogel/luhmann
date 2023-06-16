@@ -15,4 +15,6 @@ Todas las imágenes que se integran cuentan con una licencia Creative Commons qu
 
 <iframe src="https://storymaps.arcgis.com/stories/bd1ab7dbffb34ddb93de9beb35997b38" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
+
 **Créditos:** Andrea Gutiérrez, Andrea Álvarez, Lizbeth Aguilar, Alexia Chacón y Montserrat Hernández. 
