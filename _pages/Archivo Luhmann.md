@@ -111,8 +111,6 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 **Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
 
 ## Archivo Luhmann 2.0
-
-<ol start="61">
    
 61. Medición del rendimiento social y rendimiento organizativo de los servicios estatales [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)</li>
 62. Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)</li>
@@ -159,6 +157,5 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 103. Orden social moderno [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_103_V)
 104. Circunscripción [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_104_V)
 105. Retroalimentación [Nota Original](https://niklasluhmannarchiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V)
-</ol>
 
 **Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Oscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramirez Palma 
