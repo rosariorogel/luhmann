@@ -9,7 +9,9 @@ permalink: trayectoria
 
 Bienvenidos al apartado dedicado al mapeo de la trayectoria de Niklas Luhmann en nuestra página web. En esta sección exploraremos y analizaremos el legado académico de uno de los sociólogos más influyentes del siglo XX. A través de un recorrido detallado, utilizando la geolocalización, seguiremos los lugares que marcaron su vida académica e intelectual, así como donde realizó sus contribuciones.
 
-Para trazar el mapeo de la trayectoria de Niklas Luhmann, nos basamos en las líneas de tiempo elaboradas por los compañeros de Luhmann 1.0. Además, realizamos una búsqueda en entrevistas, artículos y libros.
+Para trazar el mapeo de la trayectoria de Niklas Luhmann, nos basamos en las líneas de tiempo elaboradas por los compañeros que realizaron la primera versión de esta página web (Luhmann 1.0). Además, realizamos una búsqueda en entrevistas, artículos y libros.
+
+Para navegar a través del ArGis sólo tienes que utilizar posiconar tu cursor sobre la imagen y desplazarte hacia abajo, posteriormente uedes seleccionar cada una de las ciudades donde Nikalas Luhmann estudió, trabajó, realizó estancias académicas o impartió conferencias. ¡Esperamos lo disfrutes!
 
 Todas las imágenes que se integran cuentan con una licencia Creative Commons que permite el reuso de información y la bibliografía que se utilizó está integrada en el grupo abierto de Zotero.
 
