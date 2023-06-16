@@ -88,7 +88,7 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 **Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
 
 ## Archivo Luhmann 2.0
-
+<ol start="61">
 61.  Medición del rendimiento social y rendimiento organizativo de los servicios estatales[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)
 62.  Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)
 63.   El lote como mecanismo de toma de decisiones[Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_63_V)
