@@ -18,6 +18,29 @@ El fichero tiene una estructura organizativa específica que constituye no sólo
 El objetivo de este apartado es facilitar el acceso a contendidos extra, que se encuentran en otro idioma a los hispanohablantes que se interesan en las propuestas de Luhmann. Consideramos de gran utilidad, no solo su pensamiento y aporte a la Sociología sino también las notas y demás recursos que plasmó en papel y tinta, para el sustento y creación de sus propuestas teóricas.
 
 
+## Uso del Zettelkasten 
+Este apartado expone algunas publicaciones en las que se ha utilizado el archivo Zettelkasten de Niklas Luhmann.
+
+Niklas Luhmanns Zettelkasten: Herausforderungen einer Digitalen Edition
+La caja de notas de Niklas Luhmann: retos de una edición digital
+Este artículo presenta la edición digital del cuaderno del sociólogo Niklas Luhmann. En primer lugar, se explican los principios de constitución de la colección de 90.000 notas: la estructura de orden no jerárquico, el principio de numeración, la estructura de red y el índice de palabras clave. Posteriormente, se presentan los objetivos de la edición digital: la creación de accesibilidad, legibilidad lineal y heterárquica, así como puntos de entrada para la lectura. Por último, se esboza la implementación digital, que hace que la colección sea utilizable de un modo que va más allá del original analógico.
+[Sitio Original](https://link.springer.com/chapter/10.1007/978-3-658-34744-4_12)
+Autor Johannes F. K. Schmidt
+
+Publikationen an der Universität Bielefeld Der Zettelkasten Niklas Luhmanns als Überraschungsgenerator
+    * Publicaciones en la Universidad de Bielefeld La caja deslizante de Niklas Luhmann como generador de sorpresas
+La caja deslizante de Niklas Luhmann como generadora de sorpresas la Universidad de Bielefeld a 2011 con el apoyo la Fundación Krupp y el Stifterverband el patrimonio científico de Niklas patrimonio científico de Niklas Luhmann. El fichero como núcleo núcleo de la colección se años en el marco de la de la Academia de Ciencias de Renania del Norte-Westfalia Academia de Ciencias y las Artes proyecto a largo plazo "Niklas Luhmann - La teoría como pasión accesible desde el punto de vista científico y puesto a disposición del público en general una versión digitalizada en Internet.
+[Sitio Original](https://pub.uni-bielefeld.de/download/2942477/2942529/jschmidt_2015_zettelkasten%20als%20%C3%BCberraschungsgenerator.pdf)
+Autor Johannes F. K. Schmidt
+
+Biographische Medienforschung
+Investigación biográfica en los medios de comunicación
+En 2007, Wolfgang R. Langenbucher tituló su ensayo programático "Wider die biographische Blindheit" ("Contra la ceguera biográfica"). un ensayo programático en la revista vienesa medie & zeit. revista medien & zeit. En él describía retratos biográficos de destacados representantes de la profesión periodística como una de las "inacabadas de las "tareas centrales inacabadas de nuestra disciplina" (Langenbucher 2007: 21 ss.).
+De lo que se trataba era de los estudios de comunicación de forma muy abreviada, se puede que con el cambio de paradigma de los estudios periodísticos a los principalmente científico-social y principalmente cuantitativo-empírico al enfoque empírico en la década de 1960, el actor individual había salido del el actor.
+[Sitio Original](https://link.springer.com/chapter/10.1007/978-3-531-19012-9_31)
+Autor Markus Behmer
+
+
 ## Archivo Luhmann 
 A continuación, se presentan algunos de los temas que constituyen las **Notas del Archivo Luhmann**, cada una contiene el enlace para redireccionar a la nota original contenida en el archivo digitalizado en la página de la Universidad de Bielefeld. Cabe aclarar que de algunas notas no se encuentra el archivo original y algunas otras no han sido transcritas aún, por lo tanto no se encuentran disponibles.
 
