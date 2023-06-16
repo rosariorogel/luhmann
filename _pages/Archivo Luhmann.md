@@ -112,10 +112,10 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 
 ## Archivo Luhmann 2.0
 
-<li value="61">  Medición del rendimiento social y rendimiento organizativo de los servicios estatales [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)
-<li>62.  Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)
-<li>63.  El lote como mecanismo de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_63_V)
-<li>64. Teoría de la probabilidad su papel general en la teoría del conocimiento [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_64_1_V)
+<li value="61"> Medición del rendimiento social y rendimiento organizativo de los servicios estatales [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)</li>
+<li>62. Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)</li>
+<li>63.  El lote como mecanismo de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_63_V)</li>
+<li>64. Teoría de la probabilidad su papel general en la teoría del conocimiento [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_64_1_V)</li>
 65. Burocracia y literatura [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_65_1_V)
 66. El "espíritu" de las instituciones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_66_V)
 67. Nueva creación de organizaciones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_67_V)
