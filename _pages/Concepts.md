@@ -314,7 +314,7 @@ La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhm
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/shorts/EpHOncE1BWs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/EpHOncE1BWs?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 
@@ -325,7 +325,7 @@ La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhm
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/shorts/hHJcldOekzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtube.com/shorts/hHJcldOekzs?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 
