@@ -47,12 +47,7 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoOscarGL.jpg" style="float:left;width:200px;padding-right:20px;">
-**Oscar Geovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoLuisRJ.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología politica, Multiculturalismo, subculturas, movimientos de autodefensa.
+**Óscar Giovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología urbana.
 
 <div style="clear: both;"></div>
 
@@ -76,6 +71,11 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoRodolfoPorfirio.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rodolfo Porfirio Olivares Pulido** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las organizaciones y sociología política.
 
@@ -86,8 +86,18 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoLuisRJ.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología politica, Multiculturalismo, subculturas, movimientos de autodefensa.
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoSamuelTorres.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Roberto Samuel Torres Martínez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría crítica de la razón, poder, acción social, filosofía social. 
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoMontserratValdez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Montserrat Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
+**Montserrat Váldez Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
 
 <div style="clear: both;"></div>
 
@@ -95,16 +105,6 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 **Kay Zepeda Franco** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Derechos Humanos, Desarrollo de infancias en entornos violentos y conflictos políticos, sociales y económicos en países latinoamericanos. 
 
 Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=09)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoSamuelTorres.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Roberto Samuel Torres Martínez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría crítica de la razón, poder, acción social, filosofía social. 
 
 <div style="clear: both;"></div>
 
