@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arquitectura Conceptual
+title: Infografías sobre conceptos luhmannianos
 subtitle: Teoría General de Sistemas Sociales
 permalink: theory
 ---
