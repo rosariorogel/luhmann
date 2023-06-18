@@ -11,11 +11,7 @@ permalink: Archivo Luhmann
 
 [Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/) es un proyecto web desarrollado en colaboración por [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/), [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/index.xml), [Bergische Universität Wuppertal](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) y el [Cologne Center for eHumanities](https://cceh.uni-koeln.de/).
 
-El Niklas Luhmann-Archiv funciona como una **Caja de notas / Zettelkasten** que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997.
-
-[*]: Zettelkasten:Palabraqueenalemánsignifica«cajadenotas»,serefierealflujodetrabajoseguidoporelsociólogoalemánNiklasLuhmannparaorganizarsusnotasendosarchivos:archivodereferenciasyarchivodeideas.
-
- Estos archivos documentan el desarrollo teórico del sociólogo alemán de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual. El archivo tiene una estructura organizativa que constituye no sólo una herramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico.
+El Niklas Luhmann-Archiv funciona como una **Caja de notas / Zettelkasten** que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997.[^1] Estos archivos documentan el desarrollo teórico del sociólogo alemán de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual. El archivo tiene una estructura organizativa que constituye no sólo una herramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico.
 
 
 ## **El Zettelkasten: Un tesoro digital para interesados en Teoría de Sistemas**
@@ -251,4 +247,4 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 
 
 
-[^ 1]: Zettelkasten: Palabra que en alemán significa «caja de notas», se refiere al flujo de trabajo seguido por el sociólogo alemán Niklas Luhmann para organizar sus notas en dos archivos: archivo de referencias y archivo de ideas.
+[^1]: Zettelkasten: Palabra que en alemán significa «caja de notas», se refiere al flujo de trabajo seguido por el sociólogo alemán Niklas Luhmann para organizar sus notas en dos archivos: archivo de referencias y archivo de ideas.

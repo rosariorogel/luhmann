@@ -7,8 +7,9 @@ permalink: resources
 
 En este apartado encontrarás dos colecciones de contenidos web relacionados con la **Complejidad y la Teoría de Sistemas**.
 
-* **Colección 1.  Contenidos en la web sobre N. Luhmann y la Teoría de Sistemas.** Es una recopilación de contenidos de interés general tales como blogs, canales de video, cuentas e hilos de twitter, pódcast, grupos de facebook entre muchos otros. *Créditos: Priscila Romero-Contreras y Luis Fernando Martínez-Contreras.*
-* **Colección 2. Cuando la Teoría de Sistemas de Luhmann se entrelaza con el arte.** Esta colección busca relacionar los conceptos de la Teoría de Sistemas y la Sociología de segundo orden con diversas expresiones artísticas, como la música, la pintura, el cine, así como algunos podcasts que hablan sobre los conceptos y el autor. *Créditos actualización Luhmann 2.0: Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
+> * **Colección 1.  Contenidos en la web sobre N. Luhmann y la Teoría de Sistemas.** Es una recopilación de contenidos de interés general tales como blogs, canales de video, cuentas e hilos de twitter, pódcast, grupos de facebook entre muchos otros. *Créditos: Priscila Romero-Contreras y Luis Fernando Martínez-Contreras.*
+> * **Colección 2. Cuando la Teoría de Sistemas de Luhmann se entrelaza con el arte.** Esta colección busca relacionar los conceptos de la Teoría de Sistemas y la Sociología de segundo orden con diversas expresiones artísticas, como la música, la pintura, el cine, así como algunos podcasts que hablan sobre los conceptos y el autor. *Créditos actualización Luhmann 2.0: Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
+>
 
 Para integrar ambas colecciones utilizamos [**Wakelet**](www.wakelet.com), que ayuda a guardar, organizar y compartir contenidos web. Puedes consultar desde aquí la colección con los contenidos sobre Niklas Luhmann, pero también te invitamos a crear una cuenta gratuita en Wakelet para seguirnos.
 
