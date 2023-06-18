@@ -9,8 +9,6 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
-![**Lizbeth Aguilar Hernández**](/assets/img/FotoLizHernandez.jpg) Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, feminismo, inclusión social, arte, cultura y género.
-
 <img src="{{ site.baseurl }}/assets/img/FotoLizHernandez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizbeth Aguilar Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, feminismo, inclusión social, arte, cultura y género.
 
@@ -66,7 +64,7 @@ Twitter: [@aeonfers](https://twitter.com/aeonfers)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoMonserratHernándezS.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoMontserratHS.jpg" style="float:left;width:200px;padding-right:20px;">
 **Monserrat Hernández Santibañez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, reinserción social, activismo social, estudios de género, movimientos sociales y justicia social.
 
 <div style="clear: both;"></div>

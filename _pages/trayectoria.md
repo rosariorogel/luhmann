@@ -5,7 +5,7 @@ subtitle: Teoría General de Sistemas Sociales
 permalink: trayectoria
 ---
 
-# Trayectoria Académica Niklas Luhmann 
+# La travesía de un académico singular 
 
 Bienvenidos al apartado dedicado al mapeo de la trayectoria de Niklas Luhmann en nuestra página web. En esta sección exploraremos y analizaremos el legado académico de uno de los sociólogos más influyentes del siglo XX. A través de un recorrido detallado, utilizando la geolocalización, seguiremos los lugares que marcaron su vida académica e intelectual, así como donde realizó sus contribuciones.
 

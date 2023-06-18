@@ -15,12 +15,6 @@ En esta sección, hemos utilizado tres herramientas clave para enriquecer la exp
 
 Estas tres herramientas han sido fundamentales para crear una experiencia de aprendizaje dinámica, interactiva y accesible, permitiéndonos asimilar de manera efectiva los conceptos clave de Niklas Luhmann.
 
-
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-
-
 ### Autopoiésis
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video en TikTok: Autopoiesis</a>
@@ -307,9 +301,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 
 La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo.
 
-![Importancia de Niklas Luhmann en la Sociología alt >](/assets/img/Importancia.png)
-
-![Importancia de Niklas Luhmann en la Sociología](/Users/rosariorogel/Documents/GitHub/luhmann/assets/img/Importancia.png)https://www.tiktok.com/@luhmann2.0/video/7242405138600594693?is_from_webapp=1&sender_device=pc&web_id=7245878472236860933<img src="{{ site.baseurl }}/assets/img/Importancia.png" style="float:left;width:200px;padding-right:20px;">
+<iframe width="560" height="315" src="https://youtube.com/shorts/EpHOncE1BWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

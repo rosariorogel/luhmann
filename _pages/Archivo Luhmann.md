@@ -11,7 +11,7 @@ permalink: Archivo Luhmann
 
 [Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/) es un proyecto web desarrollado en colaboración por [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/), [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/index.xml), [Bergische Universität Wuppertal](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) y el [Cologne Center for eHumanities](https://cceh.uni-koeln.de/).
 
-El Niklas Luhmann-Archiv funciona como una **Caja de notas / Zettelkasten**[^ 1]que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997. Estos archivos documentan el desarrollo teórico del sociólogo alemán de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual. El archivo tiene una estructura organizativa que constituye no sólo una herrramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico. 
+El Niklas Luhmann-Archiv funciona como una **Caja de notas / Zettelkasten**[^1]que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997. Estos archivos documentan el desarrollo teórico del sociólogo alemán de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual. El archivo tiene una estructura organizativa que constituye no sólo una herrramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico. 
 
 
 ## **El Zettelkasten: Un tesoro digital para interesados en Teoría de Sistemas**
@@ -143,6 +143,6 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 104. Circunscripción [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_104_V)
 105. Retroalimentación [Nota Original](https://niklasluhmannarchiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V)  
 
-**Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Óscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramírez Palma.   
+***Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Óscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramírez Palma.*   
 
 [^ 1]: Zettelkasten:

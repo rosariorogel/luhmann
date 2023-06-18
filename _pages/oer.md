@@ -89,7 +89,7 @@ Esta sesión tiene como objetivo conocer las bases principales de la Teoría Gen
 
 ### Universidad de Guadalajara
 El seminario ***Investigación en Sistemas Sociales*** es impartida por [Hugo Cadenas](https://twitter.com/HugoCadenas7), Doctor en sociología por la Universidad Ludwing-Maximiliam de Múnich, Alemania. El curso pertenece al seminario de *Sistemas sociales, redes y complejidad 3*, del Instituto de Investigaciones Sociológicas, departamento de Sociología, Universidad de Guadalajara. Y tiene como objetivo, explicar lo que implica el quehacer investigativo desde el ambito de la teoría de los sitemas sociales y desde una perpectiva Luhmaniana. 
- 
+
 * El curso, [publicidad y relaciones publicas](https://www.techtitute.com/mx/periodismo-comunicacion/master-semipresencial/master-semipresencial-publicidad-relaciones-publicas), donde se integra a Niklas Luhmann como parte del temario en el marco teorico de la opinion publica.
 * En el curso [comunicacion publicitaria](https://www.techtitute.com/mx/escuela-de-negocios/master-semipresencial/master-semipresencial-comunicacion-publicitaria ), nuevamente se integra a Niklas Luhmann en el marco de la opinion publica, como modalidad comunicativa  
 
@@ -103,4 +103,4 @@ Sesion 3 : Evaluacion y construccion de escenarios de riesgos
 Sesion 4:  Estrategias de intervencion para la gestion del riesgo  
 
 
-**Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.
+***Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.*
