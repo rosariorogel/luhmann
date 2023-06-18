@@ -295,43 +295,28 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </html>
 
 
-**Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Isamael Flores Ortega y Rodolfo Porfirio Olivares Pulido.
+***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Isamael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
 
-La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo.
+La creación de una cuenta en TikTok es una de las novedades de Luhmann 2.0, la plataforma nos permite alcanzar a una audiencia amplia y diversa, especialmente entre los usuarios más jóvenes, lo que nos permite difundir la teoría sociológica de Niklas Luhmann de forma más amplia.
 
-<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242514205377678598" title="Importancia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Nuestro objetivo principal es presentar un enfoque distinto de este destacado sociólogo, mostrando aspectos intrigantes, datos curiosos y perspectivas alternativas. Queremos despertar tu interés y ofrecerte una visión de Niklas Luhmann desde una perspectiva fresca y novedosa. A través de videos cortos y visualmente atractivos, exploramos diferentes aspectos de la teoría luhmanniana. Desde explicaciones concisas hasta anécdotas sorprendentes, nuestro objetivo es captar la atención de los usuarios y proporcionarles una experiencia educativa y entretenida al mismo tiempo.
 
-
+¡Únete a nuestra cuenta en TikTok, donde descubrirás una nueva forma de aprender sobre Teoría de Sistemas!
 
 ## Importancia
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242514205377678598" target="_blank">Video en TikTok: Importancia de Niklas Luhmann en la sociología</a>
-
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/EpHOncE1BWs?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242514205377678598" title="Importancia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Datos curiosos 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7244189220728851718" target="_blank">Video en TikTok: 4 datos curiosos sobre Niklas Luhmann</a>
 
-<html>
-<head>
-    <title>YouTube Shorts</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="https://youtube.com/shorts/hHJcldOekzs?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>
+<iframe width="560" height="315" src="https://www.tiktok.com/@luhmann2.0/video/7244189220728851718" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
 Para ver más videos relacionados, visita nuestra página oficial de Tik Tok 
+
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script> 
 
-**Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.
+***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
