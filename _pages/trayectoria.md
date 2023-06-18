@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trayectoria Académcia de Niklas Luhmann
+title: Trayectoria de Niklas Luhmann
 subtitle: Teoría General de Sistemas Sociales
 permalink: trayectoria
 ---
