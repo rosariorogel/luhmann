@@ -301,7 +301,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 
 La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo.
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/EpHOncE1BWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242514205377678598" title="Importancia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
