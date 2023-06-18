@@ -9,39 +9,22 @@ permalink: Archivo Luhmann
 
 # ¿Qué es el Archivo Luhmann?
 
-[Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/) es un proyecto web desarrollado en colaboración por [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/), [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/index.xml), [Bergische Universität Wuppertal](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) y el [Cologne Center for eHumanities](https://cceh.uni-koeln.de/). Su objetivo es la indexación y edición científica del patrimonio archivístico de Niklas Luhmann. Se trata de una "Caja de notas" / Zettelkasten<!--Palabra que en alemán significa «caja de notas», se refiere al flujo de trabajo seguido por el sociólogo alemán Niklas Luhmann para organizar sus notas en dos archivos: archivo de referencias y archivo de ideas.--> que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997. Estos archivos documentan el desarrollo teórico de Luhmann de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual.
+[Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/) es un proyecto web desarrollado en colaboración por [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/), [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/index.xml), [Bergische Universität Wuppertal](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) y el [Cologne Center for eHumanities](https://cceh.uni-koeln.de/).
 
-El fichero tiene una estructura organizativa específica que constituye no sólo una herrramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico. 
-
-
-## ¿Por qué lo integramos?
-El objetivo de este apartado es facilitar el acceso a contendidos extra, que se encuentran en otro idioma a los hispanohablantes que se interesan en las propuestas de Luhmann. Consideramos de gran utilidad, no solo su pensamiento y aporte a la Sociología sino también las notas y demás recursos que plasmó en papel y tinta, para el sustento y creación de sus propuestas teóricas.
+El Niklas Luhmann-Archiv funciona como una **Caja de notas / Zettelkasten**[^ 1]que contiene aproximadamente 90 mil registros redactados entre 1952 y 1997. Estos archivos documentan el desarrollo teórico del sociólogo alemán de una forma única, por lo que la colección puede entenderse como su autobiografía intelectual. El archivo tiene una estructura organizativa que constituye no sólo una herrramienta para el desarrollo y publicación de las propuestas teóricas de Luhmann; sino que es, además, un documento relevante desde el punto de vista epistemológico. 
 
 
-## Uso del Zettelkasten 
-Este apartado expone algunas publicaciones en las que se ha utilizado el archivo Zettelkasten de Niklas Luhmann.
+## **El Zettelkasten: Un tesoro digital para interesados en Teoría de Sistemas**
+En esta entrada, vamos a explorar algunas publicaciones que han utilizado el archivo **Zettelkasten** de Niklas Luhmann, una herramienta fascinante y única que ha dejado una huella indeleble en el campo de la sociología y la teoría de sistemas.
 
-Niklas Luhmanns Zettelkasten: Herausforderungen einer Digitalen Edition
-La caja de notas de Niklas Luhmann: retos de una edición digital
-Este artículo presenta la edición digital del cuaderno del sociólogo Niklas Luhmann. En primer lugar, se explican los principios de constitución de la colección de 90.000 notas: la estructura de orden no jerárquico, el principio de numeración, la estructura de red y el índice de palabras clave. Posteriormente, se presentan los objetivos de la edición digital: la creación de accesibilidad, legibilidad lineal y heterárquica, así como puntos de entrada para la lectura. Por último, se esboza la implementación digital, que hace que la colección sea utilizable de un modo que va más allá del original analógico.
-[Sitio Original](https://link.springer.com/chapter/10.1007/978-3-658-34744-4_12)
-Autor Johannes F. K. Schmidt
+**Niklas Luhmanns Zettelkasten: Herausforderungen einer Digitalen Edition** *(La caja de notas de Niklas Luhmann: retos de una edición digital),* escrito por Johannes F. K. Schmidt, nos presenta la edición digital del cuaderno del sociólogo Niklas Luhmann. En este artículo, se explican los principios que conforman esta colección de 90 mil notas, como la estructura de orden no jerárquico, el principio de numeración, la estructura de red y el índice de palabras clave. Además, se detallan los objetivos de la edición digital, que incluyen accesibilidad, legibilidad lineal y heterárquica, así como puntos de entrada para la lectura. Por último, se menciona la implementación digital, que permite que esta colección sea utilizada de una manera que trasciende el formato original analógico. Puedes encontrar más información en el [sitio original](https://link.springer.com/chapter/10.1007/978-3-658-34744-4_12).
 
-Publikationen an der Universität Bielefeld Der Zettelkasten Niklas Luhmanns als Überraschungsgenerator
-    * Publicaciones en la Universidad de Bielefeld La caja deslizante de Niklas Luhmann como generador de sorpresas
-La caja deslizante de Niklas Luhmann como generadora de sorpresas la Universidad de Bielefeld a 2011 con el apoyo la Fundación Krupp y el Stifterverband el patrimonio científico de Niklas patrimonio científico de Niklas Luhmann. El fichero como núcleo núcleo de la colección se años en el marco de la de la Academia de Ciencias de Renania del Norte-Westfalia Academia de Ciencias y las Artes proyecto a largo plazo "Niklas Luhmann - La teoría como pasión accesible desde el punto de vista científico y puesto a disposición del público en general una versión digitalizada en Internet.
-[Sitio Original](https://pub.uni-bielefeld.de/download/2942477/2942529/jschmidt_2015_zettelkasten%20als%20%C3%BCberraschungsgenerator.pdf)
-Autor Johannes F. K. Schmidt
-
-Biographische Medienforschung
-Investigación biográfica en los medios de comunicación
-En 2007, Wolfgang R. Langenbucher tituló su ensayo programático "Wider die biographische Blindheit" ("Contra la ceguera biográfica"). un ensayo programático en la revista vienesa medie & zeit. revista medien & zeit. En él describía retratos biográficos de destacados representantes de la profesión periodística como una de las "inacabadas de las "tareas centrales inacabadas de nuestra disciplina" (Langenbucher 2007: 21 ss.).
-De lo que se trataba era de los estudios de comunicación de forma muy abreviada, se puede que con el cambio de paradigma de los estudios periodísticos a los principalmente científico-social y principalmente cuantitativo-empírico al enfoque empírico en la década de 1960, el actor individual había salido del el actor.
-[Sitio Original](https://link.springer.com/chapter/10.1007/978-3-531-19012-9_31)
-Autor Markus Behmer
+Otra publicación relevante es **Publikationen an der Universität Bielefeld Der Zettelkasten Niklas Luhmanns als Überraschungsgenerator** *(Publicaciones en la Universidad de Bielefeld: La caja deslizante de Niklas Luhmann como generador de sorpresas),* también escrita por Johannes F. K. Schmidt. En esta ocasión, se destaca el uso del archivo **Zettelkasten** de Luhmann como un generador de sorpresas en el ámbito de la Universidad de Bielefeld. Se menciona que el archivo ha sido apoyado por la Fundación Krupp y el Stifterverband, y que se ha puesto a disposición del público en general una versión digitalizada en Internet. Puedes consultar más detalles en el [sitio original](https://pub.uni-bielefeld.de/download/2942477/2942529/jschmidt_2015_zettelkasten als überraschungsgenerator.pdf).
 
 
-## Archivo Luhmann 
+
+
+## Descripción de conceptos del Archivo Luhmann en Español 
 A continuación, se presentan algunos de los temas que constituyen las **Notas del Archivo Luhmann**, cada una contiene el enlace para redireccionar a la nota original contenida en el archivo digitalizado en la página de la Universidad de Bielefeld. Cabe aclarar que de algunas notas no se encuentra el archivo original y algunas otras no han sido transcritas aún, por lo tanto no se encuentran disponibles.
 
 1. Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)
@@ -106,16 +89,18 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 57. Ciencias [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57_V)
 58. El problema como categoría de investigación [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_58_1_V)
 59. Recompensas como incentivos de desempeño y otros impulsores del desempeño [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_59_1_V)
-60. El proceso de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60_1_V)
+60. El proceso de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60_1_V)  
 
-**Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales
+**Créditos de la traducción:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales  
+
+
 
 ## Archivo Luhmann 2.0
-   
-61. Medición del rendimiento social y rendimiento organizativo de los servicios estatales [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)</li>
-62. Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)</li>
-63.  El lote como mecanismo de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_63_V)</li>
-64. Teoría de la probabilidad su papel general en la teoría del conocimiento [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_64_1_V)</li>
+
+61. Medición del rendimiento social y rendimiento organizativo de los servicios estatales [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_61_1_V)
+62. Rol [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_62_V)
+63.  El lote como mecanismo de toma de decisiones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_63_V)
+64. Teoría de la probabilidad su papel general en la teoría del conocimiento [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_64_1_V)
 65. Burocracia y literatura [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_65_1_V)
 66. El "espíritu" de las instituciones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_66_V)
 67. Nueva creación de organizaciones [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_67_V)
@@ -156,6 +141,8 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 102. Iniciativa [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_102_1_V)
 103. Orden social moderno [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_103_V)
 104. Circunscripción [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_104_V)
-105. Retroalimentación [Nota Original](https://niklasluhmannarchiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V)
+105. Retroalimentación [Nota Original](https://niklasluhmannarchiv.de/bestand/zettelkasten/zettel/ZK_1_NB_105_1_V)  
 
-**Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Oscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramirez Palma 
+**Créditos de la traducción Luhmann 2.0:** Daniela Arias Robles, Óscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramírez Palma.   
+
+[^ 1]: Zettelkasten:

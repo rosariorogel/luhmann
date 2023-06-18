@@ -7,20 +7,21 @@ permalink: Concepts
 
 # Conceptos Fundamentales de la TGSS 
 
-En esta sección se integran diversos videos con explicaciones simplificadas que ayudan a los usuarios a asimilar algunos conceptos clave de [N. Luhmann](https://es.wikipedia.org/wiki/Niklas_Luhmann).
+En esta sección, hemos utilizado tres herramientas clave para enriquecer la experiencia de aprendizaje y comprensión de la teoría de Niklas Luhmann:
 
-La integración de estos videos permite al usuario explorar y comprender mejor estos conceptos de una manera interactiva y accesible, ya que los videos son generados por [Inteligencia Artificial (IA)](https://www.enae.es/blog/la-inteligencia-artificial-en-nuestra-vida-diaria?gclid=EAIaIQobChMIyJX-0vvA_wIVdS7UAR0b4QqGEAAYAiAAEgLYM_D_BwE&_adin=11551547647). Esta sección brinda una experiencia de interación con el mismo Luhmann, otros compañeros que explican los conceptos claves, lo cual permite asimilar con mayor comodidad y eficacia la información. 
+1. **D-ID:** Con esta herramienta creamos los videos que están disponibles en los perfiles oficiales de **TikTok** y **YouTube** (que también creamos y están disponibles para que interactúes con ellos). Usamos la potencia de la Inteligencia Artificial (IA), para transformar y mejorar el contenido audiovisual. D-ID ha sido fundamental para proporcionar explicaciones visuales atractivas y efectivas de los conceptos de Luhmann.
+2. **Dall-E:** La utilizamos para manipular una imagen de Niklas Luhmann que cumpliera con las licencias de uso necesarias. Esta herramienta es capaz de generar imágenes increíbles y sorprendentes a partir de descripciones textuales detalladas. Con Dall-E logramos obtener una representación visual única de Luhmann, lo cual ha enriquecido aún más nuestra experiencia para explorar su obra teórica.
+3. **ChatGPT:** Recurrimos a esta herramienta para redactar los conceptos clave, así como para revisar y mejorar los subtítulos de los videos. Esta inteligencia artificial funciona como un procesador de texto avanzado, capaz de comprender y generar respuestas coherentes y contextuales. Gracias a ello hemos podido asegurar una comunicación fluida y natural, lo cual ha facilitado la comprensión de los conceptos de Luhmann y ha mejorado nuestra interacción en línea.
 
-Este proyecto fue desarrollado usando las herramientas:
-
-[D-ID](https://www.d-id.com/):Se utilizó para la creación de videos, los cuales están disponibles en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) y [YouTube: @NiklasLuhmann-ls2qf](https://www.youtube.com/channel/UCpSAuSUzURx5a5Casr7TLzQ). .D-ID, el productor de audiovisuales impulsado por inteligencia artificial, ofrece una amplia gama de capacidades para transformar y mejorar el contenido visual y sonoro. Con su avanzada tecnología, D-ID puede restaurar y remasterizar imágenes antiguas o de baja calidad, modificar facciones y voces en videos, sintetizar voces realistas a partir de texto, generar contenido visual y audiovisual completamente nuevo, editar automáticamente videos, mejorar la compresión de archivos y mucho más. Con D-ID, la creatividad y la calidad se fusionan con la potencia de la IA para ofrecer experiencias audiovisuales sorprendentes y personalizadas.
-
-[DALL-E](https://openai.com/blog/dall-e-now-available-without-waitlist):Se utilizó para generar una imagen de N. Luhmann con licencia libre, ya que las fotos en la web no suelen contar con este tipo de licencia. DALL-E es una revolucionaria inteligencia artificial diseñada para producir imágenes increíbles y sorprendentes. Con esta potente tecnología, DALL-E puede generar imágenes completamente nuevas a partir de descripciones textuales detalladas. Ya sea que necesites ilustraciones, diseños conceptuales o imágenes creativas y únicas, DALL-E puede llevar tus ideas más allá de los límites convencionales. Desde paisajes imaginarios hasta objetos y criaturas fantásticas, esta IA tiene la capacidad de transformar palabras en obras visuales asombrosas y de alta calidad. DALL-E redefine el proceso creativo y permite explorar nuevas posibilidades artísticas en la generación de imágenes.
-
-[CHAT GPT](https://chat.openai.com/): Se utilizo para redactar los concetos y sus ejemplos, y revisar la redacción de los subtítulos en los videos. CHAT GPT es una inteligencia artificial de vanguardia que funciona como un potente procesador de texto. Con CHAT GPT, puedes llevar tus interacciones y conversaciones en línea a un nivel completamente nuevo. Esta IA está diseñada para comprender y generar respuestas coherentes y contextuales, brindando una experiencia de chat fluida y natural. Ya sea que necesites soporte al cliente, asistencia en tiempo real o simplemente una conversación interesante, CHAT GPT está listo para ayudar. Su capacidad para comprender el lenguaje humano y generar respuestas relevantes lo convierte en una herramienta valiosa para mejorar la comunicación en tu página web. Descubre el poder de CHAT GPT y transforma la forma en que interactúas con tus usuarios en línea.
+Estas tres herramientas han sido fundamentales para crear una experiencia de aprendizaje dinámica, interactiva y accesible, permitiéndonos asimilar de manera efectiva los conceptos clave de Niklas Luhmann.
 
 
-## Autopoiésis
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+
+### Autopoiésis
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242440673322863878" target="_blank">Video en TikTok: Autopoiesis</a>
 
@@ -34,7 +35,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Evolución
+### Evolución
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242441169160899845?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Evolución</a>
 
@@ -48,7 +49,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Memoria
+### Memoria
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242441862731009285?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Memoria</a>
 
@@ -62,7 +63,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Sistema Psiquíco
+### Sistema Psiquíco
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242442328835722501?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sistema Psiquíco </a>
 
@@ -76,7 +77,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Adquisición evolutiva
+### Adquisiciones evolutivas
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242445587902205190?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Adquisición evolutiva</a>
 
@@ -90,7 +91,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Irritaciones
+### Irritaciones
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242446564675833093?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Irritaciones</a>
 
@@ -104,7 +105,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Distinción Sistema-entorno
+### Distinción Sistema-entorno
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242453156976692486?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Distinción Sistema-entorno</a>
 
@@ -118,7 +119,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Acoplamientos estructuales
+### Acoplamientos estructuales
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242454026195979525?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Acoplamientos estructurales</a>
 
@@ -132,7 +133,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Autonomía
+### Autonomía
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242457925539597574?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Autonomía</a>
 
@@ -146,7 +147,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Clausura operativa
+### Clausura operativa
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7244391586488978693?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Clausura operativa</a>
 
@@ -160,7 +161,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Funcionalismo
+### Funcionalismo
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242474320256077061?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Funcionalismo</a>
 
@@ -174,7 +175,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Reentry
+### Reentry
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242513536428051718?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Reentry</a>
 
@@ -188,7 +189,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Función
+### Función
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242514550388591877?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Función</a>
 
@@ -202,7 +203,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Medios de comunicación generalizados simbólicamente
+### Medios de comunicación simbólicamente generalizados
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medios de comunicación generalizados simbólicame</a>
 
@@ -216,7 +217,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Medium y forma
+### Medium y forma
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242518317762645253?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medium y forma</a>
 
@@ -230,7 +231,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Observación de segundo orden
+### Observación de segundo orden
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242531826533731589?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Observación de segundo orden</a>
 
@@ -244,7 +245,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Subsistemas funcionalistas diferenciados
+### Sistemas funcionalmente diferenciados
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242711454472834310?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Subsistemas funcionalistas diferenciados</a>
 
@@ -258,7 +259,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Sentido 
+### Sentido 
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242805542144576773?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sentido</a>
 
@@ -272,7 +273,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Diferenciación
+### Diferenciación
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242806181562043654?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Diferenciación</a>
 
@@ -286,7 +287,7 @@ Este proyecto fue desarrollado usando las herramientas:
 </html>
 
 
-## Complejidad
+### Complejidad
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242806484847873286?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Complejidad</a>
 
@@ -304,7 +305,13 @@ Este proyecto fue desarrollado usando las herramientas:
 
 # Conceptos Fundamentales de la TGSS por medio de redes sociales 
 
-La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo
+La creación de una cuenta en [Tik Tok: Luhmann2.0](https://www.tiktok.com/@luhmann2.0?_t=8d7HPBdHX9C&_r=1) y el enfoque en esta plataforma son de gran importancia para nuestra página web. TikTok ofrece un alcance masivo de audiencia, especialmente entre los usuarios más jóvenes, lo que nos permite llegar a un público diverso y global. Aprovechamos esta oportunidad para dar a conocer las teorías sociológicas de Niklas Luhmann. Nuestro objetivo es mostrar un lado diferente del sociólogo, presentando datos curiosos, enfoques alternativos y otros aspectos interesantes. Con esto, buscamos atraer al público y brindarles una perspectiva única sobre Niklas Luhmann desde otro ángulo.
+
+![Importancia de Niklas Luhmann en la Sociología alt >](/assets/img/Importancia.png)
+
+![Importancia de Niklas Luhmann en la Sociología](/Users/rosariorogel/Documents/GitHub/luhmann/assets/img/Importancia.png)https://www.tiktok.com/@luhmann2.0/video/7242405138600594693?is_from_webapp=1&sender_device=pc&web_id=7245878472236860933<img src="{{ site.baseurl }}/assets/img/Importancia.png" style="float:left;width:200px;padding-right:20px;">
+
+
 
 ## Importancia
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242514205377678598" target="_blank">Video en TikTok: Importancia de Niklas Luhmann en la sociología</a>
