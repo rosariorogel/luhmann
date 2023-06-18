@@ -1,4 +1,4 @@
-# Repositorio del sitio de Luhmann
+# Repositorio del sitio Luhmann Web
 
 Teoría Social en Web es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
 
