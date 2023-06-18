@@ -305,15 +305,23 @@ Nuestro objetivo principal es presentar un enfoque distinto de este destacado so
 
 ¡Únete a nuestra cuenta en TikTok, donde descubrirás una nueva forma de aprender sobre Teoría de Sistemas!
 
-## Importancia
+### Importancia de la propuesta teórica de N- Luhmann
 <iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242514205377678598" title="Importancia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Datos curiosos 
-<a href="https://www.tiktok.com/@luhmann2.0/video/7244189220728851718" target="_blank">Video en TikTok: 4 datos curiosos sobre Niklas Luhmann</a>
+### Cuatro datos curiosos de N. Luhmann 
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7244189220728851718" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.tiktok.com/@luhmann2.0/video/7244189220728851718" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Cuatro datos curiosos de N. Luhmann (parte 2)
 
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7244209456785919237" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### ¿Sabías qué...?
+
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242405138600594693" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### El archivo de Luhmann: la forma de trabajo de Luhmann
+
+<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242392686467075334" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Para ver más videos relacionados, visita nuestra página oficial de Tik Tok 
 
