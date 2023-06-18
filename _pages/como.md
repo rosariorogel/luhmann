@@ -48,9 +48,9 @@ _**Coordinación Luhmann 2.0:** Kay Zepeda Franco, Ana Laura León Piña, Brayan
 
 <img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Creamos una cuenta oficial en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.      
 
-Para la edición de videos que compartimos en **TikTok**, recurrimos a [**CapCut**](https://www.capcut.com/es-es/). Esta herramienta brinda la capacidad de crear y editar videos de forma sencilla y versátil, aprovechando una amplia variedad de recursos disponibles. Con **CapCut,** puedes editar texto, video y audio de manera intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos.  
+<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de videos que compartimos en **TikTok**, recurrimos a [**CapCut**](https://www.capcut.com/es-es/). Esta herramienta brinda la capacidad de crear y editar videos de forma sencilla y versátil, aprovechando una amplia variedad de recursos disponibles. Con **CapCut,** puedes editar texto, video y audio de manera intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos.  
 
-<img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;">  
+  
 
 _**Coordinación Luhmann 2.0:** Estefania Caamal, Samuel Torres y Montserrat Reynaga._
 
@@ -86,7 +86,7 @@ _**Coordinación Luhmann 2.0:** Andrea Fernanda Hernández Jiménez y Luis Ferna
 <img src="{{ site.baseurl }}/assets/img/GT.png" style="float:left;width:200px;padding-right:20px;">
 <img src="{{ site.baseurl }}/assets/img/DeepL.png" style="float:left;width:200px;padding-right:20px;"> 
 
-Con el objetivo de traducir al español las fichas que se encontraban en alemán, utilizamos softwares de traducción como [DeepL Translator](https://www.deepl.com/translator) y [Google Translator](https://translate.google.com/). Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
+Para la traducción utilizamos dos softwares [DeepL Translator](https://www.deepl.com/translator) y [Google Translator](https://translate.google.com/). Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
 
 _**Coordinación:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales._
 _**Coordinación Luhmann 2.0:** Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma._

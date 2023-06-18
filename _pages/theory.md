@@ -11,6 +11,8 @@ Esta sección se compone de diversas infografías que exponen de manera breve y 
 
 Al ser un material visual y de divulgación permite que el acercamiento a los conceptos luhmanianos sea agradable para quien se acerque a su lectura. Esto se logró gracias a la plataforma [Canva](https://www.canva.com/), pues ahí fue donde creamos estas imágenes. 
 
+***Créditos:** Aranza Cura-Lara, Jimena Garduño-Terrón y Zur Jiménez-Ocampo.*
+
 ## Biografía de Niklas Luhmann
 
 Se presenta un resumen de lo que fue la infancia, adolescencia y edad madura de Niklas Luhmann. Esta infografía contiene datos extra que caracterizaron a este gran sociólogo alemán.  
@@ -75,4 +77,3 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Concepto de sentido para Luhmann</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Zuri Yael Jiménez Ocampo</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>. 
 
-***Créditos:** Aranza Cura-Lara, Jimena Garduño-Terrón y Zur Jiménez-Ocampo.*

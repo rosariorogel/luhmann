@@ -21,3 +21,6 @@ Para poder visualizar las anotaciones es preciso registrar una cuenta en Hypothe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klIKXj1qnUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+***Créditos:** Rosario Rogel*

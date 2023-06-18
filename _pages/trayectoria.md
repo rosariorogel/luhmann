@@ -15,8 +15,9 @@ Para navegar a través del [ArGis](https://www.arcgis.com/index.html) sólo tien
 
 Todas las imágenes que se integran cuentan con una licencia [Creative Commons](https://creativecommons.org/licenses/?lang=es) que permite el reuso de información y la bibliografía que se utilizó está integrada en el [grupo abierto de Zotero](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex) de esta misma página web.
 
+***Créditos:** Andrea Gutiérrez, Andrea Álvarez, Lizbeth Aguilar, Alexia Chacón y Montserrat Hernández.* 
+
 <iframe src="https://storymaps.arcgis.com/stories/bd1ab7dbffb34ddb93de9beb35997b38" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <div style="clear:both"></div>
 
-***Créditos:** Andrea Gutiérrez, Andrea Álvarez, Lizbeth Aguilar, Alexia Chacón y Montserrat Hernández.* 

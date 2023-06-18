@@ -1,11 +1,20 @@
 ---
 layout: page
-title: Conceptos Fundamentales
+title: Conceptos TSS
 subtitle: Teoría General de Sistemas Sociales
 permalink: Concepts
 ---
 
-# Conceptos Fundamentales de la TGSS 
+# Conceptos fundamentales de la TSS 
+
+En este apartado encontrarás dos proyectos que buscan explicar los conceptos fundamentales de la  Teoría de Sistemas Sociales de Niklas Luhmann:
+
+1. Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann. ***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
+2. Explorando la Teoría de Sistemas de Luhmann en TikTok. ***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
+
+### Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann
+
+---
 
 En esta sección, hemos utilizado tres herramientas clave para enriquecer la experiencia de aprendizaje y comprensión de la teoría de Niklas Luhmann:
 
@@ -57,7 +66,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </html>
 
 
-### Sistema Psiquíco
+### Sistema Psíquico
 
 <a href="https://www.tiktok.com/@luhmann2.0/video/7242442328835722501?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Sistema Psiquíco </a>
 
@@ -199,7 +208,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 
 ### Medios de comunicación simbólicamente generalizados
 
-<a href="https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medios de comunicación generalizados simbólicame</a>
+<a href="https://www.tiktok.com/@luhmann2.0/video/7242515522040941830?is_from_webapp=1&sender_device=pc&web_id=7243672292730439174" target="_blank">Video en TikTok: Medios de comunicación generalizados simbólicamente</a>
 
 <html>
 <head>
@@ -294,10 +303,9 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+### Explorando la Teoría de Sistemas de Luhmann en TikTok
 
-***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Isamael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
-
-# Conceptos Fundamentales de la TGSS por medio de redes sociales 
+---
 
 La creación de una cuenta en TikTok es una de las novedades de Luhmann 2.0, la plataforma nos permite alcanzar a una audiencia amplia y diversa, especialmente entre los usuarios más jóvenes, lo que nos permite difundir la teoría sociológica de Niklas Luhmann de forma más amplia.
 
@@ -323,8 +331,13 @@ Nuestro objetivo principal es presentar un enfoque distinto de este destacado so
 
 <iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7242392686467075334" title="Datos curiosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Para ver más videos relacionados, visita nuestra página oficial de Tik Tok 
+
+
+## Para ver más videos relacionados, visita nuestra página oficial de Tik Tok 
+
+---
+
+ 
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@luhmann2.0" data-unique-id="luhmann2.0" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@luhmann2.0?refer=creator_embed">@luhmann2.0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script> 
 
-***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*

@@ -13,6 +13,8 @@ El tema ha sido abordado desde la ciencia ficción, P.K. Dirk [¿Sueñan los and
 
 En esta sección te ofrecemos algunas reflexiones al respecto, presentadas en forma de pequeños videos de no más de 5 minutos donde se aborda la constitución de un imaginario de inteligencia artificial a partir del procesamiento de información. Se examina la propuesta de Maturana y Varela, y se intenta repensar el estudio de la vida como un proceso continuo de autoorganización. 
 
+***Créditos:** Rosario Rogel*
+
 
 <iframe
     width="600"

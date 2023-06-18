@@ -5,15 +5,20 @@ subtitle: Cursos, Seminarios, Talleres, Conferencias, Materiales didácticos y d
 permalink: oer
 ---
 
-# Conferencias en línea impartidas por Niklas Luhmann
+# Conferencias en línea sobre la TGS
 
+En este apartado, reunimos conferencias en línea impartidas por Niklas Luhmann y expertos que exploran su propuesta teórica. Estas conferencias ofrecen una valiosa oportunidad para acceder al conocimiento e ideas de este destacado sociólogo.
+
+Niklas Luhmann, reconocido por su contribución a la Teoría de Sistemas, compartió su enfoque sociológico en conferencias magistrales. Ahora, a través de plataformas en línea, podemos acceder a grabaciones de estas conferencias y sumergirnos en su pensamiento. Exploramos temas clave como la diferenciación funcional y la autopoiesis, analizando en profundidad las ideas fundamentales que han influenciado la sociología y más allá.
+
+Esta recopilación brinda una oportunidad de aprendizaje en un entorno accesible y conveniente.
+
+***Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.*
 
 ### El cierre del sistema legal 
+
 En el canal de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasSociales/), se puede localizar una versión de la conferencia *El cierre del sistema legal* pronunciada por Niklas Luhmann, como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
 <iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-
-# Cursos, Seminarios, Talleres disponibles en línea 
 
 
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
@@ -103,4 +108,3 @@ Sesion 3 : Evaluacion y construccion de escenarios de riesgos
 Sesion 4:  Estrategias de intervencion para la gestion del riesgo  
 
 
-***Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.*

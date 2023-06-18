@@ -9,6 +9,8 @@ En esta sección puedes encontrar una visualización cronológica disponible en 
 
 Para realizar las líneas del tiempo se utilizó la herramienta de código abierto [Time Line JS](https://timeline.knightlab.com/#preview-embed), que permite a cualquier persona crear líneas de tiempo interactivas. Los principiantes pueden crear una línea de tiempo usando una hoja de cálculo de Google que también puede extraer una variedad de fuentes digitales como Wikipedia, Youtube, Google Maps etc. 
 
+***Créditos:** Isabel Colin Torres y Thania Hernández Sánchez.*
+
 # Línea del tiempo de Luhmann
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11djntquCg-T5iJTMu5eHjXSfnEfTMldccdGMaFMZ1rE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -18,4 +20,3 @@ Para realizar las líneas del tiempo se utilizó la herramienta de código abier
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1giA-Cl09MNGzFUIIwuSmDV9IXBCQHE4D827rBk3CR8w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-***Créditos:** Isabel Colin Torres y Thania Hernández Sánchez.*
