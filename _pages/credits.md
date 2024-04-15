@@ -5,6 +5,17 @@ subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
+
+## Actualización del sitio Luhmann 3.0
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoOswRoa.JPG" style="float:left;width:200px;padding-right:20px;">
+**Oswaldo Rafael Gutiérrez Roa** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones.
+
+Intagram: [@OswaldoRoaGl1](https://www.instagram.com/oswaldoroag/))
+
+
 ## Actualización del sitio Luhmann 2.0
 
 <div style="clear: both;"></div>
