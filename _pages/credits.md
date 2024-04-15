@@ -10,7 +10,10 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlexRangel.jpg" style="float:left;width:200px;padding-right:20px;">
+**Diego Alejandro López Rangel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política, Medio de comunicación y Opinión Pública.
 
+Intagram: [@tre.alex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz))
 
 ## Actualización del sitio Luhmann 2.0
 
