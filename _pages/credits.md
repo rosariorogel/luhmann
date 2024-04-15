@@ -13,7 +13,7 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoOswRoa.JPG" style="float:left;width:200px;padding-right:20px;">
 **Oswaldo Rafael Gutiérrez Roa** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones.
 
-Intagram: [@OswaldoRoaGl1](https://www.instagram.com/oswaldoroag/))
+Intagram: [@OswaldoRoaGl1](https://www.instagram.com/oswaldoroag/)
 
 
 ## Actualización del sitio Luhmann 2.0
