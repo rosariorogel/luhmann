@@ -29,6 +29,7 @@ Intagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz)
 
 Intagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
 
+
 ## Actualización del sitio Luhmann 2.0
 
 <div style="clear: both;"></div>
