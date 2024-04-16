@@ -13,7 +13,7 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoMarisolGuzmánBlanco.jpg" style="float:left;width:200px;padding-right:20px;">
 **Marisol Guzmán Blanco** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/) y de Ciencias Políticas en [Universidad Nacional Autónoma de México](https://www.unam.mx/). Temas de interés: historia, sistemas políticos, movimientos sociales, pensamiento crítico, micro y macro sociología, fenomenología y sociología rural.
 
-Instagram:https: [//www.instagram.com/maar.gzmn/]  
+Instagram:https: [www.instagram.com/maar.gzmn]  
 
 <div style="clear: both;"></div>
 
