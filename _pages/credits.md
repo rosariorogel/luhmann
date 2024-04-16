@@ -10,6 +10,13 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/Foto Leonardo Godínez .jpg" style="float:left;width:200px;padding-right:20px;">
+**Leonardo Godínez Sánchez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología, historia, música, artes y sociología rural.
+
+Instagram:https: [@leogs5](https://www.instagram.com/leogs5/)
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/Foto Marisol Guzmán Blanco .jpg" style="float:left;width:200px;padding-right:20px;">
 **Marisol Guzmán Blanco** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/) y de Ciencias Políticas en [Universidad Nacional Autónoma de México](https://www.unam.mx/). Temas de interés: historia, sistemas políticos, movimientos sociales, pensamiento crítico, micro y macro sociología, fenomenología y sociología rural.
 
