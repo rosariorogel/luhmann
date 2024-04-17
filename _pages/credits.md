@@ -13,6 +13,8 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaDesireeCruz.jpg" style="float:left;width:200px;padding-right:20px;">
 **Andrea Desiree Cruz Rodriguez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Software aplicado a las ciencias sociales, metodologia cualitativa, estudios fenomenologicos y sociologia urbana.
 
+Facebook: [Andrea Cruz](https://www.facebook.com/profile.php?id=61554794530694&mibextid=JRoKGi)
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/Foto Leonardo Godínez .jpg" style="float:left;width:200px;padding-right:20px;">
