@@ -23,4 +23,4 @@ Para realizar las líneas del tiempo se utilizó la herramienta de código abier
 
 # Obras actuales que retoman la teoría de Luhmann
 
-En este apartado encontrarás enlaces de acceso a los diferentes trabajos escritos de autores actuales que se han dedicado a seguir la obra de Luhman retomando sus conceptos y teoría a problems del mundo actual.
+Niklas Luhmann, uno de los sociologios más influyentes del siglo XX, desarrolló una teoría de sistemas sociales que ha dejado una profunda huella en el estudiio de la sociología contemporánea. En este apartado, encontrarás enlaces de acceso a los diferentes trabajos escritos de autores actuales, que resultan significativas ya que han retomado y expandido las ideas de Luhmann aplicandolas a diversos contextos y problemas sociales del mundo.
