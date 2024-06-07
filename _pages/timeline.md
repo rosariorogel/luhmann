@@ -22,3 +22,5 @@ Para realizar las líneas del tiempo se utilizó la herramienta de código abier
 
 
 # Obras actuales que retoman la teoría de Luhmann
+
+En este apartado encontrarás enlaces de acceso a los diferentes trabajos escritos de autores actuales que se han dedicado a seguir la obra de Luhman retomando sus conceptos y teoría a problems del mundo actual.
