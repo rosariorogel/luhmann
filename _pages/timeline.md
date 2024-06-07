@@ -20,3 +20,5 @@ Para realizar las líneas del tiempo se utilizó la herramienta de código abier
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1giA-Cl09MNGzFUIIwuSmDV9IXBCQHE4D827rBk3CR8w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
+# Obras actuales que retoman la teoría de Luhmann
