@@ -90,6 +90,17 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+<a href="https://www.youtube.com/shorts/w_l9o_ca9dE" target="_blank">Video en TikTok: Sistema Psiquíco </a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/shorts/w_l9o_ca9dE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
+
 
 ### Adquisiciones evolutivas
 
