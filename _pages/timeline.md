@@ -32,3 +32,5 @@ Niklas Luhmann, uno de los sociologios m√°s influyentes del siglo XX, desarroll√
 <iframe src='https://repositorio.pucp.edu.pe/index/handle/123456789/183666 width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
+
+
