@@ -77,3 +77,30 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Concepto de sentido para Luhmann</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Zuri Yael Jiménez Ocampo</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>. 
 
+## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
+
+A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas.
+
+### A favor:
+
+1. **Rudolf Stichweh**: Sociólogo que ha trabajado extensamente en la teoría de sistemas y ha utilizado el marco de Luhmann para analizar la diferenciación social.
+   - **Referencia**: Stichweh, R. (s/f). En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.
+
+2. **Helmut Willke**: Sociólogo alemán que ha contribuido al desarrollo de la teoría de sistemas y ha aplicado los conceptos de Luhmann en sus trabajos sobre gobernanza y complejidad.
+   - **Referencia**: Willke, H. (2016). Formas de autoorientación de la sociedad. Revista Mad, 0(34).
+
+3. **Dirk Baecker**: Ha sido uno de los principales defensores y desarrolladores de las ideas de Luhmann, aplicando la teoría de sistemas a diversos campos como la economía y la organización.
+   - **Referencia**: Baeker, D. (2010). Theorie der modernen Gesellschaft. Dekonstruktion der Systeme.
+
+### En contra:
+
+1. **Jürgen Habermas**: Aunque no es una crítica directa a Luhmann, Habermas propone una teoría alternativa centrada en la acción comunicativa que contrasta fuertemente con la teoría de sistemas de Luhmann.
+   - **Referencia**: Habermas, J. (1981). Teoría de la acción comunicativa.
+
+2. **Axel Honneth**: Honneth critica la teoría de sistemas por no abordar adecuadamente las dimensiones normativas y las luchas por el reconocimiento en la sociedad.
+   - **Referencia**: Honneth, A. (1995). The Struggle for Recognition: The Moral Grammar of Social Conflicts.
+
+3. **Richard Münch**: Münch examina las teorías sociales contemporáneas, incluyendo una crítica detallada de la teoría de sistemas de Luhmann, argumentando que se aleja de las preocupaciones reales de la gente.
+   - **Referencia**: Münch, R. (2001). Die Struktur der modernen Gesellschaft.
+
+***Créditos:** Andrea Desiree Cruz Rodríguez, Leonardo Godínez Sánchez y Saul Piña Gonzalez. 
