@@ -97,7 +97,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/shorts/w_l9o_ca9dE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/w_l9o_ca9dE" title="SISTEMA PSIQUÍCO - Niklas Luhmann" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 </html>
 
@@ -234,7 +234,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
     <title>YouTube Shorts</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/shorts/h88YuVu3n0w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="315" height="560" src="https://www.youtube.com/embed/h88YuVu3n0w" title="FUNCIÓN para Niklas Luhmann" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 </body>
 </html>
 
@@ -247,7 +247,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
     <title>YouTube Video</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/G5j6qKRZ6VU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   <iframe width="315" height="560" src="https://www.youtube.com/embed/epdY5rXF39E" title="MEDIOS DE COMUNICACIÓN GENERALIZADOS SIMBÓLICAMENTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 </body>
 </html>
 
