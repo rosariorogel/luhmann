@@ -13,4 +13,9 @@ Por su propia naturaleza, esta sección de la página está en constante actuali
 
 ***Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez.*
 
+En el ciclo 2024B, agregamos ***
+
+***Créditos:** Sus nombres.*
+
+
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3DgOUOgVBZemqERoSIQtIxhuVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
