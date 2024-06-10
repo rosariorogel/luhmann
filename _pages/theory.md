@@ -84,23 +84,35 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
 ### A favor:
 
 1. **Rudolf Stichweh**: Sociólogo que ha trabajado extensamente en la teoría de sistemas y ha utilizado el marco de Luhmann para analizar la diferenciación social.
-   - **Referencia**: Stichweh, R. (s/f). En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.
 
-2. **Helmut Willke**: Sociólogo alemán que ha contribuido al desarrollo de la teoría de sistemas y ha aplicado los conceptos de Luhmann en sus trabajos sobre gobernanza y complejidad.
+    - **Referencia**: Stichweh, R. (s/f). En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.
+
+
+3. **Helmut Willke**: Sociólogo alemán que ha contribuido al desarrollo de la teoría de sistemas y ha aplicado los conceptos de Luhmann en sus trabajos sobre gobernanza y complejidad.
+
    - **Referencia**: Willke, H. (2016). Formas de autoorientación de la sociedad. Revista Mad, 0(34).
 
-3. **Dirk Baecker**: Ha sido uno de los principales defensores y desarrolladores de las ideas de Luhmann, aplicando la teoría de sistemas a diversos campos como la economía y la organización.
-   - **Referencia**: Baeker, D. (2010). Theorie der modernen Gesellschaft. Dekonstruktion der Systeme.
+
+4. **Dirk Baecker**: Ha sido uno de los principales defensores y desarrolladores de las ideas de Luhmann, aplicando la teoría de sistemas a diversos campos como la economía y la organización.
+
+    - **Referencia**: Baeker, D. (2010). Theorie der modernen Gesellschaft. Dekonstruktion der Systeme.
+
 
 ### En contra:
 
 1. **Jürgen Habermas**: Aunque no es una crítica directa a Luhmann, Habermas propone una teoría alternativa centrada en la acción comunicativa que contrasta fuertemente con la teoría de sistemas de Luhmann.
-   - **Referencia**: Habermas, J. (1981). Teoría de la acción comunicativa.
 
-2. **Axel Honneth**: Honneth critica la teoría de sistemas por no abordar adecuadamente las dimensiones normativas y las luchas por el reconocimiento en la sociedad.
-   - **Referencia**: Honneth, A. (1995). The Struggle for Recognition: The Moral Grammar of Social Conflicts.
+    - **Referencia**: Habermas, J. (1981). Teoría de la acción comunicativa.
 
-3. **Richard Münch**: Münch examina las teorías sociales contemporáneas, incluyendo una crítica detallada de la teoría de sistemas de Luhmann, argumentando que se aleja de las preocupaciones reales de la gente.
-   - **Referencia**: Münch, R. (2001). Die Struktur der modernen Gesellschaft.
 
-***Créditos:** Andrea Desiree Cruz Rodríguez, Leonardo Godínez Sánchez y Saul Piña Gonzalez. 
+3. **Axel Honneth**: Honneth critica la teoría de sistemas por no abordar adecuadamente las dimensiones normativas y las luchas por el reconocimiento en la sociedad.
+
+    - **Referencia**: Honneth, A. (1995). The Struggle for Recognition: The Moral Grammar of Social Conflicts.
+
+
+5. **Richard Münch**: Münch examina las teorías sociales contemporáneas, incluyendo una crítica detallada de la teoría de sistemas de Luhmann, argumentando que se aleja de las preocupaciones reales de la gente.
+
+    - **Referencia**: Münch, R. (2001). Die Struktur der modernen Gesellschaft.
+
+
+***Créditos:** Andrea Desiree Cruz Rodríguez, Leonardo Godínez Sánchez y Saúl Piña González.*
