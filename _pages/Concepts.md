@@ -90,7 +90,7 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
-<a href="https://www.youtube.com/shorts/w_l9o_ca9dE" target="_blank">Video en TikTok: Sistema Psiquíco </a>
+<a href="https://www.youtube.com/shorts/w_l9o_ca9dE" target="_blank">Video en YouTube shorts: Sistema Psiquíco </a>
 
 <html>
 <head>
