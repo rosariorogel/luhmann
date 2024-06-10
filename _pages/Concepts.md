@@ -227,6 +227,16 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+<a href="https://www.youtube.com/shorts/h88YuVu3n0w" target="_blank">Video en YouTube shorts: Función</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/shorts/h88YuVu3n0w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ### Medios de comunicación simbólicamente generalizados
 
