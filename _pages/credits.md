@@ -8,6 +8,13 @@ permalink: credits
 
 ## Actualización del sitio Luhmann 3.0
 
+<img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
+**Lizeth Robles Benitez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Estudios latinoamericanos, Sociología Constructivista, Movimientos sociales y reincersión social.
+
+Instagram: [@lizeth_roblesb](https://www.instagram.com/lizeth_roblesb?igsh=MWNpcmxwcWNoeGV5bw==)
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
 
@@ -57,7 +64,7 @@ Facebook: [María Fernanda González Paulino](https://www.facebook.com/mariafern
 <img src="{{ site.baseurl }}/assets/img/FotoAlexRangel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Diego Alejandro López Rangel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política, Medios de comunicación y Opinión Pública.
 
-Intagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz)
+Instagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz)
 
 <div style="clear: both;"></div>
 
