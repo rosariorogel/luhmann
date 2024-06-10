@@ -241,6 +241,16 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+<a href="https://www.youtube.com/shorts/epdY5rXF39E" target="_blank">Video en YouTube shorts: Medios de comunicación generalizados simbólicamente</a>
+
+<html>
+<head>
+    <title>YouTube Video</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/shorts/epdY5rXF39E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ### Medium y forma
 
