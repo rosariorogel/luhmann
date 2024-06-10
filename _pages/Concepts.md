@@ -11,7 +11,7 @@ En este apartado encontrarás dos proyectos que buscan explicar los conceptos fu
 
 > 1. Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann. ***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
 > 2. Explorando la Teoría de Sistemas de Luhmann en TikTok. ***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
-> 3. Con los conceptos recuperados de nuestros colegas decidimos comenzar una explicación realizada por alumnos. 
+> 3. Con los conceptos recuperados de nuestros colegas decidimos comenzar una explicación realizada por alumnos. **Créditos:** Karla Gómez Segura y Marisol Guzmán Blanco.*
 
 ### Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann
 
