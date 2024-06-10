@@ -38,6 +38,16 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+<a href="https://www.youtube.com/shorts/8TJxV9cqR8Q" target="_blank">Video en YouTube shorts: Autopoiesis</a>
+
+<html>
+<head>
+    <title>YouTube Shorts</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/shorts/8TJxV9cqR8Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
 ### Evolución
 
