@@ -33,6 +33,8 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 
 **1) Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)**
 
+<img src="{{ site.baseurl }}/assets/img/ZK1.jpg" style="float:left;width:200px;padding-right:20px;">
+
 Referencias:
 
 Véase Vierkandt, Alfred (1928) [13,4g1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_13-4g1_V)
