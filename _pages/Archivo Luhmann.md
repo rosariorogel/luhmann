@@ -33,7 +33,8 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 
 **1) Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)**
 
-<img src="{{ site.baseurl }}/assets/img/ZK1.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/ZK1.jpg" style="float:left;width:400px;padding-right:20px;">
+
 
 Referencias:
 
@@ -67,6 +68,9 @@ Literatura
 
 **1a) Unidad y Unificación del grupo en general (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)**
 
+<img src="{{ site.baseurl }}/assets/img/ZK1a.jpg" style="float:left;width:400px;padding-right:20px;">
+
+
 Sobre el problema de la unidad de un colectivo. Véase _grundsätzlich_ (En principio) [78,17](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_78-17_V)
 
 Sistema. Vinculación del problema de la unidad con el problema de la identificación de los constituyentes, véase _Horizont - Substanz - Identität der Dinge_ [Horizonte - Sustancia - Identidad de las cosas] [57,4e7b1e](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57-4e7b1e_V)
@@ -79,6 +83,9 @@ Unidad de una organización [28,10f4o](https://niklas-luhmann-archiv.de/bestand/
 
    **1,5) Críticas a las soluciones anteriores al problema unitario: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)**
 
+<img src="{{ site.baseurl }}/assets/img/ZK1_5.jpg" style="float:left;width:400px;padding-right:20px;">
+
+
 Ya sea: Ocultación del problema de la unidad mediante conceptos racionales conceptos como representación, identidad, que equivalen a una ficción de unidad. [A](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5A_V)
 
 O bien: intentos unilaterales (unidimensionales) de explicación p. ej., teoría del miedo (Hobbes), teoría del consentimiento (Rousseau) [B](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5B_V), hábito (Sir Henry Maine), utilitarismo (Bentham), promoción benevolente (absolutismo ilustrado).
@@ -86,6 +93,9 @@ O bien: intentos unilaterales (unidimensionales) de explicación p. ej., teoría
 O bien: compromiso unilateral con un solo tipo unitario, por ejemplo, sistema (Kelsen), unidad de acción (Heller), igualdad (teoría inglesa del Estado, p. ej. Finer).
 
    **1,6) La esencia de la unidad del Estado: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V)** [**2**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-2_V)**;** [**3**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-3_V)
+
+<img src="{{ site.baseurl }}/assets/img/ZK1_6.jpg" style="float:left;width:400px;padding-right:20px;">
+
 
 En última instancia, esto (la esencia de la unidad) no puede ser comprendido por la teoría organizativa. Ahora que se ha abandonado la clara ficción racionalista de la unidad, la única vía que queda es una reducción deliberadamente unilateral del problema (unidad de decisión y unidad de efecto) a lo calculable y simultáneo: la resolución a la simple cuestión de estructuras complicadas. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-1_V)
 
