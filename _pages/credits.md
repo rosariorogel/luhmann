@@ -8,7 +8,7 @@ permalink: credits
 
 ## Actualización del sitio Luhmann 3.0
 
-<img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
+!<img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizeth Robles Benitez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Estudios latinoamericanos, Sociología Constructivista, Movimientos sociales y reincersión social.
 
 Instagram: [@lizeth_roblesb](https://www.instagram.com/lizeth_roblesb?igsh=MWNpcmxwcWNoeGV5bw==)
