@@ -13,7 +13,9 @@ Por su propia naturaleza, esta sección de la página está en constante actuali
 
 ***Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez.*
 
-En el ciclo 2024A, hemos añadido tesis referenciadas en las obras principales de Niklas Luhmann, encontradas en diversos repositorios de universidades públicas y privadas. Para acceder a estas tesis, debes unirte al grupo en Zotero, una herramienta digital de acceso abierto que permite revisar estas obras [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)   ***
+En el ciclo 2024A, se añadieron tesis referenciadas de las obras principales de Niklas Luhmann, encontradas en repositorios universitarios públicos y privados. Para tener acceso a estas tesis unete al grupo de Zotero en donde encontraras apartados especificos, particularmente la carpeta tesis de luhmann dividida en dos secciones:Tesis Doctorado y Tesis Maestria.
+
+Zotero es una herramienta digital de acceso abierto que permite acceder a estas obras, las cuales se encuantran en [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)   ***
 
 ***Créditos:** Daniela Arias Robles, Maria Fernanda Gonzalez Paulino, Erik Salazar Rosas*
 
