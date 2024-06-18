@@ -13,9 +13,10 @@ Por su propia naturaleza, esta sección de la página está en constante actuali
 
 ***Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez.*
 
-En el ciclo 2024B, agregamos ***
+En el ciclo 2024A, hemos añadido tesis referenciadas en las obras principales de Niklas Luhmann, encontradas en diversos repositorios de universidades públicas y privadas. Para acceder a estas tesis, debes unirte al grupo en Zotero, una herramienta digital de acceso abierto que permite revisar estas obras [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)   ***
 
-***Créditos:** Sus nombres.*
+***Créditos:** Daniela Arias Robles, Maria Fernanda Gonzalez Paulino, Erik Salazar Rosas*
 
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3DgOUOgVBZemqERoSIQtIxhuVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
