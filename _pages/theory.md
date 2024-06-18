@@ -77,6 +77,14 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Concepto de sentido para Luhmann</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Zuri Yael Jiménez Ocampo</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>. 
 
+## Subsistema Económico
+
+En esta infografía hablamos del Subsistema Económico el cual se ocupa de la producción, distribución y consumo de bienes y servicios. Su función principal es la asignación de recursos escasos.
+
+
+
+
+
 ## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
 
 A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas.
