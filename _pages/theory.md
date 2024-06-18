@@ -12,6 +12,7 @@ Esta sección se compone de diversas infografías que exponen de manera breve y 
 Al ser un material visual y de divulgación permite que el acercamiento a los conceptos luhmanianos sea agradable para quien se acerque a su lectura. Esto se logró gracias a la plataforma [Canva](https://www.canva.com/), pues ahí fue donde creamos estas imágenes. 
 
 ***Créditos:** Aranza Cura-Lara, Jimena Garduño-Terrón y Zur Jiménez-Ocampo.*
+***Créditos Luhmann 3.0:** Regina Elizabeth Montalvo González.*
 
 ## Biografía de Niklas Luhmann
 
