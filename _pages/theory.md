@@ -87,7 +87,7 @@ En esta infografía hablamos del Subsistema Económico el cual se ocupa de la pr
     <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
 </a>
 <br />
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Biografía de Niklas Luhmann</span> by 
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Económico</span> by 
 <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
 is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
 <br />Creado a partir de la obra en 
