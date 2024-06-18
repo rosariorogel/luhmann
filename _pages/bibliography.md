@@ -17,7 +17,7 @@ En el ciclo 2024A, se añadieron tesis referenciadas de las obras principales de
 
 Zotero es una herramienta digital de acceso abierto que permite vincular a estas obras, las cuales se encuantran en [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)   ***
 
-***Créditos:** Daniela Arias Robles, Maria Fernanda Gonzalez Paulino, Erik Salazar Rosas*
+***Créditos:** Daniela Arias-Robles, Maria Fernanda Gonzalez-Paulino, Erik Salazar-Rosas*
 
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3DgOUOgVBZemqERoSIQtIxhuVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
