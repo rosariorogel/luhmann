@@ -79,7 +79,7 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Concepto de sentido para Luhmann</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Zuri Yael Jiménez Ocampo</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>. 
 
-## Subsistema Económico
+## Subsistema Economíco
 
 En esta infografía hablamos del Subsistema Económico el cual se ocupa de la producción, distribución y consumo de bienes y servicios. Su función principal es la asignación de recursos escasos.
 
@@ -139,6 +139,107 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 <br />Creado a partir de la obra en 
 <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
 
+## Subsistema Cientifíco
+
+En la infografía nos hablan del encargado de la producción y validación del conocimiento. Su función es la búsqueda de la verdad y el desarrollo del conocimiento.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg/800px-Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg" 
+    alt="Subsistema de Luhmann, CIENTÍFICO" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Cientifíco</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+## Subsistema Educativo
+
+En la infografía se retrata el sistema dedicado a la transmisión y creación de conocimientos y habilidades. Su función es la socialización y la preparación de individuos para sus roles en la sociedad.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Subsistema_de_Luhmann%2C_Educativo.jpg/800px-Subsistema_de_Luhmann%2C_Educativo.jpg" 
+    alt="Subsistema Educativo de Luhmann" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Educativo</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+## Subsistema Jurídico
+
+Esta infografía nos habla que el sistema esta enfocado en la creación, interpretación y aplicación de las leyes. Su función es garantizar la justicia y la resolución de conflictos.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Jur%C3%ADdico.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Subsistema_de_Luhmann%2C_Jur%C3%ADdico.jpg/800px-Subsistema_de_Luhmann%2C_Jur%C3%ADdico.jpg" 
+    alt="Subsistema Jurídico de Luhmann" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Jurídico</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+## Subsistema Político
+
+En esta infografía nos hablan del Subsistema Político responsable de la toma de decisiones colectivas y la implementación de políticas públicas. Su función es la regulación del poder y el mantenimiento del orden.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Pol%C3%ADtico.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Subsistema_de_Luhmann%2C_Pol%C3%ADtico.jpg/800px-Subsistema_de_Luhmann%2C_Pol%C3%ADtico.jpg" 
+    alt="Subsistema Político de Luhmann" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Político</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+## Subsistema de la Religión
+
+Esta infografía nos habla de proporcionar significado y sentido de trascendencia. Su función es la orientación espiritual y la cohesión social.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistemas_de_Luhmann,_Religi%C3%B3n.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Subsistemas_de_Luhmann%2C_Religio%CC%81n.jpg/800px-Subsistemas_de_Luhmann%2C_Religio%CC%81n.jpg" 
+    alt="Subsistema de la Religión de Luhmann" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Biografía de Niklas Luhmann</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Aranza Cura Lara</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
 
 
 
