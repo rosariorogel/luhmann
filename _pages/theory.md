@@ -100,7 +100,7 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 <br />Creado a partir de la obra en 
 <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
 
-
+## Subsistema del Arte 
 
 ## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
 
