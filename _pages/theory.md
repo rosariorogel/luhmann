@@ -83,10 +83,8 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 En esta infografía hablamos del Subsistema Económico el cual se ocupa de la producción, distribución y consumo de bienes y servicios. Su función principal es la asignación de recursos escasos.
 
-<br />
-<a href="https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Subsistema_Economico.jpg/800px-Subsistema_Economico.jpg" 
-    alt="Subsistema de Luhmann, Economico" style="border-width:0; width:200px; height:auto;" />
+<a title="Regina Elizabeth Montalvo González, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg">
+    <img width="200" alt="Subsistema de Luhmann, Economico" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Subsistema_Economico.jpg/800px-Subsistema_Economico.jpg">
 </a>
 
 
@@ -130,6 +128,7 @@ Esta infografía habla del subsistema del amor, se centra en las relaciones ínt
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amor_de_Luhmann.jpg/800px-Amor_de_Luhmann.jpg" 
     alt="Subsistema del amor" style="border-width:0; width:200px; height:auto;" />
 </a>
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
