@@ -102,6 +102,48 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 
 ## Subsistema del Arte 
 
+En esta infografía se habla del subsistema del arte, se enfoca en la creación y percepción estética dentro de la sociedad. Este subsistema opera utilizando un código binario de "bello/feo", que es esencial para evaluar y distinguir las obras artísticas.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Subsistema_de_Luhmann.jpg/800px-Subsistema_de_Luhmann.jpg" 
+    alt="Luhmann y el Subsistema del Arte" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema del Arte</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+## Subsistema del Amor 
+
+Esta infografía habla del subsistema del amor, se centra en las relaciones íntimas y la comunicación afectiva entre individuos dentro de la sociedad. Este subsistema utiliza un código binario de "amor/desamor" para estructurar las interacciones y vínculos afectivos.
+
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amor_de_Luhmann.jpg/800px-Amor_de_Luhmann.jpg" 
+    alt="Subsistema del amor" style="border-width:0; width:200px; height:auto;" />
+</a>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema del Amor</span> by 
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Regina Elizabeth Montalvo González</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.
+<br />Creado a partir de la obra en 
+<a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
+
+
+
 
 # Autores y sus contribuciones relacionadas con los conceptos de Niklas Luhmann
 
