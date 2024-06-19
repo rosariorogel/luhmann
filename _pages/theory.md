@@ -85,6 +85,7 @@ En esta infografía hablamos del Subsistema Económico el cual se ocupa de la pr
 
 <a title="Zuri Yael Jiménez Ocampo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg">
     <img width="200" alt="Subsistema de Luhmann, Economico" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Subsistema_Economico.jpg/800px-Subsistema_Economico.jpg">
+    
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
     <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
@@ -121,8 +122,8 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 
 Esta infografía habla del subsistema del amor, se centra en las relaciones íntimas y la comunicación afectiva entre individuos dentro de la sociedad. Este subsistema utiliza un código binario de "amor/desamor" para estructurar las interacciones y vínculos afectivos.
 
-<a title="Amor de Luhmann" href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg">
-  <img width="128" alt="Amor de Luhmann" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg">
+<a title="Amor de Luhmann" href="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amor_de_Luhmann.jpg">
+  <img width="128" alt="Amor de Luhmann" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bc/Amor_de_Luhmann.jpg)">
 </a>
 
 
