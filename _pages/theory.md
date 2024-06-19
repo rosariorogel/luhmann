@@ -87,7 +87,6 @@ En esta infografía hablamos del Subsistema Económico el cual se ocupa de la pr
     <img width="200" alt="Subsistema de Luhmann, Economico" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Subsistema_Economico.jpg/800px-Subsistema_Economico.jpg">
 </a>
 
-
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
     <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
 </a>
@@ -107,7 +106,6 @@ En esta infografía se habla del subsistema del arte, se enfoca en la creación 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Subsistema_de_Luhmann.jpg/800px-Subsistema_de_Luhmann.jpg" 
     alt="Luhmann y el Subsistema del Arte" style="border-width:0; width:200px; height:auto;" />
 </a>
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
     <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
