@@ -102,3 +102,30 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 
 ## Subsistema del Arte 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markmap</title>
+  <script type="module">
+    import { markmap } from 'https://cdn.jsdelivr.net/npm/markmap-view@0.3.1/dist/index.min.js';
+    import { Transformer } from 'https://cdn.jsdelivr.net/npm/markmap-lib@0.10.1/dist/transformer.min.js';
+    import { getNodeTransform } from 'https://cdn.jsdelivr.net/npm/markmap-lib@0.10.1/dist/transform.node.min.js';
+
+    const response = await fetch('https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md');
+    const md = await response.text();
+
+    const transformer = new Transformer();
+    const { root } = transformer.transform(md);
+    const svg = document.body.appendChild(document.createElement('svg'));
+    markmap(svg, root, {
+      nodeTransform: getNodeTransform(transformer.data),
+    });
+  </script>
+</head>
+<body>
+</body>
+</html>
+
+
