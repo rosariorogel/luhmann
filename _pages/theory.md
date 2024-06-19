@@ -121,16 +121,9 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 
 Esta infografía habla del subsistema del amor, se centra en las relaciones íntimas y la comunicación afectiva entre individuos dentro de la sociedad. Este subsistema utiliza un código binario de "amor/desamor" para estructurar las interacciones y vínculos afectivos.
 
-<a title="Amor de Luhmann" href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
+<a title="Amor de Luhmann" href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg">
   <img width="128" alt="Amor de Luhmann" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg">
 </a>
-
-<br />
-<a href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amor_de_Luhmann.jpg/800px-Amor_de_Luhmann.jpg" 
-    alt="Subsistema del amor" style="border-width:0; width:200px; height:auto;" />
-</a>
-
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
