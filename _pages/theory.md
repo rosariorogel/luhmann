@@ -83,9 +83,8 @@ En esta infografía explicamos cuál es la concepción que tiene Luhmann sobre e
 
 En esta infografía hablamos del Subsistema Económico el cual se ocupa de la producción, distribución y consumo de bienes y servicios. Su función principal es la asignación de recursos escasos.
 
+[![Subsistema de Luhmann, Economico](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Subsistema_Economico.jpg/800px-Subsistema_Economico.jpg)](https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg)
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-</a>
 
 <br />
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Subsistema Económico</span> by 
