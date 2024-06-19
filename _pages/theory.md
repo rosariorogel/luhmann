@@ -325,3 +325,9 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
 
 
 ***Créditos Luhmann 3.0:** Andrea Desiree Cruz Rodriguez, Leonardo Godínez Sánchez y Saúl Piña González*
+
+
+<a title="Aranza Cura Lara, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
+    <img width="128" alt="Subsistema del amor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amor_de_Luhmann.jpg/128px-Amor_de_Luhmann.jpg">
+</a>
+
