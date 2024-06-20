@@ -64,7 +64,7 @@ Unidad del Estado como unidad de norma [21,10d](https://niklas-luhmann-archiv.de
 Unidad del Estado / Partidos [18,2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-2_V); [18,3](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-3_V)
 Unidad de una organización [28,10f4o](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_28-10f4o_V)
 ### **ZK I Zettel 1,5**
-   1,5. Críticas a las soluciones anteriores al problema unitario: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)
+1,5. Críticas a las soluciones anteriores al problema unitario: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1_5.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -72,16 +72,18 @@ Unidad de una organización [28,10f4o](https://niklas-luhmann-archiv.de/bestand/
 Ya sea: Ocultación del problema de la unidad mediante conceptos racionales conceptos como representación, identidad, que equivalen a una ficción de unidad. [A](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5A_V)
 O bien: intentos unilaterales (unidimensionales) de explicación p. ej., teoría del miedo (Hobbes), teoría del consentimiento (Rousseau) [B](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5B_V), hábito (Sir Henry Maine), utilitarismo (Bentham), promoción benevolente (absolutismo ilustrado).
 O bien: compromiso unilateral con un solo tipo unitario, por ejemplo, sistema (Kelsen), unidad de acción (Heller), igualdad (teoría inglesa del Estado, p. ej. Finer).
+
 ### **ZK I Zettel 1,6**
-   1,6) La esencia de la unidad del Estado: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V) [**2**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-2_V)**;** [**3**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-3_V)
+1,6. La esencia de la unidad del Estado: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V) [**2**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-2_V)**;** [**3**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-3_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1_6.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 En última instancia, esto (la esencia de la unidad) no puede ser comprendido por la teoría organizativa. Ahora que se ha abandonado la clara ficción racionalista de la unidad, la única vía que queda es una reducción deliberadamente unilateral del problema (unidad de decisión y unidad de efecto) a lo calculable y simultáneo: la resolución a la simple cuestión de estructuras complicadas. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-1_V)
 Estas dos salidas son soluciones en la ciencia.
+
 ### **ZK I Zettel 2**
-2) Staat als idee (Estado como idea): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)
+2. El Estado como idea): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -90,8 +92,9 @@ El Estado como idea (doctrina acientífica del Estado)
 Literatura
 [Hobhouse, La idea metafísica del Estado[*], Alemán 1924](https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
 ***Referencia [1,6f1C9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6f1C9_V)*
+
 ### **ZK I Zettel 2,1**
-2,1) El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)
+2,1. El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -100,15 +103,16 @@ Contrapropuesta a la teoría de la organización partiendo del ser humano no com
 La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esencial. El Estado como idea no puede ser investigado (pero puede ser nombrable, comunicable); no es un objeto a diferencia de la organización.
 
 ### **ZK I Zettel 2,2**
-2,2) Intentar captar algunos rasgos ideales: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2_V)
+2,2. Intentar captar algunos rasgos ideales: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 1.  El estado como idea condicional implica, que otros estados son estados, del mismo modo que el hombre sólo es persona en relación con otras personas [(Hegel, Filosofía del derecho)](https://niklas-luhmann-archiv.de/bestand/literatur/item/hegel_1821_grundlinien). Por otra parte, el concepto de Estado como mera organización podría aplicarse al «Estado Mundial» transferido.
 2.  El concepto de orden también pertenece a este ámbito. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2-1_V) El Estado como obra de arte es organización, El Estado como idea es orden. "El orden se basa en la idea de reciprocidad, en la solidaridad, que conduce al acuerdo…
+
 ### **ZK I Zettel 2,2a**
-  2,2a) Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)**
+2,2a. Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)**
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -117,8 +121,9 @@ La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esen
 3. El noble y buen estadista no es un problema de la teoría de la organización (no es un problema, si no, un misterio), una idea. Por lo tanto, la totalidad de su imagen es indispensable. Cf. también A III 17a.
 4. Sobre las diferencias en el método jurídico de interpretación, véase. [3,1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3-1_V).
 5.  La doctrina de las ideas trata de un estado concreto y puede derivarse de…
+
 ### **ZK I Zettel 2,2b**
-2,2b) Intentar captar algunos rasgos ideales (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2b_V)
+2,2b. Intentar captar algunos rasgos ideales (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2b_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2b.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -128,24 +133,25 @@ La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esen
 7. La idea de Estado es histórica. En general las ideas de Estado sólo han sido posibles a partir de cierta época (¿siglo XVI?) y quizá no.
 
 ### **ZK I Zettel 2,2c**
-**2,2c) Intentar captar algunos rasgos ideales (iii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2c_V)**
+2,2c. Intentar captar algunos rasgos ideales (iii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2c_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2c.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Por mucho tiempo. Por tanto, la organización es siempre posible en el pensamiento, sólo varía el grado de perfección. Además, la idea de organización autónoma sólo puede crecer sobre el terreno histórico de una cierta metafísica.
 
-**3) Método jurídico en la aplicación del derecho constitucional e internacional [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3_V)**
+**3. Método jurídico en la aplicación del derecho constitucional e internacional [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3_V)**
 
-Debido a un error con la web de la Universidad de Bielefeld, estas notas serán realizadas cuando este índice se reestablesca.
+Debido a un error con la web de la Universidad de Bielefeld, la traducción de estas notas no fue posible, las notas  serán realizadas una vez que el índice se reestablesca.
 
-**4) Derecho de veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4_V)**
+**4. Derecho de veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4_V)**
 
-Esta ficha únicamente es un marcador de posición para una ficha/secuencia de fichas. El _Niklas Luhmann Archiv_ la ha insertado como marcador de posición en la red de fichas para no interrumpir el esquema numerado ni la secuencia lógica del contenido.
+Esta ficha únicamente es un marcador de posición para una ficha/secuencia de fichas. El _Niklas Luhmann Archiv_ la ha insertado como marcador de posición en la red de notas para no interrumpir el esquema numerado ni la secuencia lógica del contenido.
 
 | El sistema del Derecho (como un sistema especializado-funcional) se encarga de definir una serie de procedimientos en torno a determinada acción, son operaciones sociales basadas en expectativas y en este caso, el derecho de veto es un instrumento usado por el sistema social del derecho que da facultad a una entidad (sistema psíquico o social) para oponerse a una decisión o acción que se considera inapropiada o no se ajusta a sus intereses. |
 
-**4,1) Literatura sobre veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-1_V)**
+### **ZK I Zettel 4,1**
+4,1. Literatura sobre veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-1_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK4_1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -160,24 +166,21 @@ P. Bougière, El veto en el Derecho Internacional, París 1953.
 
 [Djordje Rafajlovic, El Veto en el transcurso del tiempo, Tésis, Lausanne 1941](https://niklas-luhmann-archiv.de/bestand/literatur/item/rafajlovic_1951_veto-temps).
 
-**4,1a) Literatura sobre veto (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-1a_V)**
+### **ZK I Zettel 4,1a**
+4,1a. Literatura sobre veto (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-1a_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK4_1a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 [Brentano, Consejo Federal y Parlamento Federal, DÖV 49, S. 270](https://niklas-luhmann-archiv.de/bestand/literatur/item/brentano_1949_bundestag).
-
 [Strickrodt, El derecho de primer voto en la política del Consejo Federal, DÖV 50, S. 525](https://niklas-luhmann-archiv.de/bestand/literatur/item/strickrodt_1950_recht).
-
 [Kern, La práctica del Consejo Federal, DÖV 51, S. 260](https://niklas-luhmann-archiv.de/bestand/literatur/item/kern_1951_praxis).
-
 [Wessel, Objeción del Consejo Federal, DVBl 51, S. 499, 521](https://niklas-luhmann-archiv.de/bestand/literatur/item/wessel_1951_einspruch).
-
 [Lechner, Sobre la evolución del estatuto jurídico del Consejo Federal, DÖV 52, S. 417 ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/lechner_1951_rechtsstellung).
-
 [Kutscher, Cuestiones constitucionales desde la práctica del Consejo Federal, DÖV 52, S. 710](https://niklas-luhmann-archiv.de/bestand/literatur/item/kutscher_1952_fragen).
 
-**4,2) Derecho de veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-2_V)**
+### **ZK I Zettel 4,2**
+4,2. Derecho de veto: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_4-2_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK4_2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -186,39 +189,39 @@ Véase el artículo § 115² del _Handelsgesetzbuch_ (HGB) [Código de Comercio]
 
 Jurisprudencia del Tribunal estadounidense desde el punto de vista e intereses del Derecho de Veto. Véase [_Die zukunft der Staatsform_](https://niklas-luhmann-archiv.de/bestand/literatur/item/finer_1947_zukunft)  [El futuro de la forma de gobierno] de Hermann Finer.
 
-**5) Controles [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_5_1_V)**
+**5. Controles [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_5_1_V)**
 
-Debido a un error con la web de la Universidad de Bielefeld, estas notas serán realizadas cuando este índice se reestablesca.
+Debido a un error con la web de la Universidad de Bielefeld, la traducción de estas notas no fue posible, las notas  serán realizadas una vez que el índice se reestablesca.
 
-**6) Igualdad: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6_V)**
+**6. Igualdad: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6_V)**
 
-Esta ficha únicamente es un marcador de posición para una ficha/secuencia de fichas. El _Niklas Luhmann Archiv_ la ha insertado como marcador de posición en la red de fichas para no interrumpir el esquema numerado ni la secuencia lógica del contenido.
+Esta ficha únicamente es un marcador de posición para una ficha/secuencia de fichas. El _Niklas Luhmann Archiv_ la ha insertado como marcador de posición en la red de notas para no interrumpir el esquema numerado ni la secuencia lógica del contenido.
 
-**6,3) Conceptos básicos: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3_V)**
+### **ZK I Zettel 6,3**
+6,3. Conceptos básicos: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK6_3.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
-1.  La igualdad es “una correspondencia en la que diferentes cosas se relacionan entre sí” (Waderband, p. 8 , citado en Hesse, p. 172). Aquí es donde difieren la igualdad y la identidad.
-
+1.1  La igualdad es “una correspondencia en la que diferentes cosas se relacionan entre sí” (Waderband, p. 8 , citado en Hesse, p. 172). Aquí es donde difieren la igualdad y la identidad.
 Véase también Nef, pág. con muchas otras pruebas. [3](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-16_V)
 
 De ello se deduce que la igualdad sólo puede existir en determinadas relaciones . Un juicio de igualdad sólo tiene sentido desde un punto de vista comparativo . Este tertium comparationis debe ser idéntico. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-1_V) ; [4](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-17_V)
 
-Por otro lado, la concordancia de todas las características, incluidas las determinaciones espacio-temporales, significa identidad. [2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-6_V)
+Por otro lado, la concordancia de todas las características, incluidas las determinaciones espacio-temporales, significa identidad. [2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-6_V) Por lo tanto, la igualdad absoluta no puede existir conceptualmente, véase [Hesse, p. 173](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz); [Nef, pp. 10 y ss.; 18 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/nef_1941_gleichheit)
 
-Por lo tanto, la igualdad absoluta no puede existir conceptualmente, véase [Hesse, p. 173](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz); [Nef, pp. 10 y ss.; 18 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/nef_1941_gleichheit)
-
-**6,3a) Conceptos básicos (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3a_V)**
+###  **ZK I Zettel 6,3a**
+6,3a. Conceptos básicos (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3a_V)**
 
 <img src="{{ site.baseurl }}/assets/img/ZK6_3a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Por tanto, sin desigualdad no puede haber igualdad. "Igualdad y desigualdad no se anulan mutuamente, sino que son complementarias entre sí, sólo pueden pensarse juntas" ([Hesse, p. 209](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz)). "Dos cosas, por tanto, nunca son sólo 'iguales', sino siempre 'iguales' y 'desiguales' al mismo tiempo" ([Nef, p. 25](https://niklas-luhmann-archiv.de/bestand/literatur/item/nef_1941_gleichheit)).
 
-2. Por tanto, toda igualación consciente no suprime la desigualdad per se. La desigualdad persiste, continúa en otros aspectos y reclama atención. La igualación política permite que las desigualdades económicas pasen a primer plano y la nivelación económica no impide la desigualdad en la organización del trabajo (directivos y ejecutantes); [Hesse, p 210](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz).
+2.1 Por tanto, toda igualación consciente no suprime la desigualdad per se. La desigualdad persiste, continúa en otros aspectos y reclama atención. La igualación política permite que las desigualdades económicas pasen a primer plano y la nivelación económica no impide la desigualdad en la organización del trabajo (directivos y ejecutantes); [Hesse, p 210](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz).
 
-**6,3b) Conceptos básicos (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3b_V)**
+### **ZK I Zettel 6,3b**
+6,3b. Conceptos básicos (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3b_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK6_3b.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -226,7 +229,6 @@ Por tanto, sin desigualdad no puede haber igualdad. "Igualdad y desigualdad no s
 Por tanto, cualquier nivelación sólo tiene sentido si se produce en un determinado sentido. sin especificar este respeto, la igualdad y la nivelación son sólo conceptos formales. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3b1_V)
 
 3. El juicio de igualdad tiene, no obstante, la tendencia a abstraerse de las desigualdades y a hacer hincapié en las características por las que se busca o se lucha por la igualdad. Pues no todos los lados de los objetos comparados pueden reclamar la misma atención del mismo modo. El observador siempre hace una selección.
-
 Esto puede adoptar la forma de una absolutización inconsciente.
 
 7. El valor de la organización [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_7_1_V)
