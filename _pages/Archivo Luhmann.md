@@ -90,7 +90,8 @@ Estas dos salidas son soluciones en la ciencia.
 
 El Estado como idea (doctrina acientífica del Estado)
 Literatura
-[Hobhouse, La idea metafísica del Estado[*], Alemán 1924](https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
+[Hobhouse, La idea metafísica del Estado[*], Alemán 1924]
+(https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
 ***Referencia [1,6f1C9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6f1C9_V)*
 
 ### **ZK I Zettel 2,1**
@@ -99,7 +100,7 @@ Literatura
 <img src="{{ site.baseurl }}/assets/img/ZK2_1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
-Contrapropuesta a la teoría de la organización partiendo del ser humano no como existencia, sino como ser espiritual. En consecuencia, el Estado no se caracteriza por la Comunicación existencial, sino por la comunicación espiritual; cf. [Jaspers, Von der  Wahrheit, pp. 376, 610 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/jaspers_1947_wahrheit)
+Contrapropuesta a la teoría de la organización partiendo del ser humano no como existencia, sino como ser espiritual. En consecuencia, el Estado no se caracteriza por la comunicación existencial, sino por la comunicación espiritual; cf. [Jaspers, Von der  Wahrheit, pp. 376, 610 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/jaspers_1947_wahrheit)
 La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esencial. El Estado como idea no puede ser investigado (pero puede ser nombrable, comunicable); no es un objeto a diferencia de la organización.
 
 ### **ZK I Zettel 2,2**
