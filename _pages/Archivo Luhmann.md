@@ -31,52 +31,39 @@ A continuación, se presentan algunos de los temas que constituyen las **Notas d
 
 ***Créditos de la traducción Luhmann 3.0 (Notas y subnotas 1 a 6):** Lizeth Robles Benitez, Roberto Samuel Torres Martínez, Alan Fernando Aguilar Garatachia, Diego Alejandro López Rangel.*   
 
-**1) Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)**
+### **ZK I Zettel 1 (1)**
+Unidad y unificación del grupo en general [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
-Referencias:
+*Referencias:*
 
 Véase Vierkandt, Alfred (1928) [13,4g1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_13-4g1_V)
-
 Unidad y liderazgo [21,7](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_21-7_V)
-
 Unidad de Horizontes [57,4e7b1,31](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57-4e7b1-31_V)
-
 Conexión de sistema [83,2c1h](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_83-2c1h_V)
-
 Unidad y constitución [27,4](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_27-4_V)
-
 Sistema como tipo de unidad [8,10](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_8-10_V)
-
 Unidad de un objetivo final [7,7g4a](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_7-7g4a_V)
-
 Unidad y soberanía [12,5a18](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_12-5a18_V)
-
 Unidad y función [28,10f9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_28-10f9_V)
-
 Unidad y decisión [60,3i](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60-3i_V)  [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)
 
-Literatura
-
+*Literatura*
 [Georges, Sorel, Reflexiones sobre la violencia 8, Paris 1936, Apéndice I, p. 391ff.](https://niklas-luhmann-archiv.de/bestand/literatur/item/sorel_1936_violence)
-
 [Aristóteles, Política, lib II cap. 1,7](https://niklas-luhmann-archiv.de/bestand/literatur/item/aristoteles_1965_politik).
-
 [Heller, Hermann, _Staatslehre_ [Ciencia Política] (1934), 228ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1934_staatslehre); [_Die Souveränität_ [Soberanía] (1927), 57ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1927_souveraenitaet).
 
-**1a) Unidad y Unificación del grupo en general (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)**
+### **ZK I Zettel 1a**
+1a. Unidad y Unificación del grupo en general (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)**
 
 <img src="{{ site.baseurl }}/assets/img/ZK1a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Sobre el problema de la unidad de un colectivo. Véase _grundsätzlich_ (En principio) [78,17](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_78-17_V)
-
 Sistema. Vinculación del problema de la unidad con el problema de la identificación de los constituyentes, véase _Horizont - Substanz - Identität der Dinge_ [Horizonte - Sustancia - Identidad de las cosas] [57,4e7b1e](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57-4e7b1e_V)
-
 Unidad del Estado como unidad de norma [21,10d](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_21-10d_V)
-
 Unidad del Estado / Partidos [18,2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-2_V); [18,3](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-3_V)
 
 Unidad de una organización [28,10f4o](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_28-10f4o_V)
