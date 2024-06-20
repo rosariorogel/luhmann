@@ -47,7 +47,7 @@ Unidad y soberanía [12,5a18](https://niklas-luhmann-archiv.de/bestand/zettelkas
 Unidad y función [28,10f9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_28-10f9_V)
 Unidad y decisión [60,3i](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_60-3i_V)  [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)
 
-*Literatura*
+*Literatura:*
 [Georges, Sorel, Reflexiones sobre la violencia 8, Paris 1936, Apéndice I, p. 391ff.](https://niklas-luhmann-archiv.de/bestand/literatur/item/sorel_1936_violence)
 [Aristóteles, Política, lib II cap. 1,7](https://niklas-luhmann-archiv.de/bestand/literatur/item/aristoteles_1965_politik).
 [Heller, Hermann, _Staatslehre_ [Ciencia Política] (1934), 228ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1934_staatslehre); [_Die Souveränität_ [Soberanía] (1927), 57ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1927_souveraenitaet).
