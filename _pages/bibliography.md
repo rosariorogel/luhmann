@@ -25,3 +25,6 @@ Zotero es una herramienta digital de acceso abierto que permite vincular a estas
 Durante el ciclo 2024A, se han incorporado reseñas de las obras de Niklas Luhmann. Estas reseñas provienen de diversos académicos y librerías de distintas partes del mundo. Para consultar dichas reseñas, es necesario unirse al grupo de Zotero, donde se encontrará específicamente la carpeta titulada "Reseñas de Libros de Luhmann".
 
 ***Créditos:** Oswaldo Rafael Gutierrez Roa, Alejandro Lopez Alcantara*
+
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2FOswaldo_Roa&jsonp=1"></script>
