@@ -7,7 +7,7 @@ permalink: Concepts
 
 # Conceptos fundamentales de la TSS 
 
-En este apartado encontrarás dos proyectos que buscan explicar los conceptos fundamentales de la  Teoría de Sistemas Sociales de Niklas Luhmann:
+En este apartado encontrarás tres proyectos que buscan explicar los conceptos fundamentales de la Teoría de Sistemas Sociales de Niklas Luhmann:
 
 > 1. Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann. ***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
 > 2. Explorando la Teoría de Sistemas de Luhmann en TikTok. ***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
