@@ -91,8 +91,7 @@ Estas dos salidas son soluciones en la ciencia.
 El Estado como idea (doctrina acientífica del Estado)
 Literatura
 [Hobhouse, La idea metafísica del Estado[*], Alemán 1924]
-(https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
-***Referencia [1,6f1C9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6f1C9_V)*
+***Referencia (https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)*
 
 ### **ZK I Zettel 2,1**
 2,1. El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)
