@@ -26,9 +26,7 @@ Otra publicación relevante es **Publikationen an der Universität Bielefeld Der
 A continuación, se presentan algunos de los temas que constituyen las **Notas del Archivo Luhmann**, cada una contiene el enlace para redireccionar a la nota original contenida en el archivo digitalizado en la página de la Universidad de Bielefeld. Cabe aclarar que de algunas notas no se encuentra el archivo original y algunas otras no han sido transcritas aún, por lo tanto no se encuentran disponibles.
 
 ***Créditos de la traducción (items 1 al 60):** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales*  
-
 ***Créditos de la traducción Luhmann 2.0 (ítems 61 al 104):** Daniela Arias Robles, Óscar Giovani González López, Regina Elizabeth Montalvo González y Brenda Ramírez Palma.*   
-
 ***Créditos de la traducción Luhmann 3.0 (Notas y subnotas 1 a 6):** Lizeth Robles Benitez, Roberto Samuel Torres Martínez, Alan Fernando Aguilar Garatachia, Diego Alejandro López Rangel.*   
 
 ### **ZK I Zettel 1 (1)**
@@ -38,7 +36,6 @@ Unidad y unificación del grupo en general [Nota Original](https://niklas-luhman
 <div style="clear: both;"></div>
 
 *Referencias:*
-
 Véase Vierkandt, Alfred (1928) [13,4g1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_13-4g1_V)
 Unidad y liderazgo [21,7](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_21-7_V)
 Unidad de Horizontes [57,4e7b1,31](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57-4e7b1-31_V)
