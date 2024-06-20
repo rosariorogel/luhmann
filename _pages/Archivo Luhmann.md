@@ -62,83 +62,72 @@ Sobre el problema de la unidad de un colectivo. Véase _grundsätzlich_ (En prin
 Sistema. Vinculación del problema de la unidad con el problema de la identificación de los constituyentes, véase _Horizont - Substanz - Identität der Dinge_ [Horizonte - Sustancia - Identidad de las cosas] [57,4e7b1e](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_57-4e7b1e_V)
 Unidad del Estado como unidad de norma [21,10d](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_21-10d_V)
 Unidad del Estado / Partidos [18,2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-2_V); [18,3](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_18-3_V)
-
 Unidad de una organización [28,10f4o](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_28-10f4o_V)
-
-   **1,5) Críticas a las soluciones anteriores al problema unitario: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)**
+### **ZK I Zettel 1,5**
+   1,5. Críticas a las soluciones anteriores al problema unitario: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1_5.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Ya sea: Ocultación del problema de la unidad mediante conceptos racionales conceptos como representación, identidad, que equivalen a una ficción de unidad. [A](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5A_V)
-
 O bien: intentos unilaterales (unidimensionales) de explicación p. ej., teoría del miedo (Hobbes), teoría del consentimiento (Rousseau) [B](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-5B_V), hábito (Sir Henry Maine), utilitarismo (Bentham), promoción benevolente (absolutismo ilustrado).
-
 O bien: compromiso unilateral con un solo tipo unitario, por ejemplo, sistema (Kelsen), unidad de acción (Heller), igualdad (teoría inglesa del Estado, p. ej. Finer).
-
-   **1,6) La esencia de la unidad del Estado: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V)** [**2**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-2_V)**;** [**3**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-3_V)
+### **ZK I Zettel 1,6**
+   1,6) La esencia de la unidad del Estado: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6_V) [**2**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-2_V)**;** [**3**](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-3_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1_6.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 En última instancia, esto (la esencia de la unidad) no puede ser comprendido por la teoría organizativa. Ahora que se ha abandonado la clara ficción racionalista de la unidad, la única vía que queda es una reducción deliberadamente unilateral del problema (unidad de decisión y unidad de efecto) a lo calculable y simultáneo: la resolución a la simple cuestión de estructuras complicadas. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6-1_V)
-
 Estas dos salidas son soluciones en la ciencia.
-
-**2) Staat als idee (Estado como idea): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)**
+### **ZK I Zettel 2**
+2) Staat als idee (Estado como idea): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 El Estado como idea (doctrina acientífica del Estado)
-
 Literatura
-
 [Hobhouse, La idea metafísica del Estado[*], Alemán 1924](https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
-
-Referencia [1,6f1C9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6f1C9_V)
-
-   **2,1) El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)**
+***Referencia [1,6f1C9](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1-6f1C9_V)*
+### **ZK I Zettel 2,1**
+2,1) El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Contrapropuesta a la teoría de la organización partiendo del ser humano no como existencia, sino como ser espiritual. En consecuencia, el Estado no se caracteriza por la Comunicación existencial, sino por la comunicación espiritual; cf. [Jaspers, Von der  Wahrheit, pp. 376, 610 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/jaspers_1947_wahrheit)
-
 La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esencial. El Estado como idea no puede ser investigado (pero puede ser nombrable, comunicable); no es un objeto a diferencia de la organización.
 
-   **2,2) Intentar captar algunos rasgos ideales: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2_V)**
+### **ZK I Zettel 2,2**
+2,2) Intentar captar algunos rasgos ideales: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 1.  El estado como idea condicional implica, que otros estados son estados, del mismo modo que el hombre sólo es persona en relación con otras personas [(Hegel, Filosofía del derecho)](https://niklas-luhmann-archiv.de/bestand/literatur/item/hegel_1821_grundlinien). Por otra parte, el concepto de Estado como mera organización podría aplicarse al «Estado Mundial» transferido.
 2.  El concepto de orden también pertenece a este ámbito. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2-1_V) El Estado como obra de arte es organización, El Estado como idea es orden. "El orden se basa en la idea de reciprocidad, en la solidaridad, que conduce al acuerdo…
-
-   **2,2a) Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)**
+### **ZK I Zettel 2,2a**
+  2,2a) Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)**
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 …que se es capaz de lograr cosas tangibles a través de contratos» [Jaspers, Sobre la verdad, p. 715.](https://niklas-luhmann-archiv.de/bestand/literatur/item/jaspers_1947_wahrheit) También es esencial para el orden que se pueda creer (Jaspers, op. cit., p. 577).
-
 3. El noble y buen estadista no es un problema de la teoría de la organización (no es un problema, si no, un misterio), una idea. Por lo tanto, la totalidad de su imagen es indispensable. Cf. también A III 17a.
-
 4. Sobre las diferencias en el método jurídico de interpretación, véase. [3,1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_3-1_V).
-
 5.  La doctrina de las ideas trata de un estado concreto y puede derivarse de…
-
-**2,2b) Intentar captar algunos rasgos ideales (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2b_V)**
+### **ZK I Zettel 2,2b**
+2,2b) Intentar captar algunos rasgos ideales (ii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2b_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2b.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 … el uso de instituciones estatales individuales con paralelos extranjeros es poco beneficioso, una diferenciación más nítida, en el mejor de los casos. La experiencia organizativa extranjera, en cambio, es transferible en mucha mayor medida, aunque el cambio de las contrapartes debe tenerse en cuenta.
-
 6. La idea de Estado incluye esencialmente la imagen de su situación geográfica y sus fronteras. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2b1_V)
-
 7. La idea de Estado es histórica. En general las ideas de Estado sólo han sido posibles a partir de cierta época (¿siglo XVI?) y quizá no.
 
+### **ZK I Zettel 2,2c**
 **2,2c) Intentar captar algunos rasgos ideales (iii): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2c_V)**
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2c.jpg" style="float:left;width:500px;padding-right:20px;">
