@@ -7,6 +7,6 @@ permalink: resenas
 
 En esta sección encontrarás...
 
-***Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez.*
+***Créditos:** Aquí van los nombres de los ylas integrantes del equipo.*
 
 Aquí poner imagenes de libros y acceso a las reseñas
