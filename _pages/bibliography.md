@@ -13,7 +13,7 @@ Por su propia naturaleza, esta sección de la página está en constante actuali
 
 ***Créditos:** Sandra Ramírez-Zamora y Fátima Paola Vargas-Gómez.*
 
-En el ciclo 2024A, se añadieron tesis referenciadas de las obras principales de **Niklas Luhmann**,publicadas en los repositorios de la universidad iberoamericana,la Universidad Nacional Autónoma de México UNAM y la Universidad Autónoma del Estado de México UAEMEX. Para tener acceso a estas tesis unete al grupo de Zotero en donde encontrarás apartados especificos, particularmente la carpeta tesis luhmann dividida en dos secciones:Tesis Doctorado y Tesis Maestría en donde los principales temas encontrados son medios de comunicación, conciencia humana, política, contrucción social, violencia y formas de vida .
+En el ciclo 2024A, se añadieron tesis referenciadas de las obras principales de **Niklas Luhmann**, publicadas en los repositorios de la universidad iberoamericana,la Universidad Nacional Autónoma de México UNAM y la Universidad Autónoma del Estado de México UAEMEX. Para tener acceso a estas tesis unete al grupo de Zotero en donde encontrarás apartados especificos, particularmente la carpeta tesis luhmann dividida en dos secciones:Tesis Doctorado y Tesis Maestría en donde los principales temas encontrados son medios de comunicación, conciencia humana, política, contrucción social, violencia y formas de vida .
 
 Zotero es una herramienta digital de acceso abierto que permite vincular a estas obras, las cuales se encuantran en [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a)   ***
 
