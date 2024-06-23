@@ -95,4 +95,4 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
 3. **Richard Münch**: Münch examina las teorías sociales contemporáneas, incluyendo una crítica detallada de la teoría de sistemas de Luhmann, argumentando que se aleja de las preocupaciones reales de la gente.
    - **Referencia**: Münch, R. (2001). Die Struktur der modernen Gesellschaft.
 
-     Puedes consultar el texto aquí: [Die Struktur der Moderne](https://www.suhrkamp.de/buch/richard-muench-die-struktur-der-moderne-t-9783518576878
+     Puedes consultar el texto aquí: [Die Struktur der Moderne](https://www.suhrkamp.de/buch/richard-muench-die-struktur-der-moderne-t-9783518576878)
