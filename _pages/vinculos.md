@@ -55,7 +55,7 @@ Los conceptos fundamentales de Niklas Luhmann han influido en una amplia gama de
 
 ## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
 
-A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor y en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
+A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
 
 
 ### A favor:
