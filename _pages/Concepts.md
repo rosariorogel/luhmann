@@ -129,7 +129,8 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
-<a href="<iframe width="315" height="560" src="https://www.youtube.com/embed/oI0DzuvS4F8" title="IRRITACIONES - Niklas Luhmann" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" target="_blank">Video en TikTok: Irritaciones</a>
+<a href="https://www.youtube.com/shorts/oI0DzuvS4F8" target="_blank">Video en TikTok: Irritaciones</a>
+
 
 <html>
 <head>
