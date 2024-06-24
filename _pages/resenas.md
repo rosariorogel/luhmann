@@ -25,4 +25,14 @@ Durante el ciclo 2024A, se han incorporado reseñas de las obras de Niklas Luhma
 
 ![La Religión de la sociedad](assets/img/LaReligióndelaSociedad.jpg)
 
+![La Relidad de los Medios](assets/img/LaRealidaddelosMedios.jpg)
+
+![La Política como Sistema](assets/img/LaPolíticacomoSistema.jpg)
+
+![La Ciencia de la Sociedad](assets/img/LaCienciadelaSociedad.jpg)
+
+![Complejidad y Modernidad](assets/img/ComplejidadyModernidad.jpg)
+
+![El arte de la Sociedad](assets/img/ArtedelaSociedad.jpg)
+
 ***Créditos:** Oswaldo Rafael Gutierréz Roa y Alejandro Lopez Alcantara .*
