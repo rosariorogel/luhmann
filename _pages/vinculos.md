@@ -102,3 +102,8 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
    - **Referencia**: Münch, R. (2001). Die Struktur der modernen Gesellschaft.
 
      Puedes consultar el texto aquí: [Die Struktur der Moderne](https://www.suhrkamp.de/buch/richard-muench-die-struktur-der-moderne-t-9783518576878)
+
+
+Aquí hay un diagrama que ilustra lo mostrado anteriormente:
+
+![Diagrama](https://github.com/rosariorogel/luhmann/blob/main/assets/img/A%20favor%20o%20en%20contra%20de%20Luhmann.png.png?raw=true)
