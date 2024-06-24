@@ -129,6 +129,15 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
+<html>
+<head>
+    <title>YouTube Shorts </title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oI0DzuvS4F8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
+
 
 ### Distinción Sistema-entorno
 
@@ -196,6 +205,19 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </head>
 <body>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ygXTrxsIIlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
+
+
+
+### Escritura 
+
+<html>
+<head>
+    <title>YouTube Video</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt8fLQNinOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 
