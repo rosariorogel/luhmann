@@ -63,7 +63,7 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
 1. **Rudolf Stichweh**: Sociólogo que ha trabajado extensamente en la teoría de sistemas y ha utilizado el marco de Luhmann para analizar la diferenciación social.
    - **Referencia**: Stichweh, R. (s/f).  En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.
 
-     Puedes consultar el texto aquí: [En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.](https://www.redalyc.org/pdf/3112/311224766002.pdf)
+     Puedes consultar el texto aquí: [En torno a la génesis de la sociedad mundial: Innovaciones y mecanismos.](https://doi.org/10.5354/rmad.v0i26.18892)
 
 
 2. **Helmut Willke**: Sociólogo alemán que ha contribuido al desarrollo de la teoría de sistemas y ha aplicado los conceptos de Luhmann en sus trabajos sobre gobernanza y complejidad.
