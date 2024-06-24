@@ -53,7 +53,7 @@ Unidad y decisión [60,3i](https://niklas-luhmann-archiv.de/bestand/zettelkasten
 [Heller, Hermann, _Staatslehre_ [Ciencia Política] (1934), 228ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1934_staatslehre); [_Die Souveränität_ [Soberanía] (1927), 57ff](https://niklas-luhmann-archiv.de/bestand/literatur/item/heller_1927_souveraenitaet).
 
 ### **ZK I Zettel 1a**
-1a. Unidad y Unificación del grupo en general (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)**
+1a. Unidad y Unificación del grupo en general (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1a_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK1a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -90,8 +90,7 @@ Estas dos salidas son soluciones en la ciencia.
 
 El Estado como idea (doctrina acientífica del Estado)
 Literatura
-[Hobhouse, La idea metafísica del Estado[*], Alemán 1924]
-***Referencia (https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)*
+[Hobhouse, La idea metafísica del Estado, Alemán 1924](https://niklas-luhmann-archiv.de/bestand/literatur/item/hobhouse_1924_staatstheorie)
 
 ### **ZK I Zettel 2,1**
 2,1. El Estado como idea: [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-1_V)
@@ -112,7 +111,7 @@ La fuerza motriz de la idea. La idea no funciona en lo correcto, sino en lo esen
 2.  El concepto de orden también pertenece a este ámbito. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2-1_V) El Estado como obra de arte es organización, El Estado como idea es orden. "El orden se basa en la idea de reciprocidad, en la solidaridad, que conduce al acuerdo…
 
 ### **ZK I Zettel 2,2a**
-2,2a. Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)**
+2,2a. Intentar captar algunos rasgos ideales (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_2-2a_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK2_2a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -207,7 +206,7 @@ De ello se deduce que la igualdad sólo puede existir en determinadas relaciones
 Por otro lado, la concordancia de todas las características, incluidas las determinaciones espacio-temporales, significa identidad. [2](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3-6_V) Por lo tanto, la igualdad absoluta no puede existir conceptualmente, véase [Hesse, p. 173](https://niklas-luhmann-archiv.de/bestand/literatur/item/hesse_1951_gleichheitsgrundsatz); [Nef, pp. 10 y ss.; 18 y ss.](https://niklas-luhmann-archiv.de/bestand/literatur/item/nef_1941_gleichheit)
 
 ###  **ZK I Zettel 6,3a**
-6,3a. Conceptos básicos (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3a_V)**
+6,3a. Conceptos básicos (i): [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3a_V)
 
 <img src="{{ site.baseurl }}/assets/img/ZK6_3a.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
@@ -222,9 +221,9 @@ Por tanto, sin desigualdad no puede haber igualdad. "Igualdad y desigualdad no s
 <img src="{{ site.baseurl }}/assets/img/ZK6_3b.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
-Por tanto, cualquier nivelación sólo tiene sentido si se produce en un determinado sentido. sin especificar este respeto, la igualdad y la nivelación son sólo conceptos formales. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3b1_V)
+3.1 Por tanto, cualquier nivelación sólo tiene sentido si se produce en un determinado sentido. sin especificar este respeto, la igualdad y la nivelación son sólo conceptos formales. [1](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_6-3b1_V)
 
-3. El juicio de igualdad tiene, no obstante, la tendencia a abstraerse de las desigualdades y a hacer hincapié en las características por las que se busca o se lucha por la igualdad. Pues no todos los lados de los objetos comparados pueden reclamar la misma atención del mismo modo. El observador siempre hace una selección.
+El juicio de igualdad tiene, no obstante, la tendencia a abstraerse de las desigualdades y a hacer hincapié en las características por las que se busca o se lucha por la igualdad. Pues no todos los lados de los objetos comparados pueden reclamar la misma atención del mismo modo. El observador siempre hace una selección.
 Esto puede adoptar la forma de una absolutización inconsciente.
 
 7. El valor de la organización [Nota Original](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_7_1_V)
