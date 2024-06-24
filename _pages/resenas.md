@@ -9,5 +9,20 @@ Durante el ciclo 2024A, se han incorporado reseñas de las obras de Niklas Luhma
 
 ![La Sociedad de la Sociedad](assets/img/laSociedaddelaSociedad.jpg) 
 
+![Teoría de la Sociedad](assets/img/TeoríadelaSociedad.jpg)
+
+![Sociología de la Religión](assets/img/SociologíadelaReligión.jpg)
+
+![Sociedad y Sistema](assets/img/SociedadySistema.jpg)
+
+![Organización y Decisión](assets/img/OrganizaciónDesición.jpg)
+
+![Los Derechos Fundamentales](assets/img/LosDerechosFundamentales.jpg)
+
+![Lineamientos de Sistemas Sociales](assets/img/LineaminetosSistemasSociales.jpg)
+
+![La Sociología del Riesgo](assets/img/LaSociologíadelRiesgo.jpg)
+
+![La Religión de la sociedad](assets/img/LaReligióndelaSociedad.jpg)
 
 ***Créditos:** Oswaldo Rafael Gutierréz Roa y Alejandro Lopez Alcantara .*
