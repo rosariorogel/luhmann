@@ -98,7 +98,7 @@ _**Coordinación Luhmann 3.0:** Lizeth Robles-Benítez, Alan Fernando Aguilar-Ga
 
 <img src="{{ site.baseurl }}/assets/img/Zotero.png" style="float:left;width:200px;padding-right:20px;"> Para esta sección, decidimos apoyarnos de algunos textos que se encuentran disponibles en [**Zotero**](https://www.zotero.org/) dentro del grupo llamado “Luhmann en la web – UAEMex”. Además de los textos encontrados en el grupo de Zotero, nos dimos a la tarea de anexar nuevos textos dentro del grupo a manera de complementación y observar que existen autores que muestran una perspectiva a favor o en contra de Luhmann y la TGSS.
 
-<img src="{{ site.baseurl }}/assets/img/Perplexity.jpeg" style="float:left;width:200px;padding-right:20px;"> [**Perplexity**](https://www.perplexity.ai/) Fue de bastante ayuda, pues gracias a esta inteligencia artificial pudimos encontrar más autores que retoman algunos de los conceptos fundamentales de Niklas Luhmann. 
+<img src="{{ site.baseurl }}/assets/img/Perplexity.jpeg" style="float:left;width:200px;padding-right:20px;"> [**Perplexity**](https://www.perplexity.ai/) fue de bastante ayuda, pues gracias a esta inteligencia artificial pudimos encontrar más autores que retoman algunos de los conceptos fundamentales de Niklas Luhmann. 
 
 _**Coordinación Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez._
 
