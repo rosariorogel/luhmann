@@ -53,6 +53,12 @@ Los conceptos fundamentales de Niklas Luhmann han influido en una amplia gama de
    - Baecker ha trabajado en la cibernética de segundo orden y ha desarrollado conceptos de Luhmann en el análisis de la comunicación y la organización.
 
 
+Aquí hay un diagrama que ilustra lo mostrado anteriormente:
+
+![Diagrama](https://github.com/rosariorogel/luhmann/blob/main/assets/img/Conceptos%20fundamentales%20Luhmann.png.png?raw=true)
+
+
+
 ## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
 
 A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
