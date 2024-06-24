@@ -69,13 +69,13 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
 2. **Helmut Willke**: Sociólogo alemán que ha contribuido al desarrollo de la teoría de sistemas y ha aplicado los conceptos de Luhmann en sus trabajos sobre gobernanza y complejidad.
    - **Referencia**: Willke, H. (2016). Formas de autoorientación de la sociedad. Revista Mad, 0(34).
 
-     Puedes consultar el texto aquí: [Formas de autoorientación de la sociedad](https://www.redalyc.org/pdf/3112/311245562002.pdf)
+     Puedes consultar el texto aquí: [Formas de autoorientación de la sociedad](https://revistamad.uchile.cl/index.php/RMAD/article/view/40608)
 
 
 3. **Dirk Baecker**: Ha sido uno de los principales defensores y desarrolladores de las ideas de Luhmann, aplicando la teoría de sistemas a diversos campos como la economía y la organización.
    - **Referencia**: Baeker, D. (2010). Hacia la observación de una sociedad venidera: Una entrevista con Dirk Baecker.
 
-     Puedes consultar el texto aquí:  [Hacia la observación de una sociedad venidera: Una entrevista con Dirk Baecker](https://www.redalyc.org/pdf/3112/311227537007.pdf)
+     Puedes consultar el texto aquí:  [Hacia la observación de una sociedad venidera: Una entrevista con Dirk Baecker](https://revistamad.uchile.cl/index.php/RMAD/article/view/27347)
 
 
 ### En contra:
