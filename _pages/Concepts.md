@@ -129,9 +129,6 @@ Estas tres herramientas han sido fundamentales para crear una experiencia de apr
 </body>
 </html>
 
-<a href="https://www.youtube.com/shorts/oI0DzuvS4F8" target="_blank">Video en TikTok: Irritaciones</a>
-
-
 <html>
 <head>
     <title>YouTube Shorts</title>
