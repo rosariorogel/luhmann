@@ -157,13 +157,9 @@ Esta ficha únicamente es un marcador de posición para una ficha/secuencia de f
 <div style="clear: both;"></div>
 
 [Hans Schade, El derecho de veto en la legislación, Stuttgart 1929](https://niklas-luhmann-archiv.de/bestand/literatur/item/schade_1929_vetorecht).
-
 [Djordje Rafajlovic, Veto, ¿Pone en tela de juicio la existencia misma de la ONU? Singen 1951](https://niklas-luhmann-archiv.de/bestand/literatur/item/rafajlovic_1951_veto).
-
 [Wessel, Ministerialrat, La objeción del Consejo Federal, DVBl 51, S. 499ff., 521ff, 1951](https://niklas-luhmann-archiv.de/bestand/literatur/item/wessel_1951_einspruch).
-
 P. Bougière, El veto en el Derecho Internacional, París 1953.
-
 [Djordje Rafajlovic, El Veto en el transcurso del tiempo, Tésis, Lausanne 1941](https://niklas-luhmann-archiv.de/bestand/literatur/item/rafajlovic_1951_veto-temps).
 
 ### **ZK I Zettel 4,1a**
