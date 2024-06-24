@@ -88,8 +88,6 @@ _**Coordinación Luhmann 2.0:** Andrea Fernanda Hernández Jiménez y Luis Ferna
 
 Para la traducción utilizamos dos softwares [DeepL Translator](https://www.deepl.com/translator) y [Google Translator](https://translate.google.com/). Cada ficha fue clasificada según su traducción al español, manteniendo un orden correspondiente al archivo en alemán.
 
-En la versión Luhmann Web 3.0 EXPLICAR QUÉ HICIERON
-
 _**Coordinación:** Emmanuel Cano, Leonardo Cruz y Jocelyn Morales._
 _**Coordinación Luhmann 2.0:** Daniela Arias, Oscar López, Regina Moantalvo y Brenda Palma._
 _**Coordinación Luhmann 3.0:** Lizeth Robles-Benítez, Alan Fernando Aguilar-Garatachia, Roberto Samuel Torres-Martínez y Diego Alejandro López-Rangel._
