@@ -9,7 +9,7 @@ permalink: vinculos
 
 Esta sección muestra algunos autores y contribuciones asociadas a los conceptos fundamentales de Niklas Luhmann en torno a la Teoría General de Sistemas Sociales; conocer ideas y opiniones a favor o en contra de las propuestas Luhmannianas permite considerar un panorama mas amplio, los alcances, limitaciones y oportunidades de aplicacion de la teoría.
 
-Se presenta una primera seccion de autores cuya obra o uso de algunas categorias en su labor academica se asocia como antecedente o en concordancia con la TGSS de Luhmann como influencia fundamental. Posteriormenete en la seccion de discusion teorica en torno a la TGSS se expone una lista de autores y proposiciones en concordancia o desacuerdo respecto de la propuesta Luhmanniana. 
+Se presenta una primera seccion de autores cuya obra o uso de algunas categorias en su labor academica se asocia como antecedente o en concordancia con la TGSS de Luhmann como influencia fundamental. Posteriormenete en la seccion de discusion teorica en torno a la TGSS se expone una lista de autores y proposiciones respecto de la propuesta Luhmanniana. Al final de cada seccion se presenta un diagrama que ilustra la informacion presentada.
 
 ***Créditos Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez.*
 
@@ -55,7 +55,7 @@ Los conceptos fundamentales de Niklas Luhmann han influido en una amplia gama de
    - Baecker ha trabajado en la cibernética de segundo orden y ha desarrollado conceptos de Luhmann en el análisis de la comunicación y la organización.
 
 
-Aquí hay un diagrama que ilustra lo mostrado anteriormente:
+El siguiente diagrama ilustra la informacion anterior presentada en esta seccion, Conceptos fundamentales de Niklas Luhmann y autores relacionados:
 
 ![Diagrama](https://github.com/rosariorogel/luhmann/blob/main/assets/img/Conceptos%20fundamentales%20Luhmann.png.png?raw=true)
 
@@ -105,6 +105,6 @@ A continuación se muestran los nombres de algunos autores que han expresado opi
      Puedes consultar el texto aquí: [Die Struktur der Moderne](https://www.suhrkamp.de/buch/richard-muench-die-struktur-der-moderne-t-9783518576878)
 
 
-Aquí hay un diagrama que ilustra lo mostrado anteriormente:
+El diagrama siguiente, Luhmann y su Teoria General de Sistemas, ilustra la discusion con los autores anteriormente mencionados:
 
 ![Diagrama](https://github.com/rosariorogel/luhmann/blob/main/assets/img/A%20favor%20o%20en%20contra%20de%20Luhmann.png.png?raw=true)
