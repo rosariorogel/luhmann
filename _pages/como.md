@@ -98,7 +98,7 @@ _**Coordinación Luhmann 3.0:** Lizeth Robles-Benítez, Alan Fernando Aguilar-Ga
 
 <img src="{{ site.baseurl }}/assets/img/Perplexity.jpeg" style="float:left;width:200px;padding-right:20px;"> [**Perplexity**](https://www.perplexity.ai/) fue de bastante ayuda, pues gracias a esta inteligencia artificial pudimos encontrar más autores que retoman algunos de los conceptos fundamentales de Niklas Luhmann. 
 
-<img src="{{ site.baseurl }}/assets/img/Markmap.png" style="float:left;width:200px;padding-right:20px;"> Para hacer que la información de manera más resumida decidimos realizar diagramas con la ayuda de una App llamada [**markmap**](https://markmap.js.org/). Esta App fue de bastante ayuda, solo colocamos el código en lenguaje markdown de la información que queremos que este dentro del diagrama y la App en automático lo generara, es muy fácil de usar. 
+<img src="{{ site.baseurl }}/assets/img/Markmap.png" style="float:left;width:200px;padding-right:20px;"> Para hacer que la información estuviera de manera más resumida decidimos realizar diagramas con la ayuda de una App llamada [**markmap**](https://markmap.js.org/). Esta App fue de bastante ayuda, solo colocamos el código en lenguaje markdown de la información que queremos que este dentro del diagrama y la App en automático lo generara, es muy fácil de usar. 
 
 _**Coordinación Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez._
 
