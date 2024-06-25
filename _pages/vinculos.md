@@ -5,9 +5,11 @@ subtitle: Colección de contenidos web relacionados con la Teoría General de Si
 permalink: vinculos
 ---
 
-# Propuestas teóricas a favor o en contra de la TGSS 
+# Propuestas Teóricas en discusion o asociadas a la TGSS 
 
-Esta sección está dedicada a mostrar algunos de los autores y sus contribuciones relacionadas con los conceptos fundamentales de Niklas Luhmann, además se muestran algunos autores que expresaron ideas y opiniones a favor o en contra de Luhmann. 
+Esta sección muestra algunos autores y contribuciones asociadas a los conceptos fundamentales de Niklas Luhmann en torno a la Teoría General de Sistemas Sociales; conocer ideas y opiniones a favor o en contra de las propuestas Luhmannianas permite considerar un panorama mas amplio, los alcances, limitaciones y oportunidades de aplicacion de la teoría.
+
+Se presenta una primera seccion de autores cuya obra o uso de algunas categorias en su labor academica se asocia como antecedente o en concordancia con la TGSS de Luhmann como influencia fundamental. Posteriormenete en la seccion de discusion teorica en torno a la TGSS se expone una lista de autores y proposiciones en concordancia o desacuerdo respecto de la propuesta Luhmanniana. 
 
 ***Créditos Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez.*
 
@@ -59,10 +61,9 @@ Aquí hay un diagrama que ilustra lo mostrado anteriormente:
 
 
 
-## Autores y académicos que han expresado opiniones sobre Niklas Luhmann y su Teoría General de Sistemas
+## Discusion Teórica en torno a la TGSS
 
 A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
-
 
 ### A favor:
 
