@@ -13,9 +13,12 @@ Durante el ciclo 2024A, se han incorporado al Grupo Público de Zotero [**Luhman
 
 Arteaga, L. H. (2007). Del libro de Niklas Luhmann, La sociedad de la sociedad, México, Herder, 2007, 964 pp. Revista Mexicana de Ciencias Políticas y Sociales, 49(201), Article 201. [https://doi.org/10.22201/fcpys.2448492xe.2007.201.42595](https://doi.org/10.22201/fcpys.2448492xe.2007.201.42595)
 
-<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg"><img width="256" alt="LeyendolaSociedaddelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LeyendolaSociedaddelaSociedad.jpg/256px-LeyendolaSociedaddelaSociedad.jpg?20220611222242"></a>
+<div style="text-align: center;">
+  <img src="<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg"><img width="256" alt="LeyendolaSociedaddelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LeyendolaSociedaddelaSociedad.jpg/256px-LeyendolaSociedaddelaSociedad.jpg?20220611222242"></a>
+">
+</div>
 
-<a href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
+<p style="font-size:12px"><a href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,</p>
 
 ##Reseña del libro ***El arte de la sociedad***
 
