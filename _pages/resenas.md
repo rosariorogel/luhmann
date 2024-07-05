@@ -25,10 +25,19 @@ Valenzela, F. (2005). [El arte de la sociedad que observó Niklas Luhmann.](http
 <p style="font-size:12px">
 <a href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 
-## Reseña de ***Complejidad y modernidad: de la unidad a la diferencia"
+## Reseña de ***Complejidad y modernidad: de la unidad a la diferencia***
 
 López Vargas, B. I. (1999). [La complejidad de Luhmann](https://repository.unab.edu.co/bitstream/handle/20.500.12749/11098/LA%20COMPLEJIDAD%20DE%20LUHMANN.pdf?sequence=1&isAllowed=y). Reflexión Política, 1(1). 
 
 <a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendoComplejidadyModernidad.jpg"><img width="512" alt="LeyendoComplejidadyModernidad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/LeyendoComplejidadyModernidad.jpg/512px-LeyendoComplejidadyModernidad.jpg?20220611222239"></a>
 <p style="font-size:12px">
 <a href="https://commons.wikimedia.org/wiki/File:LeyendoComplejidadyModernidad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
+
+## Reseña de ***La realidad de los medios de masas***
+
+Beatriz, A. (2009). [La realidad de los medios de masas (Niklas Luhmann)](https://doi.org/10.15178/va.2009.106.116-137
+). Vivat Academia, 116. 
+
+<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendoLaRealidaddelosMedios.jpg"><img width="256" alt="LeyendoLaRealidaddelosMedios" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/LeyendoLaRealidaddelosMedios.jpg/256px-LeyendoLaRealidaddelosMedios.jpg?20220611222236"></a>
+<p style="font-size:12px">
+<a href="https://commons.wikimedia.org/wiki/File:LeyendoLaRealidaddelosMedios.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
