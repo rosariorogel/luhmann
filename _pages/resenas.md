@@ -18,7 +18,7 @@ Arteaga, L. H. (2007). Del libro de Niklas Luhmann, La sociedad de la sociedad, 
 
 ## Reseña del libro ***El arte de la sociedad***
 
-Valenzela, F. (2005). El arte de la sociedad que observó Niklas Luhmann. Persona y Sociedad, XIX(3), 287–289. [https://www.researchgate.net/publication/269707395_El_arte_de_la_sociedad_que_observo_Niklas_Luhmann](https://www.researchgate.net/publication/269707395_El_arte_de_la_sociedad_que_observo_Niklas_Luhmann)
+Valenzela, F. (2005). [El arte de la sociedad que observó Niklas Luhmann.](https://www.researchgate.net/publication/269707395_El_arte_de_la_sociedad_que_observo_Niklas_Luhmann) Persona y Sociedad, XIX(3), 287–289. 
 <a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg"><img width="256" alt="LeyendoelArtedelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LeyendoelArtedelaSociedad.jpg/256px-LeyendoelArtedelaSociedad.jpg?20220611222239"></a>
 <p style="font-size:12px">
 <a href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,</p>
