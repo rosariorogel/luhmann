@@ -11,14 +11,24 @@ Durante el ciclo 2024A, se han incorporado al Grupo Público de Zotero [**Luhman
 
 ## Reseña del libro ***La sociedad de la sociedad***
 
-Arteaga, L. H. (2007). [Del libro de Niklas Luhmann, La sociedad de la sociedad](https://doi.org/10.22201/fcpys.2448492xe.2007.201.42595), México, Herder, 2007, 964 pp. Revista Mexicana de Ciencias Políticas y Sociales, 49(201), Article 201.</div>
+Arteaga, L. H. (2007). [Del libro de Niklas Luhmann, La sociedad de la sociedad](https://doi.org/10.22201/fcpys.2448492xe.2007.201.42595), México, Herder, 2007, 964 pp. Revista Mexicana de Ciencias Políticas y Sociales, 49(201), Article 201.
+
 <a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg"><img width="256" alt="LeyendolaSociedaddelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LeyendolaSociedaddelaSociedad.jpg/256px-LeyendolaSociedaddelaSociedad.jpg?20220611222242"></a>
 <p style="font-size:12px">
-<a href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,</p>
+<a href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 
 ## Reseña del libro ***El arte de la sociedad***
 
-Valenzela, F. (2005). [El arte de la sociedad que observó Niklas Luhmann.](https://www.researchgate.net/publication/269707395_El_arte_de_la_sociedad_que_observo_Niklas_Luhmann) Persona y Sociedad, XIX(3), 287–289. </div>
+Valenzela, F. (2005). [El arte de la sociedad que observó Niklas Luhmann.](https://www.researchgate.net/publication/269707395_El_arte_de_la_sociedad_que_observo_Niklas_Luhmann) Persona y Sociedad, XIX(3), 287–289.
+
 <a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg"><img width="256" alt="LeyendoelArtedelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LeyendoelArtedelaSociedad.jpg/256px-LeyendoelArtedelaSociedad.jpg?20220611222239"></a>
 <p style="font-size:12px">
-<a href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,</p>
+<a href="https://commons.wikimedia.org/wiki/File:LeyendoelArtedelaSociedad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
+
+## Reseña de ***Complejidad y modernidad: de la unidad a la diferencia"
+
+López Vargas, B. I. (1999). [La complejidad de Luhmann](https://repository.unab.edu.co/bitstream/handle/20.500.12749/11098/LA%20COMPLEJIDAD%20DE%20LUHMANN.pdf?sequence=1&isAllowed=y). Reflexión Política, 1(1). 
+
+<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendoComplejidadyModernidad.jpg"><img width="512" alt="LeyendoComplejidadyModernidad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/LeyendoComplejidadyModernidad.jpg/512px-LeyendoComplejidadyModernidad.jpg?20220611222239"></a>
+<p style="font-size:12px">
+<a href="https://commons.wikimedia.org/wiki/File:LeyendoComplejidadyModernidad.jpg">IsabelColin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
