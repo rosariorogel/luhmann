@@ -52,7 +52,6 @@ Instagram:https: [@maar.gzmn](www.instagram.com/maar.gzmn)
 Intagram: [@karlagomeezs](https://www.instagram.com/karlagomeezs/?hl=es-la)
 
 <div style="clear: both;"></div>
-<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/Foto Fernanda González.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
 **María Fernanda González Paulino** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología del derecho, metodologías de invetigación y sociología rural.
