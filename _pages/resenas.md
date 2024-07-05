@@ -17,4 +17,4 @@ Arteaga, L. H. (2007). Del libro de Niklas Luhmann, La sociedad de la sociedad, 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/LeyendolaSociedaddelaSociedad.jpg" style="float:left;width:200px;padding-right:20px;">
 
-<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg"><img width="512" alt="LeyendolaSociedaddelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LeyendolaSociedaddelaSociedad.jpg/512px-LeyendolaSociedaddelaSociedad.jpg?20220611222242"></a>
+<a title="IsabelColin, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:LeyendolaSociedaddelaSociedad.jpg"><img width="128" alt="LeyendolaSociedaddelaSociedad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LeyendolaSociedaddelaSociedad.jpg/128px-LeyendolaSociedaddelaSociedad.jpg?20220611222242"></a>
