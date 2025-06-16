@@ -19,10 +19,4 @@ Zotero es una herramienta digital de acceso abierto que permite vincular a estas
 
 ***Créditos:** Daniela Arias-Robles, Maria Fernanda Gonzalez-Paulino, Erik Salazar-Rosas*
 
-PRUEBA
-Durante el curso COIL ([enlace a carpeta del curso](https://drive.google.com/drive/folders/198kXUj2ZSkxMBfnZxgLFKhJMjRlH7-Ce)) bla blabla, abrimos una nueva sección en bibliografía.
-
-**Participantes:** **Rosario Rogel**
-
-
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4695391%2Fitems%3Fkey%3DgOUOgVBZemqERoSIQtIxhuVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
