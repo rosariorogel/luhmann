@@ -21,6 +21,12 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoÁngelGutiérrez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Ángel Gutiérrez Escobedo** Doctorante en Ciencias Sociales, Maestro en Filosofía y Licenciado en Derecho por la [Universidad de Guanajuato](https://www.ugto.mx/). Temas de interes: Filosofía de la Ciencia, Historia de las Ciencias Sociales.
+
+Facebook: [Ángel Gutiérrez Escobedo](https://www.facebook.com/angel.gutierrezescobedo/)
+
+<div style="clear: both;"></div>
 ## Actualización del sitio Luhmann 3.0
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
