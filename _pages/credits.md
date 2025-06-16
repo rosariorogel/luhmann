@@ -7,7 +7,7 @@ permalink: credits
 
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
 
-<img src="{{ site.baseurl }}/assets/img/FotoRosaMariaAlonzo.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoRosaMariaAlonzo.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosa María Alonzo González** Profesora de tiempo completo de la Facultad de Ciencias Humanas de la [Universidad Autónoma de Baja California](https://www.uabc.mx/). Temas de interes: Comunicación y cultura digital, Educomunicación y Competencias digitales.
 
 Facebook: [Rosa María Alonzo González](https://www.facebook.com/RosaMariaAlonzoGonzalez/)
