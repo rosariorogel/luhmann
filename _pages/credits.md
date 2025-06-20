@@ -27,6 +27,14 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 Facebook: [Ángel Gutiérrez Escobedo](https://www.facebook.com/angel.gutierrezescobedo/)
 
 <div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/Foto Mariana Sánchez.jpg" style="float:left;width:200px;padding-right:20px;">
+**Mariana Sánchez Hernández** Licenciada en Psicología por la Facultad de Ciencias de la Conducta de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Psicología del deporte, Trastornos del Neurodesarrollo, Psicología Geriátrica, Derechos Humanos y Vulnerabilidad, Desarrollo Web y Ciberseguridad.
+
+LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz)
+
+<div style="clear: both;"></div>
+
 ## Actualización del sitio Luhmann 3.0
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
