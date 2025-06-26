@@ -40,7 +40,7 @@ CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visua
 **Ángel Gutiérrez Escobedo** Doctorante en Ciencias Sociales, Maestro en Filosofía y Licenciado en Derecho por la [Universidad de Guanajuato](https://www.ugto.mx/). Temas de interes: Filosofía de la Ciencia, Historia de las Ciencias Sociales.
 
 Facebook: [Ángel Gutiérrez Escobedo](https://www.facebook.com/angel.gutierrezescobedo/)
-
+ORCID: [0009-0007-1278-0373](https://orcid.org/0009-0007-1278-0373)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/Foto Mariana Sánchez.jpg" style="float:left;width:200px;padding-right:20px;">
