@@ -27,7 +27,7 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Guillermo.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoGuillermo.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/). Temas de interes: Educación, Redes Sociales, Sistemas Sociales 
 
 CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002019
@@ -43,7 +43,7 @@ Facebook: [Ángel Gutiérrez Escobedo](https://www.facebook.com/angel.gutierreze
 ORCID: [0009-0007-1278-0373](https://orcid.org/0009-0007-1278-0373)
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Mariana Sánchez.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoMarianaSánchez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Sánchez Hernández** Licenciada en Psicología por la Facultad de Ciencias de la Conducta de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Psicología del deporte, Trastornos del Neurodesarrollo, Psicología Geriátrica, Derechos Humanos y Vulnerabilidad, Desarrollo Web y Ciberseguridad.
 
 LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz)
@@ -76,14 +76,14 @@ Facebook: [Andrea Cruz](https://www.facebook.com/profile.php?id=61554794530694&m
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Leonardo Godínez .jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoLeonardoGodínez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Leonardo Godínez Sánchez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología, historia, música, artes y sociología rural.
 
 Instagram: [@leogs5](https://www.instagram.com/leogs5/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Marisol Guzmán Blanco .jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoMarisolGuzmánBlanco.jpg" style="float:left;width:200px;padding-right:20px;">
 **Marisol Guzmán Blanco** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/) y de Ciencias Políticas en [Universidad Nacional Autónoma de México](https://www.unam.mx/). Temas de interés: historia, sistemas políticos, movimientos sociales, pensamiento crítico, micro y macro sociología, fenomenología y sociología rural.
 
 Instagram:https: [@maar.gzmn](www.instagram.com/maar.gzmn)
@@ -97,7 +97,7 @@ Intagram: [@karlagomeezs](https://www.instagram.com/karlagomeezs/?hl=es-la)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Fernanda González.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFernandaGonzález.jpeg" style="float:left;width:200px;padding-right:20px;">
 **María Fernanda González Paulino** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología del derecho, metodologías de invetigación y sociología rural.
 
 Facebook: [María Fernanda González Paulino](https://www.facebook.com/mariafernanda.gonzalezpaulino?mibextid=ZbWKwL)
@@ -111,7 +111,7 @@ Instagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/ErikSalazar.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoErikSalazar.jpg" style="float:left;width:200px;padding-right:20px;">
 **Erik Salazar Rosas** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, Sociología Urbana, Arte, Cultura, Ciencia y Tecnología.
 
 Intagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
@@ -199,7 +199,7 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLuisRJ.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoLuisRJ.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología politica, Multiculturalismo, subculturas, movimientos de autodefensa.
 
 <div style="clear: both;"></div>
