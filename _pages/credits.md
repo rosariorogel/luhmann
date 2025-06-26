@@ -27,7 +27,7 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoGuillermo.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoGuillermo.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/). Temas de interes: Educación, Redes Sociales, Sistemas Sociales 
 
 CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002019
@@ -111,7 +111,7 @@ Instagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/ErikSalazar.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoErikSalazar.jpg" style="float:left;width:200px;padding-right:20px;">
 **Erik Salazar Rosas** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, Sociología Urbana, Arte, Cultura, Ciencia y Tecnología.
 
 Intagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
@@ -149,7 +149,7 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlanFlores.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlan Flores.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política y Ciencias Políticas.
 
 <div style="clear: both;"></div>
