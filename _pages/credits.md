@@ -13,6 +13,12 @@ permalink: credits
 Facebook: [Rosa María Alonzo González](https://www.facebook.com/RosaMariaAlonzoGonzalez/)
 
 <div style="clear: both;"></div>
+<img src="{{ site.baseurl }}/assets/img/FotoMagallyMartinezReyes.jpg" style="float:left;width:200px;padding-right:20px;">
+**Magally Martínez Reyes** Profesora de tiempo completo del Centro Universitario Valle de Chalco de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Pensamiento complejo y computacional.
+
+LinkedIn: [Magally Martínez Reyes](https://www.linkedin.com/in/magally-mart%C3%ADnez-reyes-53b8721b7)
+
+<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaRojo.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Andrea Teresa Rojo Nápoles** Licenciada en Comunicación por la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Demografía social y Comunicación y salud
