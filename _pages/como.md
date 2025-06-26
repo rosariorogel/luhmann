@@ -42,11 +42,12 @@ _**Coordinación Luhmann 2.0:** Andrea Gutiérrez, Andrea Álvarez, Montserrat H
 
 <img src="{{ site.baseurl }}/assets/img/Dall-E.jpg" style="float:left;width:200px;padding-right:20px;"> Debido a que la gran mayoría de las imágenes de N. Luhmann disponibles en web no tienen permiso para reuso o generar obras derivadas, recurrimos a la herramienta de código abierto [**Dall-E**](https://openai.com/dall-e-2), a partir de la cual creamos nuestra propia imagen del sociólogo alemán. **Dall-E** es una herramienta de Inteligencia Artificial diseñada para producir imágenes increíbles y sorprendentes. 
 
- <img src="{{ site.baseurl }}/assets/img/ChatGPT.jpg" style="float:left;width:200px;padding-right:20px;"> Los conceptos que se presentan en esta sección, así como los ejemplos, se generaron con [**ChatGPT**](https://openai.com/blog/chatgpt). También se utilizó esta herramienta para revisar la redacción de los subtítulos en los videos. **ChatGPT** es una herramienta de Inteligencia Artificial que funciona como un potente procesador de texto.
+<img src="{{ site.baseurl }}/assets/img/ChatGPT.jpg" style="float:left;width:200px;padding-right:20px;"> Los conceptos que se presentan en esta sección, así como los ejemplos, se generaron con [**ChatGPT**](https://openai.com/blog/chatgpt). También se utilizó esta herramienta para revisar la redacción de los subtítulos en los videos. **ChatGPT** es una herramienta de Inteligencia Artificial que funciona como un potente procesador de texto.
 
 _**Coordinación Luhmann 2.0:** Kay Zepeda Franco, Ana Laura León Piña, Brayan Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido._  
 
 <img src="{{ site.baseurl }}/assets/img/TikTok.png" style="float:left;width:200px;padding-right:20px;"> Creamos una cuenta oficial en [TikTok: @luhmann2.0](https://www.tiktok.com/@luhmann2.0?lang=es) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.      
+
 
 <img src="{{ site.baseurl }}/assets/img/CapCut.png" style="float:left;width:200px;padding-right:20px;"> Para la edición de videos que compartimos en **TikTok**, recurrimos a [**CapCut**](https://www.capcut.com/es-es/). Esta herramienta brinda la capacidad de crear y editar videos de forma sencilla y versátil, aprovechando una amplia variedad de recursos disponibles. Con **CapCut,** puedes editar texto, video y audio de manera intuitiva, lo que la convierte en una herramienta accesible para personas de todos los niveles de experiencia en la edición de videos.  
 
