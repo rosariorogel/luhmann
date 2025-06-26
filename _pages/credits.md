@@ -27,6 +27,15 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/Foto Guillermo.png" style="float:left;width:200px;padding-right:20px;">
+**Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/). Temas de interes: Educación, Redes Sociales, Sistemas Sociales 
+
+CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002019
+987#datos_generales)
+
+<div style="clear: both;"></div>
+
+
 <img src="{{ site.baseurl }}/assets/img/FotoÁngelGutiérrez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ángel Gutiérrez Escobedo** Doctorante en Ciencias Sociales, Maestro en Filosofía y Licenciado en Derecho por la [Universidad de Guanajuato](https://www.ugto.mx/). Temas de interes: Filosofía de la Ciencia, Historia de las Ciencias Sociales.
 
