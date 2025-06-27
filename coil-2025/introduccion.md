@@ -9,7 +9,7 @@ permalink: /coil-2025/introduccion/
 
 Con gran entusiasmo presentamos la actualización **Luhmann 4.0** de nuestra página sobre la Teoría General de los Sistemas Sociales de Niklas Luhmann. Esta versión incorpora los resultados del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
 
-**Coordinadores del curso**
+### Coordinadores del curso
 - [**Dra. Rosario Rogel-Salazar**](https://rosariorogel.net/), profesora del Doctorado en Ciencias Sociales, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México (México)   
 - [**Dr. Artur Stamford da Silva**](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3215159), profesor del Doctorado en Derecho, Facultad de Direito, Universidade Federal de Pernambuco (Brasil).
 - [**Dr. Gabriel Vélez Cuartas**](https://ciics.casagrande.edu.ec/phd-gabriel-velez-cuartas/), profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
