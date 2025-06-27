@@ -5,6 +5,8 @@ subtitle: Visualización de datos y recursos de información
 cover-img: "/assets/img/luhmann/luhmann-notes-1920x1080.jpg"
 ---
 
+<div style="text-align: center;" markdown="1">
+
 # Bienvenidxs
 
 Teoría General de los Sistemas Sociales: Niklas Luhmann es un [Recurso Educativo Abierto](https://www.unesco.org/en/open-educational-resources) desarrollado por estudiantes de sociología de la Universidad Autónoma del Estado de México durante el ciclo escolar 2022A y, posteriormente, actualizado por estudiantes de los ciclos 2023A y 2024A.
@@ -16,4 +18,6 @@ El objetivo de este **REA** es recopilar información de calidad disponible en I
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 _Luhmann en Web_ by [Rosario Rogel-Salazar](https://rosariorogel.net/luhmann/) is licensed under a [Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/) License.  
-Creado a partir de la obra en [https://rosariorogel.net/luhmann/](https://rosariorogel.net/luhmann/).
+Creado a partir de la obra en [https://rosariorogel.net/luhmann/](https://rosariorogel.net/luhmann/)
+
+</div>
