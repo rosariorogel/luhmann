@@ -28,7 +28,7 @@ Analizar los impactos de los algoritmos y la inteligencia artificial en la toma 
 
 ### Modalidad COIL
 
-Este curso se desarrolló bajo la modalidad ***Collaborative Online International Learning (COIL)***, un método que promueve la colaboración entre docentes de al menos dos instituciones de educación superior de diferentes países para co-diseñar y co-facilitar actividades en línea, internacionalizando el currículo y potenciando competencias interculturales en los estudiantes [Hackett et al, 2023](https://doi.org/10.1007/s11528-024-01000-w).  
+Este curso se desarrolló bajo la modalidad ***Collaborative Online International Learning (COIL)***, un método que promueve la colaboración entre docentes de al menos dos instituciones de educación superior de diferentes países para co-diseñar y co-facilitar actividades en línea, internacionalizando el currículo y potenciando competencias interculturales en los estudiantes ([Hackett et al, 2023](https://doi.org/10.1007/s11528-024-01000-w)).  
 
 La actualización de esta página web es uno de los productos finales del curso, reflejo del trabajo conjunto de participantes y coordinadores, y demuestra nuestro compromiso con la enseñanza abierta, colaborativa e internacional.  
 </div>
