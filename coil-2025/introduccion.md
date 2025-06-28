@@ -5,7 +5,8 @@ permalink: /coil-2025/introduccion/
 ---
 
 <div style="text-align: justify;" markdown="1">
-# Introducción a Luhmann 4.0
+# Recurso Educativo Abierto 
+##Curso: Algoritmos, Sistemas Sociales y Decisión
 
 Con gran entusiasmo presentamos la actualización **Luhmann 4.0** de nuestra página sobre la Teoría General de los Sistemas Sociales de Niklas Luhmann. Esta versión incorpora los resultados del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
 
