@@ -4,15 +4,15 @@ title: "Introducción"
 permalink: /coil-2025/introduccion/
 ---
 
-<div style="text-align: justify;" markdown="1">
-# Recurso Educativo Abierto 
-##Curso: Algoritmos, Sistemas Sociales y Decisión
+# Recurso Educativo Abierto del curso: *Algoritmos, Sistemas Sociales y Decisión*, 2025A
 
-Con gran entusiasmo presentamos la actualización **Luhmann 4.0** de nuestra página sobre la Teoría General de los Sistemas Sociales de Niklas Luhmann. Esta versión incorpora los resultados del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
+<div style="text-align: justify;" markdown="1">
+
+Con gran entusiasmo presentamos la actualización **Luhmann 4.0** del Recurso Educativo Abierto *Teoría General de los Sistemas Sociales: Niklas Luhmann*. Esta versión incorpora el trabajo realizado en el marco del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
 
 ### Coordinadores del curso
 - [**Dra. Rosario Rogel-Salazar**](https://rosariorogel.net/), profesora del Doctorado en Ciencias Sociales, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México (México)   
-- [**Dr. Artur Stamford da Silva**](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3215159), profesor del Doctorado en Derecho, Facultad de Direito, Universidade Federal de Pernambuco (Brasil).
+- [**Dr. Artur Stamford da Silva**](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3215159), professor do Doutorado em Direito da Faculdade de Direito da Universidade Federal de Pernambuco (Brasil).
 - [**Dr. Gabriel Vélez Cuartas**](https://ciics.casagrande.edu.ec/phd-gabriel-velez-cuartas/), profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
 
 ### Objetivos del curso
@@ -26,6 +26,10 @@ Analizar los impactos de los algoritmos y la inteligencia artificial en la toma 
 - Examinar el uso de la IA en educación, ciencia, gobernanza y derecho.  
 - Fomentar el conocimiento abierto con un libro colaborativo y un REA en GitHub.  
 - Impulsar el intercambio académico internacional en el marco del COIL.   
+
+### Programa del curso – *Syllabus*
+
+El programa del curso *—syllabus—* está disponible en acceso abierto en este [enalace](10.5281/zenodo.15770096), alojado en el Repositorio del Curso en la plataforma Zenodo en la comunidad [Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões](https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest).
 
 ### Modalidad COIL
 
