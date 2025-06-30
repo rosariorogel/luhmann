@@ -10,10 +10,9 @@ Todas las sesiones grabadas del curso **Algoritmos, Sistemas Sociales y Decisió
 
 Estos videos y recursos se publican bajo la licencia **[Creative Commons Reconocimiento 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}**, lo que permite compartir, distribuir y adaptar los contenidos siempre que se cite la autoría original.
 
-Para consultar las grabaciones y descargar los materiales, visita la sección **Sesiones en línea** de este repositorio o nuestra lista de reproducción en YouTube.
+Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión de tu preferencia.
 
 ### Sesión 1. Introducción a la estructura y dinámica del curso
-</div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
