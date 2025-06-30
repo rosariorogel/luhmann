@@ -35,7 +35,7 @@ Cada uno de los registros cuenta con un [**DOI**](https://www.doi.org/){:target=
       font-weight: bold;
     "
   >
-    Ir al repositorio “Sociología y Algoritmos” en Zenodo
+    Ir al repositorio “Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões” en Zenodo
   </a>
 </div>
 
