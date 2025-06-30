@@ -10,7 +10,7 @@ Todas las sesiones grabadas del curso **Algoritmos, Sistemas Sociales y Decisió
 
 Estos videos y recursos se publican bajo la licencia **[Creative Commons Reconocimiento 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}**, lo que permite compartir, distribuir y adaptar los contenidos siempre que se cite la autoría original.
 
-Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión de tu preferencia.
+Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión de tu preferencia, o bien, puedes seguir la playlist del [Curso COIL: Algoritmos, Sistemas Sociales y Decisión](https://www.youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2) en YouTube. 
 
 ---
 
@@ -220,8 +220,14 @@ Fecha: 4 de junio 2025
 Fecha: 11 de junio 2025  
 *Profesor invitado: Gastón Becerra*  
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/HjF8_9CF8Xg"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
 
-
-
-
-
+---
