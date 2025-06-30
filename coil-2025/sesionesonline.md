@@ -121,53 +121,104 @@ Fecha: 9 de abril 2025
 ---
 
 ## Sesión 8. Inteligencia Artificial: el problema de los datos masivos
-Fecha: 24 de abril 2025
+Fecha: 24 de abril 2025  
+*Profesor invitado: Omar Zapata*  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/2t6CRd4WgRs"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
-*Profesor invitado: Omar Zapata*
 
-
+---
 
 ## Sesión 9. ¿Cómo se construye la autonomía humana en contextos donde la IA actúa como “caja negra”?
-Fecha: 7 de mayo 2025
+Fecha: 7 de mayo 2025  
+*Mediador: Artur Stamford Da Silva*  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/D5Dd7pkN3TY"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
-*Mediador: Artur Stamford Da Silva*
 
-
+---
 
 ## Sesión 10. Ciencia
-Fecha: 14 de mayo 2025
-</div>
-*Mediador: Gabriel Vélez-Cuartas*
+Fecha: 14 de mayo 2025  
+*Mediador: Gabriel Vélez-Cuartas*  
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Y8SSkgjfHAk"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 
 ## Sesión 11. Educación
-Fecha: 21 de mayo 2025
+Fecha: 21 de mayo 2025  
+*Mediador: Rosario Rogel-Salazar*  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/pMAoLsECN7c"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
-*Mediador: Rosario Rogel-Salazar*
 
-
-
+---
 
 ## Sesión 12. Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?
-Fecha: 28 de mayo 2025
+Fecha: 28 de mayo 2025  
+*Profesor invitado: Álvaro Farias Pinheiro*  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/LOpSOcEUPsk"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
-*Profesor invitado: Álvaro Farias Pinheiro*
 
-
-
+---
 
 ## Sesión 13. ¿Cómo los algoritmos afectan el sistema del derecho? ¿Cómo el uso de la IA está cambiando la práctica jurídica?
-Fecha: 4 de junio 2025
+Fecha: 4 de junio 2025  
+*Medidado: Artur Stamfird Da Silva*  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/nR_q1QicBWI"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
-*Medidado: Artur Stamfird Da Silva*
 
-
-
+---
 
 ## Sesión 14. Ciencias sociales computacionales y sociología.
-Fecha: 11 de junio 2025
-</div>
-*Profesor invitado: Gastón Becerra*
+Fecha: 11 de junio 2025  
+*Profesor invitado: Gastón Becerra*  
 
 
 
