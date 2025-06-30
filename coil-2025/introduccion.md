@@ -4,16 +4,16 @@ title: "Introducción"
 permalink: /coil-2025/introduccion/
 ---
 
-# Recurso Educativo Abierto del curso: *Algoritmos, Sistemas Sociales y Decisión*, 2025A
+# Recurso Educativo Abierto del curso: *Algoritmos, Sistemas Sociales y Decisión*
 
 <div style="text-align: justify;" markdown="1">
 
 Con gran entusiasmo presentamos la actualización **Luhmann 4.0** del Recurso Educativo Abierto *Teoría General de los Sistemas Sociales: Niklas Luhmann*. Esta versión incorpora el trabajo realizado en el marco del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
 
 ### Coordinadores del curso
-- [**Dra. Rosario Rogel-Salazar**](https://rosariorogel.net/), profesora del Doctorado en Ciencias Sociales, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México (México)   
-- [**Dr. Artur Stamford da Silva**](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3215159), professor do Doutorado em Direito da Faculdade de Direito da Universidade Federal de Pernambuco (Brasil).
-- [**Dr. Gabriel Vélez Cuartas**](https://ciics.casagrande.edu.ec/phd-gabriel-velez-cuartas/), profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
+- [**Dra. Rosario Rogel-Salazar**](https://orcid.org/0000-0002-6018-0635), profesora del Doctorado en Ciencias Sociales, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México (México)   
+- [**Dr. Artur Stamford da Silva**](https://orcid.org/0000-0001-6537-2399), professor do Doutorado em Direito da Faculdade de Direito da Universidade Federal de Pernambuco (Brasil).
+- [**Dr. Gabriel Vélez Cuartas**](https://orcid.org/0000-0003-2350-4650), profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
 
 ### Objetivos del curso
 #### Objetivo general:
