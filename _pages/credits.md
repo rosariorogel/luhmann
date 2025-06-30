@@ -7,31 +7,7 @@ permalink: credits
 
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
 
-<img src="{{ site.baseurl }}/assets/img/FotoRosaMariaAlonzo.jpg" style="float:left;width:200px;padding-right:20px;">
-**Rosa María Alonzo González** Profesora de tiempo completo de la Facultad de Ciencias Humanas de la [Universidad Autónoma de Baja California](https://www.uabc.mx/). Temas de interes: Comunicación y cultura digital, Educomunicación y Competencias digitales.
-
-Facebook: [Rosa María Alonzo González](https://www.facebook.com/RosaMariaAlonzoGonzalez/)
-
-<div style="clear: both;"></div>
-<img src="{{ site.baseurl }}/assets/img/FotoMagallyMartinezReyes.jpg" style="float:left;width:200px;padding-right:20px;">
-**Magally Martínez Reyes** Profesora de tiempo completo del Centro Universitario Valle de Chalco de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Pensamiento complejo y computacional.
-
-LinkedIn: [Magally Martínez Reyes](https://www.linkedin.com/in/magally-mart%C3%ADnez-reyes-53b8721b7)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoAndreaRojo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Andrea Teresa Rojo Nápoles** Licenciada en Comunicación por la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Demografía social y Comunicación y salud
-
-LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1poles-a0b654209/)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoGuillermo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/). Temas de interes: Educación, Redes Sociales, Sistemas Sociales 
-
-CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002019
-987#datos_generales)
+La actualización 4.0 de este sitio se realizó en el marco del curso ***Algoritmos, Sistemas Sociales y Decisión*** cuyos créditos están indicados en el apartado [*Curso COIL-2025*](https://rosariorogel.net/luhmann/coil-2025/cr%C3%A9ditos/){:target="_blank"} de esta página web. 
 
 <div style="clear: both;"></div>
 
