@@ -29,7 +29,7 @@ Analizar los impactos de los algoritmos y la inteligencia artificial en la toma 
 
 ### Programa del curso – *Syllabus*
 
-El programa del curso *—syllabus—* está disponible en acceso abierto en este [enalace](10.5281/zenodo.15770096), alojado en el Repositorio del Curso en la plataforma Zenodo en la comunidad [Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões](https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest).
+El programa del curso *—syllabus—* está disponible en acceso abierto en este [enlace](10.5281/zenodo.15770096), alojado en el Repositorio del Curso en la plataforma Zenodo en la comunidad [Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões](https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest).
 
 ### Modalidad COIL
 
