@@ -16,9 +16,9 @@ Con gran entusiasmo presentamos la actualización **Luhmann 4.0** del Recurso Ed
 - [**Dr. Gabriel Vélez Cuartas**](https://orcid.org/0000-0003-2350-4650){:target="_blank"}, profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
 
 ### Profesores invitados
-- [**Dr. Sergio Pignouli Ocampo**](https://orcid.org/0000-0002-9918-0931){:target="_blank"}, Investigador del CONICET, Universidad de Buenos Aires (Argentina), con el tema: *¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?*.
-- [**Dr. Álvaro Farias Pinheiro**](https://orcid.org/0000-0002-6254-7293){:target="_blank"}, professor da Universidade Federal de Pernambuco (Brasil), con el tema: *Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?*.
-- [**Dr. Gastón Becerra**](https://orcid.org/0000-0001-9432-8848){:target="_blank"}, profesor de la Universidad de Flores (Argentina), con el tema: *Ciencias sociales computacionales y sociología.*.
+- [**Dr. Sergio Pignouli Ocampo**](https://orcid.org/0000-0002-9918-0931){:target="_blank"}, Investigador del CONICET, Universidad de Buenos Aires (Argentina), con el tema: *¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?*
+- [**Dr. Álvaro Farias Pinheiro**](https://orcid.org/0000-0002-6254-7293){:target="_blank"}, professor da Universidade Federal de Pernambuco (Brasil), con el tema: *Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?*
+- [**Dr. Gastón Becerra**](https://orcid.org/0000-0001-9432-8848){:target="_blank"}, profesor de la Universidad de Flores (Argentina), con el tema: *Ciencias sociales computacionales y sociología.*
   
 ### Objetivos del curso
 #### Objetivo general:
