@@ -14,6 +14,9 @@ Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión 
 
 ### Sesión 1. Introducción a la estructura y dinámica del curso
 
+Fecha: 19 de febrero 2025
+*Mediadores: Rosario Rogel-Salazar, Artur Stamford da Silva y Garbriel Vélez-Cuartas*
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
     src="https://www.youtube.com/embed/de9lpZ4k8J8"
@@ -22,6 +25,23 @@ Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
-
 </div>
+
+### Sesión 2. Principios básicos de la Teoría de Sistemas
+
+Fecha: 26 de febrero 2025
+*Mediadora: Rosario Rogel-Salazar*
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/_w5HCKAAcI8"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+
+
 
