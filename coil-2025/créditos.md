@@ -8,7 +8,7 @@ Colaboradores en el desarrollo del Recurso Educativo Abierto (REA), asociado al 
 
 ## Gestión de contenidos
 
-<img src="{{ site.baseurl }}/assets/img/FotoAaronAlejandre.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAAronAlejandre.jpg" style="float:left;width:200px;padding-right:20px;">
 **Aarón Alejandre Aguilar** Sociólogo por la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/){:target="_blank"}. Temas de interes: Procesos Editoriales, Comunicación de la Ciencia.
 
 Facebook: [Aarón Alejandre Aquilar]([https://www.facebook.com/RosaMariaAlonzoGonzalez/](https://www.facebook.com/aaron.alejandrea)){:target="_blank"}
