@@ -39,12 +39,3 @@ Cada uno de los registros cuenta con un [**DOI**](https://www.doi.org/){:target=
   </a>
 </div>
 
-<div style="width: 100%; max-width: 100%; height: 600px; margin: auto;">
-  <iframe
-    src="https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest"
-    width="100%"
-    height="600"
-    frameborder="0"
-    allowfullscreen
-  ></iframe>
-</div>
