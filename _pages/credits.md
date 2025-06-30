@@ -12,20 +12,6 @@ La actualización 4.0 de este sitio se realizó en el marco del curso ***Algorit
 <div style="clear: both;"></div>
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoÁngelGutiérrez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ángel Gutiérrez Escobedo** Doctorante en Ciencias Sociales, Maestro en Filosofía y Licenciado en Derecho por la [Universidad de Guanajuato](https://www.ugto.mx/). Temas de interes: Filosofía de la Ciencia, Historia de las Ciencias Sociales.
-
-Facebook: [Ángel Gutiérrez Escobedo](https://www.facebook.com/angel.gutierrezescobedo/)
-ORCID: [0009-0007-1278-0373](https://orcid.org/0009-0007-1278-0373)
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoMarianaSánchez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Mariana Sánchez Hernández** Licenciada en Psicología por la Facultad de Ciencias de la Conducta de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Psicología del deporte, Trastornos del Neurodesarrollo, Psicología Geriátrica, Derechos Humanos y Vulnerabilidad, Desarrollo Web y Ciberseguridad.
-
-LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz)
-
-<div style="clear: both;"></div>
-
 ## Actualización del sitio Luhmann 3.0
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
