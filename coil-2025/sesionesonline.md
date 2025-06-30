@@ -12,7 +12,7 @@ Estos videos y recursos se publican bajo la licencia **[Creative Commons Reconoc
 
 Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión de tu preferencia.
 
-### Sesión 1. Introducción a la estructura y dinámica del curso
+#### Sesión 1. Introducción a la estructura y dinámica del curso
 Fecha: 19 de febrero 2025
 *Mediadores: Rosario Rogel-Salazar, Artur Stamford da Silva y Garbriel Vélez-Cuartas*
 
@@ -25,10 +25,9 @@ Fecha: 19 de febrero 2025
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
 </div>
-<!-- Separador vertical -->
-<div style="width: 2px; background-color: #ccc; height: 400px; margin: 1.5rem auto;"></div>
+---
 
-### Sesión 2. Principios básicos de la Teoría de Sistemas
+#### Sesión 2. Principios básicos de la Teoría de Sistemas
 Fecha: 26 de febrero 2025
 *Mediadora: Rosario Rogel-Salazar*
 
@@ -41,78 +40,77 @@ Fecha: 26 de febrero 2025
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
 </div>
-<!-- Separador vertical -->
-<div style="width: 2px; background-color: #ccc; height: 400px; margin: 1.5rem auto;"></div>
+---
 
-### Sesión 3. Comunicación
+#### Sesión 3. Comunicación
 Fecha: 12 de marzo 2025
 *Mediador: Gabriel Vélez-Cuartas*
 
 
 
-### Sesión 4. Sentido y Decisión
+#### Sesión 4. Sentido y Decisión
 Fecha: 19 de marzo 2025
 *Mediador: Artur Stamford Da Silva*
 
 
 
-### Sesión 5. ¿Cómo transforma la IA la comunicación como proceso central de los sistemas sociales?
+#### Sesión 5. ¿Cómo transforma la IA la comunicación como proceso central de los sistemas sociales?
 Fecha: 26 de marzo 2025
 *Mediador: Gabriel Vélez-Cuartas*
 
 
 
-### Sesión 6. ¿Qué desafíos plantea la IA para la educación y el aprendizaje en una sociedad funcionalmente diferenciada?
+#### Sesión 6. ¿Qué desafíos plantea la IA para la educación y el aprendizaje en una sociedad funcionalmente diferenciada?
 Fecha: 2 de abril 2025
 *Mediadora: Rosario Rogel-Salazar*
 
 
 
-### Sesión 7. ¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?
+#### Sesión 7. ¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?
 Fecha: 9 de abril 2025
 *Profesor invitado: Sergio Pignuoli Ocampo*
 
 
 
-### Sesión 8. Inteligencia Artificial: el problema de los datos masivos
+#### Sesión 8. Inteligencia Artificial: el problema de los datos masivos
 Fecha: 24 de abril 2025
 *Profesor invitado: Sergio Pignuoli Ocampo*
 
 
 
-### Sesión 9. ¿Cómo se construye la autonomía humana en contextos donde la IA actúa como “caja negra”?
+#### Sesión 9. ¿Cómo se construye la autonomía humana en contextos donde la IA actúa como “caja negra”?
 Fecha: 7 de mayo 2025
 *Mediador: Artur Stamford Da Silva*
 
 
 
-### Sesión 10. Ciencia
+#### Sesión 10. Ciencia
 Fecha: 14 de mayo 2025
 *Mediador: Gabriel Vélez-Cuartas*
 
 
-### Sesión 11. Educación
+#### Sesión 11. Educación
 Fecha: 21 de mayo 2025
 *Mediador: Rosario Rogel-Salazar*
 
 
 
 
-### Sesión 12. Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?
+#### Sesión 12. Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?
 Fecha: 28 de mayo 2025
 *Profesor invitado: Álvaro Farias Pinheiro*
 
 
 
 
-### Sesión 13. ¿Cómo los algoritmos afectan el sistema del derecho? ¿Cómo el uso de la IA está cambiando la práctica jurídica?
+#### Sesión 13. ¿Cómo los algoritmos afectan el sistema del derecho? ¿Cómo el uso de la IA está cambiando la práctica jurídica?
 Fecha: 4 de junio 2025
 *Medidado: Artur Stamfird Da Silva*
 
 
 
 
-### Sesión 14. Ciencias sociales computacionales y sociología.
+#### Sesión 14. Ciencias sociales computacionales y sociología.
 Fecha: 11 de junio 2025
 *Profesor invitado: Gastón Becerra*
 
