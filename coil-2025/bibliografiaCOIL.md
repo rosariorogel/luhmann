@@ -6,7 +6,7 @@ permalink: /coil-2025/bibliografíaCOIL/
 
 # Bibliografía Curso COIL
 
-En esta sección encontrarás todas las referencias bibliográficas utilizadas en el curso [**Algoritmos, Sistemas Sociales y Decisión**](https://zenodo.org/records/15770097){:target="_blank"}, integradas en el grupo abierto de Zotero **[Algoritmos/SistemasSociales/Decision](https://www.zotero.org/groups/5775713/algoritmossistemassocialesdecision)**{:target="_blank"}, al que cualquier persona interesada puede unirse.
+En esta sección encontrarás todas las referencias bibliográficas utilizadas en el curso [**Algoritmos, Sistemas Sociales y Decisión**](https://zenodo.org/records/15770097){:target="_blank"}, integradas en el [grupo abierto de Zotero](https://www.zotero.org/groups/5775713/algoritmossistemassocialesdecision){:target="_blank"}, al que cualquier persona interesada puede unirse.
 
 En el proceso de selección, cuidamos que todos los datos bibliográficos estuvieran correctamente referidos para facilitar su localización. Siempre que fue posible, añadimos enlaces a recursos en acceso abierto.
 
