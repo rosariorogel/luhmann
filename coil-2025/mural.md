@@ -5,7 +5,7 @@ permalink: /coil-2025/mural/
 ---
 En esta sección puedes encontrar un mural colaborativo realizado con aportaciones de los participantes del Curso COIL.
 
-La visualización fue realizada con Padlet, una herramienta digital que permite recopilar y presentar información en un espacio interactivo tipo muro. Su interfaz intuitiva facilita la incorporación de diversos formatos como texto, imágenes, enlaces y multimedia, lo que permite construir presentaciones visuales atractivas y colaborativas.
+La visualización fue realizada con **Padlet**, una herramienta digital que permite recopilar y presentar información en un espacio interactivo tipo muro. Su interfaz intuitiva facilita la incorporación de diversos formatos como texto, imágenes, enlaces y multimedia, lo que permite construir presentaciones visuales atractivas y colaborativas.
 
 Créditos: Mariana Sánchez Hernández
 
