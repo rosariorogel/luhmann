@@ -30,7 +30,7 @@ Analizar los impactos de los algoritmos y la inteligencia artificial en la toma 
 - Explorar el impacto de la IA en la comunicación y la organización social.  
 - Analizar la autonomía de los algoritmos y su rol en la toma de decisiones.  
 - Examinar el uso de la IA en educación, ciencia, gobernanza y derecho.  
-- Fomentar el conocimiento abierto con un libro colaborativo y un REA en GitHub.  
+- Fomentar el conocimiento abierto con un libro colaborativo y un [REA en GitHub](https://github.com/rosariorogel/luhmann){:target="_blank"}.  
 - Impulsar el intercambio académico internacional en el marco del COIL.   
 
 ### Programa del curso – *Syllabus*
