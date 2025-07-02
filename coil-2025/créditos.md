@@ -64,7 +64,20 @@ LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz){:t
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/){:target="_blank"}. Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
 
 ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635){:target="_blank"}
-Twitter: [@rosariorogel](https://twitter.com/rosariorogel){:target="_blank"}
+X: [@rosariorogel](https://twitter.com/rosariorogel){:target="_blank"}
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoArtur.jpg" style="float:left;width:200px;padding-right:20px;">
+**Artur Stanford Da Silva** Professor Titular de Teoria do Direito da [Universidade Federal de Pernambuco](https://www.ufpe.br/){:target="_blank"}. Pesquisa na área de Sociologia do Direito, com ênfase em decisão jurídica sob a transversalidade direito, linguagem e teoria dos sistemas sociais. Leciona na Faculdade de Direito do Recife e nos Programas de Pós-graduação da UFPE: Direito (PPGD) e em Direitos Humanos (PPGDH).
+
+ORCID: [0000-0001-6537-2399](https://orcid.org/0000-0001-6537-2399){:target="_blank"}
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoGabrielVelez.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Gabriel Vélez-Cuartas** Profesor Asociado del Departamento de Sociología de la [Universidad de Antioquia](https://www.udea.edu.co/){:target="_blank"}, Coordinador del CoLaV, Colaboratorio de Vinculación para las Ciencias Sociales Computacionales. Líneas de investigación: métricas responsables, métricas universidad-entorno, cienciometría y estudios sociales e históricos de la ciencia, análisis de redes, teorías de la comunicación y el sentido.
+
+ORCID: [0000-0003-2350-4650](https://orcid.org/0000-0003-2350-4650){:target="_blank"}
+
+<div style="clear: both;"></div>
