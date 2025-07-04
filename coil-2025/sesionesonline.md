@@ -77,7 +77,7 @@ Fecha: 26 de marzo 2025
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://www.youtube.com/embed/BMaqqoyzDmM"
+    src="https://youtu.be/MDVz6B0m-8c?si=uHRQsWOqmJZqr7uu"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
