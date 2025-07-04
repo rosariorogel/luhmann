@@ -105,8 +105,7 @@ Fecha: 2 de abril 2025
 
 ## Sesión 7. ¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?
 Fecha: 9 de abril 2025  
-</div>
-*Profesor invitado: Sergio Pignuoli Ocampo*
+*Profesor invitado: Sergio Pignuoli Ocampo*  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
