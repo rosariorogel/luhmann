@@ -54,7 +54,7 @@ ORCID: [0009-0007-1278-0373](https://orcid.org/0009-0007-1278-0373){:target="_bl
 <img src="{{ site.baseurl }}/assets/img/FotoMarianaSánchez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Sánchez Hernández** Licenciada en Psicología por la Facultad de Ciencias de la Conducta de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/){:target="_blank"}. Temas de interes: Psicología del deporte, Trastornos del Neurodesarrollo, Psicología Geriátrica, Desarrollo Web y Ciberseguridad.
 
-LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz/){:target="_blank"}
+LinkedIn: [Mariana Sánchez Hernández](www.linkedin.com/in/mariana-sanz-hdz){:target="_blank"}
 
 <div style="clear: both;"></div>
 
