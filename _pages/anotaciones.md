@@ -47,7 +47,7 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Guilherme Brandão</p>
-  <p>El artículo busca exponer la relación entre el concepto de complejidad y la producción de la estructura teórica de Niklas Luhmann, por eso, camina por la relación que existe actualmente entre las Ciencias Naturales y las Ciencias Sociales y apunta el carácter transdisciplinar del trabajo del maestro alemán, puntuando de manera más desmenuzada la importancia del concepto de autorreferencia en este proceso.</p>
+  <p>El artículo expone la relación entre el concepto de complejidad y la producción de la estructura teórica de Niklas Luhmann, analiza la relación que existe entre Ciencias Naturales y Ciencias Sociales y apunta el carácter transdisciplinar del trabajo Luhmann, analiza de manera específica la importancia del concepto de autorreferencia en este proceso.</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Frevistamad.uchile.cl%2Findex.php%2FRMAD%2Farticle%2Fview%2F13900%2F14187&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
@@ -61,7 +61,7 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Enciclopedia Biográfica en Línea</p>
-  <p>Biografía de Talcott Parsons</p>
+  <p>Se trata de una enciclopedia en línea que otorga rasgos generales sobre la vida y aportes de diferentes teóricos, en el caso que aquí se presenta se habla de la vida y aporte del socólogo estadounidense Talcott Parsons</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Fwww.biografiasyvidas.com%2Fbiografia%2Fp%2Fparsons_talcott.htm&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
@@ -75,7 +75,8 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Niklas Lhumann</p>
-  <p>¿Cuál es el caso? Y ¿Qué esconde detrás del mismo? Las dos sociologías y la teoría de la sociedad</p>
+  <p>El texto aborda la tensión entre la sociología crítica y la positivista, señalando que ambas enfoques derivan en una paradoja cuando intentan representar la realidad social. Luhmann se propone reemplazar la filosofía del Sujeto por una teoría de sistemas autorreferenciales. A través de la observación de segundo orden, se reconoce que toda observación tiene un punto ciego y que la sociología debe operar con esa conciencia de contingencia.
+</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Fpolismexico.izt.uam.mx%2Findex.php%2Frp%2Farticle%2Fview%2F457&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
@@ -103,7 +104,7 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Bernardo Castro Sáez</p>
-  <p>El presente artículo está centrado en la teoría de sistemas de Niklas Luhmann, y su aporte a la teoría de la complejidad. A partir de la necesidad de observar y generar una nueva teoría que pudiese dar cuenta de las diversas relaciones que surgen de los fenómenos sociales, Luhmann trata de construir una teoría, introduciendo diversos conceptos que le permiten reducir la complejidad; pero a la vez, esa misma operacionalización posibilitó en Luhmann una creciente complejización de sus ideas,  siendo uno de los primeros intelectuales que se interesó y que aportó significativamente a la teoría de la complejidad.</p>
+  <p>Este artículo se centra en la teoría de sistemas de Niklas Luhmann y su aporte a la teoría de la complejidad. A partir de la necesidad de observar y generar una nueva teoría que pudiese dar cuenta de las diversas relaciones que surgen de los fenómenos sociales, Luhmann trata de construir una teoría, introduciendo diversos conceptos que le permiten reducir la complejidad; pero a la vez, esa misma operacionalización posibilitó en Luhmann una creciente complejización de sus ideas, siendo uno de los primeros intelectuales que se interesó y que aportó significativamente a la teoría de la complejidad.</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Fjournals.openedition.org%2Fpolis%2F2017&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
@@ -117,7 +118,7 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Javier Torres Nafarrete</p>
-  <p>nan</p>
+  <p>Este artículo presenta una entrevista con Javier Torres Nafarrate, enfocándose en la propuesta teórica de Niklas Luhmann y su posible aplicación para la observación de América Latina. El interrogante central es si una teoría de la sociedad es posible para entender la región.</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Fandamios.uacm.edu.mx%2Findex.php%2Fandamios%2Farticle%2Fview%2F501%2F485&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
@@ -131,7 +132,7 @@ Te dejamos aquí algunos ejemplos de textos anotados:
     </a>
   </h3>
   <p><strong>Autor:</strong> Wikipedia</p>
-  <p>Comentarios y mejoras a la página de wikipedia de Talcott Parsons</p>
+  <p>Comentarios y mejoras a la página de wikipedia de Talcott Parsons en Español.</p>
   <p>
     <a href="https://hyp.is/go?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTalcott_Parsons&group=2NGJvYK3" target="_blank" rel="noopener noreferrer">Ver anotaciones web</a>
   </p>
