@@ -1,12 +1,16 @@
 ---
 layout: page
 title: "Vínculos Filosóficos"
+subtitle: Influencia de la filosofía en la Teoría General de los Sistemas Sociales
 permalink: /coil-2025/vinculos-filosoficos/
 ---
 
-En esta sección puedes encontrar un seguimiento de los vínculos filosóficos que se advierten en la Teoría de sistemas de Niklas Luhmann.
+En esta sección se presenta una visualización interactiva de los vínculos filosóficos que sustentan la Teoría General de los Sistemas Sociales (TGSS) de Niklas Luhmann. El objetivo es mostrar, de manera cronológica, cómo distintas corrientes y figuras del pensamiento filosófico influyeron en la conformación de su propuesta teórica. A diferencia del apartado <a href="https://rosariorogel.net/luhmann/vinculos" target="_blank" rel="noopener noreferrer">Vínculos teóricos</a>, que se presenta como parte de los proyectos de este mismo REA, esta línea del tiempo ofrece una curaduría centrada exclusivamente en referentes filosóficos clave.  
 
-Para esta visualización se utilizó la herramienta de código abierto [Time Line JS](https://timeline.knightlab.com/){:target="_blank"}, que permite crear líneas interactivas.
+Por ejemplo, la influencia de Edmund Husserl resulta fundamental para comprender la noción de “reducción” y la observación de segundo orden en Luhmann, elementos centrales para su enfoque sobre la construcción de sentido en los sistemas sociales.
+
+La visualización fue desarrollada con <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener noreferrer">TimeLine JS</a>, una herramienta de código abierto que permite representar estos antecedentes de manera interactiva, facilitando la comprensión del contexto filosófico en el que se inscribe la obra de Luhmann.
+
 
 **Créditos:** *Ángel Gutiérrez Escobedo*
 
