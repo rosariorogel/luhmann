@@ -2,7 +2,7 @@
 layout: page
 title: Ejercicios 
 subtitle: Cuestionarios
-permalink: Ejercicios
+permalink: ejercicios
 ---
 
 # Cuestionario básico sobre Teoría General de Sistemas Sociales
