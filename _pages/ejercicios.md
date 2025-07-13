@@ -16,7 +16,7 @@ permalink: ejercicios
   </p>
 
   <p style="margin-bottom: 1em;">
-    Ahora está disponible gratuitamente en la plataforma <strong>Kahoot</strong> para que cualquier docente pueda reutilizarlo en sus entornos de aprendizaje, ya sea presencial o virtual.
+    Ahora está disponible gratuitamente en la plataforma <strong>Kahoot</strong> para que cualquier docente pueda reutilizarlo en sus entornos de aprendizaje, ya sea presencial o virtual. Lo único que tienes que hacer es ingresar a tu cuenta de Kahoot y, si no tienes una, debes crearla. Para el uso de estos recursos no es preciso pagar, aunque sí para tener acceso a otros recursos y funcionalidades. 
   </p>
 
   <a href="https://kahoot.it/solo/?quizId=881541a8-9b57-4fe8-8703-7c31e98d310e&gameMode=nano" target="_blank" rel="noopener" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold;">🚀 Enlace al ejercicio en Kahoot</a>
