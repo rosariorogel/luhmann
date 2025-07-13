@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Créditos"
-subtitle: Personas que contribuyeron al desarrollo de WebCOIL2025
+subtitle: Personas que contribuyeron a la actualización COIL2025
 permalink: /coil-2025/créditos/
 ---
 
