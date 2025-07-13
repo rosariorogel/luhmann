@@ -18,6 +18,7 @@ El objetivo de este **REA** es recopilar información de calidad disponible en I
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 _Luhmann en Web_ by [Rosario Rogel-Salazar](https://rosariorogel.net/luhmann/) is licensed under a [Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/) License.  
+
 Creado a partir de la obra en [https://rosariorogel.net/luhmann/](https://rosariorogel.net/luhmann/)
 
 </div>
