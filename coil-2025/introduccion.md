@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Introducción"
+subtitle: Recurso Educativo Abierto 
 permalink: /coil-2025/introduccion/
 ---
 
-# Recurso Educativo Abierto del curso: *Algoritmos, Sistemas Sociales y Decisión*
+# Curso *Algoritmos, Sistemas Sociales y Decisión*
 
 <div style="text-align: justify;" markdown="1">
 
