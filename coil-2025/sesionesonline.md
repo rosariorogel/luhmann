@@ -7,7 +7,7 @@ permalink: /coil-2025/sesionesonline/
 
 En esta sección se encuentran disponibles los enlaces a las grabaciones de las sesiones virtuales desarrolladas durante el curso **COIL 2025: Teoría General de los Sistemas Sociales de Niklas Luhmann**. Cada sesión incluye exposiciones temáticas, discusiones interdisciplinarias y presentaciones de avances de los proyectos colaborativos realizados por estudiantes de posgrado de México, Colombia y Brasil.
 
-Los videos se alojan en [YouTube](https://www.youtube.com/@rosariorogelsalazar), con el fin de facilitar su consulta abierta, asincrónica y sin restricciones. Las sesiones están organizadas en orden cronológico e incluyen una breve descripción para orientar su contenido.
+Los videos del curso se encuentran disponibles en <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2&si=rm1CUWkHcM9YRrbZ" target="_blank" rel="noopener noreferrer">YouTube</a>, organizados en una lista de reproducción que facilita su consulta abierta, asincrónica y sin restricciones. Las sesiones están ordenadas cronológicamente e incluyen una breve descripción que orienta sobre su contenido temático.
 
 Si participaste en el curso y deseas incluir una nota, presentación u observación vinculada a alguna sesión, por favor házlo directamente como comentario en los videos de YouTube.
 
