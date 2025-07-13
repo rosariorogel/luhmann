@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Créditos WebCOIL"
+subtitle: Colaboradores en el desarrollo del Recurso Educativo Abierto, asociado al curso ***Algoritmos, Sistemas Sociales y Decisión*** 2025A
 permalink: /coil-2025/créditos/
 ---
 
-Colaboradores en el desarrollo del Recurso Educativo Abierto (REA), asociado al curso ***Algoritmos, Sistemas Sociales y Decisión***
+
 
 ## Gestión de contenidos
 
