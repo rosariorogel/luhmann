@@ -1,16 +1,17 @@
 ---
 layout: page
 title: "Sesiones virtuales"
+subtitle: Acceso a las sesiones sincrónicas del curso COIL 2025
 permalink: /coil-2025/sesionesonline/
 ---
 
-# Sesiones en línea
+En esta sección se encuentran disponibles los enlaces a las grabaciones de las sesiones virtuales desarrolladas durante el curso **COIL 2025: Teoría General de los Sistemas Sociales de Niklas Luhmann**. Cada sesión incluye exposiciones temáticas, discusiones interdisciplinarias y presentaciones de avances de los proyectos colaborativos realizados por estudiantes de posgrado de México, Colombia y Brasil.
 
-Todas las sesiones grabadas del curso **Algoritmos, Sistemas Sociales y Decisión** están disponibles en línea, junto con los materiales complementarios (diapositivas, lecturas y ejercicios en la comunidad de Zenodo asociada).
+Los videos se alojan en [YouTube](https://www.youtube.com/@rosariorogelsalazar), con el fin de facilitar su consulta abierta, asincrónica y sin restricciones. Las sesiones están organizadas en orden cronológico e incluyen una breve descripción para orientar su contenido.
 
-Estos videos y recursos se publican bajo la licencia **[Creative Commons Reconocimiento 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}**, lo que permite compartir, distribuir y adaptar los contenidos siempre que se cite la autoría original.
+Si participaste en el curso y deseas incluir una nota, presentación u observación vinculada a alguna sesión, por favor házlo directamente como comentario en los videos de YouTube.
 
-Para consultar todas las grabaciones desplaza tu cursor y selecciona la sesión de tu preferencia, o bien, puedes seguir la playlist del [Curso COIL: Algoritmos, Sistemas Sociales y Decisión](https://www.youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2) en YouTube. 
+### Lista de sesiones disponibles
 
 ---
 
@@ -59,15 +60,6 @@ Fecha: 12 de marzo 2025
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
 </div>
-
----
-
-## Sesión 4. Sentido y Decisión
-Fecha: 19 de marzo 2025  
-*Mediador: Artur Stamford Da Silva*  
-
-
-*Pendiente*  
 
 ___
 
