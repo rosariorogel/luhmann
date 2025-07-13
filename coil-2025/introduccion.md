@@ -5,7 +5,7 @@ subtitle: Recurso Educativo Abierto
 permalink: /coil-2025/introduccion/
 ---
 
-# Algoritmos, Sistemas Sociales y Decisión 2025A
+# Algoritmos, Sistemas Sociales y Decisión
 
 <div style="text-align: justify;" markdown="1">
 
