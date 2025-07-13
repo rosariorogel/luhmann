@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Participantes"
-subtitle: Mapa de  instituciones de adscripción de participantes en el curso  
+subtitle: Mapa de instituciones de adscripción de participantes en el curso  
 permalink: /coil-2025/participantes/
 ---
 
