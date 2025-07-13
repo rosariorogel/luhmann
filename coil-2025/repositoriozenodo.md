@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Repositorio en Zenodo"
+subtitle: Materiales de trabajo generados en el curso  
 permalink: /coil-2025/repositoriozenodo/
 ---
 
-## Repositorio en Zenodo
+## Todos los contenidos en un solo sitio 
 
 El repositorio con los materiales generados en el curso **Algoritmos, Sistemas Sociales y Decisión** (*syllabus*, presentaciones y trabajos de los participantes) está disponible en la comunidad de [Zenodo](https://zenodo.org){:target="_blank"} **[Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões](https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest){:target="_blank"}**.
 
