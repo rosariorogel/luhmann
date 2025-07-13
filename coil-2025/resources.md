@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Recursos Web"
+subtitle: Contenidos web compartidos durante el curso
 permalink: /coil-2025/resources/
 ---
 
