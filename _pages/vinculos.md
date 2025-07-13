@@ -5,7 +5,7 @@ subtitle: Colección de contenidos web relacionados con la Teoría General de Si
 permalink: vinculos
 ---
 
-# Propuestas Teóricas en discusión o asociadas a la TGSS 
+# Propuestas teóricas en discusión o asociadas a la TGSS 
 
 Esta sección presenta una selección de autoras y autores cuyas obras dialogan con los conceptos fundamentales de la Teoría General de los Sistemas Sociales (TGSS) de Niklas Luhmann. Explorar tanto las posturas que respaldan como las que critican su enfoque permite comprender mejor su alcance, limitaciones y posibilidades de aplicación.   
 
