@@ -2,7 +2,7 @@
 layout: page
 title: Niklas Luhmann Archiv - Español
 subtitle: Propuesta de traducción al Español de la estructura organizativa de los Archivos de Niklas Luhmann
-permalink: Archivo Luhmann
+permalink: archivo-luhmann
 ---
 
 <div style="clear: both;"></div>
