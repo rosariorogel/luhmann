@@ -2,7 +2,7 @@
 layout: page
 title: Conceptos TSS
 subtitle: Teoría General de Sistemas Sociales
-permalink: Concepts
+permalink: concepts
 ---
 
 # Conceptos fundamentales de la TSS 

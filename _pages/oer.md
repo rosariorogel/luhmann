@@ -15,22 +15,35 @@ Esta recopilación brinda una oportunidad de aprendizaje en un entorno accesible
 
 ***Créditos:** Adilene Becerril-Pedraza, Adriana Corona-Nava y María Aranza Romero-Serralde.*
 
-### El cierre del sistema legal 
-
-En el canal de FaceBook de [Sistemas Sociales](https://www.facebook.com/SistemasSociales/), se puede localizar una versión de la conferencia *El cierre del sistema legal* pronunciada por Niklas Luhmann, como parte del curso de verano "El Derecho en la Posmodernidad" del Instituto Internacional de Sociología del Derecho, impartida del 19 al 26 de julio de 1990. 
-<iframe src="https://www.facebook.com/plugins/video.php?height=410&href=https%3A%2F%2Fwww.facebook.com%2FSistemasSociales%2Fvideos%2F944617579353712%2F&show_text=false&width=560&t=0" width="560" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-
 ### Seminario Internacional de Sistemas Sociales, Redes y Complejidad
-Coordiando por [Carlos Sedano](https://www.facebook.com/carlos.sedano3), profesor de la Universidad de Guadalajara, tiene el objetivo de difundir las principales propuestas relacionadas con la Teoría de Sistemas en general y del pensamiento luhmanniano en lo particular. Transmite conferencias con personas expertas en estos temas, todos los sábados a las 11 de la mañana (hora del centro de México). Las conferencias se transmiten en streaming vía el Grupo de Facebook del ["Seminario Internacional de sistemas sociales, redes y complejidad"](https://www.facebook.com/SeminarioSistemasSociales) y se resguardan en un [Canal de YouTube](https://www.youtube.com/user/7ghja) dedicado el tema:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLk4Ugt5lqZXd0voBJ0zPVI82cFvcWHQhp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Coordinado por [Carlos Sedano](https://www.facebook.com/carlos.sedano3){:target="_blank" rel="noopener"}, profesor de la Universidad de Guadalajara, este seminario difunde las principales propuestas relacionadas con la Teoría de Sistemas y el pensamiento luhmanniano. Se transmite todos los sábados a las 11 a. m. (hora del centro de México) en streaming vía el grupo de Facebook **[Seminario Internacional de Sistemas Sociales, Redes y Complejidad](https://www.facebook.com/SeminarioSistemasSociales){:target="_blank" rel="noopener"}**, y luego se archiva en su [canal de YouTube](https://www.youtube.com/user/7ghja){:target="_blank" rel="noopener"}.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/qijrTh-fUZI?si=tif_mF-oItwOk5ik"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 
 ### Moinho Jurídico
 
-Creado en 2005 como Grupo de Investigación del [CNPq](http://portal.cnpq.br/) de Brasil, y certificado por la Universidad Federal de Pernambuco (UFPE), [Moinho Jurídico](https://sites.ufpe.br/moinhojuridico/) es el laboratorio de investigación social del derecho, del Programa de Posgrado en Derecho de la Universidad Federal de Pernambuco. Cuenta con un canal de YouTube cuya funcionalidad es difundir reflexiones sobre investigación empírica, teoría de sistemas, sociedad compleja y sociología del derecho. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQ8efaFVCGp_9D2t8aVnBHVL_09w8CRXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Creado en 2005 como Grupo de Investigación del [CNPq](http://portal.cnpq.br/){:target="_blank" rel="noopener"} de Brasil y certificado por la Universidade Federal de Pernambuco (UFPE), **Moinho Jurídico** es el laboratorio de investigación social del derecho. Su canal de YouTube difunde reflexiones sobre investigación empírica, teoría de sistemas, sociedad compleja y sociología del derecho:
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/BIosMB6ieE8?si=gEavgL-ONGTnBS9M"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
 
 ### Amsterdam School of Communication Research
 Curso: [*La autoorganización de la comunicación basada en el conocimiento, una introducción a la Teoría de Sistemas Sociales de Niklas Luhmann*](https://www-leydesdorff-net.translate.goog/course3/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=sc) impartido por [Loet Leydesdorff](https://twitter.com/LoetLeydesdorff) que está disponible en web en alemán; sin embargo, es posible recurrir a los servicios de traducción de que ofrecen las plataformas web actualmente.

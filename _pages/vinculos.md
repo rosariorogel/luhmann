@@ -5,19 +5,21 @@ subtitle: Colección de contenidos web relacionados con la Teoría General de Si
 permalink: vinculos
 ---
 
-# Propuestas Teóricas en discusion o asociadas a la TGSS 
+# Propuestas teóricas en discusión o asociadas a la TGSS 
 
-Esta sección muestra algunos autores y contribuciones asociadas a los conceptos fundamentales de Niklas Luhmann en torno a la Teoría General de Sistemas Sociales; conocer ideas y opiniones a favor o en contra de las propuestas Luhmannianas permite considerar un panorama mas amplio, los alcances, limitaciones y oportunidades de aplicacion de la teoría.
+Esta sección presenta una selección de autoras y autores cuyas obras dialogan con los conceptos fundamentales de la Teoría General de los Sistemas Sociales (TGSS) de Niklas Luhmann. Explorar tanto las posturas que respaldan como las que critican su enfoque permite comprender mejor su alcance, limitaciones y posibilidades de aplicación.   
 
-Se presenta una primera seccion de autores cuya obra o uso de algunas categorias en su labor academica se asocia como antecedente o en concordancia con la TGSS de Luhmann como influencia fundamental. Posteriormenete en la seccion de discusion teorica en torno a la TGSS se expone una lista de autores y proposiciones respecto de la propuesta Luhmanniana. Al final de cada seccion se presenta un diagrama que ilustra la informacion presentada.
+En la primera parte se incluyen figuras cuya producción teórica o uso de ciertas categorías puede considerarse antecedente o afín a la TGSS, reconociéndolas como influencias clave. Posteriormente, la sección dedicada a la discusión teórica recoge distintas contribuciones críticas o complementarias en torno a la propuesta luhmanniana. Cada sección cierra con un diagrama que resume visualmente los contenidos expuestos.   
 
-***Créditos Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez.*
+***Créditos Luhmann 3.0:** Leonardo Godínez-Sánchez, Saúl Piña-González, Andrea Desiree Cruz-Rodríguez.*   
 
+## Contribuciones teóricas vinculadas a los conceptos de Niklas Luhmann  
 
-## Autores y sus contribuciones relacionadas con los conceptos de Niklas Luhmann
+Los conceptos fundamentales de Niklas Luhmann han tenido un impacto significativo en diversas disciplinas, entre ellas la sociología, la teoría de la comunicación, la ciencia política y el derecho, por poner solo algunos ejemplos.  
 
-Los conceptos fundamentales de Niklas Luhmann han influido en una amplia gama de disciplinas y han sido utilizados y desarrollados por varios autores en la sociología, la teoría de la comunicación, la ciencia política, el derecho, y otros campos. A continuación se muestran algunos autores y sus contribuciones relacionadas con los conceptos de Luhmann:
+En sociología, su enfoque sistémico ha permitido repensar la estructura y dinámica de la sociedad moderna. En teoría de la comunicación, su definición de la comunicación como operación fundamental de los sistemas sociales ha sido ampliamente debatida y retomada. En ciencia política, su noción de sistemas autopoiéticos ha ofrecido nuevas herramientas para analizar las formas de diferenciación funcional del poder. En el campo del derecho, su teoría del sistema jurídico como sistema cerrado ha influido en el desarrollo de enfoques autopoieticos en la teoría jurídica contemporánea.  
 
+A continuación, se presentan algunas autoras y autores cuyas contribuciones han ampliado, aplicado o discutido los conceptos luhmannianos en estos y otros contextos disciplinares.
 
 1. **Humberto Maturana y Francisco Varela:**
    - Sus trabajos en biología sobre autopoiesis influyeron profundamente en Luhmann. Ellos desarrollaron originalmente el concepto de autopoiesis para describir sistemas biológicos, que Luhmann adaptó a los sistemas sociales.
@@ -63,7 +65,7 @@ El siguiente diagrama ilustra la informacion anterior presentada en esta seccion
 
 ## Discusion Teórica en torno a la TGSS
 
-A continuación se muestran los nombres de algunos autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
+A continuación se muestran los nombres de autoras y autores que han expresado opiniones a favor o en contra sobre Niklas Luhmann y su Teoría General de Sistemas. Del mismo modo se adjuntan las referencias que respaldan sus puntos de vista.
 
 ### A favor:
 
