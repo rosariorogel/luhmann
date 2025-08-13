@@ -11,7 +11,7 @@ Además, contamos con participantes de diferentes instituciones y países de Am�
 
 Para ilustrar esta diversidad y alcance internacional, a continuación presentamos un mapa con la ubicación de las instituciones de procedencia de los participantes inscritos.   
 
-**Créditos:** *Magally Martínez Reyes y Guillermo Obando*
+**Créditos:** *Magally Martínez Reyes y Guillermo Obando Navarro*
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1hQURmvxtPyHjY5bOY7mUCZmrHysBH_4&hl=es-419&ehbc=2E312F" width="640" height="480"></iframe>  
 
