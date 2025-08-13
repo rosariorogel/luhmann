@@ -36,10 +36,9 @@ LinkedIn: [Andrea Rojo Nápoles](https://www.linkedin.com/in/andrea-rojo-n%C3%A1
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoGuillermo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/){:target="_blank"}. Temas de interes: Educación, Redes Sociales, Sistemas Sociales 
+**Guillermo Obando Navarro** Magister en Educación por la Facultad de Educación de la [Universidad de Nariño, Colombia](https://www.udenar.edu.co/){:target="_blank"}, Ingeniero de Sistemas de la [Universidad Nacional de Colombia](https://unal.edu.co/){:target="_blank"}. Temas de interes: Inteligencia Artificial, Educación, Redes Sociales, Sistemas Sociales, Sistemas Complejos, Significados e interacciones en el Espacio Virtual. 
 
-CVLac: [Guillermo Obando Navarro](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002019
-987#datos_generales){:target="_blank"}
+ORCID: [0009-0001-9465-8350](https://orcid.org/0009-0001-9465-8350){:target="_blank"}
 
 <div style="clear: both;"></div>
 
