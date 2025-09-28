@@ -19,4 +19,4 @@ Para ilustrar esta diversidad y alcance internacional, a continuación presentam
 
 Créditos: ChatGPT y Guillermo Obando Navarro
 
-<iframe src="[_site/tags/coil2025_con_IA](https://drive.google.com/file/d/1px5hvBdYIQHX52u73zU3WX8PO8XFkpFC/view?usp=sharing)" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1px5hvBdYIQHX52u73zU3WX8PO8XFkpFC/view?usp=sharing" width="640" height="480"></iframe>
