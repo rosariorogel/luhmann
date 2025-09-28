@@ -1,0 +1,1870 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4f397e086eafaeda806eaf1989dcb634 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+<div style='position: fixed; 
+     bottom: 50px; left: 50px; width: 200px; height: auto; 
+     background-color: white; z-index:9999; font-size:14px;
+     border:2px solid grey; border-radius:6px; padding: 10px'>
+     <b>Países:</b><br>
+<i style='background:#ff7c00;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Argentina<br><i style='background:#fcf500;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Brasil<br><i style='background:#84ff00;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Chile<br><i style='background:#08ff00;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Colombia<br><i style='background:#00ff74;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>CostaRica<br><i style='background:#00fff6;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Ecuador<br><i style='background:#008cff;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Italia<br><i style='background:#0010ff;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>México<br><i style='background:#7200ff;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Nicaragua<br><i style='background:#ee00ff;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Paraguay<br><i style='background:#ff0094;width:12px;height:12px;float:left;margin-right:8px;display:inline-block;'></i>Perú<br></div>
+    
+            <div class="folium-map" id="map_4f397e086eafaeda806eaf1989dcb634" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4f397e086eafaeda806eaf1989dcb634 = L.map(
+                "map_4f397e086eafaeda806eaf1989dcb634",
+                {
+                    center: [11.135992795091477, -91.34353611988521],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_860dc4ea6b9d34bb7aa1272b50eca902 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4f397e086eafaeda806eaf1989dcb634);
+        
+    
+            var marker_cluster_191638905609ca8b2514d0ff20ee278c = L.markerClusterGroup(
+                {}
+            );
+            map_4f397e086eafaeda806eaf1989dcb634.addLayer(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+            var circle_marker_5ac6a2d7e8edbbb8b3f9dcf1538e9353 = L.circleMarker(
+                [-34.5805706725831, -58.52255668747],
+                {"bubblingMouseEvents": true, "color": "#ff7c00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff7c00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_ebe240a434ece018272c1c9aa7d26388 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_76c1af992ceabbdf9c7a24581f36f07b = $(`<div id="html_76c1af992ceabbdf9c7a24581f36f07b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Germán Federico Rosati <br><b>País:</b> Argentina<br><b>Institución:</b> Universidad Nacional de San Martín <br><b>Facultad:</b> Escuela Interdisciplinaria de Altos Estudios Sociales </div>`)[0];
+            popup_ebe240a434ece018272c1c9aa7d26388.setContent(html_76c1af992ceabbdf9c7a24581f36f07b);
+        
+
+        circle_marker_5ac6a2d7e8edbbb8b3f9dcf1538e9353.bindPopup(popup_ebe240a434ece018272c1c9aa7d26388)
+        ;
+
+        
+    
+    
+            var circle_marker_7e811b4b2ce749e74448c1f443db66c8 = L.circleMarker(
+                [-32.9501328129513, -60.6359563875248],
+                {"bubblingMouseEvents": true, "color": "#ff7c00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff7c00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_11b749b0db9dbc775be2bf44722b827a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3d17d031fb88e824cb9c7b552265bb55 = $(`<div id="html_3d17d031fb88e824cb9c7b552265bb55" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Rubén Martínez<br><b>País:</b> Argentina<br><b>Institución:</b> Universidad Nacional de Rosario<br><b>Facultad:</b> Derecho</div>`)[0];
+            popup_11b749b0db9dbc775be2bf44722b827a.setContent(html_3d17d031fb88e824cb9c7b552265bb55);
+        
+
+        circle_marker_7e811b4b2ce749e74448c1f443db66c8.bindPopup(popup_11b749b0db9dbc775be2bf44722b827a)
+        ;
+
+        
+    
+    
+            var circle_marker_4204c50fc9af5265f710e7511c76a0e8 = L.circleMarker(
+                [-8.05062888, -34.95091339],
+                {"bubblingMouseEvents": true, "color": "#fcf500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fcf500", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_d351217d4bfdee2b4a441c5979372a23 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_19e357424e08656e656422275113c06c = $(`<div id="html_19e357424e08656e656422275113c06c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Arthur Stanford<br><b>País:</b> Brasil<br><b>Institución:</b> Universidad de Pernambuco<br><b>Facultad:</b> Facultad de Derecho</div>`)[0];
+            popup_d351217d4bfdee2b4a441c5979372a23.setContent(html_19e357424e08656e656422275113c06c);
+        
+
+        circle_marker_4204c50fc9af5265f710e7511c76a0e8.bindPopup(popup_d351217d4bfdee2b4a441c5979372a23)
+        ;
+
+        
+    
+    
+            var circle_marker_f43e66f98c5c7a0056158ec87b89d6f4 = L.circleMarker(
+                [-29.7206827906174, -53.7147765606436],
+                {"bubblingMouseEvents": true, "color": "#fcf500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fcf500", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_607344378b506d774297130c7785bc01 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6035aa94d6e365260909b36af4062848 = $(`<div id="html_6035aa94d6e365260909b36af4062848" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Rogéria Briglia Canuto<br><b>País:</b> Brasil<br><b>Institución:</b> Universidade Federal de Santa Maria<br><b>Facultad:</b> Programa de Pós-graduação em Ciências Sociais</div>`)[0];
+            popup_607344378b506d774297130c7785bc01.setContent(html_6035aa94d6e365260909b36af4062848);
+        
+
+        circle_marker_f43e66f98c5c7a0056158ec87b89d6f4.bindPopup(popup_607344378b506d774297130c7785bc01)
+        ;
+
+        
+    
+    
+            var circle_marker_8cb6283f23b2a09e5818ee05e6fbefc7 = L.circleMarker(
+                [-29.7206827906174, -53.7147765606436],
+                {"bubblingMouseEvents": true, "color": "#fcf500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fcf500", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_878e9bf32176926c0510bc0f59ba324f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4bc872615fe77802366f0f1a1482e6eb = $(`<div id="html_4bc872615fe77802366f0f1a1482e6eb" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Gláucia Briglia Canuto <br><b>País:</b> Brasil<br><b>Institución:</b> Universidade Federal de Santa Maria<br><b>Facultad:</b> Programa de Pós-graduação em Ciências Sociais</div>`)[0];
+            popup_878e9bf32176926c0510bc0f59ba324f.setContent(html_4bc872615fe77802366f0f1a1482e6eb);
+        
+
+        circle_marker_8cb6283f23b2a09e5818ee05e6fbefc7.bindPopup(popup_878e9bf32176926c0510bc0f59ba324f)
+        ;
+
+        
+    
+    
+            var circle_marker_0399d4cea6aa82eed48a3910e20bda3d = L.circleMarker(
+                [-33.0411658921704, -70.738534066682],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_e297c9a7325ee918a753c716eb3b3c7c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_989a3b043c62991086c7895c349cbba5 = $(`<div id="html_989a3b043c62991086c7895c349cbba5" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Carlos Medel <br><b>País:</b> Chile<br><b>Institución:</b> Biblioteca del Congreso Nacional de Chile<br><b>Facultad:</b> Asesoría Técnica Parlamentaria</div>`)[0];
+            popup_e297c9a7325ee918a753c716eb3b3c7c.setContent(html_989a3b043c62991086c7895c349cbba5);
+        
+
+        circle_marker_0399d4cea6aa82eed48a3910e20bda3d.bindPopup(popup_e297c9a7325ee918a753c716eb3b3c7c)
+        ;
+
+        
+    
+    
+            var circle_marker_9bd3b48d8da438c76e5d7f30e67094e2 = L.circleMarker(
+                [-33.4457258679441, -70.6617679605255],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_82e0e59a64fe7b5273bac97531e26236 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b501de58a7194a0369f0c17ed920868d = $(`<div id="html_b501de58a7194a0369f0c17ed920868d" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Marcelo Carter Cervantes <br><b>País:</b> Chile<br><b>Institución:</b> Universidad Alberto Hurtado <br><b>Facultad:</b> Gobierno </div>`)[0];
+            popup_82e0e59a64fe7b5273bac97531e26236.setContent(html_b501de58a7194a0369f0c17ed920868d);
+        
+
+        circle_marker_9bd3b48d8da438c76e5d7f30e67094e2.bindPopup(popup_82e0e59a64fe7b5273bac97531e26236)
+        ;
+
+        
+    
+    
+            var circle_marker_d86138df8fea3f49fe90ea7b7c4832b0 = L.circleMarker(
+                [-33.4676401239795, -70.5944547740163],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_e461d86f33e7d9f1394718bb8412f8b0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f7c4ceffd6ab3b72124b550a06d2774b = $(`<div id="html_f7c4ceffd6ab3b72124b550a06d2774b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Maximiliano Rivas Campos<br><b>País:</b> Chile<br><b>Institución:</b> Universidad de Chile<br><b>Facultad:</b> Facultad de Ciencias Sociales</div>`)[0];
+            popup_e461d86f33e7d9f1394718bb8412f8b0.setContent(html_f7c4ceffd6ab3b72124b550a06d2774b);
+        
+
+        circle_marker_d86138df8fea3f49fe90ea7b7c4832b0.bindPopup(popup_e461d86f33e7d9f1394718bb8412f8b0)
+        ;
+
+        
+    
+    
+            var circle_marker_271512c3310ca13d0f9e746abe923d6a = L.circleMarker(
+                [-33.4676401239795, -70.5944547740163],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_4f50fd6e37739ddc3b38e6fae1ff7c00 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2cb878b2a45d1ae44b0de1f5f91475dd = $(`<div id="html_2cb878b2a45d1ae44b0de1f5f91475dd" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Ignacio Alfaro Rojas<br><b>País:</b> Chile<br><b>Institución:</b> Universidad de Chile<br><b>Facultad:</b> Facultad de Ciencias Sociales</div>`)[0];
+            popup_4f50fd6e37739ddc3b38e6fae1ff7c00.setContent(html_2cb878b2a45d1ae44b0de1f5f91475dd);
+        
+
+        circle_marker_271512c3310ca13d0f9e746abe923d6a.bindPopup(popup_4f50fd6e37739ddc3b38e6fae1ff7c00)
+        ;
+
+        
+    
+    
+            var circle_marker_f89d2ead3fdc01de1ced1ce06e1822ae = L.circleMarker(
+                [-38.7482643466082, -72.6166968799062],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_f060fda866e39dd6e122fc7259ffe105 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f74f2149ebaaa77bdfbf6d3a3c1b9044 = $(`<div id="html_f74f2149ebaaa77bdfbf6d3a3c1b9044" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Eduardo Gallegos Krause<br><b>País:</b> Chile<br><b>Institución:</b> Universidad de La Frontera<br><b>Facultad:</b> Dpto. de Lenguas, Literatura y Comunicación </div>`)[0];
+            popup_f060fda866e39dd6e122fc7259ffe105.setContent(html_f74f2149ebaaa77bdfbf6d3a3c1b9044);
+        
+
+        circle_marker_f89d2ead3fdc01de1ced1ce06e1822ae.bindPopup(popup_f060fda866e39dd6e122fc7259ffe105)
+        ;
+
+        
+    
+    
+            var circle_marker_f02b9da7459ad60d98bd411eb6dfbc12 = L.circleMarker(
+                [-38.7344412761178, -72.6019564449925],
+                {"bubblingMouseEvents": true, "color": "#84ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#84ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_c33d9138e103509317de8d8a13fa350f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9d73ae596560cefc40ac08be4c6482d7 = $(`<div id="html_9d73ae596560cefc40ac08be4c6482d7" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Álvaro Millán Espinoza <br><b>País:</b> Chile<br><b>Institución:</b> Universidad Santo Tomás <br><b>Facultad:</b> Psicología </div>`)[0];
+            popup_c33d9138e103509317de8d8a13fa350f.setContent(html_9d73ae596560cefc40ac08be4c6482d7);
+        
+
+        circle_marker_f02b9da7459ad60d98bd411eb6dfbc12.bindPopup(popup_c33d9138e103509317de8d8a13fa350f)
+        ;
+
+        
+    
+    
+            var circle_marker_03d5e7ddc8c373fa0e98a1552c93db19 = L.circleMarker(
+                [1.21292464, -77.29134986],
+                {"bubblingMouseEvents": true, "color": "#08ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#08ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_0109261f607cabbef1bf17be93b3a459 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7910e2f6a839e0f65452627608d528b5 = $(`<div id="html_7910e2f6a839e0f65452627608d528b5" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Guillermo Obando Navarro<br><b>País:</b> Colombia<br><b>Institución:</b> Universidad de Nariño<br><b>Facultad:</b> Facultad de Educación</div>`)[0];
+            popup_0109261f607cabbef1bf17be93b3a459.setContent(html_7910e2f6a839e0f65452627608d528b5);
+        
+
+        circle_marker_03d5e7ddc8c373fa0e98a1552c93db19.bindPopup(popup_0109261f607cabbef1bf17be93b3a459)
+        ;
+
+        
+    
+    
+            var circle_marker_ae7c33b05c852af3e9dbdc0cdc3df2f7 = L.circleMarker(
+                [6.26799318187747, -75.5688845187507],
+                {"bubblingMouseEvents": true, "color": "#08ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#08ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_c6a356223657fc8c90eb480314b208d0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_95817fda364751bc75839352eb50e54c = $(`<div id="html_95817fda364751bc75839352eb50e54c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> John Jiménez <br><b>País:</b> Colombia<br><b>Institución:</b> Universidad de Antioquia<br><b>Facultad:</b> Extension</div>`)[0];
+            popup_c6a356223657fc8c90eb480314b208d0.setContent(html_95817fda364751bc75839352eb50e54c);
+        
+
+        circle_marker_ae7c33b05c852af3e9dbdc0cdc3df2f7.bindPopup(popup_c6a356223657fc8c90eb480314b208d0)
+        ;
+
+        
+    
+    
+            var circle_marker_35dd535c69050fabd161b2711085a970 = L.circleMarker(
+                [3.37499582164257, -76.5343791745845],
+                {"bubblingMouseEvents": true, "color": "#08ff00", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#08ff00", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_5279e6a914d57d827580ee3cfc69eed1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_935474c4de20dd0c49679447ac3a1de7 = $(`<div id="html_935474c4de20dd0c49679447ac3a1de7" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Pablo Sergio García Díaz <br><b>País:</b> Colombia<br><b>Institución:</b> Universidad del Valle<br><b>Facultad:</b> Escuela de trabajo social</div>`)[0];
+            popup_5279e6a914d57d827580ee3cfc69eed1.setContent(html_935474c4de20dd0c49679447ac3a1de7);
+        
+
+        circle_marker_35dd535c69050fabd161b2711085a970.bindPopup(popup_5279e6a914d57d827580ee3cfc69eed1)
+        ;
+
+        
+    
+    
+            var circle_marker_bb43958fd69f31efe4a83b5581c3819f = L.circleMarker(
+                [9.96575351961881, -84.0798881437233],
+                {"bubblingMouseEvents": true, "color": "#00ff74", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00ff74", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_9547ce421af81ad76032cc1e098f6956 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a5ee2187fead0dcb25735239e5c59a4b = $(`<div id="html_a5ee2187fead0dcb25735239e5c59a4b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Julio Solís Moreira <br><b>País:</b> CostaRica<br><b>Institución:</b> Universidad Estatal a Distancia <br><b>Facultad:</b> Centro de Investigación en Cultura y Desarrollo </div>`)[0];
+            popup_9547ce421af81ad76032cc1e098f6956.setContent(html_a5ee2187fead0dcb25735239e5c59a4b);
+        
+
+        circle_marker_bb43958fd69f31efe4a83b5581c3819f.bindPopup(popup_9547ce421af81ad76032cc1e098f6956)
+        ;
+
+        
+    
+    
+            var circle_marker_b780f67e2beb616dc5cd3e357a756486 = L.circleMarker(
+                [-0.196016038023109, -78.4858845476076],
+                {"bubblingMouseEvents": true, "color": "#00fff6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00fff6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_4a5f17b8e27ee58913a8b31ffc174c14 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2c49fdf68b9d667788d9114703ad80b8 = $(`<div id="html_2c49fdf68b9d667788d9114703ad80b8" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Christian Danilo Bravo Allaica<br><b>País:</b> Ecuador<br><b>Institución:</b> Flacso-Ecuador<br><b>Facultad:</b> Estudios Internacionales</div>`)[0];
+            popup_4a5f17b8e27ee58913a8b31ffc174c14.setContent(html_2c49fdf68b9d667788d9114703ad80b8);
+        
+
+        circle_marker_b780f67e2beb616dc5cd3e357a756486.bindPopup(popup_4a5f17b8e27ee58913a8b31ffc174c14)
+        ;
+
+        
+    
+    
+            var circle_marker_fe7b788076e526beaa2e3d4cb05af690 = L.circleMarker(
+                [-0.211200823189177, -78.4878016457542],
+                {"bubblingMouseEvents": true, "color": "#00fff6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00fff6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_180e2d4b87697eb64e702655c67169da = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ba285d549af209626e5671ad0a56b802 = $(`<div id="html_ba285d549af209626e5671ad0a56b802" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Renán Guevara Arteaga<br><b>País:</b> Ecuador<br><b>Institución:</b> Universidad Andina Simón Bolívar<br><b>Facultad:</b> Área de Gestión</div>`)[0];
+            popup_180e2d4b87697eb64e702655c67169da.setContent(html_ba285d549af209626e5671ad0a56b802);
+        
+
+        circle_marker_fe7b788076e526beaa2e3d4cb05af690.bindPopup(popup_180e2d4b87697eb64e702655c67169da)
+        ;
+
+        
+    
+    
+            var circle_marker_fc88640ac7dc64ee1587c5d1c30c75bd = L.circleMarker(
+                [-2.90018160465785, -79.0097023322584],
+                {"bubblingMouseEvents": true, "color": "#00fff6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00fff6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_ff7195924278e3cf7d57fb72cbd35c71 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fb9bb42b81ef3621380049b4afa39103 = $(`<div id="html_fb9bb42b81ef3621380049b4afa39103" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Dolores Catalina Sucozhañay Calle<br><b>País:</b> Ecuador<br><b>Institución:</b> Universidad de Cuenca<br><b>Facultad:</b> Departamento de Espacio y Población</div>`)[0];
+            popup_ff7195924278e3cf7d57fb72cbd35c71.setContent(html_fb9bb42b81ef3621380049b4afa39103);
+        
+
+        circle_marker_fc88640ac7dc64ee1587c5d1c30c75bd.bindPopup(popup_ff7195924278e3cf7d57fb72cbd35c71)
+        ;
+
+        
+    
+    
+            var circle_marker_779951f44eeaae9ce85532ee1d5ca90f = L.circleMarker(
+                [-2.901574566062, -79.0100992991977],
+                {"bubblingMouseEvents": true, "color": "#00fff6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00fff6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_cfb60c2dfb664abc1d0a4eedeea9fd91 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_74b00c84239cc52e881c93946d6a1f47 = $(`<div id="html_74b00c84239cc52e881c93946d6a1f47" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Sebastián Martinez<br><b>País:</b> Ecuador<br><b>Institución:</b> Universidad de Cuenca<br><b>Facultad:</b> Arquitectura y urbanismo </div>`)[0];
+            popup_cfb60c2dfb664abc1d0a4eedeea9fd91.setContent(html_74b00c84239cc52e881c93946d6a1f47);
+        
+
+        circle_marker_779951f44eeaae9ce85532ee1d5ca90f.bindPopup(popup_cfb60c2dfb664abc1d0a4eedeea9fd91)
+        ;
+
+        
+    
+    
+            var circle_marker_74d0b44c1e3fba32a75ea3e513308a26 = L.circleMarker(
+                [-1.67275971599778, -78.6478729169166],
+                {"bubblingMouseEvents": true, "color": "#00fff6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00fff6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_a00131638f09fa713bac93f2a6d52b61 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1c7591cfd075aff8c6d25fb1e0250014 = $(`<div id="html_1c7591cfd075aff8c6d25fb1e0250014" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Sofía Vásconez Tapia<br><b>País:</b> Ecuador<br><b>Institución:</b> GADM Riobamba<br><b>Facultad:</b> Patrimonio Cultural </div>`)[0];
+            popup_a00131638f09fa713bac93f2a6d52b61.setContent(html_1c7591cfd075aff8c6d25fb1e0250014);
+        
+
+        circle_marker_74d0b44c1e3fba32a75ea3e513308a26.bindPopup(popup_a00131638f09fa713bac93f2a6d52b61)
+        ;
+
+        
+    
+    
+            var circle_marker_4a5c39b576a325e6cc85f0779c42c8fe = L.circleMarker(
+                [45.0734329820593, 7.69909909759075],
+                {"bubblingMouseEvents": true, "color": "#008cff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#008cff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_cfcb21eb0f3dff05ca3073746b3c7bac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bca81af0d76b1304e0cbc8fccb5168df = $(`<div id="html_bca81af0d76b1304e0cbc8fccb5168df" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Gerardo Antonio Panchi-Vanegas<br><b>País:</b> Italia<br><b>Institución:</b> Universidad de Torino <br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_cfcb21eb0f3dff05ca3073746b3c7bac.setContent(html_bca81af0d76b1304e0cbc8fccb5168df);
+        
+
+        circle_marker_4a5c39b576a325e6cc85f0779c42c8fe.bindPopup(popup_cfcb21eb0f3dff05ca3073746b3c7bac)
+        ;
+
+        
+    
+    
+            var circle_marker_f61654d0bdd688ac8af87c136cbde56b = L.circleMarker(
+                [19.2940421058426, -99.6574092775603],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_a3318978258868bbceb33e6c56789078 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4ac3e4a1ad9ee7764a903380c904ae10 = $(`<div id="html_4ac3e4a1ad9ee7764a903380c904ae10" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Graciela Erendira Rosano Pérez<br><b>País:</b> México<br><b>Institución:</b> Colegio Nacional de Educación Profesional Técnica (Conalep)<br><b>Facultad:</b> Plantel</div>`)[0];
+            popup_a3318978258868bbceb33e6c56789078.setContent(html_4ac3e4a1ad9ee7764a903380c904ae10);
+        
+
+        circle_marker_f61654d0bdd688ac8af87c136cbde56b.bindPopup(popup_a3318978258868bbceb33e6c56789078)
+        ;
+
+        
+    
+    
+            var circle_marker_b0cdd6b2064098bc49a45bcfe6a13421 = L.circleMarker(
+                [19.3564188550408, -99.1490967571123],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_331c6fc96562b4674f5f32dcdb38ab0a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e957c2ee9e4c0098b07f7b0a610f9b64 = $(`<div id="html_e957c2ee9e4c0098b07f7b0a610f9b64" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alejandra Medellín de la Piedra<br><b>País:</b> México<br><b>Institución:</b> Instituto Nacional de Bellas Artes y Literatura (INBAL)<br><b>Facultad:</b> Centro Nacional de Investigación de Danza José Limón</div>`)[0];
+            popup_331c6fc96562b4674f5f32dcdb38ab0a.setContent(html_e957c2ee9e4c0098b07f7b0a610f9b64);
+        
+
+        circle_marker_b0cdd6b2064098bc49a45bcfe6a13421.bindPopup(popup_331c6fc96562b4674f5f32dcdb38ab0a)
+        ;
+
+        
+    
+    
+            var circle_marker_9f1511b429a63c3234c847cc1a386ab6 = L.circleMarker(
+                [19.4472793669515, -99.1659429860309],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_c5412808e59e3365b2c913b9a6ac2395 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1e00fd3963c7c142e5be49a9845c88c3 = $(`<div id="html_1e00fd3963c7c142e5be49a9845c88c3" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Mijael Altamirano Santiago <br><b>País:</b> México<br><b>Institución:</b> Instituto Politécnico Nacional <br><b>Facultad:</b> CIECAS </div>`)[0];
+            popup_c5412808e59e3365b2c913b9a6ac2395.setContent(html_1e00fd3963c7c142e5be49a9845c88c3);
+        
+
+        circle_marker_9f1511b429a63c3234c847cc1a386ab6.bindPopup(popup_c5412808e59e3365b2c913b9a6ac2395)
+        ;
+
+        
+    
+    
+            var circle_marker_83f84709645cde602aea1de002a15815 = L.circleMarker(
+                [20.59523216524, -100.38900851855],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_b63bc4dcf51cee1096937a0972330e47 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2ebdd889eb46efadd3181776dcce17e1 = $(`<div id="html_2ebdd889eb46efadd3181776dcce17e1" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Valentín Lander Rivera<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Querétaro<br><b>Facultad:</b> Facultad de Filosofía</div>`)[0];
+            popup_b63bc4dcf51cee1096937a0972330e47.setContent(html_2ebdd889eb46efadd3181776dcce17e1);
+        
+
+        circle_marker_83f84709645cde602aea1de002a15815.bindPopup(popup_b63bc4dcf51cee1096937a0972330e47)
+        ;
+
+        
+    
+    
+            var circle_marker_1fd13612f1df91d2c779aece7e448d5e = L.circleMarker(
+                [19.2773913277734, -99.7008204302153],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_f015445de061428a13a75af3b2934a27 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ee1595b61c712b8a4371583c74c2d0f = $(`<div id="html_0ee1595b61c712b8a4371583c74c2d0f" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Santiago Fernández Lorenzo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Escuela de Artes Escenicas</div>`)[0];
+            popup_f015445de061428a13a75af3b2934a27.setContent(html_0ee1595b61c712b8a4371583c74c2d0f);
+        
+
+        circle_marker_1fd13612f1df91d2c779aece7e448d5e.bindPopup(popup_f015445de061428a13a75af3b2934a27)
+        ;
+
+        
+    
+    
+            var circle_marker_7eb7e1a0842da8d54c629ad51e317afe = L.circleMarker(
+                [19.2997068742336, -98.9560504455596],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_b8cabeca6204a41eb63df75169d16175 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b46ae394c3c616d31bff456a0ca469d5 = $(`<div id="html_b46ae394c3c616d31bff456a0ca469d5" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Cristina Juárez Landín<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Centro Universitario Valle de Chalco</div>`)[0];
+            popup_b8cabeca6204a41eb63df75169d16175.setContent(html_b46ae394c3c616d31bff456a0ca469d5);
+        
+
+        circle_marker_7eb7e1a0842da8d54c629ad51e317afe.bindPopup(popup_b8cabeca6204a41eb63df75169d16175)
+        ;
+
+        
+    
+    
+            var circle_marker_bac4deca14d1bb7456095cdd56d4fc54 = L.circleMarker(
+                [19.3098161864689, -99.6389829167232],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_1b72620cc74bdfef51bd7cbb58306ff8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_309f2759925e05075aaee6844dcea005 = $(`<div id="html_309f2759925e05075aaee6844dcea005" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Eduardo Gomez Regino<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias de la Conducta</div>`)[0];
+            popup_1b72620cc74bdfef51bd7cbb58306ff8.setContent(html_309f2759925e05075aaee6844dcea005);
+        
+
+        circle_marker_bac4deca14d1bb7456095cdd56d4fc54.bindPopup(popup_1b72620cc74bdfef51bd7cbb58306ff8)
+        ;
+
+        
+    
+    
+            var circle_marker_bebd71eaa955790eaf8d89e5ad293668 = L.circleMarker(
+                [19.2869152426956, -99.6792113609047],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_63dbd1adf806ce323ef23243994ba1de = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6847160e1d4458133a01802390adb212 = $(`<div id="html_6847160e1d4458133a01802390adb212" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Dany Contreras Fuentes<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Administración Pública</div>`)[0];
+            popup_63dbd1adf806ce323ef23243994ba1de.setContent(html_6847160e1d4458133a01802390adb212);
+        
+
+        circle_marker_bebd71eaa955790eaf8d89e5ad293668.bindPopup(popup_63dbd1adf806ce323ef23243994ba1de)
+        ;
+
+        
+    
+    
+            var circle_marker_55b5cbeefe856b0f6dccf677b356258a = L.circleMarker(
+                [19.3099174392157, -99.6390902050852],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_2ed361a3f1e6ced2f45da280bf82236a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dac7e6ffe63faa9c8a62aad5d23d6c6c = $(`<div id="html_dac7e6ffe63faa9c8a62aad5d23d6c6c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Miguel Escartin Reyes <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias de la Conducta </div>`)[0];
+            popup_2ed361a3f1e6ced2f45da280bf82236a.setContent(html_dac7e6ffe63faa9c8a62aad5d23d6c6c);
+        
+
+        circle_marker_55b5cbeefe856b0f6dccf677b356258a.bindPopup(popup_2ed361a3f1e6ced2f45da280bf82236a)
+        ;
+
+        
+    
+    
+            var circle_marker_0563aa27bd27fc6278a19cf67ec91a98 = L.circleMarker(
+                [19.2868747359104, -99.6791577167237],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_cf9c7799e4a1e8fe8c7c7fc13756da08 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8c3bc542372ea66914d60f1303cf5bc9 = $(`<div id="html_8c3bc542372ea66914d60f1303cf5bc9" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Yadira Calixto Contreras<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_cf9c7799e4a1e8fe8c7c7fc13756da08.setContent(html_8c3bc542372ea66914d60f1303cf5bc9);
+        
+
+        circle_marker_0563aa27bd27fc6278a19cf67ec91a98.bindPopup(popup_cf9c7799e4a1e8fe8c7c7fc13756da08)
+        ;
+
+        
+    
+    
+            var circle_marker_74ee89b199aa5319ad440a7fd7f4db1a = L.circleMarker(
+                [19.2816936576102, -99.6776428032324],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_39f00ba11be8194833a1e86873a38b46 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_80dbbf4a75091dc4bd2c9ccb46560281 = $(`<div id="html_80dbbf4a75091dc4bd2c9ccb46560281" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Elizabeth Ramírez Pérez<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Arquitectura y diseño</div>`)[0];
+            popup_39f00ba11be8194833a1e86873a38b46.setContent(html_80dbbf4a75091dc4bd2c9ccb46560281);
+        
+
+        circle_marker_74ee89b199aa5319ad440a7fd7f4db1a.bindPopup(popup_39f00ba11be8194833a1e86873a38b46)
+        ;
+
+        
+    
+    
+            var circle_marker_e5d5935bf955e9a65a35b98780d4119b = L.circleMarker(
+                [19.0031366647574, -98.2020254032379],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_89b6cedf611cc5b89949b0ca770ca646 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_eaa60d07eccaa524f54aa0cf3abc5f6a = $(`<div id="html_eaa60d07eccaa524f54aa0cf3abc5f6a" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> José Areli Carrera Román <br><b>País:</b> México<br><b>Institución:</b> Benemérita Univeridad Autónoma de Puebla<br><b>Facultad:</b> Facultad de Cs. De la Electrónica </div>`)[0];
+            popup_89b6cedf611cc5b89949b0ca770ca646.setContent(html_eaa60d07eccaa524f54aa0cf3abc5f6a);
+        
+
+        circle_marker_e5d5935bf955e9a65a35b98780d4119b.bindPopup(popup_89b6cedf611cc5b89949b0ca770ca646)
+        ;
+
+        
+    
+    
+            var circle_marker_195950fa0528806fe6257b4bd48507d9 = L.circleMarker(
+                [19.3745463711135, -99.2636068167219],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_f639d97400c6a5a1277d87efc25de340 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cb291c9a276ce4f1cfa6ce4d5a1f7ff9 = $(`<div id="html_cb291c9a276ce4f1cfa6ce4d5a1f7ff9" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> José Antonio Clara Hernández <br><b>País:</b> México<br><b>Institución:</b> Centro de Investigación y Docencia Económica<br><b>Facultad:</b> División de Administración Pública </div>`)[0];
+            popup_f639d97400c6a5a1277d87efc25de340.setContent(html_cb291c9a276ce4f1cfa6ce4d5a1f7ff9);
+        
+
+        circle_marker_195950fa0528806fe6257b4bd48507d9.bindPopup(popup_f639d97400c6a5a1277d87efc25de340)
+        ;
+
+        
+    
+    
+            var circle_marker_84042fab11b618b8d40c4e69ad25e7aa = L.circleMarker(
+                [19.3040730742778, -99.2073494609043],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_55069fc0a0b71ca28552424aed673f9d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0777d84af59efbdc16d47a4d361c801a = $(`<div id="html_0777d84af59efbdc16d47a4d361c801a" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Victoria Jacqueline Alavez Peña <br><b>País:</b> México<br><b>Institución:</b> El Colegio de México<br><b>Facultad:</b> Centro de Estudios Sociológicos </div>`)[0];
+            popup_55069fc0a0b71ca28552424aed673f9d.setContent(html_0777d84af59efbdc16d47a4d361c801a);
+        
+
+        circle_marker_84042fab11b618b8d40c4e69ad25e7aa.bindPopup(popup_55069fc0a0b71ca28552424aed673f9d)
+        ;
+
+        
+    
+    
+            var circle_marker_029d01c0f975e5f2d54d076900656a71 = L.circleMarker(
+                [20.010754886415, -102.276601410169],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_efeece178a09267da7a3b7f0aa6bd68d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_076ff9ba5d8adcd8349a696a4a1b80be = $(`<div id="html_076ff9ba5d8adcd8349a696a4a1b80be" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Nubia Cortés Márquez <br><b>País:</b> México<br><b>Institución:</b> El Colegio de Michoacán<br><b>Facultad:</b> Centro de estudios de geografía humana </div>`)[0];
+            popup_efeece178a09267da7a3b7f0aa6bd68d.setContent(html_076ff9ba5d8adcd8349a696a4a1b80be);
+        
+
+        circle_marker_029d01c0f975e5f2d54d076900656a71.bindPopup(popup_efeece178a09267da7a3b7f0aa6bd68d)
+        ;
+
+        
+    
+    
+            var circle_marker_842e5d5380a4d372286f8fa415490649 = L.circleMarker(
+                [19.3025211451809, -99.1797914897406],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_ea21d2c2bffb1345ae44b25011eda90d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b03cc14641b1c5ea9c2550e9ed66671b = $(`<div id="html_b03cc14641b1c5ea9c2550e9ed66671b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Brandon Rosales Chavira<br><b>País:</b> México<br><b>Institución:</b> Escuela Nacional de Antropología e Historia (ENAH)<br><b>Facultad:</b> Antropología social</div>`)[0];
+            popup_ea21d2c2bffb1345ae44b25011eda90d.setContent(html_b03cc14641b1c5ea9c2550e9ed66671b);
+        
+
+        circle_marker_842e5d5380a4d372286f8fa415490649.bindPopup(popup_ea21d2c2bffb1345ae44b25011eda90d)
+        ;
+
+        
+    
+    
+            var circle_marker_2a827e942539db83125cc66e252c1048 = L.circleMarker(
+                [19.3595144229647, -99.135643163151],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_acd055ba24863ab57a3f07ff608561a4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d61a86e6d62feb59315d744e36c711db = $(`<div id="html_d61a86e6d62feb59315d744e36c711db" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alejandra Ferreiro Pérez<br><b>País:</b> México<br><b>Institución:</b> Instituto Nacional de Bellas Artes y Literatura (INBAL)<br><b>Facultad:</b> Cenidi-Danza José Limón</div>`)[0];
+            popup_acd055ba24863ab57a3f07ff608561a4.setContent(html_d61a86e6d62feb59315d744e36c711db);
+        
+
+        circle_marker_2a827e942539db83125cc66e252c1048.bindPopup(popup_acd055ba24863ab57a3f07ff608561a4)
+        ;
+
+        
+    
+    
+            var circle_marker_35ddfd80f3e09195b877254593beda15 = L.circleMarker(
+                [19.3961268601837, -99.0919118762472],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_e4af107aee537b3315d289a35652c6cc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_53eafee61e95a2d7b4d089f2c0b44204 = $(`<div id="html_53eafee61e95a2d7b4d089f2c0b44204" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Eduardo Martínez Guerra<br><b>País:</b> México<br><b>Institución:</b> Instituto Politécnico Nacional <br><b>Facultad:</b> Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas </div>`)[0];
+            popup_e4af107aee537b3315d289a35652c6cc.setContent(html_53eafee61e95a2d7b4d089f2c0b44204);
+        
+
+        circle_marker_35ddfd80f3e09195b877254593beda15.bindPopup(popup_e4af107aee537b3315d289a35652c6cc)
+        ;
+
+        
+    
+    
+            var circle_marker_ccf7deb4a2a033f602ac723c55e20449 = L.circleMarker(
+                [19.3355100659277, -99.6648614416345],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_8e346b9254c39e4222773facd7a2f8a6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3da1893d6abc574cfa1898abeeff9e6c = $(`<div id="html_3da1893d6abc574cfa1898abeeff9e6c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alexis Hernandez Vega<br><b>País:</b> México<br><b>Institución:</b> Instituto Superior de Ciencias de la Educación del Estado de México <br><b>Facultad:</b> Sede Toluca </div>`)[0];
+            popup_8e346b9254c39e4222773facd7a2f8a6.setContent(html_3da1893d6abc574cfa1898abeeff9e6c);
+        
+
+        circle_marker_ccf7deb4a2a033f602ac723c55e20449.bindPopup(popup_8e346b9254c39e4222773facd7a2f8a6)
+        ;
+
+        
+    
+    
+            var circle_marker_76a19c0ea13e1fd0ea6d716d24e3d1f4 = L.circleMarker(
+                [21.9102758195082, -102.315377416667],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_6e0932ee8b05b38bfced439ee7f42022 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e876fd78e54f808edfe61ed602b89de5 = $(`<div id="html_e876fd78e54f808edfe61ed602b89de5" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Edgar Guerra <br><b>País:</b> México<br><b>Institución:</b> Investigadoras e Investigadores por México<br><b>Facultad:</b> Universidad Autónoma de Aguascalientes </div>`)[0];
+            popup_6e0932ee8b05b38bfced439ee7f42022.setContent(html_e876fd78e54f808edfe61ed602b89de5);
+        
+
+        circle_marker_76a19c0ea13e1fd0ea6d716d24e3d1f4.bindPopup(popup_6e0932ee8b05b38bfced439ee7f42022)
+        ;
+
+        
+    
+    
+            var circle_marker_559a93aeb022ff1c0b590b4ad4544b0a = L.circleMarker(
+                [32.6135075801365, -115.471732216372],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_fc394b1728947e4ca54d9a808d532f27 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_66a5db048832475d0e235dcfefeb2cfd = $(`<div id="html_66a5db048832475d0e235dcfefeb2cfd" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Rosa María Alonzo González<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Baja California<br><b>Facultad:</b> Facultad de Ciencias Humanas</div>`)[0];
+            popup_fc394b1728947e4ca54d9a808d532f27.setContent(html_66a5db048832475d0e235dcfefeb2cfd);
+        
+
+        circle_marker_559a93aeb022ff1c0b590b4ad4544b0a.bindPopup(popup_fc394b1728947e4ca54d9a808d532f27)
+        ;
+
+        
+    
+    
+            var circle_marker_0e74748cef2b77a830928c697e41613d = L.circleMarker(
+                [16.7537560588721, -93.1559501339692],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_16768a2db869bab3567f6ee65cbf2ab9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_45bed345d52c0b08783c6186d50787d2 = $(`<div id="html_45bed345d52c0b08783c6186d50787d2" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Ernesto De Jesús Espinosa García <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Chiapas <br><b>Facultad:</b> PSU-Bienestar social y comunitario </div>`)[0];
+            popup_16768a2db869bab3567f6ee65cbf2ab9.setContent(html_45bed345d52c0b08783c6186d50787d2);
+        
+
+        circle_marker_0e74748cef2b77a830928c697e41613d.bindPopup(popup_16768a2db869bab3567f6ee65cbf2ab9)
+        ;
+
+        
+    
+    
+            var circle_marker_30c2eca4ce2248f18d646c7550957d3e = L.circleMarker(
+                [16.8707269916059, -99.889270828407],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_0c46fe31429ca7b7c256d401b51c5365 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f6b52173bde725723615c488b02da12c = $(`<div id="html_f6b52173bde725723615c488b02da12c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Mariela Díaz Sandoval <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Guerrero<br><b>Facultad:</b> Instituto Internacional de Estudios Políticos Avanzados </div>`)[0];
+            popup_0c46fe31429ca7b7c256d401b51c5365.setContent(html_f6b52173bde725723615c488b02da12c);
+        
+
+        circle_marker_30c2eca4ce2248f18d646c7550957d3e.bindPopup(popup_0c46fe31429ca7b7c256d401b51c5365)
+        ;
+
+        
+    
+    
+            var circle_marker_e20c0cc985b84a4aa110c9d3148b8c82 = L.circleMarker(
+                [16.8736178565438, -99.8930652590966],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_4902db52a3ed3a505727caa564ae9356 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b93140e9c32b72526cb71c9a39870f04 = $(`<div id="html_b93140e9c32b72526cb71c9a39870f04" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Ma. Elvia Chavarría Solis <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Guerrero<br><b>Facultad:</b> Facultad de Turismo </div>`)[0];
+            popup_4902db52a3ed3a505727caa564ae9356.setContent(html_b93140e9c32b72526cb71c9a39870f04);
+        
+
+        circle_marker_e20c0cc985b84a4aa110c9d3148b8c82.bindPopup(popup_4902db52a3ed3a505727caa564ae9356)
+        ;
+
+        
+    
+    
+            var circle_marker_9e26e2d163b1aa2dda06a6b89dc49825 = L.circleMarker(
+                [16.8707475257808, -99.8894210321138],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_ab7f88fcb6ad13d4bdb643a15fe52d9a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5d90b47e132e5c82803c6bb23a436838 = $(`<div id="html_5d90b47e132e5c82803c6bb23a436838" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Margarita Jiménez Badillo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma de Guerrero<br><b>Facultad:</b> Instituto Internacional de Estudios Políticos Avanzados</div>`)[0];
+            popup_ab7f88fcb6ad13d4bdb643a15fe52d9a.setContent(html_5d90b47e132e5c82803c6bb23a436838);
+        
+
+        circle_marker_9e26e2d163b1aa2dda06a6b89dc49825.bindPopup(popup_ab7f88fcb6ad13d4bdb643a15fe52d9a)
+        ;
+
+        
+    
+    
+            var circle_marker_3afee93232963450230393bed5dfcd99 = L.circleMarker(
+                [19.8647732190873, -98.9690996148586],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_491650509b5796a62d1504a3e361e81d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_68023e49156d150f6132a935a4649c0f = $(`<div id="html_68023e49156d150f6132a935a4649c0f" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Sergio Isaac Telpalo Cruz <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de Hidalgo <br><b>Facultad:</b> Escuela superior dé Tizayuca </div>`)[0];
+            popup_491650509b5796a62d1504a3e361e81d.setContent(html_68023e49156d150f6132a935a4649c0f);
+        
+
+        circle_marker_3afee93232963450230393bed5dfcd99.bindPopup(popup_491650509b5796a62d1504a3e361e81d)
+        ;
+
+        
+    
+    
+            var circle_marker_b0d56dd164bd473fe6cb1f9b0e583146 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_cf268b56fd262993a8a47cd9adb2933f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8b1d4789ee4bbe793d865039b8f647ea = $(`<div id="html_8b1d4789ee4bbe793d865039b8f647ea" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Barush Serrano<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de ciencias políticas y sociales</div>`)[0];
+            popup_cf268b56fd262993a8a47cd9adb2933f.setContent(html_8b1d4789ee4bbe793d865039b8f647ea);
+        
+
+        circle_marker_b0d56dd164bd473fe6cb1f9b0e583146.bindPopup(popup_cf268b56fd262993a8a47cd9adb2933f)
+        ;
+
+        
+    
+    
+            var circle_marker_42dad175f2c52043ade299465fa9d2a2 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_259c61c5e3dffab67b5b4f173b0b89fc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3aff299bab4f4cb2e56c73c3018b7637 = $(`<div id="html_3aff299bab4f4cb2e56c73c3018b7637" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Carlos Antonio Hernández Barrientos <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_259c61c5e3dffab67b5b4f173b0b89fc.setContent(html_3aff299bab4f4cb2e56c73c3018b7637);
+        
+
+        circle_marker_42dad175f2c52043ade299465fa9d2a2.bindPopup(popup_259c61c5e3dffab67b5b4f173b0b89fc)
+        ;
+
+        
+    
+    
+            var circle_marker_096e139f6f26468bd0cf8284da81f353 = L.circleMarker(
+                [19.2737228497447, -99.6561854093104],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_b29eaab0f841d052768b56d8dac8a89d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6f60ecbe872a770dd918ce2ecf32c142 = $(`<div id="html_6f60ecbe872a770dd918ce2ecf32c142" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Isidro Rogel Fajardo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Planeación Urbana y Regional</div>`)[0];
+            popup_b29eaab0f841d052768b56d8dac8a89d.setContent(html_6f60ecbe872a770dd918ce2ecf32c142);
+        
+
+        circle_marker_096e139f6f26468bd0cf8284da81f353.bindPopup(popup_b29eaab0f841d052768b56d8dac8a89d)
+        ;
+
+        
+    
+    
+            var circle_marker_317c4bda3d594aa09107f6a87594c885 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_74096266d111fb8f625970beb86b59ef = L.popup({"maxWidth": "100%"});
+
+        
+            var html_af93ee2beecd27ef0d96362e2a1ab666 = $(`<div id="html_af93ee2beecd27ef0d96362e2a1ab666" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Aarón Alejandre Aguilar<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales </div>`)[0];
+            popup_74096266d111fb8f625970beb86b59ef.setContent(html_af93ee2beecd27ef0d96362e2a1ab666);
+        
+
+        circle_marker_317c4bda3d594aa09107f6a87594c885.bindPopup(popup_74096266d111fb8f625970beb86b59ef)
+        ;
+
+        
+    
+    
+            var circle_marker_dfd6602b7e59f99461fad75305118d0a = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_e2e8086522ffd3f94f93bab50edc0899 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_56550563190a609c3f504dc5bcfaee51 = $(`<div id="html_56550563190a609c3f504dc5bcfaee51" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Aldo Muñoz Armenta<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_e2e8086522ffd3f94f93bab50edc0899.setContent(html_56550563190a609c3f504dc5bcfaee51);
+        
+
+        circle_marker_dfd6602b7e59f99461fad75305118d0a.bindPopup(popup_e2e8086522ffd3f94f93bab50edc0899)
+        ;
+
+        
+    
+    
+            var circle_marker_8a46a677246f6d7fff59b83b80950f24 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_f78a2a5b1799e7914357cd04814e8468 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8cfd0fbfbcd016e6e0eba7ca4b27b230 = $(`<div id="html_8cfd0fbfbcd016e6e0eba7ca4b27b230" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alejandra Paola Carrillo Hinojosa<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales </div>`)[0];
+            popup_f78a2a5b1799e7914357cd04814e8468.setContent(html_8cfd0fbfbcd016e6e0eba7ca4b27b230);
+        
+
+        circle_marker_8a46a677246f6d7fff59b83b80950f24.bindPopup(popup_f78a2a5b1799e7914357cd04814e8468)
+        ;
+
+        
+    
+    
+            var circle_marker_e89405b2e8b4fb01ef85aec58dc438c8 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_6eb74427e3efa16eeb9c29dd547d1dbd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5ca50a45fde56bcd959b0bab77d32934 = $(`<div id="html_5ca50a45fde56bcd959b0bab77d32934" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Pablo David Díaz Muñiz <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales </div>`)[0];
+            popup_6eb74427e3efa16eeb9c29dd547d1dbd.setContent(html_5ca50a45fde56bcd959b0bab77d32934);
+        
+
+        circle_marker_e89405b2e8b4fb01ef85aec58dc438c8.bindPopup(popup_6eb74427e3efa16eeb9c29dd547d1dbd)
+        ;
+
+        
+    
+    
+            var circle_marker_5e4d6184a2168e5dfae34f0cc9289d5c = L.circleMarker(
+                [19.289810689402, -99.6774908497596],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_3b4bc11f744b5f66672d59202351e283 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c3459d3f70f8f539b2821ce5de7a44d6 = $(`<div id="html_c3459d3f70f8f539b2821ce5de7a44d6" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Rebeca Osorio González <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Turismo y Gastronomía </div>`)[0];
+            popup_3b4bc11f744b5f66672d59202351e283.setContent(html_c3459d3f70f8f539b2821ce5de7a44d6);
+        
+
+        circle_marker_5e4d6184a2168e5dfae34f0cc9289d5c.bindPopup(popup_3b4bc11f744b5f66672d59202351e283)
+        ;
+
+        
+    
+    
+            var circle_marker_48b8d03410e7eeece4d754da59bf5f35 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_49ff0378d7466afd97a2a4f0a7b053fc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f9ce8edacd2106ddd0ee388fd1c88f85 = $(`<div id="html_f9ce8edacd2106ddd0ee388fd1c88f85" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alan Flores Arroyo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales </div>`)[0];
+            popup_49ff0378d7466afd97a2a4f0a7b053fc.setContent(html_f9ce8edacd2106ddd0ee388fd1c88f85);
+        
+
+        circle_marker_48b8d03410e7eeece4d754da59bf5f35.bindPopup(popup_49ff0378d7466afd97a2a4f0a7b053fc)
+        ;
+
+        
+    
+    
+            var circle_marker_6dbd043aa4b9e150b36987fac5566fe8 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_6d77cc647a16f1f6453eeea24f57216f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6b8902e01d1391450e24f90d4e7b40da = $(`<div id="html_6b8902e01d1391450e24f90d4e7b40da" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Nadia Paola Hernández Doroteo <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> FCP y S</div>`)[0];
+            popup_6d77cc647a16f1f6453eeea24f57216f.setContent(html_6b8902e01d1391450e24f90d4e7b40da);
+        
+
+        circle_marker_6dbd043aa4b9e150b36987fac5566fe8.bindPopup(popup_6d77cc647a16f1f6453eeea24f57216f)
+        ;
+
+        
+    
+    
+            var circle_marker_ab71359d5c38064ef13106178f701409 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_25cbf674851b61553ac7639a389f0d3d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c55d667b51cf422bef38fee4d18b533e = $(`<div id="html_c55d667b51cf422bef38fee4d18b533e" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Rosalinda Castro Maravilla<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Ciencias Políticas y Sociales</div>`)[0];
+            popup_25cbf674851b61553ac7639a389f0d3d.setContent(html_c55d667b51cf422bef38fee4d18b533e);
+        
+
+        circle_marker_ab71359d5c38064ef13106178f701409.bindPopup(popup_25cbf674851b61553ac7639a389f0d3d)
+        ;
+
+        
+    
+    
+            var circle_marker_e8afb9751efbe0ba04b404d694df827d = L.circleMarker(
+                [19.2748412407495, -99.6565233455601],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_fb15734b77514cbb97581fb99c0935ce = L.popup({"maxWidth": "100%"});
+
+        
+            var html_99369587137927c79303ffa0b78591e2 = $(`<div id="html_99369587137927c79303ffa0b78591e2" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Ximena Hernández Rosas<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Antropología </div>`)[0];
+            popup_fb15734b77514cbb97581fb99c0935ce.setContent(html_99369587137927c79303ffa0b78591e2);
+        
+
+        circle_marker_e8afb9751efbe0ba04b404d694df827d.bindPopup(popup_fb15734b77514cbb97581fb99c0935ce)
+        ;
+
+        
+    
+    
+            var circle_marker_7a0e1d104b3a360b2df9e0c46e898a9d = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_6dc1b5d375c4ef7afd1865d911073b82 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_31eaaeb0b062e5066f8ea8e2d8734b6b = $(`<div id="html_31eaaeb0b062e5066f8ea8e2d8734b6b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Oscar Geovanni González López<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Ciencias Políticas y sociales</div>`)[0];
+            popup_6dc1b5d375c4ef7afd1865d911073b82.setContent(html_31eaaeb0b062e5066f8ea8e2d8734b6b);
+        
+
+        circle_marker_7a0e1d104b3a360b2df9e0c46e898a9d.bindPopup(popup_6dc1b5d375c4ef7afd1865d911073b82)
+        ;
+
+        
+    
+    
+            var circle_marker_2bc8659332077543fbbd50f71ae81262 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_3c9d0ae2c6f0403d048833ca5ed0e7e4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a13983db90d292117fa3d71112e6637 = $(`<div id="html_7a13983db90d292117fa3d71112e6637" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Brayan Ismael Flores Ortega <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Ciencias políticas y sociales </div>`)[0];
+            popup_3c9d0ae2c6f0403d048833ca5ed0e7e4.setContent(html_7a13983db90d292117fa3d71112e6637);
+        
+
+        circle_marker_2bc8659332077543fbbd50f71ae81262.bindPopup(popup_3c9d0ae2c6f0403d048833ca5ed0e7e4)
+        ;
+
+        
+    
+    
+            var circle_marker_9657ba4e61f7ce6ebbb05c86f526cdef = L.circleMarker(
+                [19.2816734035731, -99.6775569725428],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_ae4453446bab23fe0183ff7a609e8a68 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_86144b247d9b648ff75c47e61b85e8dd = $(`<div id="html_86144b247d9b648ff75c47e61b85e8dd" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> José Alejandro Vargas Castro<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Arquitectura y Diseño </div>`)[0];
+            popup_ae4453446bab23fe0183ff7a609e8a68.setContent(html_86144b247d9b648ff75c47e61b85e8dd);
+        
+
+        circle_marker_9657ba4e61f7ce6ebbb05c86f526cdef.bindPopup(popup_ae4453446bab23fe0183ff7a609e8a68)
+        ;
+
+        
+    
+    
+            var circle_marker_7068f2ceb3146a500dd636d0a5016c1b = L.circleMarker(
+                [19.1971202946365, -99.517557330217],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_2d59a347b214c26bfe54c76d3088a6c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_db0c37044a42182dcd16db8950263910 = $(`<div id="html_db0c37044a42182dcd16db8950263910" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Joel Pedraza Mandujano <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Unidad Académica Tianguistenco </div>`)[0];
+            popup_2d59a347b214c26bfe54c76d3088a6c3.setContent(html_db0c37044a42182dcd16db8950263910);
+        
+
+        circle_marker_7068f2ceb3146a500dd636d0a5016c1b.bindPopup(popup_2d59a347b214c26bfe54c76d3088a6c3)
+        ;
+
+        
+    
+    
+            var circle_marker_a69a8e445fc36e0ecfda7ccbbc7f204d = L.circleMarker(
+                [19.2842748546111, -99.6800462683437],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_af957f967c6d466dd6e7c111ddc28d4e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_17ba85a84faf52d9973019a7bcd9d340 = $(`<div id="html_17ba85a84faf52d9973019a7bcd9d340" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Verónica Benítez Pérez<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Contaduría y Administración</div>`)[0];
+            popup_af957f967c6d466dd6e7c111ddc28d4e.setContent(html_17ba85a84faf52d9973019a7bcd9d340);
+        
+
+        circle_marker_a69a8e445fc36e0ecfda7ccbbc7f204d.bindPopup(popup_af957f967c6d466dd6e7c111ddc28d4e)
+        ;
+
+        
+    
+    
+            var circle_marker_da94f8ab5da1d9ee16e908bb756b1c7c = L.circleMarker(
+                [19.2824084025272, -99.6783720590514],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_5531ccf23afcfab7d8ee6ff2764df68d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_447182074a40149bdae259e274d5e043 = $(`<div id="html_447182074a40149bdae259e274d5e043" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Vianey Michell Santos Sanjuan <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Derecho </div>`)[0];
+            popup_5531ccf23afcfab7d8ee6ff2764df68d.setContent(html_447182074a40149bdae259e274d5e043);
+        
+
+        circle_marker_da94f8ab5da1d9ee16e908bb756b1c7c.bindPopup(popup_5531ccf23afcfab7d8ee6ff2764df68d)
+        ;
+
+        
+    
+    
+            var circle_marker_390f1f013fa59f9e09dd81133d60fe11 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_8ca9df23e2b78ffa374d15cbf8f8cf6d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6c6b119af14322ab1c86fdfe6e6e57e3 = $(`<div id="html_6c6b119af14322ab1c86fdfe6e6e57e3" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Adrián P. Torres Becerril <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales </div>`)[0];
+            popup_8ca9df23e2b78ffa374d15cbf8f8cf6d.setContent(html_6c6b119af14322ab1c86fdfe6e6e57e3);
+        
+
+        circle_marker_390f1f013fa59f9e09dd81133d60fe11.bindPopup(popup_8ca9df23e2b78ffa374d15cbf8f8cf6d)
+        ;
+
+        
+    
+    
+            var circle_marker_a56c9a8b7c7a71ba8286675943a911bb = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_77d6dad6c2a04aedadf6400f9a6da294 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_495c5e33bf20ecb9a059450f9234fb1e = $(`<div id="html_495c5e33bf20ecb9a059450f9234fb1e" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Karla Ivonne Mijangos Fuentes <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultades de Ciencias Políticas y Sociales</div>`)[0];
+            popup_77d6dad6c2a04aedadf6400f9a6da294.setContent(html_495c5e33bf20ecb9a059450f9234fb1e);
+        
+
+        circle_marker_a56c9a8b7c7a71ba8286675943a911bb.bindPopup(popup_77d6dad6c2a04aedadf6400f9a6da294)
+        ;
+
+        
+    
+    
+            var circle_marker_50accc8f312bea2ec3ded9dcfc3004e2 = L.circleMarker(
+                [19.3098668128501, -99.6390043743956],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_a0e5973305ac2a0c8d6d2976291c2f02 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1a3ce107cf41761a4acd5a21f7bf2908 = $(`<div id="html_1a3ce107cf41761a4acd5a21f7bf2908" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Berenice Legorreta Rebollo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias de la Conducta</div>`)[0];
+            popup_a0e5973305ac2a0c8d6d2976291c2f02.setContent(html_1a3ce107cf41761a4acd5a21f7bf2908);
+        
+
+        circle_marker_50accc8f312bea2ec3ded9dcfc3004e2.bindPopup(popup_a0e5973305ac2a0c8d6d2976291c2f02)
+        ;
+
+        
+    
+    
+            var circle_marker_531db3c5c0f1fcca5f09f5f3b582e27e = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_4ba9dc053cffee760723bc0b4792c857 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_de1f4b9805fc3e16e2c55f5c069f7d99 = $(`<div id="html_de1f4b9805fc3e16e2c55f5c069f7d99" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Andrea Teresa Rojo Nápoles<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas Sociales </div>`)[0];
+            popup_4ba9dc053cffee760723bc0b4792c857.setContent(html_de1f4b9805fc3e16e2c55f5c069f7d99);
+        
+
+        circle_marker_531db3c5c0f1fcca5f09f5f3b582e27e.bindPopup(popup_4ba9dc053cffee760723bc0b4792c857)
+        ;
+
+        
+    
+    
+            var circle_marker_911462d2544279245be3f40f4b5bebac = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_4623d59ac6c560b5299288223b41de71 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a61346c1f9a69d1cc478f18d70a0a6da = $(`<div id="html_a61346c1f9a69d1cc478f18d70a0a6da" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Carlos Antonio Hernández Barrientos <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_4623d59ac6c560b5299288223b41de71.setContent(html_a61346c1f9a69d1cc478f18d70a0a6da);
+        
+
+        circle_marker_911462d2544279245be3f40f4b5bebac.bindPopup(popup_4623d59ac6c560b5299288223b41de71)
+        ;
+
+        
+    
+    
+            var circle_marker_6876338c142075dd6fa71595fc076fdb = L.circleMarker(
+                [19.2997068742336, -98.9560504455596],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_a2c113153234f074acb1c92361f47dbe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a348d0b62fafed6daf47b29f5eb2ce34 = $(`<div id="html_a348d0b62fafed6daf47b29f5eb2ce34" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Magally Martínez Reyes<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Centro Universitario Valle de Chalco</div>`)[0];
+            popup_a2c113153234f074acb1c92361f47dbe.setContent(html_a348d0b62fafed6daf47b29f5eb2ce34);
+        
+
+        circle_marker_6876338c142075dd6fa71595fc076fdb.bindPopup(popup_a2c113153234f074acb1c92361f47dbe)
+        ;
+
+        
+    
+    
+            var circle_marker_15133a13bfc10a9cc50c2f85faeb3b09 = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_f26528102020587a311525026eff59f8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_89e7197a9dc2c6af5792819c1f799ab9 = $(`<div id="html_89e7197a9dc2c6af5792819c1f799ab9" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Itzel Jazmín Rangel Castelán <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales</div>`)[0];
+            popup_f26528102020587a311525026eff59f8.setContent(html_89e7197a9dc2c6af5792819c1f799ab9);
+        
+
+        circle_marker_15133a13bfc10a9cc50c2f85faeb3b09.bindPopup(popup_f26528102020587a311525026eff59f8)
+        ;
+
+        
+    
+    
+            var circle_marker_9afe261a8726afcdafa7fbb573fa0c8b = L.circleMarker(
+                [19.2869051160002, -99.6790826148703],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_72b596faa7ecca1883ef1f510f349fc1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_90630ede509a506a234f9c48f0a8b481 = $(`<div id="html_90630ede509a506a234f9c48f0a8b481" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Arleth Gabriela Morales Flores<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias Politicas y Sociales </div>`)[0];
+            popup_72b596faa7ecca1883ef1f510f349fc1.setContent(html_90630ede509a506a234f9c48f0a8b481);
+        
+
+        circle_marker_9afe261a8726afcdafa7fbb573fa0c8b.bindPopup(popup_72b596faa7ecca1883ef1f510f349fc1)
+        ;
+
+        
+    
+    
+            var circle_marker_26775e3b8831f6518d69f566587b69c3 = L.circleMarker(
+                [19.3098668128501, -99.6390043743956],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_a4ca15cd830203bef2df6b2b0d9d8ddc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ca587f7aa90c090c1ee117ca2e4befc7 = $(`<div id="html_ca587f7aa90c090c1ee117ca2e4befc7" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Mariana Sánchez Hernández <br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de México (UAEMéx)<br><b>Facultad:</b> Facultad de Ciencias de la Conducta </div>`)[0];
+            popup_a4ca15cd830203bef2df6b2b0d9d8ddc.setContent(html_ca587f7aa90c090c1ee117ca2e4befc7);
+        
+
+        circle_marker_26775e3b8831f6518d69f566587b69c3.bindPopup(popup_a4ca15cd830203bef2df6b2b0d9d8ddc)
+        ;
+
+        
+    
+    
+            var circle_marker_c11765835a460f7915be7ff24860e957 = L.circleMarker(
+                [18.9802006016656, -99.2368971897469],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_74a51961f69040115453e89bde783235 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_61e1402b75f0a55f097fa525c9091442 = $(`<div id="html_61e1402b75f0a55f097fa525c9091442" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Lorena Sánchez Adaya<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma del Estado de Morelos (UAEM)<br><b>Facultad:</b> Centro Interdisciplinario de Investigación en Humanidades </div>`)[0];
+            popup_74a51961f69040115453e89bde783235.setContent(html_61e1402b75f0a55f097fa525c9091442);
+        
+
+        circle_marker_c11765835a460f7915be7ff24860e957.bindPopup(popup_74a51961f69040115453e89bde783235)
+        ;
+
+        
+    
+    
+            var circle_marker_aaf40d32ec053f4a3c0ad077f9c6e501 = L.circleMarker(
+                [19.3522662896491, -99.28257195905],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_e097c7f4deecc40f5eddbe9c33b2d25a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3e045a41f5508eefb4e4fd65f2b68b5e = $(`<div id="html_3e045a41f5508eefb4e4fd65f2b68b5e" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Juan José Solis Delgado<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma Metropolitana<br><b>Facultad:</b> Cuajimalpa</div>`)[0];
+            popup_e097c7f4deecc40f5eddbe9c33b2d25a.setContent(html_3e045a41f5508eefb4e4fd65f2b68b5e);
+        
+
+        circle_marker_aaf40d32ec053f4a3c0ad077f9c6e501.bindPopup(popup_e097c7f4deecc40f5eddbe9c33b2d25a)
+        ;
+
+        
+    
+    
+            var circle_marker_08251a6afea623441d0c67c85ec200df = L.circleMarker(
+                [19.5035129802557, -99.1870092455555],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_97fe72a4ebd131eb4c90533dd3837ce9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8282c5bff6ab2a29188e5dac50d3f47c = $(`<div id="html_8282c5bff6ab2a29188e5dac50d3f47c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Juan Emmanuel Ferrari Muñoz Ledo<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma Metropolitana<br><b>Facultad:</b> Unidad Azcapotzalco</div>`)[0];
+            popup_97fe72a4ebd131eb4c90533dd3837ce9.setContent(html_8282c5bff6ab2a29188e5dac50d3f47c);
+        
+
+        circle_marker_08251a6afea623441d0c67c85ec200df.bindPopup(popup_97fe72a4ebd131eb4c90533dd3837ce9)
+        ;
+
+        
+    
+    
+            var circle_marker_cca740a864c9f9ddfecf22bfcce7230a = L.circleMarker(
+                [19.3043602662523, -99.1029832167233],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_958a2a85047352e4161eb718af5e2494 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cbb29ff12d2e3cc02834e2454b0bcaa8 = $(`<div id="html_cbb29ff12d2e3cc02834e2454b0bcaa8" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Marco Antonio Rodríguez Gómez<br><b>País:</b> México<br><b>Institución:</b> Universidad Autónoma Metropolitana <br><b>Facultad:</b> Xochimilco</div>`)[0];
+            popup_958a2a85047352e4161eb718af5e2494.setContent(html_cbb29ff12d2e3cc02834e2454b0bcaa8);
+        
+
+        circle_marker_cca740a864c9f9ddfecf22bfcce7230a.bindPopup(popup_958a2a85047352e4161eb718af5e2494)
+        ;
+
+        
+    
+    
+            var circle_marker_503a3b378a799f08a7f4603dac440b40 = L.circleMarker(
+                [20.655061864971, -103.325396059023],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_86b6ae3b9b65a4b0e709c19579d40326 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b1e771c6a2a1d04d45b643760269fd47 = $(`<div id="html_b1e771c6a2a1d04d45b643760269fd47" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Fernando Betancourt Moreno <br><b>País:</b> México<br><b>Institución:</b> Universidad de Guadalajara <br><b>Facultad:</b> Centro universitario de ciencias exactas e ingeniería </div>`)[0];
+            popup_86b6ae3b9b65a4b0e709c19579d40326.setContent(html_b1e771c6a2a1d04d45b643760269fd47);
+        
+
+        circle_marker_503a3b378a799f08a7f4603dac440b40.bindPopup(popup_86b6ae3b9b65a4b0e709c19579d40326)
+        ;
+
+        
+    
+    
+            var circle_marker_9bfa6ae7be075639e2bc7e26155e6667 = L.circleMarker(
+                [20.6768135682967, -103.358950599514],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_d6eeeca3e983cd0f1f2119158ee9e17f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_532cab3bb37a16520593e1d59d1997b4 = $(`<div id="html_532cab3bb37a16520593e1d59d1997b4" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Hugo Raymundo García Diaz <br><b>País:</b> México<br><b>Institución:</b> Universidad de Guadalajara <br><b>Facultad:</b> Sociología </div>`)[0];
+            popup_d6eeeca3e983cd0f1f2119158ee9e17f.setContent(html_532cab3bb37a16520593e1d59d1997b4);
+        
+
+        circle_marker_9bfa6ae7be075639e2bc7e26155e6667.bindPopup(popup_d6eeeca3e983cd0f1f2119158ee9e17f)
+        ;
+
+        
+    
+    
+            var circle_marker_d47282a756e5214d1f8a04e18aa58f26 = L.circleMarker(
+                [21.0648867964123, -101.572800143575],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_1c968501e3776b33b953bec9ba1c171b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c763412c6546d36b1ac5ce4c1b8a0e6b = $(`<div id="html_c763412c6546d36b1ac5ce4c1b8a0e6b" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Ángel Gutiérrez Escobedo <br><b>País:</b> México<br><b>Institución:</b> Universidad de Guanajuato <br><b>Facultad:</b> División de Ciencias Sociales y Humanidades </div>`)[0];
+            popup_1c968501e3776b33b953bec9ba1c171b.setContent(html_c763412c6546d36b1ac5ce4c1b8a0e6b);
+        
+
+        circle_marker_d47282a756e5214d1f8a04e18aa58f26.bindPopup(popup_1c968501e3776b33b953bec9ba1c171b)
+        ;
+
+        
+    
+    
+            var circle_marker_fc120c8eb73448a1eff413376005a1f0 = L.circleMarker(
+                [19.423995450222, -99.1582696070259],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_3d44a35cf2577744fd20586c2b48678c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_14e1568bb6219cbe0dca0deae8c9ddcc = $(`<div id="html_14e1568bb6219cbe0dca0deae8c9ddcc" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Héctor Valverde Martínez<br><b>País:</b> México<br><b>Institución:</b> Universidad de la Comunicación<br><b>Facultad:</b> Comunicación y Gestión de la Cultura y las Artes</div>`)[0];
+            popup_3d44a35cf2577744fd20586c2b48678c.setContent(html_14e1568bb6219cbe0dca0deae8c9ddcc);
+        
+
+        circle_marker_fc120c8eb73448a1eff413376005a1f0.bindPopup(popup_3d44a35cf2577744fd20586c2b48678c)
+        ;
+
+        
+    
+    
+            var circle_marker_c9550e2dc0ce04b08d9dd2aafac43b02 = L.circleMarker(
+                [19.3713805897464, -99.2628966302134],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_3be82bcb7d92285b9c008b8d91711338 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_41c0cced4f4da5f2701e557924d4784c = $(`<div id="html_41c0cced4f4da5f2701e557924d4784c" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Sergio Tapia López <br><b>País:</b> México<br><b>Institución:</b> Universidad Iberoamericana<br><b>Facultad:</b> Departamento de Ciencias Sociales </div>`)[0];
+            popup_3be82bcb7d92285b9c008b8d91711338.setContent(html_41c0cced4f4da5f2701e557924d4784c);
+        
+
+        circle_marker_c9550e2dc0ce04b08d9dd2aafac43b02.bindPopup(popup_3be82bcb7d92285b9c008b8d91711338)
+        ;
+
+        
+    
+    
+            var circle_marker_0f515107aeb1ad5053de48b8b7a4a9d5 = L.circleMarker(
+                [19.3836630166567, -99.1561574590494],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_edbf69c02c40f85fc2acc3bd0fbf9ac6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_02d8757d5550d3e114074ecd1af0a5f5 = $(`<div id="html_02d8757d5550d3e114074ecd1af0a5f5" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> César Ricardo García Razo<br><b>País:</b> México<br><b>Institución:</b> Universidad Internacional de la Rioja, sede México<br><b>Facultad:</b> Facultad de Derecho</div>`)[0];
+            popup_edbf69c02c40f85fc2acc3bd0fbf9ac6.setContent(html_02d8757d5550d3e114074ecd1af0a5f5);
+        
+
+        circle_marker_0f515107aeb1ad5053de48b8b7a4a9d5.bindPopup(popup_edbf69c02c40f85fc2acc3bd0fbf9ac6)
+        ;
+
+        
+    
+    
+            var circle_marker_4ba0108673276942f5c6db7fbca779a7 = L.circleMarker(
+                [19.4935079637937, -99.247538312878],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_13a5d6024dddcc7cfdd7f7a02a954cfe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1298b325766ab38ed1c9d9687f057700 = $(`<div id="html_1298b325766ab38ed1c9d9687f057700" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Diego Espinosa Rico<br><b>País:</b> México<br><b>Institución:</b> Universidad Nacional Autónoma de México <br><b>Facultad:</b> Posgrado en Ciencias Políticas y Sociales, FES Acatlán</div>`)[0];
+            popup_13a5d6024dddcc7cfdd7f7a02a954cfe.setContent(html_1298b325766ab38ed1c9d9687f057700);
+        
+
+        circle_marker_4ba0108673276942f5c6db7fbca779a7.bindPopup(popup_13a5d6024dddcc7cfdd7f7a02a954cfe)
+        ;
+
+        
+    
+    
+            var circle_marker_a5c5113cab1a7029e815a7fb645990dd = L.circleMarker(
+                [19.3188598774999, -99.1781141743954],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_770ed6422e790994ee92ec8655a4c948 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fe2b910fb8961c6737cae215facdf3b8 = $(`<div id="html_fe2b910fb8961c6737cae215facdf3b8" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Jesús Eduardo Pizaña Barrón <br><b>País:</b> México<br><b>Institución:</b> Universidad Nacional Autónoma de México <br><b>Facultad:</b> Facultad de Ciencias Políticas y Sociales - UNAM</div>`)[0];
+            popup_770ed6422e790994ee92ec8655a4c948.setContent(html_fe2b910fb8961c6737cae215facdf3b8);
+        
+
+        circle_marker_a5c5113cab1a7029e815a7fb645990dd.bindPopup(popup_770ed6422e790994ee92ec8655a4c948)
+        ;
+
+        
+    
+    
+            var circle_marker_019475e5edd4e172e569b3e8b740319e = L.circleMarker(
+                [19.4841743862241, -99.2465617474093],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_697650204c069760433acd1992c8a2e2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_16b3a6e496b6abb1fe510a35a28ae7c4 = $(`<div id="html_16b3a6e496b6abb1fe510a35a28ae7c4" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Jennifer Montiel Ramos<br><b>País:</b> México<br><b>Institución:</b> Universidad Nacional Autónoma de México <br><b>Facultad:</b> Facultad de Estudios Superiores Acatlán</div>`)[0];
+            popup_697650204c069760433acd1992c8a2e2.setContent(html_16b3a6e496b6abb1fe510a35a28ae7c4);
+        
+
+        circle_marker_019475e5edd4e172e569b3e8b740319e.bindPopup(popup_697650204c069760433acd1992c8a2e2)
+        ;
+
+        
+    
+    
+            var circle_marker_fb66a427fd0b292db4c44e7e6356d982 = L.circleMarker(
+                [19.3335239158717, -99.1872669769991],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_00b4c636450fb52b4c84ec4f8be79450 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c125827c7568147f530f452e9b0fec08 = $(`<div id="html_c125827c7568147f530f452e9b0fec08" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Mónica Valdez González <br><b>País:</b> México<br><b>Institución:</b> Universidad Nacional Autónoma de México <br><b>Facultad:</b> Seminario de Investigación en Juventud </div>`)[0];
+            popup_00b4c636450fb52b4c84ec4f8be79450.setContent(html_c125827c7568147f530f452e9b0fec08);
+        
+
+        circle_marker_fb66a427fd0b292db4c44e7e6356d982.bindPopup(popup_00b4c636450fb52b4c84ec4f8be79450)
+        ;
+
+        
+    
+    
+            var circle_marker_0fe19691c4ff7b615764bc60a276797f = L.circleMarker(
+                [19.3188598774999, -99.1781141743954],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_9696c4cbbb300f93c0aa2dacdbe1b06e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c44c73646a54e017e7a676dd56a81ef2 = $(`<div id="html_c44c73646a54e017e7a676dd56a81ef2" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Raúl de la Torre Arciniega<br><b>País:</b> México<br><b>Institución:</b> Universidad Nacional Autónoma de México <br><b>Facultad:</b> FCPyS CU UNAM</div>`)[0];
+            popup_9696c4cbbb300f93c0aa2dacdbe1b06e.setContent(html_c44c73646a54e017e7a676dd56a81ef2);
+        
+
+        circle_marker_0fe19691c4ff7b615764bc60a276797f.bindPopup(popup_9696c4cbbb300f93c0aa2dacdbe1b06e)
+        ;
+
+        
+    
+    
+            var circle_marker_cdcfb55dfc59de504029bd9a00b2ba91 = L.circleMarker(
+                [19.1607499613104, -96.1128696897433],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_0907993646c2d3ef9b5b27549aacd482 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_becd0c1738ee490bcc6b0d393fd7f5d4 = $(`<div id="html_becd0c1738ee490bcc6b0d393fd7f5d4" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Eduardo Gabriel Barrios Pérez<br><b>País:</b> México<br><b>Institución:</b> Universidad Veracruzana<br><b>Facultad:</b> Facultad de Ciencias y Técnicas de la Comunicación</div>`)[0];
+            popup_0907993646c2d3ef9b5b27549aacd482.setContent(html_becd0c1738ee490bcc6b0d393fd7f5d4);
+        
+
+        circle_marker_cdcfb55dfc59de504029bd9a00b2ba91.bindPopup(popup_0907993646c2d3ef9b5b27549aacd482)
+        ;
+
+        
+    
+    
+            var circle_marker_d32966743a804332636b18d6124ae86e = L.circleMarker(
+                [19.1607499613104, -96.1128696897433],
+                {"bubblingMouseEvents": true, "color": "#0010ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0010ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_60b6164f26204420ff60b44fe2f138f9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_984cff526c916c6a37d5fdce2878caaa = $(`<div id="html_984cff526c916c6a37d5fdce2878caaa" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Alma Sarai Rosello Luna<br><b>País:</b> México<br><b>Institución:</b> Universidad Veracruzana<br><b>Facultad:</b> Ciencias de la Comunicacion.</div>`)[0];
+            popup_60b6164f26204420ff60b44fe2f138f9.setContent(html_984cff526c916c6a37d5fdce2878caaa);
+        
+
+        circle_marker_d32966743a804332636b18d6124ae86e.bindPopup(popup_60b6164f26204420ff60b44fe2f138f9)
+        ;
+
+        
+    
+    
+            var circle_marker_1a9c7932cbab540cf59433975a4b3451 = L.circleMarker(
+                [12.1060378222545, -86.2708219898582],
+                {"bubblingMouseEvents": true, "color": "#7200ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7200ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_de6f168a80d85a552a896455d2a5c85f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_35439c6f55bbc5ccbea051e45eff4028 = $(`<div id="html_35439c6f55bbc5ccbea051e45eff4028" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Walter Jerónimo Calderón Ramírez <br><b>País:</b> Nicaragua<br><b>Institución:</b> Universidad Nacional Autónoma de Nicaragua<br><b>Facultad:</b> Humanidades </div>`)[0];
+            popup_de6f168a80d85a552a896455d2a5c85f.setContent(html_35439c6f55bbc5ccbea051e45eff4028);
+        
+
+        circle_marker_1a9c7932cbab540cf59433975a4b3451.bindPopup(popup_de6f168a80d85a552a896455d2a5c85f)
+        ;
+
+        
+    
+    
+            var circle_marker_9c2341b2975ccc7ef104129c1bb338b8 = L.circleMarker(
+                [-25.2594922705401, -57.569861051243],
+                {"bubblingMouseEvents": true, "color": "#ee00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ee00ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_50a2d50dd3d85594b42063f3322f5e75 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c2b5c17d9e7606a5421cbe89b1c51230 = $(`<div id="html_c2b5c17d9e7606a5421cbe89b1c51230" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Gloria Bareiro<br><b>País:</b> Paraguay<br><b>Institución:</b> Universidad Nacional de Asunción <br><b>Facultad:</b> Facultad de Ciencias Sociales </div>`)[0];
+            popup_50a2d50dd3d85594b42063f3322f5e75.setContent(html_c2b5c17d9e7606a5421cbe89b1c51230);
+        
+
+        circle_marker_9c2341b2975ccc7ef104129c1bb338b8.bindPopup(popup_50a2d50dd3d85594b42063f3322f5e75)
+        ;
+
+        
+    
+    
+            var circle_marker_adeeb858f304c9deb8f879b224952e99 = L.circleMarker(
+                [-16.4051377069721, -71.5205206625288],
+                {"bubblingMouseEvents": true, "color": "#ff0094", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0094", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_191638905609ca8b2514d0ff20ee278c);
+        
+    
+        var popup_3f4c813b0fdfc0fd6e3bf0940fd7aedc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3d53465a85ef6bfdce39251f9e0d048f = $(`<div id="html_3d53465a85ef6bfdce39251f9e0d048f" style="width: 100.0%; height: 100.0%;"><b>Nombre:</b> Osbaldo Turpo Gebera<br><b>País:</b> Perú<br><b>Institución:</b> Universidad Nacional de San Agustín <br><b>Facultad:</b> Educación </div>`)[0];
+            popup_3f4c813b0fdfc0fd6e3bf0940fd7aedc.setContent(html_3d53465a85ef6bfdce39251f9e0d048f);
+        
+
+        circle_marker_adeeb858f304c9deb8f879b224952e99.bindPopup(popup_3f4c813b0fdfc0fd6e3bf0940fd7aedc)
+        ;
+
+        
+    
+</script>
+</html>
