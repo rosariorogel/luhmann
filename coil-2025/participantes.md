@@ -15,3 +15,9 @@ Para ilustrar esta diversidad y alcance internacional, a continuación presentam
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1hQURmvxtPyHjY5bOY7mUCZmrHysBH_4&hl=es-419&ehbc=2E312F" width="640" height="480"></iframe>  
 
+Para ilustrar esta diversidad y alcance internacional, a continuación presentamos un mapa con la ubicación de las instituciones de procedencia de los participantes inscritos.   
+
+**Créditos:** *Magally Martínez Reyes y Guillermo Obando Navarro*
+
+<iframe src="file:///D:/Biblioteca/TGSS/Algoritmos%20SS%20y%20Decision/2025/Ejercicio%20Web/mapa_inscritos_COIL_2025_v5.html" width="640" height="480"></iframe>  
+
