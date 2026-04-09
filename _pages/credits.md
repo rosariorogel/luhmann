@@ -10,7 +10,14 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
 **Iván Corona Mercado** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría Marxitsa y Sociología Latinoamericana.
 
-Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
+Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)  
+
+<img src="{{ site.baseurl }}/assets/img/FotoLucia.jpg" style="float:left;width:200px;padding-right:20px;">
+**Lizeth Robles Benitez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de las emociones, Sociología Constructivista, Movimientos sociales y reincersión social.
+
+Instagram: [@lucha0rozco](https://www.instagram.com/lucha0rozco/)  
+
+
 
 
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
