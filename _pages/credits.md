@@ -13,12 +13,6 @@ permalink: credits
 Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)  
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlexiaEstradaCuenca.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alexia Estrada Cuenca** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Estudios de género, sociología marxista y Epistemologías del Sur.
-
-Correo: [alexiaestrada700@gmail.com](alexiaestrada700@gmail.com)
-
-
 <img src="{{ site.baseurl }}/assets/img/FotoLucia.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Lucia Orozco Zuazo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de las emociones, Sociología Constructivista, Movimientos sociales y reincersión social.
 
