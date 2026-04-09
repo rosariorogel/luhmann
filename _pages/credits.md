@@ -5,6 +5,14 @@ subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
+## Actualización del sitio Luhmann 5.0
+
+<img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
+**Iván Corona Mercado** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría Marxitsa y Sociología Latinoamericana.
+
+Correo: [ivancorona11@icloud.com](ivancorona11@icloud.com)
+
+
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
 
 La actualización 4.0 de este sitio se realizó en el marco del curso ***Algoritmos, Sistemas Sociales y Decisión*** cuyos créditos están indicados en el apartado [*Curso COIL-2025*](https://rosariorogel.net/luhmann/coil-2025/cr%C3%A9ditos/){:target="_blank"} de esta página web. 
