@@ -19,10 +19,11 @@ Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
 Instagram: [@lucha0rozco](https://www.instagram.com/lucha0rozco/)  
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoXimenaTurin.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoXimenaTurin.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Ximena Turín García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología rural, familia, pobreza, movimientos sociales y proyectos de intervención.
 
-Instagram: [@xime.t17](https://www.instagram.com/xime.t17?igsh=MWd2OGJvbTIybGRrZQ==)  
+Instagram: [@xime.t17](https://www.instagram.com/xime.t17/)  
+
 
 
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
