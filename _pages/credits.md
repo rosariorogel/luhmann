@@ -24,6 +24,9 @@ Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)
 Instagram: [@lucha0rozco](https://www.instagram.com/lucha0rozco/)    
 
 
+<img src="{{ site.baseurl }}/assets/img/FotoCelesteReyes.jpg" style="float:left;width:200px;padding-right:20px;">**Celeste Jacqueline Rosales Reyes** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Política,  Economía,  Movimientos Sociales,  Educación.
+
+Instagram: [@celi_rey21](https://www.instagram.com/celi_rey21?igsh=ZTdxZXNzcWxvejJr)
 
 
 <img src="{{ site.baseurl }}/assets/img/FotoXimenaTurin.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
