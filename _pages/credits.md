@@ -15,7 +15,12 @@ Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
 <img src="{{ site.baseurl }}/assets/img/FOTOPaulinaMLara.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Paulina Mondragón Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología Constructivista y reincersión social.
 
-Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/) 
+Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)  
+
+<img src="{{ site.baseurl }}/assets/img/FotoLauraAreliMoralesFlores.jpg" style="float:left;width:200px;padding-right:20px;">
+**Laura Areli Morales Flores** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología política, rural, preservación cultural y movimientos sociales.
+
+Instagram: [@areli.moflo](https://www.instagram.com/areli.moflo?igsh=YmNjOGNyenUwOWY%3D&utm_source=qr)  
 
 
 <img src="{{ site.baseurl }}/assets/img/FotoLucia.jpg" style="float:left;width:200px;padding-right:20px;">
