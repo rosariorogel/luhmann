@@ -40,6 +40,12 @@ Instagram: [@celi_rey21](https://www.instagram.com/celi_rey21?igsh=ZTdxZXNzcWxve
 Instagram: [@xime.t17](https://www.instagram.com/xime.t17/)  
 
 
+<img src="{{ site.baseurl }}/assets/img/FotoFerVargas.jpg" style="float:left;width:200px;padding-right:20px;">
+**María Fernanda Vargas Quintero** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Etnonacionalismos y Multiculturalismos
+
+Correo: [feeervargas@icloud.com](feeervargas@icloud.com)
+
+
 
 ## Actualización del sitio Luhmann 4.0 (Curso COIL)
 
