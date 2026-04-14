@@ -12,7 +12,7 @@ permalink: credits
 
 Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)    
 
-<img src="{{ site.baseurl }}/assets/img/FotodeMarianajpg.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Multiculturalismo y Sociología Rural
 
 Instagram: [@marygalvan](https://www.instagram.com/mar.12._.05?igsh=YnZlZ3Y0c2pyb2g2)    
