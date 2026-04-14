@@ -12,6 +12,12 @@ permalink: credits
 
 Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)    
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlexiaEstrada.jpg" style="float:left;width:200px;padding-right:20px;">
+**Alexia Estrada Cuenca** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Estudios de género, teoría marxista y epistemologías del Sur.
+
+Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6NA==)    
+
+
 <img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Multiculturalismo y Sociología Rural
 
