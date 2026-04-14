@@ -54,7 +54,7 @@ Instagram: [@lucha0rozco](https://www.instagram.com/lucha0rozco/)
 Instagram:  [@celi_rey21](https://www.instagram.com/celi_rey21?igsh=ZTdxZXNzcWxvejJr)  
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoSusanaRoveglia.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">**Susana Roveglia Jimenez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Educación e Infancias, Reincersión Social y Sociología Rural.
+<img src="{{ site.baseurl }}/assets/img/FotoSusanaRoveglia2.jpeg" style="float:left;width:200px;padding-right:20px;">**Susana Roveglia Jimenez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Educación e Infancias, Reincersión Social y Sociología Rural.
 
 Instagram: [@susanajimenez792](https://www.instagram.com/susanajimenez792/)    
 
