@@ -17,6 +17,10 @@ Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
 
 Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6NA==)    
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.fpg" style="float:left;width:200px;padding-right:20px;">
+**Angel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología Ambiental y Urbana, movimentos sociales y activismo social.
+
+Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI0N3l6bXA4YQ%3D%3D&utm_source=qr)
 
 <img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Multiculturalismo y Sociología Rural
