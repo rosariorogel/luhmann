@@ -25,8 +25,13 @@ Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)
 <img src="{{ site.baseurl }}/assets/img/FotoAreliMorales.jpg" style="float:left;width:200px;padding-right:20px;">
 **Laura Areli Morales Flores** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología política, rural, preservación cultural y movimientos sociales.
 
-Instagram: [@areli.moflo](https://www.instagram.com/areli.moflo?igsh=YmNjOGNyenUwOWY%3D&utm_source=qr)  
+Instagram: [@areli.moflo](https://www.instagram.com/areli.moflo?igsh=YmNjOGNyenUwOWY%3D&utm_source=qr) 
 
+
+<img src="{{ site.baseurl }}/assets/img/FotoXimenaMora.png" style="float:left;width:200px;padding-right:20px;">
+*Ximena Yulissa Mora Hernández* Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: sociología de la religión y estudios de población 
+
+Correo: [ximenamora2808@gmail.com@icloud.com](ximenamora2808@gmail.com@icloud.com)
 
 <img src="{{ site.baseurl }}/assets/img/FotoLucia.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Lucia Orozco Zuazo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de las emociones, Sociología Constructivista, Movimientos sociales y reincersión social.
