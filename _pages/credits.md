@@ -7,7 +7,7 @@ permalink: credits
 
 ## Actualización del sitio Luhmann 5.0
 
-<img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoRicardoBecerrilv.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ricardo Becerril Valdes** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural y Sociología Organizacional.
 
 Correo: [rbecerrilv002@alumno.uaemex.mx](mailto:rbecerrilv002@alumno.uaemex.mx)    
@@ -22,8 +22,8 @@ Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
 
 Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6NA==)    
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.fpg" style="float:left;width:200px;padding-right:20px;">
-**Angel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Ambiental y Urbana, Movimentos Sociales y Activismo Social.
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.jpg" style="float:left;width:200px;padding-right:20px;">
+**Ángel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Ambiental y Urbana, Movimentos Sociales y Activismo Social.
 
 Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI0N3l6bXA4YQ%3D%3D&utm_source=qr)
 
@@ -33,7 +33,7 @@ Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI
 Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)  
 
 <img src="{{ site.baseurl }}/assets/img/FotoXimenaMora.jpg" style="float:left;width:200px;padding-right:20px;">
-*Ximena Yulissa Mora Hernández* Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la religión y Estudios de población.
+**Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la religión y Estudios de población.
 
 Correo: [ximenamora2808@gmail.com@icloud.com](ximenamora2808@gmail.com@icloud.com)
 
