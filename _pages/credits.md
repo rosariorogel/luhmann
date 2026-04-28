@@ -12,12 +12,10 @@ permalink: credits
 
 Correo: [rbecerrilv002@alumno.uaemex.mx](mailto:rbecerrilv002@alumno.uaemex.mx) 
 
-
 <img src="{{ site.baseurl }}/assets/img/FotodeMiguel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Miguel Angel Celaya Morales** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Bienestar y ética animal.
 
 Instagram: [@celayam16](https://www.instagram.com/celayam16?igsh=MW5yMnR5Ym5maTV5eQ==)
-
 
 <img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
 **Iván Corona Mercado** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Teoría Marxista y Sociología Latinoamericana.
