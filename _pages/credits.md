@@ -30,7 +30,8 @@ Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6N
 <img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Movimientos sociales y Etnonacionalismos.
 
-Instagram: [@mary.galvan](https://www.instagram.com/mar.12._.05?utm_source=qr&igsh=YnZlZ3Y0c2pyb2g2)    
+Instagram: [@mary.galvan](https://www.instagram.com/mar.12._.05?utm_source=qr&igsh=YnZlZ3Y0c2pyb2g2)  
+
 <img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ángel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Ambiental y Urbana, Movimentos Sociales y Activismo Social.
 
