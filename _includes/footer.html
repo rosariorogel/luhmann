@@ -1,19 +1,24 @@
 <footer>
-  <div class="container-md beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-<!--       {% include social-networks-links.html %}
- -->      {% if page.footer-extra %}
-        <div class="footer-custom-content">
-          {% for file in page.footer-extra %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-      <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
-      {% endif %}
+ <div class="footer-custom">
+  <p><strong>Rosario Rogel-Salazar</strong> | Recurso Educativo Abierto</p>
+  <p>rosariorogel.net/luhmann</p>
+  <p>2026</p>
+
+  <p>
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+      <img alt="Licencia Creative Commons" style="border-width:0"
+           src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a>
+  </p>
+
+  <p>
+    Salvo que se indique algo diferente en contenidos específicos, este recurso educativo abierto está
+    licenciado bajo una
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+      Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+    </a>.
+  </p>
+</div>
       
 
       {% if site.url-pretty %}
