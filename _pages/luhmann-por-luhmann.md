@@ -15,10 +15,7 @@ En esta primera versión se incluyen citas relacionadas con sociedad, observaci�
 
 Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**, editadas con herramientas como Canva y Photoshop, y publicadas en Wikimedia Commons bajo licencia Creative Commons Atribución 4.0 Internacional.
 
-## Créditos Luhmann 5.0
-
-Participaron en la búsqueda de información, elaboración de fotografías, edición y publicación: Alexia Estrada Cuenca, Ángel Alejandro Gil Gutiérrez
-- Ana Lucía Orozco Zuazo, María Fernanda Vargas Quintero.
+**Créditos Luhmann 5.0:** Participaron en la búsqueda de información, elaboración de fotografías, edición y publicación: Alexia Estrada Cuenca, Ángel Alejandro Gil Gutiérrez, Ana Lucía Orozco Zuazo y María Fernanda Vargas Quintero.
 
 ## Contenido
 
