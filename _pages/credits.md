@@ -1,11 +1,21 @@
 ---
 layout: page
 title: Créditos
-subtitle: Las personas que contribuyen en este sitio
+subtitle: Personas, generaciones y colaboraciones que han dado vida a Luhmann 5.0
 permalink: credits
 ---
 
-## Actualización del sitio Luhmann 5.0
+# Créditos
+
+**Luhmann 5.0** es un proyecto colaborativo desarrollado desde la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+
+A lo largo de sus distintas versiones, estudiantes, docentes y personas colaboradoras han contribuido a la producción de contenidos, curaduría de recursos, desarrollo web, recursos educativos abiertos y proyectos digitales relacionados con la teoría de sistemas sociales.
+
+## Cómo citar este sitio
+
+Rogel-Salazar, R. (Coord.). (2026). *Luhmann 5.0: teoría de sistemas, comunicación artificial y sociedad algorítmica*. Universidad Autónoma del Estado de México. https://rosariorogel.net/luhmann/
+
+## Actualización del sitio Luhmann 5.0  
 
 <img src="{{ site.baseurl }}/assets/img/FotoRicardoBecerrilv.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ricardo Becerril Valdes** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural y Sociología Organizacional.
@@ -82,7 +92,7 @@ Correo: [feeervargas@icloud.com](feeervargas@icloud.com)
 
 Instagram: [@fv_vento](https://www.instagram.com/fv_vento?igsh=MXhyajZpY3A4am9rOQ==)  
 
-## Actualización del sitio Luhmann 4.0 (Curso COIL)
+## Actualización del sitio Luhmann 4.0 / Curso COIL 2025
 
 La actualización 4.0 de este sitio se realizó en el marco del curso ***Algoritmos, Sistemas Sociales y Decisión*** cuyos créditos están indicados en el apartado [*Curso COIL-2025*](https://rosariorogel.net/luhmann/coil-2025/cr%C3%A9ditos/){:target="_blank"} de esta página web. 
 
@@ -260,8 +270,7 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 
 <div style="clear: both;"></div>
 
-
-## Desarrollo y curación de contenidos Luhmann 1.0
+## Desarrollo y curación de contenidos Luhmann 1.0 / Grupo fundador
 
 <div style="clear: both;"></div>
 
