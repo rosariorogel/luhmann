@@ -21,7 +21,7 @@ Rogel-Salazar, R. (Coord.). (2026). *Luhmann 5.0: teoría de sistemas, comunicac
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales. 
 
 ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
-Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
+Email: [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)  
 
 <div style="clear: both;"></div>
 
@@ -29,7 +29,7 @@ Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
 **Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities. 
 
 ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
-Twitter: [@blros](https://twitter.com/blros)
+Email: [brianrosenblum@ku.edu](mailto:brianrosenblum@ku.edu)  
 
 <div style="clear: both;"></div>
 
@@ -37,7 +37,7 @@ Twitter: [@blros](https://twitter.com/blros)
 **Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son Pedagogía Digital, Archivado Web y Humanidades Digitales. 
 
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
-Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
+Email: [alancolinarce@uvic.ca](mailto:alancolinarce@uvic.ca)  
 
 <div style="clear: both;"></div>
 
