@@ -19,7 +19,7 @@ Las contribuciones incluyeron la incorporación de conceptos teóricos, mejoras 
 Proyecto desarrollado en el marco de la actualización <strong>Luhmann 5.0: Visualización de datos y recursos de información</strong>, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México.
 </div>
 
-## Contribuciones realizadas
+# Contribuciones realizadas
 
 <h2>Biografía de Niklas Luhmann</h2>
 
@@ -129,7 +129,7 @@ En el caso de acoplamiento estructural, las contribuciones se orientaron a preci
 
 <hr>
 
-## Reutilización y consulta
+# Reutilización y consulta
 
 Las capturas incluidas en esta página documentan el proceso de participación estudiantil en Wikipedia como parte de la actualización **Luhmann 5.0**. Su propósito es dejar evidencia del trabajo de edición, mejora de contenidos, verificación de fuentes y contribución a espacios abiertos de conocimiento.
 
