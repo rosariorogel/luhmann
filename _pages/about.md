@@ -80,8 +80,6 @@ Como todo recurso vivo, Luhmann 5.0 permanece abierto a nuevas conexiones, colab
 | Luhmann 4.0 | 2025 | Curso COIL y recursos internacionales |
 | **Luhmann 5.0** | **2026** | Fanzines, video educativo, Wikipedia, Luhmann por Luhmann y actualización editorial |
 
-**Versión actual:** Luhmann 5.0 (junio de 2026)  
-
 ---
 
 ## Licencia
