@@ -2,7 +2,7 @@
 layout: page
 title: Infografías sobre conceptos luhmannianos
 subtitle: Teoría General de Sistemas Sociales
-permalink: theory
+permalink: infografias
 ---
 
 # Algunos conceptos básicos 
