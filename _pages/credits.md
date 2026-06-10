@@ -32,7 +32,7 @@ Email: [brianrosenblum@ku.edu](mailto:brianrosenblum@ku.edu)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Colín-Arce** Sociologyts, Mitacs research fellow in open, collaborative scholarship at the [University of Victoria’s Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca/). 
+**Alan Colín-Arce** Sociologist, Mitacs research fellow in open, collaborative scholarship at the [University of Victoria’s Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca/). 
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 Email: [alancolinarce@uvic.ca](mailto:alancolinarce@uvic.ca)  
 
