@@ -74,9 +74,9 @@ Como todo recurso vivo, Luhmann 5.0 permanece abierto a nuevas conexiones, colab
 
 | Versión | Año | Principales incorporaciones |
 |----------|----------|----------|
-| Luhmann 1.0 | 2021 | Grupo fundador y contenidos iniciales |
-| Luhmann 2.0 | 2022 | Recursos educativos y ampliación temática |
-| Luhmann 3.0 | 2023 | Infografías y materiales visuales |
+| Luhmann 1.0 | 2022 | Grupo fundador y contenidos iniciales |
+| Luhmann 2.0 | 2023 | Recursos educativos y ampliación temática |
+| Luhmann 3.0 | 2024 | Infografías y materiales visuales |
 | Luhmann 4.0 | 2025 | Curso COIL y recursos internacionales |
 | **Luhmann 5.0** | **2026** | Fanzines, video educativo, Wikipedia, Luhmann por Luhmann y actualización editorial |
 
