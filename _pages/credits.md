@@ -73,7 +73,12 @@ Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI
 <img src="{{ site.baseurl }}/assets/img/FOTOPaulinaMLara.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Paulina Mondragón Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Constructivista y Reincersión Social.
 
-Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)  
+Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/) 
+
+<img src="{{ site.baseurl }}/assets/img/FotoMarianaMora.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Mariana Mora Díaz** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la Religión, Movimientos Sociales.
+
+Instagram: [@_mdmary](https://www.instagram.com/_mdmary?igsh=bG9iaDluYWQ4NmI4) 
 
 <img src="{{ site.baseurl }}/assets/img/FotodeXimena.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la Religión y Estudios de población.
