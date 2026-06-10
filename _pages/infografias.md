@@ -17,7 +17,7 @@ Las infografías fueron elaboradas originalmente en [Canva](https://www.canva.co
 
 **Luhmann 1.0:** Aranza Cura-Lara, Jimena Dafne Garduño-Terrón y Zuri Yael Jiménez-Ocampo.  
 **Luhmann 3.0:** Regina Elizabeth Montalvo González.  
-**Luhmann 5.0:** actualización editorial, preservación digital, reorganización temática y curaduría de contenidos realizada en 2026.
+**Luhmann 5.0:** Mariana Mora Díaz, Celeste Jacqueline Rosales Reyes:  actualización editorial, preservación digital, reorganización temática y curaduría de contenidos realizada en 2026.
 
 ## Nota sobre preservación digital
 
@@ -34,8 +34,9 @@ En esta versión solo se conservan los recursos que continúan disponibles públ
 
 ### Conceptos fundamentales
 - Clausura operativa
+- Comunicación
+- Sentido
 - Autopoiesis
-- El concepto de sentido
 
 ### Sistemas funcionales
 - Subsistema económico
@@ -152,6 +153,36 @@ La clausura operativa es uno de los conceptos centrales de la teoría de sistema
 
 ---
 
+<hr>
+
+<h2>Comunicación</h2>
+
+<p>
+Esta infografía presenta una explicación visual del concepto de comunicación en la teoría de sistemas sociales de Niklas Luhmann. Forma parte de la actualización Luhmann 5.0, orientada a recuperar, renovar y hacer más accesibles algunos recursos visuales del proyecto.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Luhmann_comunicacion_infografia.png">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Luhmann_comunicacion_infografia.png?width=500"
+      alt="Infografía sobre comunicación en la teoría de sistemas de Luhmann"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    Infografía <em>Luhmann comunicacion infografia</em>, elaborada por Celeste Jacqueline Rosales Reyes.
+    Disponible en
+    <a href="https://commons.wikimedia.org/wiki/File:Luhmann_comunicacion_infografia.png">Wikimedia Commons</a>
+    bajo licencia
+    <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+  </figcaption>
+</figure>
+
+<hr>
+
+---
+
 ## Autopoiesis  
 
 El concepto de autopoiesis fue retomado por Luhmann a partir de los trabajos de Humberto Maturana y Francisco Varela. La noción describe sistemas capaces de producir y reproducir continuamente los elementos que los constituyen, preservando su identidad a través de sus propias operaciones.
@@ -197,6 +228,30 @@ La teoría de sistemas sociales considera el sentido como el mecanismo que permi
     <a href="https://commons.wikimedia.org/wiki/File:Concepto_de_sentido_en_Teor%C3%ADa_de_Sistemas_de_Luhmann.png">Wikimedia Commons</a>.
     <strong>Licencia:</strong>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<h2>Sentido</h2>
+
+<p>
+Esta otra infografía también explica el concepto de sentido en la teoría social de Niklas Luhmann, destacando su importancia para comprender cómo los sistemas sociales seleccionan, organizan y procesan posibilidades de comunicación.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Sentido,_Luhmann.png">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sentido,_Luhmann.png?width=500"
+      alt="Infografía sobre el concepto de sentido en Luhmann"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    Infografía <em>Sentido, Luhmann</em>, elaborada por Mariana Mora Díaz.
+    Disponible en
+    <a href="https://commons.wikimedia.org/wiki/File:Sentido,_Luhmann.png">Wikimedia Commons</a>
+    bajo licencia
+    <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
   </figcaption>
 </figure>
 
