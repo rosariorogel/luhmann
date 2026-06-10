@@ -19,7 +19,6 @@ En este apartado encontrarás cuatro proyectos que buscan explicar los conceptos
 <hr>
 
 Como parte de la actualización <strong>Luhmann 5.0</strong>, este recurso audiovisual ofrece una introducción a la noción de <em>autopoiesis</em> y a algunos de los principios fundamentales de la Teoría General de Sistemas Sociales de Niklas Luhmann.
-</p>
 
 <p>
 A través de una explicación visual y sintética, el video explora cómo los sistemas sociales se diferencian de su entorno mediante la comunicación y cómo logran reproducir sus propias operaciones.
