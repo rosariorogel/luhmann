@@ -1,27 +1,33 @@
 Acerca de: "about"
+
+Luhmann:
+  - Trayectoria Luhmann: "trayectoria"
+  - Conceptos fundamentales: "concepts"
+  - Bibliografía: "bibliography"
+  - Reseñas TGSS: "resenas"
+  - Vínculos teóricos: "vinculos"
+  - Luhmann-Archiv en español: "archivo-luhmann"
+
+Recursos educativos:
+  - Infografías: "theory"
+  - Fanzines: "zines"
+  - Anotaciones web: "anotaciones"
+  - Líneas de tiempo: "timeline"
+  - Recursos educativos abiertos: "oer"
+  - Recursos de internet: "resources"
+  - Ejercicios: "ejercicios"
+
 Curso COIL 2025:
   - Introducción: "/coil-2025/introduccion/"
   - Créditos WebCOIL: "/coil-2025/créditos/"
   - Participantes: "/coil-2025/participantes/"
-  - Bibliografía COIL: "/coil-2025/bibliografíaCOIL/" 
-  - Repositorio en Zenodo: "/coil-2025/repositoriozenodo/" 
+  - Bibliografía COIL: "/coil-2025/bibliografíaCOIL/"
+  - Repositorio en Zenodo: "/coil-2025/repositoriozenodo/"
   - Mural colaborativo: "/coil-2025/mural/"
   - Recursos Web: "/coil-2025/resources/"
   - Vínculos Filosóficos: "/coil-2025/vinculos-filosoficos/"
   - Sesiones online: "/coil-2025/sesionesonline/"
-Proyectos:
-   - Bibliografía: "bibliography"
-   - Reseñas TGSS: "resenas"
-   - Vínculos Teóricos: "vinculos"
-   - Fanzines: "zines"
-   - Anotaciones web: "anotaciones"
-   - Líneas de Tiempo: "timeline"
-   - Trayectoria Luhmann: "trayectoria"
-   - Conceptos Fundamentales: "concepts"
-   - Infografías: "theory"
-   - Recursos Educativos: "oer"
-   - Recursos de Internet: "resources"
-   - Luhmann-Archiv en Español: "archivo-luhmann"
-   - Ejercicios: "ejercicios"
+
 Cómo lo hicimos: "como"
-Créditos: "credits"
+Créditos: "credits"  
+
