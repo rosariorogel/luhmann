@@ -13,7 +13,7 @@ permalink: about
 
 **Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y a sus posibles lecturas contemporáneas: comunicación artificial, sociedad algorítmica, ciencia abierta, cultura digital y construcción colaborativa del conocimiento.
 
-El proyecto nació como **Luhmann en Web**, una iniciativa desarrollada por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso _Complejidad y Teoría de Sistemas_, impartido en la [Facultad de Ciencias Políticas y Sociales](https://fcpysuaemexoficial.wixsite.com/misitio).
+El proyecto nació como **Luhmann en Web** en 2022, una iniciativa desarrollada por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso _Complejidad y Teoría de Sistemas_, impartido en la [Facultad de Ciencias Políticas y Sociales](https://fcpysuaemexoficial.wixsite.com/misitio).
 
 Desde entonces, el sitio ha crecido como un espacio de aprendizaje colaborativo, curaduría académica, experimentación digital y producción de recursos educativos abiertos.
 
