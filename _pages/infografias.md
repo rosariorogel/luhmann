@@ -16,7 +16,7 @@ Las infografías fueron elaboradas originalmente en [Canva](https://www.canva.co
 ## Créditos de elaboración
 
 **Luhmann 1.0:** Aranza Cura-Lara, Jimena Dafne Garduño-Terrón y Zuri Yael Jiménez-Ocampo.  
-**Luhmann 3.0:** Regina Elizabeth Montalvo González.
+**Luhmann 3.0:** Regina Elizabeth Montalvo González.  
 **Luhmann 5.0:** actualización editorial, preservación digital, reorganización temática y curaduría de contenidos realizada en 2026.
 
 ## Nota sobre preservación digital
