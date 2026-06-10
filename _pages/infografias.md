@@ -229,11 +229,19 @@ El sistema del arte se orienta a la producción y observación de formas estéti
   </figcaption>
 </figure>
 
+<h2>Subsistema del amor</h2>
+
+<p>
+El sistema del amor organiza formas de comunicación asociadas con la intimidad, el afecto y las relaciones personales. En la teoría de Luhmann, el amor puede entenderse como un medio de comunicación simbólicamente generalizado que permite estabilizar expectativas en vínculos íntimos.
+</p>
+
 <figure style="margin: 1.5rem 0;">
   <a href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
-    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amor_de_Luhmann.jpg?width=500"
-         alt="Subsistema del amor"
-         style="max-width:400px;width:100%;height:auto;">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amor_de_Luhmann.jpg?width=500"
+      alt="Subsistema del amor"
+      style="max-width:400px;width:100%;height:auto;"
+    />
   </a>
 
   <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
@@ -245,4 +253,137 @@ El sistema del arte se orienta a la producción y observación de formas estéti
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
   </figcaption>
 </figure>
+
+<h2>Subsistema científico</h2>
+
+<p>
+El sistema científico se especializa en la producción, validación y comunicación del conocimiento. Su función consiste en generar descripciones de la realidad mediante procedimientos sistemáticos de observación, contrastación y argumentación.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg?width=500"
+      alt="Subsistema científico"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema científico.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann_CIENT%C3%8DFICO.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<hr>
+
+<h2>Subsistema educativo</h2>
+
+<p>
+El sistema educativo se encarga de la transmisión, adquisición y generación de conocimientos. Su función principal consiste en preparar a las personas para participar en distintos ámbitos de la sociedad mediante procesos de aprendizaje y socialización.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann,_Educativo.jpg?width=500"
+      alt="Subsistema educativo"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema educativo.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<hr>
+<h2>Subsistema educativo</h2>
+
+<p>
+El sistema educativo se encarga de la transmisión, adquisición y generación de conocimientos. Su función principal consiste en preparar a las personas para participar en distintos ámbitos de la sociedad mediante procesos de aprendizaje y socialización.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann,_Educativo.jpg?width=500"
+      alt="Subsistema educativo"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema educativo.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<hr>
+
+<h2>Subsistema político</h2>
+
+<p>
+El sistema político se especializa en la toma de decisiones colectivamente vinculantes. Su función consiste en procesar demandas sociales, distribuir poder y coordinar decisiones que afectan a la sociedad en su conjunto.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Pol%C3%ADtico.jpg">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann,_Pol%C3%ADtico.jpg?width=500"
+      alt="Subsistema político"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema político.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Pol%C3%ADtico.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<hr>
+
+<h2>Subsistema de la religión</h2>
+
+<p>
+El sistema religioso aborda preguntas relacionadas con la trascendencia, el sentido último y la relación entre lo observable y aquello que permanece fuera de la experiencia inmediata. Su función consiste en ofrecer marcos simbólicos para interpretar la contingencia y la incertidumbre.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistemas_de_Luhmann,_Religi%C3%B3n.jpg">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistemas_de_Luhmann,_Religi%C3%B3n.jpg?width=500"
+      alt="Subsistema de la religión"
+      style="max-width:400px;width:100%;height:auto;"
+    />
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema de la religión.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistemas_de_Luhmann,_Religi%C3%B3n.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
 
