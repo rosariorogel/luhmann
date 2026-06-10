@@ -7,7 +7,7 @@
 
 # URL
 url: https://rosariorogel.net
-basurl: /newsite
+baseurl: /luhmann
 
 # Name of website
 title: "Luhmann 5.0"
@@ -67,7 +67,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: "Recurso Educativo Abierto sobre Niklas Luhmann, teoría de sistemas sociales, comunicación artificial y sociedad algorítmica"
+rss-description: "Recurso Educativo Abierto sobre Niklas Luhmann, teoría de sistemas sociales, comunicación artificial y sociedad algorítmica." 
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -111,11 +111,6 @@ hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-
-
-
-
-#336699#DAF7A6#FFC300#FF5733#C70039#900C3F
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
