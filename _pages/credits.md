@@ -49,7 +49,7 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 Correo: [rbecerrilv002@alumno.uaemex.mx](mailto:rbecerrilv002@alumno.uaemex.mx) 
 
 <img src="{{ site.baseurl }}/assets/img/FotodeMiguel.jpg" style="float:left;width:200px;padding-right:20px;">
-**Miguel Angel Celaya Morales** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Bienestar y ética animal.
+**Miguel Angel Celaya Morales** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Bienestar y Ética animal.
 
 Instagram: [@celayam16](https://www.instagram.com/celayam16?igsh=MW5yMnR5Ym5maTV5eQ==)
 
@@ -59,12 +59,12 @@ Instagram: [@celayam16](https://www.instagram.com/celayam16?igsh=MW5yMnR5Ym5maTV
 Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)    
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaEstrada.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alexia Estrada Cuenca** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, Teoría marxista y Epistemologías del Sur.
+**Alexia Estrada Cuenca** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios de género, Teoría mMrxista y Epistemologías del Sur.
 
 Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6NA==)    
 
 <img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
-**Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Movimientos sociales y Etnonacionalismos.
+**Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Movimientos Sociales y Etnonacionalismos.
 
 Instagram: [@mary.galvan](https://www.instagram.com/mar.12._.05?utm_source=qr&igsh=YnZlZ3Y0c2pyb2g2)  
 
@@ -78,18 +78,18 @@ Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI
 
 Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)  
 
-<img src="{{ site.baseurl }}/assets/img/FotoXimenaMora.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la religión y Estudios de población.
+<img src="{{ site.baseurl }}/assets/img/FotodeXimena.jpg" style="float:left;width:200px;padding-right:20px;">
+**Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la Religión y Estudios de población.
 
 Correo: [ximenamora2808@gmail.com@icloud.com](ximenamora2808@gmail.com@icloud.com)
 
 <img src="{{ site.baseurl }}/assets/img/FotoAreliMorales.jpg" style="float:left;width:200px;padding-right:20px;">
-**Laura Areli Morales Flores** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología política, rural, preservación cultural y movimientos sociales.
+**Laura Areli Morales Flores** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política, Sociología Rural, Preservación Cultural y Movimientos Sociales.
 
 Instagram: [@areli.moflo](https://www.instagram.com/areli.moflo?igsh=YmNjOGNyenUwOWY%3D&utm_source=qr) 
 
 <img src="{{ site.baseurl }}/assets/img/FotoLucia.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ana Lucia Orozco Zuazo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, Sociología Constructivista, Movimientos sociales y reincersión social.
+**Ana Lucia Orozco Zuazo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las Emociones, Sociología Constructivista, Movimientos Sociales y Reincersión Social.
 
 Instagram: [@lucha0rozco](https://www.instagram.com/lucha0rozco/)    
 
@@ -103,18 +103,18 @@ Instagram:  [@celi_rey21](https://www.instagram.com/celi_rey21?igsh=ZTdxZXNzcWxv
 
 Instagram: [@susanajimenez792](https://www.instagram.com/susanajimenez792/)    
 
-<img src="{{ site.baseurl }}/assets/img/FotoXimenaTurin.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Ximena Turín García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología rural, familia, pobreza, movimientos sociales y proyectos de intervención.
+<img src="{{ site.baseurl }}/assets/img/FotoXimenaTurin.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Ximena Turín García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Familia, Pobreza, Movimientos Sociales y Proyectos de Intervención.
 
 Instagram: [@xime.t17](https://www.instagram.com/xime.t17/)  
 
-<img src="{{ site.baseurl }}/assets/img/FotoFerVargas.jpg.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFerVargas.jpeg" style="float:left;width:200px;padding-right:20px;">
 **María Fernanda Vargas Quintero** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Etnonacionalismos y Multiculturalismos
 
 Correo: [feeervargas@icloud.com](feeervargas@icloud.com)  
 
 <img src="{{ site.baseurl }}/assets/img/FotoFannyVentolero.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Fanny Ventolero** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Migración; Sociología rural, Sociología urbana, Sociología ambiental, Sociologia de la religion.
+**Fanny Ventolero** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Migración, Sociología Rural, Sociología Urbana, Sociología Ambiental, Sociologia de la Religion.
 
 Instagram: [@fv_vento](https://www.instagram.com/fv_vento?igsh=MXhyajZpY3A4am9rOQ==)  
 
@@ -151,7 +151,7 @@ Facebook: [Andrea Cruz](https://www.facebook.com/profile.php?id=61554794530694&m
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLeonardoGodínez.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoLeonardoGodinez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Leonardo Godínez Sánchez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología, historia, música, artes y sociología rural.
 
 Instagram: [@leogs5](https://www.instagram.com/leogs5/)
@@ -224,7 +224,7 @@ Twitter: [@EstefaniaCaamal1](https://twitter.com/EstefanaCaamal1?t=b8Cnqfc3dREzS
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlan Flores.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlanFlores.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Política y Ciencias Políticas.
 
 <div style="clear: both;"></div>
