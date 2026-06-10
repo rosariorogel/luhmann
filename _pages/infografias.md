@@ -25,9 +25,9 @@ Las infografías incluidas en esta página se enlazan desde Wikimedia Commons. D
 En esta versión solo se conservan los recursos que continúan disponibles públicamente en Wikimedia Commons.
 
 ---
-# Biografía y trayectoria
+# Biografía y trayectoria  
 
-## Biografía de Niklas Luhmann
+## Biografía de Niklas Luhmann  
 
 Esta infografía presenta una síntesis de la trayectoria biográfica de Niklas Luhmann, destacando algunos acontecimientos personales y académicos que influyeron en la construcción de una de las propuestas sociológicas más influyentes del siglo XX.
 
@@ -52,7 +52,7 @@ Esta infografía presenta una síntesis de la trayectoria biográfica de Niklas 
 
 ---
 
-## Contexto histórico de la vida de Luhmann
+## Contexto histórico de la vida de Luhmann  
 
 Esta infografía sitúa la vida y obra de Niklas Luhmann en relación con algunos de los principales acontecimientos históricos del siglo XX, permitiendo comprender mejor el contexto intelectual y social en el que desarrolló su trabajo.
 
@@ -77,7 +77,7 @@ Esta infografía sitúa la vida y obra de Niklas Luhmann en relación con alguno
 
 ---
 
-## Zettelkasten
+## Zettelkasten  
 
 La célebre "caja de notas" utilizada por Luhmann constituye uno de los ejemplos más conocidos de organización del conocimiento en las ciencias sociales. Esta infografía explica su funcionamiento y su relevancia para la producción intelectual del autor.
 
@@ -102,86 +102,9 @@ La célebre "caja de notas" utilizada por Luhmann constituye uno de los ejemplos
 
 ---
 
-# Conceptos fundamentales
+# Conceptos fundamentales  
 
-## Clausura operativa
-
-La clausura operativa es uno de los conceptos centrales de la teoría de sistemas sociales. Se refiere a la capacidad de un sistema para producir y reproducir sus propias operaciones a partir de sus estructuras internas, manteniendo una relación selectiva con su entorno.
-
-<figure style="margin: 1.5rem 0;">
-  <a href="https://commons.wikimedia.org/wiki/File:Clausura_operativa_de_Niklas_Luhmann.png">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Clausura_operativa_de_Niklas_Luhmann.png?width=500"
-      alt="Clausura operativa"
-      style="max-width: 400px; width: 100%; height: auto;"
-    />
-  </a>
-
-  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    <strong>Título:</strong> Clausura operativa de Niklas Luhmann.
-    <strong>Autoría:</strong> Aranza Cura-Lara.
-    <strong>Fuente:</strong>
-    <a href="https://commons.wikimedia.org/wiki/File:Clausura_operativa_de_Niklas_Luhmann.png">Wikimedia Commons</a>.
-    <strong>Licencia:</strong>
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-  </figcaption>
-</figure>
-
----
-
-## Autopoiesis
-
-El concepto de autopoiesis fue retomado por Luhmann a partir de los trabajos de Humberto Maturana y Francisco Varela. La noción describe sistemas capaces de producir y reproducir continuamente los elementos que los constituyen, preservando su identidad a través de sus propias operaciones.
-
-<figure style="margin: 1.5rem 0;">
-  <a href="https://commons.wikimedia.org/wiki/File:Autopoiesis_en_la_Teor%C3%ADa_de_Sistemas.png">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Autopoiesis_en_la_Teor%C3%ADa_de_Sistemas.png?width=500"
-      alt="Autopoiesis en la teoría de sistemas"
-      style="max-width: 400px; width: 100%; height: auto;"
-    />
-  </a>
-
-  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    <strong>Título:</strong> Autopoiesis en la teoría de sistemas.
-    <strong>Autoría:</strong> Jimena Dafne Garduño-Terrón.
-    <strong>Fuente:</strong>
-    <a href="https://commons.wikimedia.org/wiki/File:Autopoiesis_en_la_Teor%C3%ADa_de_Sistemas.png">Wikimedia Commons</a>.
-    <strong>Licencia:</strong>
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-  </figcaption>
-</figure>
-
----
-
-## El concepto de sentido
-
-La teoría de sistemas sociales considera el sentido como el mecanismo que permite reducir complejidad y orientar la selección de posibilidades en la experiencia humana y social. Este concepto constituye uno de los pilares de la arquitectura teórica de Luhmann.
-
-<figure style="margin: 1.5rem 0;">
-  <a href="https://commons.wikimedia.org/wiki/File:Concepto_de_sentido_en_Teor%C3%ADa_de_Sistemas_de_Luhmann.png">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Concepto_de_sentido_en_Teor%C3%ADa_de_Sistemas_de_Luhmann.png?width=500"
-      alt="Concepto de sentido en la teoría de sistemas"
-      style="max-width: 400px; width: 100%; height: auto;"
-    />
-  </a>
-
-  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    <strong>Título:</strong> Concepto de sentido en la teoría de sistemas de Luhmann.
-    <strong>Autoría:</strong> Jimena Dafne Garduño-Terrón.
-    <strong>Fuente:</strong>
-    <a href="https://commons.wikimedia.org/wiki/File:Concepto_de_sentido_en_Teor%C3%ADa_de_Sistemas_de_Luhmann.png">Wikimedia Commons</a>.
-    <strong>Licencia:</strong>
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-  </figcaption>
-</figure>
-
----
-
-# Sistemas funcionales
-
-## Clausura operativa
+## Clausura operativa  
 
 La clausura operativa es uno de los conceptos centrales de la teoría de sistemas sociales. Se refiere a la capacidad de un sistema para producir y reproducir sus propias operaciones a partir de sus estructuras internas, manteniendo una relación selectiva con su entorno.
 
@@ -206,7 +129,7 @@ La clausura operativa es uno de los conceptos centrales de la teoría de sistema
 
 ---
 
-## Autopoiesis
+## Autopoiesis  
 
 El concepto de autopoiesis fue retomado por Luhmann a partir de los trabajos de Humberto Maturana y Francisco Varela. La noción describe sistemas capaces de producir y reproducir continuamente los elementos que los constituyen, preservando su identidad a través de sus propias operaciones.
 
@@ -231,7 +154,7 @@ El concepto de autopoiesis fue retomado por Luhmann a partir de los trabajos de 
 
 ---
 
-## El concepto de sentido
+## El concepto de sentido  
 
 La teoría de sistemas sociales considera el sentido como el mecanismo que permite reducir complejidad y orientar la selección de posibilidades en la experiencia humana y social. Este concepto constituye uno de los pilares de la arquitectura teórica de Luhmann.
 
@@ -256,4 +179,70 @@ La teoría de sistemas sociales considera el sentido como el mecanismo que permi
 
 ---
 
-# Sistemas funcionales
+# Sistemas funcionales  
+
+La teoría de sistemas sociales sostiene que la sociedad moderna se encuentra diferenciada en diversos sistemas funcionales especializados. Cada uno de ellos cumple una función específica y opera mediante códigos propios de comunicación que le permiten reducir complejidad y orientar sus operaciones.
+
+<h2>Subsistema económico</h2>
+
+<p>
+El sistema económico se ocupa de la producción, distribución y consumo de bienes y servicios. Su función principal consiste en gestionar la escasez y facilitar el intercambio mediante mecanismos económicos especializados.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_Economico.jpg?width=500"
+         alt="Subsistema económico"
+         style="max-width:400px;width:100%;height:auto;">
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema económico.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_Economico.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<h2>Subsistema del arte</h2>
+
+<p>
+El sistema del arte se orienta a la producción y observación de formas estéticas. Opera mediante criterios propios que permiten distinguir y comunicar experiencias artísticas dentro de la sociedad.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann.jpg">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann.jpg?width=500"
+         alt="Subsistema del arte"
+         style="max-width:400px;width:100%;height:auto;">
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema del arte.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
+<figure style="margin: 1.5rem 0;">
+  <a href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amor_de_Luhmann.jpg?width=500"
+         alt="Subsistema del amor"
+         style="max-width:400px;width:100%;height:auto;">
+  </a>
+
+  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
+    <strong>Título:</strong> Subsistema del amor.
+    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
+    <strong>Fuente:</strong>
+    <a href="https://commons.wikimedia.org/wiki/File:Amor_de_Luhmann.jpg">Wikimedia Commons</a>.
+    <strong>Licencia:</strong>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  </figcaption>
+</figure>
+
