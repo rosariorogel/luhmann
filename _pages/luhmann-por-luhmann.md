@@ -43,7 +43,7 @@ Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**
 
 ---
 
-## Sociedad y observación
+# Sociedad y observación
 
 <h2>La sociedad como sistema social</h2>
 
@@ -81,7 +81,7 @@ Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**
 
 ---
 
-## Sentido y sistema/entorno
+# Sentido y sistema/entorno
 
 <h2>Distinción del sentido</h2>
 
@@ -137,7 +137,7 @@ Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**
 
 ---
 
-## Comunicación y medios
+# Comunicación y medios
 
 <h2>Comunicación según Luhmann</h2>
 
@@ -211,7 +211,7 @@ Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**
 
 ---
 
-## Operaciones sistémicas
+# Operaciones sistémicas
 
 <h2>Autorreferencia y heterorreferencia</h2>
 
@@ -303,7 +303,7 @@ Las imágenes fueron producidas por estudiantes participantes de **Luhmann 5.0**
 
 ---
 
-## Reutilización de los materiales
+# Reutilización de los materiales
 
 Las fotografías incluidas en esta sección fueron producidas por estudiantes participantes de **Luhmann 5.0** y publicadas en Wikimedia Commons bajo licencia abierta. Pueden ser reutilizadas, compartidas y adaptadas respetando las condiciones de atribución correspondientes.
 
