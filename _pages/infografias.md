@@ -17,6 +17,7 @@ Las infografías fueron elaboradas originalmente en [Canva](https://www.canva.co
 
 **Luhmann 1.0:** Aranza Cura-Lara, Jimena Dafne Garduño-Terrón y Zuri Yael Jiménez-Ocampo.  
 **Luhmann 3.0:** Regina Elizabeth Montalvo González.
+**Luhmann 5.0:** actualización editorial, preservación digital, reorganización temática y curaduría de contenidos realizada en 2026.
 
 ## Nota sobre preservación digital
 
@@ -24,6 +25,28 @@ Las infografías incluidas en esta página se enlazan desde Wikimedia Commons. D
 
 En esta versión solo se conservan los recursos que continúan disponibles públicamente en Wikimedia Commons.
 
+## Contenido
+
+### Biografía y trayectoria
+- Biografía de Niklas Luhmann
+- Contexto histórico de la vida de Luhmann
+- Zettelkasten
+
+### Conceptos fundamentales
+- Clausura operativa
+- Autopoiesis
+- El concepto de sentido
+
+### Sistemas funcionales
+- Subsistema económico
+- Subsistema del arte
+- Subsistema del amor
+- Subsistema científico
+- Subsistema educativo
+- Subsistema jurídico
+- Subsistema político
+- Subsistema de la religión
+  
 ---
 # Biografía y trayectoria  
 
@@ -307,32 +330,6 @@ El sistema educativo se encarga de la transmisión, adquisición y generación d
 </figure>
 
 <hr>
-<h2>Subsistema educativo</h2>
-
-<p>
-El sistema educativo se encarga de la transmisión, adquisición y generación de conocimientos. Su función principal consiste en preparar a las personas para participar en distintos ámbitos de la sociedad mediante procesos de aprendizaje y socialización.
-</p>
-
-<figure style="margin: 1.5rem 0;">
-  <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Subsistema_de_Luhmann,_Educativo.jpg?width=500"
-      alt="Subsistema educativo"
-      style="max-width:400px;width:100%;height:auto;"
-    />
-  </a>
-
-  <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    <strong>Título:</strong> Subsistema educativo.
-    <strong>Autoría:</strong> Regina Elizabeth Montalvo González.
-    <strong>Fuente:</strong>
-    <a href="https://commons.wikimedia.org/wiki/File:Subsistema_de_Luhmann,_Educativo.jpg">Wikimedia Commons</a>.
-    <strong>Licencia:</strong>
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-  </figcaption>
-</figure>
-
-<hr>
 
 <h2>Subsistema político</h2>
 
@@ -386,4 +383,13 @@ El sistema religioso aborda preguntas relacionadas con la trascendencia, el sent
   </figcaption>
 </figure>
 
+---
+
+## Reutilización de los materiales
+
+Las infografías incluidas en esta sección fueron elaboradas como recursos educativos abiertos por estudiantes participantes del proyecto *Luhmann en Web*.
+
+Salvo indicación en contrario, los materiales conservan las licencias abiertas indicadas en Wikimedia Commons y pueden ser reutilizados, adaptados y redistribuidos respetando las condiciones de atribución establecidas por sus autoras y autores.
+
+Si utilizas alguno de estos recursos en actividades docentes, de divulgación o investigación, te invitamos a citar adecuadamente la fuente original.
 
