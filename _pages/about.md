@@ -70,6 +70,18 @@ También busca reconocer la labor de sistematización, traducción, enseñanza y
 
 Como todo recurso vivo, Luhmann 5.0 permanece abierto a nuevas conexiones, colaboraciones y transformaciones. Un sistema que no se actualiza… se vuelve entorno. Y nadie quiere eso.
 
+## Historia de versiones
+
+| Versión | Año | Principales incorporaciones |
+|----------|----------|----------|
+| Luhmann 1.0 | 2021 | Grupo fundador y contenidos iniciales |
+| Luhmann 2.0 | 2022 | Recursos educativos y ampliación temática |
+| Luhmann 3.0 | 2023 | Infografías y materiales visuales |
+| Luhmann 4.0 | 2025 | Curso COIL y recursos internacionales |
+| **Luhmann 5.0** | **2026** | Fanzines, video educativo, Wikipedia, Luhmann por Luhmann y actualización editorial |
+
+**Versión actual:** Luhmann 5.0 (junio de 2026)  
+
 ---
 
 ## Licencia
