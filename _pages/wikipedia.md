@@ -53,7 +53,7 @@ Una de las contribuciones consistió en trabajar el concepto de sistemas psíqui
 </p>
 
 <p>
-<a href="https://es.wikipedia.org/wiki/Sistema_ps%C3%ADquico" target="_blank">Consultar la página en Wikipedia</a>
+<a href="https://es.wikipedia.org/wiki/Niklas_Luhmann" target="_blank">Consultar la página en Wikipedia</a>
 </p>
 
 <figure style="margin: 1.5rem 0;">
@@ -77,7 +77,7 @@ El equipo también intervino contenidos relacionados con el concepto de compleji
 </p>
 
 <p>
-<a href="https://es.wikipedia.org/wiki/Complejidad" target="_blank">Consultar la página en Wikipedia</a>
+<a href="https://es.wikipedia.org/wiki/Niklas_Luhmann" target="_blank">Consultar la página en Wikipedia</a>
 </p>
 
 <figure style="margin: 1.5rem 0;">
@@ -101,7 +101,7 @@ En el caso de acoplamiento estructural, las contribuciones se orientaron a preci
 </p>
 
 <p>
-<a href="https://es.wikipedia.org/wiki/Acoplamiento_estructural" target="_blank">Consultar la página en Wikipedia</a>
+<a href="https://es.wikipedia.org/wiki/Niklas_Luhmann" target="_blank">Consultar la página en Wikipedia</a>
 </p>
 
 <figure style="margin: 1.5rem 0;">
