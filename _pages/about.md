@@ -1,63 +1,95 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Qué ofrece Luhmann 5.0
+subtitle: Qué es Luhmann 5.0
 permalink: about
 ---
 
-# Luhmann 5.0
+# Acerca de Luhmann 5.0
 
-**Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y a sus posibles lecturas contemporáneas: comunicación artificial, inteligencia artificial, algoritmos, decisión, ciencia abierta y complejidad social.
+**Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y a sus posibles lecturas contemporáneas: comunicación artificial, sociedad algorítmica, ciencia abierta, cultura digital y construcción colaborativa del conocimiento.
 
-El proyecto inició como **Luhmann en Web**, una iniciativa desarrollada por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso _Complejidad y Teoría de Sistemas_, impartido en la [Facultad de Ciencias Políticas y Sociales](https://fcpysuaemexoficial.wixsite.com/misitio).
+El proyecto nació como **Luhmann en Web**, una iniciativa desarrollada por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso _Complejidad y Teoría de Sistemas_, impartido en la [Facultad de Ciencias Políticas y Sociales](https://fcpysuaemexoficial.wixsite.com/misitio).
 
 Desde entonces, el sitio ha crecido como un espacio de aprendizaje colaborativo, curaduría académica, experimentación digital y producción de recursos educativos abiertos.
 
+---
+
 ## Qué ofrece este sitio
 
-El sitio reúne materiales introductorios, recursos didácticos, bibliografía, ejercicios, visualizaciones, anotaciones web y productos elaborados por estudiantes en distintos ciclos de trabajo.
+Luhmann 5.0 reúne materiales introductorios, recursos visuales, bibliografía, ejercicios, archivos de citas, proyectos estudiantiles, experiencias internacionales y productos de conocimiento abierto.
 
 Entre sus secciones principales se encuentran:
 
-* **Bibliografía:** selección de textos de Niklas Luhmann y estudios sobre su obra, gestionada con apoyo de [Zotero](https://www.zotero.org/).
-* **Conceptos fundamentales:** explicaciones breves sobre nociones clave de la teoría de sistemas sociales.
-* **Trayectoria Luhmann:** recorrido por momentos relevantes de la vida académica e intelectual de Niklas Luhmann.
-* **Reseñas TGSS:** comentarios y aproximaciones a textos centrales de la Teoría General de Sistemas Sociales.
-* **Infografías:** materiales visuales para comprender conceptos complejos de forma más accesible.
-* **Fanzines:** ejercicios de apropiación creativa y divulgación académica.
-* **Anotaciones web:** lecturas comentadas mediante [Hypothes.is](https://web.hypothes.is/).
-* **Líneas de tiempo:** visualizaciones sobre la trayectoria de Luhmann y su producción académica.
-* **Recursos educativos abiertos:** materiales de apoyo para la enseñanza y el aprendizaje.
-* **Recursos de internet:** sitios, videos, blogs, archivos y herramientas relacionados con teoría de sistemas y complejidad.
-* **Luhmann-Archiv en español:** aproximación inicial a la organización temática del [Niklas Luhmann-Archiv](https://niklas-luhmann-archiv.de/).
-* **Ejercicios:** actividades interactivas para reforzar aprendizajes básicos.
+- **Conceptos fundamentales:** recursos introductorios para comprender nociones clave de la teoría de sistemas sociales.
+- **Infografías:** materiales visuales sobre conceptos, trayectorias y sistemas funcionales.
+- **Fanzines:** recursos gráficos y creativos para explicar subsistemas sociales.
+- **Luhmann por Luhmann:** archivo visual de citas directas de *La sociedad de la sociedad*.
+- **Wikipedia y conocimiento abierto:** registro de contribuciones estudiantiles a Wikipedia en español.
+- **Bibliografía:** selección de textos de Niklas Luhmann y estudios sobre su obra.
+- **Reseñas TGSS:** aproximaciones críticas a obras centrales de la teoría de sistemas sociales.
+- **Luhmann-Archiv en español:** acercamiento inicial a la organización temática del Niklas Luhmann-Archiv.
+- **Curso COIL 2025:** materiales derivados de la experiencia internacional _Algoritmos, Sistemas Sociales y Decisión_.
+
+---
+
+## Luhmann 5.0: una actualización multimodal
+
+La versión **Luhmann 5.0** amplía el proyecto mediante nuevos recursos desarrollados por estudiantes de Sociología de la Universidad Autónoma del Estado de México.
+
+Esta actualización incorpora:
+
+- nuevas infografías y materiales visuales;
+- fanzines sobre sistemas funcionales;
+- un recurso audiovisual introductorio sobre autopoiesis y teoría de sistemas sociales;
+- un archivo visual de citas primarias titulado **Luhmann por Luhmann**;
+- contribuciones a Wikipedia en español;
+- actualización de créditos, licencias, navegación y atribuciones.
+
+Estos materiales fortalecen el carácter abierto, colaborativo y pedagógico del sitio.
+
+---
 
 ## Curso COIL 2025
 
-En su versión más reciente, el proyecto se amplió con el curso internacional **Algoritmos, Sistemas Sociales y Decisión**, desarrollado como experiencia COIL entre la Universidad Autónoma del Estado de México, la Universidade Federal de Pernambuco y la Universidad de Antioquia.
+En 2025, el proyecto se amplió mediante el curso internacional **Algoritmos, Sistemas Sociales y Decisión**, desarrollado como experiencia COIL entre la Universidad Autónoma del Estado de México, la Universidade Federal de Pernambuco y la Universidad de Antioquia.
 
-Esta etapa incorporó discusiones sobre teoría de sistemas, comunicación artificial, inteligencia artificial, plataformas digitales, ciencia abierta y procesos de decisión en sociedades contemporáneas.
+Esta experiencia permitió articular la teoría de sistemas sociales con debates contemporáneos sobre inteligencia artificial, algoritmos, comunicación artificial, plataformas digitales, ciencia abierta y procesos de decisión en sociedades complejas.
 
-## Un recurso en construcción
+---
 
-Este sitio está en constante actualización. No pretende cerrar la discusión sobre Luhmann ni ofrecer una interpretación única de su obra. Más bien, busca abrir rutas de lectura, diálogo y experimentación para acercarse a una de las propuestas teóricas más complejas e influyentes de la sociología contemporánea.
+## Un proyecto abierto y en construcción
 
-También busca reconocer la labor de sistematización, traducción, discusión y enseñanza de la teoría de sistemas sociales realizada desde América Latina.
+Este sitio no pretende ofrecer una interpretación única ni definitiva de la obra de Niklas Luhmann. Más bien, busca abrir rutas de lectura, diálogo y experimentación para acercarse a una de las propuestas teóricas más ambiciosas de la sociología contemporánea.
+
+También busca reconocer la labor de sistematización, traducción, enseñanza y apropiación crítica de la teoría de sistemas sociales realizada desde América Latina.
+
+Como todo recurso vivo, Luhmann 5.0 permanece abierto a nuevas conexiones, colaboraciones y transformaciones. Un sistema que no se actualiza… se vuelve entorno. Y nadie quiere eso.
+
+---
 
 ## Licencia
 
-Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos). Salvo que se indique algo diferente en contenidos específicos, los materiales están disponibles bajo una licencia [Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es), que permite compartir, reutilizar, adaptar y redistribuir los contenidos, siempre que se otorgue la atribución correspondiente.
+Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos). Salvo que se indique algo diferente en contenidos específicos, los materiales originales están disponibles bajo licencia [Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es).
 
-**Esperamos que este sitio sea útil para estudiantes, docentes, investigadoras, investigadores y personas interesadas en pensar la sociedad contemporánea desde la teoría de sistemas.**
+Esto permite compartir, reutilizar, adaptar y redistribuir los contenidos, siempre que se otorgue la atribución correspondiente.
+
+---
+
+## Niklas Luhmann
 
 <div style="clear:both"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px; max-width: 180px;"> **Niklas Luhmann** (1927-1998) fue un sociólogo alemán reconocido por la formulación de la teoría de sistemas sociales, una de las propuestas más ambiciosas para describir la sociedad moderna.
+<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float:left; padding-right:20px; max-width:180px;">
 
-<div style="font-size: 0.75em; color: #666666; line-height: 1.3; margin-top: 5px;">
+**Niklas Luhmann** (1927-1998) fue un sociólogo alemán reconocido por la formulación de la teoría de sistemas sociales, una de las propuestas más complejas e influyentes para describir la sociedad moderna.
+
+<div style="font-size:0.65em; color:#777777; line-height:1.2; margin-top:3px;">
   Ilustración de Niklas Luhmann por
   <a href="https://commons.wikimedia.org/wiki/File:Luhmann.png">Sonntag</a>,
   disponible bajo licencia
   <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>,
   vía Wikimedia Commons.
 </div>
+
+<div style="clear:both"></div>
