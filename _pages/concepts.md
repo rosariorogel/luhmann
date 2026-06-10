@@ -7,23 +7,48 @@ permalink: concepts
 
 # Conceptos fundamentales de la TSS 
 
-En este apartado encontrarás tres proyectos que buscan explicar los conceptos fundamentales de la Teoría de Sistemas Sociales de Niklas Luhmann:
+En este apartado encontrarás cuatro proyectos que buscan explicar los conceptos fundamentales de la Teoría de Sistemas Sociales de Niklas Luhmann:
 
-> 1. Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann. ***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
-> 2. Explorando la Teoría de Sistemas de Luhmann en TikTok. ***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
-> 3. Con los conceptos recuperados de nuestros colegas decidimos comenzar una explicación realizada por alumnos. **Créditos:** Karla Gómez Segura y Marisol Guzmán Blanco.
+> 1. Autopoiésis y Teoría Sistemas Sociales. ***Créditos:** Susana Roveglia, Fanny Ventolero y Karina Ledezma*
+> 2. Conceptos clave para comprender la teoría de Sistemas Sociales. ***Créditos:** Kay Zepeda Franco, Ana Laura León Piña, Ismael Flores Ortega y Rodolfo Porfirio Olivares Pulido.*
+> 3. Explorando la Teoría de Sistemas de Luhmann en TikTok. ***Créditos:** Estefania Caamal, Montserrat Reynaga y Samuel Torres.*
+> 4. Con los conceptos recuperados de nuestros colegas decidimos comenzar una explicación realizada por alumnos. **Créditos:** Karla Gómez Segura y Marisol Guzmán Blanco.
 
-### Herramientas clave para enriquecer el aprendizaje de la teoría de Niklas Luhmann
+## Autopoiésis y Teoría Sistemas Sociales
 
----
+<hr>
 
-En esta sección, hemos utilizado tres herramientas clave para enriquecer la experiencia de aprendizaje y comprensión de la teoría de Niklas Luhmann:
+<h2>Recurso audiovisual destacado</h2>
 
-1. **D-ID:** Con esta herramienta creamos los videos que están disponibles en los perfiles oficiales de **TikTok** y **YouTube** (que también creamos y están disponibles para que interactúes con ellos). Usamos la potencia de la Inteligencia Artificial (IA), para transformar y mejorar el contenido audiovisual. D-ID ha sido fundamental para proporcionar explicaciones visuales atractivas y efectivas de los conceptos de Luhmann.
-2. **Dall-E:** La utilizamos para manipular una imagen de Niklas Luhmann que cumpliera con las licencias de uso necesarias. Esta herramienta es capaz de generar imágenes increíbles y sorprendentes a partir de descripciones textuales detalladas. Con Dall-E logramos obtener una representación visual única de Luhmann, lo cual ha enriquecido aún más nuestra experiencia para explorar su obra teórica.
-3. **ChatGPT:** Recurrimos a esta herramienta para redactar los conceptos clave, así como para revisar y mejorar los subtítulos de los videos. Esta inteligencia artificial funciona como un procesador de texto avanzado, capaz de comprender y generar respuestas coherentes y contextuales. Gracias a ello hemos podido asegurar una comunicación fluida y natural, lo cual ha facilitado la comprensión de los conceptos de Luhmann y ha mejorado nuestra interacción en línea.
+<p>
+Como parte de la actualización <strong>Luhmann 5.0</strong>, este recurso audiovisual ofrece una introducción a la noción de <em>autopoiesis</em> y a algunos de los principios fundamentales de la Teoría General de Sistemas Sociales de Niklas Luhmann.
+</p>
 
-Estas tres herramientas han sido fundamentales para crear una experiencia de aprendizaje dinámica, interactiva y accesible, permitiéndonos asimilar de manera efectiva los conceptos clave de Niklas Luhmann.
+<p>
+A través de una explicación visual y sintética, el video explora cómo los sistemas sociales se diferencian de su entorno mediante la comunicación y cómo logran reproducir sus propias operaciones.
+</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
+  <iframe
+    src="https://www.youtube.com/embed/jFmpJyymnNc"
+    title="Autopoiesis y Teoría de Sistemas Sociales"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
+<p style="font-size:0.72em;color:#666;line-height:1.3;">
+  Video <em>Autopoiesis y Teoría de Sistemas Sociales</em>, elaborado por
+  Susana Roveglia, Fanny Ventolero y Karina Ledezma como parte de la actualización
+  <strong>Luhmann 5.0</strong>.
+  Producción realizada con el apoyo del área CUPA de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+</p>
+
+<hr>
+
+## Conceptos clave para comprender la teoría de Sistemas Sociales
 
 ### Autopoiésis
 
