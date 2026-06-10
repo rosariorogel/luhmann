@@ -5,7 +5,7 @@ subtitle: Visualización de datos y recursos de información
 cover-img: "/assets/img/luhmann/luhmann-notes-1920x1080.jpg"
 ---
 
-<div style="text-align: justify;" markdown="1">
+<div style="text-align: left;" markdown="1">
 
 # Bienvenidas, bienvenidos y bienvenides  
 
