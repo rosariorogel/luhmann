@@ -59,9 +59,7 @@ A continuación, se presentan algunas autoras y autores cuyas contribuciones han
 
 El siguiente diagrama ilustra la informacion anterior presentada en esta seccion, Conceptos fundamentales de Niklas Luhmann y autores relacionados:
 
-![Diagrama](https://github.com/rosariorogel/luhmann/blob/main/assets/img/Conceptos%20fundamentales%20Luhmann.png.png?raw=true)
-
-
+<img src="{{ site.baseurl }}/assets/img/ConceptosFundamentales.png" style="float:left;width:200px;padding-right:20px;">
 
 ## Discusion Teórica en torno a la TGSS
 
