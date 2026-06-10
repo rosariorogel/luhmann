@@ -87,7 +87,7 @@ Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI
 <div style="clear: both;"></div>  
 
 <img src="{{ site.baseurl }}/assets/img/FotoKarinaLedezma.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Karina Ledezma Diaz** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Urbana, Sociología de la Salud y Politicas Publicas.
+**Karina Ledezma Diaz** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Urbana, Sociología de la Salud y Políticas Públicas.
 
 Instagram: [@ldkarii_](https://www.instagram.com/ldkarii_?igsh=ZTI2aXJ5bGsyMG16)
 
@@ -173,24 +173,24 @@ La actualización 4.0 de este sitio se realizó en el marco del curso ***Algorit
 ## Actualización del sitio Luhmann 3.0
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizethRobles.jpg" style="float:left;width:200px;padding-right:20px;">
-**Lizeth Robles Benitez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Estudios latinoamericanos, Sociología Constructivista, Movimientos sociales y reincersión social.
+**Lizeth Robles Benitez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios latinoamericanos, Sociología Constructivista, Movimientos sociales y reincersión social.
 
 Instagram: [@lizeth_roblesb](https://www.instagram.com/lizeth_roblesb?igsh=MWNpcmxwcWNoeGV5bw==)
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
+**Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la salud y sociología de las emociones.
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
+**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Infancias y Estudios de género.
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaDesireeCruz.jpg" style="float:left;width:200px;padding-right:20px;">
-**Andrea Desiree Cruz Rodriguez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Software aplicado a las ciencias sociales, metodologia cualitativa, estudios fenomenologicos y sociologia urbana.
+**Andrea Desiree Cruz Rodriguez** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Software aplicado a las ciencias sociales, metodología cualitativa, estudios fenomenológicos y Sociología urbana.
 
 Facebook: [Andrea Cruz](https://www.facebook.com/profile.php?id=61554794530694&mibextid=JRoKGi)
 
@@ -213,12 +213,12 @@ Instagram:https: [@maar.gzmn](www.instagram.com/maar.gzmn)
 <img src="{{ site.baseurl }}/assets/img/FotoKarlaGomez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Karla Gómez Segura** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Género, feminismo y activismo social.
 
-Intagram: [@karlagomeezs](https://www.instagram.com/karlagomeezs/?hl=es-la)
+Instagram: [@karlagomeezs](https://www.instagram.com/karlagomeezs/?hl=es-la)
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoFernandaGonzález.jpeg" style="float:left;width:200px;padding-right:20px;">
-**María Fernanda González Paulino** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología del derecho, metodologías de invetigación y sociología rural.
+**María Fernanda González Paulino** Estudiante de Sociología en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología del derecho, metodologías de investigación y sociología rural.
 
 Facebook: [María Fernanda González Paulino](https://www.facebook.com/mariafernanda.gonzalezpaulino?mibextid=ZbWKwL)
 
@@ -234,7 +234,7 @@ Instagram: [@trealex3](https://www.instagram.com/tre.alex3?igsh=NWNjYnE1c2NseWMz
 <img src="{{ site.baseurl }}/assets/img/FotoErikSalazar.jpg" style="float:left;width:200px;padding-right:20px;">
 **Erik Salazar Rosas** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de las emociones, Sociología Urbana, Arte, Cultura, Ciencia y Tecnología.
 
-Intagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
+Instagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
 
 <div style="clear: both;"></div>
 
@@ -253,7 +253,7 @@ Intagram: [@eriksalazarrosas](https://www.instagram.com/eriksalazarrosas/)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoDanielaAriasRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología de la salud y sociología de las emociones.
+**Daniela Arias Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la salud y sociología de las emociones.
 
 <div style="clear: both;"></div>
 
@@ -305,7 +305,7 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Infancias y Estudios de género.
+**Regina Elizabeth Montalvo González** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Infancias y Estudios de género.
 
 <div style="clear: both;"></div>
 
@@ -315,7 +315,7 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoBrendaPalma.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brenda Ramírez Palma** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Sociología política y cultura.
+**Brenda Ramírez Palma** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología política y cultura.
 
 <div style="clear: both;"></div>
 
@@ -325,12 +325,12 @@ Twitter: [@Anna_Laura04](https://twitter.com/Anna_Laura04?t=3W1kdnvinmBgMkuXLJIU
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoSamuelTorres.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Roberto Samuel Torres Martínez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Teoría crítica de la razón, poder, acción social, filosofía social. 
+**Roberto Samuel Torres Martínez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Teoría crítica de la razón, poder, acción social, filosofía social. 
 
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoMontserratValdez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Montserrat Váldez Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interes: Amor romántico y emociones.
+**Montserrat Váldez Reynaga** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Amor romántico y emociones.
 
 <div style="clear: both;"></div>
 
@@ -351,7 +351,7 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEmmanuelCano.jpg" style="float:left;width:200px;padding-right:20px;">
-**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). Intereses: Justicia social, Reinserción social.
+**Emmanuel Cano Francisco** Estudiante de Socióloga en la Facultad de Ciencias Políticas y Sociales [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Estudiante de la licenciatura en Psicologia en la Universidad Autonoma de México [UNAM](https://www.unam.mx/). interéses: Justicia social, Reinserción social.
 
 <div style="clear: both;"></div>
 
