@@ -9,6 +9,8 @@ cover-img: "/assets/img/luhmann/luhmann-notes-1920x1080.jpg"
 
 # Bienvenidas, bienvenidos y bienvenides  
 
+> *Versión actual:** Luhmann 5.0 (junio de 2026)* 
+
 **Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y sus derivas contemporáneas: comunicación artificial, algoritmos, inteligencia artificial, ciencia abierta, decisión y complejidad social.
 
 Este sitio fue desarrollado originalmente por estudiantes de Sociología de la Universidad Autónoma del Estado de México durante el ciclo escolar 2022A, y ha sido actualizado de manera progresiva en los ciclos 2023A, 2024A, 2025A y recientemente 2026A.
@@ -17,7 +19,22 @@ En el ciclo **2025A**, el proyecto se amplió en el marco del curso internaciona
 
 El propósito de este REA es reunir, organizar y producir recursos de calidad sobre la obra de Niklas Luhmann, así como explorar su utilidad para comprender problemas contemporáneos vinculados con sistemas sociales, tecnologías digitales, plataformas, automatización, evaluación académica y comunicación científica.
 
-Este sitio está en permanente actualización. En junio de 2026 estamos integrando nuevas secciones, materiales didácticos, productos estudiantiles, bibliografía comentada y recursos derivados de experiencias internacionales de aprendizaje colaborativo.
+Este sitio está en permanente actualización. La versión **Luhmann 5.0** incorpora nuevas secciones desarrolladas por estudiantes de Sociología de la Universidad Autónoma del Estado de México, entre ellas:
+
+- Infografías sobre conceptos fundamentales y sistemas funcionales.
+- Fanzines educativos sobre subsistemas sociales.
+- Recursos audiovisuales para la enseñanza de la teoría de sistemas sociales.
+- El proyecto *Luhmann por Luhmann*, dedicado a la recuperación visual de citas primarias.
+- Contribuciones a Wikipedia en español sobre Niklas Luhmann y conceptos asociados.
+- Materiales didácticos para colorear inspirados en conceptos centrales de la teoría.
+
+Estos recursos fortalecen el carácter abierto, colaborativo y multimodal del proyecto.
+
+## Explora el sitio
+
+Te invitamos a recorrer las distintas secciones, reutilizar los materiales, compartirlos y contribuir a la circulación abierta del conocimiento sociológico.
+
+La teoría de sistemas sociales puede ser compleja; aprenderla no tiene por qué serlo.
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 
