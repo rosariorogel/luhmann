@@ -1,16 +1,57 @@
 ---
 layout: page
 title: Créditos
-subtitle: Las personas que contribuyen en este sitio
+subtitle: Personas, generaciones y colaboraciones que han dado vida a Luhmann 5.0
 permalink: credits
 ---
 
-## Actualización del sitio Luhmann 5.0
+# Créditos
 
-<img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
+**Luhmann 5.0** es un proyecto colaborativo desarrollado desde la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+
+A lo largo de sus distintas versiones, estudiantes, docentes y personas colaboradoras han contribuido a la producción de contenidos, curaduría de recursos, desarrollo web, recursos educativos abiertos y proyectos digitales relacionados con la teoría de sistemas sociales.
+
+## Cómo citar este sitio
+
+Rogel-Salazar, R. (Coord.). (2026). *Luhmann 5.0: teoría de sistemas, comunicación artificial y sociedad algorítmica*. Universidad Autónoma del Estado de México. [https://rosariorogel.net/luhmann/](https://rosariorogel.net/luhmann/)
+
+## Coordinación
+
+<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
+**Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales. 
+
+ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
+Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
+**Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities. 
+
+ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
+Twitter: [@blros](https://twitter.com/blros)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
+**Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son Pedagogía Digital, Archivado Web y Humanidades Digitales. 
+
+ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
+Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
+
+<div style="clear: both;"></div>
+
+## Actualización del sitio Luhmann 5.0  
+
+<img src="{{ site.baseurl }}/assets/img/FotoRicardoBecerrilv.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ricardo Becerril Valdes** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural y Sociología Organizacional.
 
-Correo: [rbecerrilv002@alumno.uaemex.mx](mailto:rbecerrilv002@alumno.uaemex.mx)    
+Correo: [rbecerrilv002@alumno.uaemex.mx](mailto:rbecerrilv002@alumno.uaemex.mx) 
+
+<img src="{{ site.baseurl }}/assets/img/FotodeMiguel.jpg" style="float:left;width:200px;padding-right:20px;">
+**Miguel Angel Celaya Morales** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Bienestar y ética animal.
+
+Instagram: [@celayam16](https://www.instagram.com/celayam16?igsh=MW5yMnR5Ym5maTV5eQ==)
 
 <img src="{{ site.baseurl }}/assets/img/FotoIvanCorona.jpg" style="float:left;width:200px;padding-right:20px;">
 **Iván Corona Mercado** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Teoría Marxista y Sociología Latinoamericana.
@@ -22,8 +63,13 @@ Correo: [ivancorona11@icloud.com](mailto:ivancorona11@icloud.com)
 
 Instagram: [@alex_ec9](https://www.instagram.com/alex_ec9?igsh=MWx2d3dxNDlzeDh6NA==)    
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.fpg" style="float:left;width:200px;padding-right:20px;">
-**Angel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Ambiental y Urbana, Movimentos Sociales y Activismo Social.
+<img src="{{ site.baseurl }}/assets/img/FotodeMariana.jpg" style="float:left;width:200px;padding-right:20px;">
+**Mariana Galvan Arellano** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Rural, Movimientos sociales y Etnonacionalismos.
+
+Instagram: [@mary.galvan](https://www.instagram.com/mar.12._.05?utm_source=qr&igsh=YnZlZ3Y0c2pyb2g2)  
+
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroGil.jpg" style="float:left;width:200px;padding-right:20px;">
+**Ángel Alejandro Gil Gutiérrez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Ambiental y Urbana, Movimentos Sociales y Activismo Social.
 
 Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI0N3l6bXA4YQ%3D%3D&utm_source=qr)
 
@@ -33,7 +79,7 @@ Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI
 Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)  
 
 <img src="{{ site.baseurl }}/assets/img/FotoXimenaMora.jpg" style="float:left;width:200px;padding-right:20px;">
-*Ximena Yulissa Mora Hernández* Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la religión y Estudios de población.
+**Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la religión y Estudios de población.
 
 Correo: [ximenamora2808@gmail.com@icloud.com](ximenamora2808@gmail.com@icloud.com)
 
@@ -72,7 +118,7 @@ Correo: [feeervargas@icloud.com](feeervargas@icloud.com)
 
 Instagram: [@fv_vento](https://www.instagram.com/fv_vento?igsh=MXhyajZpY3A4am9rOQ==)  
 
-## Actualización del sitio Luhmann 4.0 (Curso COIL)
+## Actualización del sitio Luhmann 4.0 / Curso COIL 2025
 
 La actualización 4.0 de este sitio se realizó en el marco del curso ***Algoritmos, Sistemas Sociales y Decisión*** cuyos créditos están indicados en el apartado [*Curso COIL-2025*](https://rosariorogel.net/luhmann/coil-2025/cr%C3%A9ditos/){:target="_blank"} de esta página web. 
 
@@ -250,8 +296,7 @@ Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay?t=xrANulZXrEc0YMPEG72xMw&s=0
 
 <div style="clear: both;"></div>
 
-
-## Desarrollo y curación de contenidos Luhmann 1.0
+## Desarrollo y curación de contenidos Luhmann 1.0 / Grupo fundador
 
 <div style="clear: both;"></div>
 
@@ -341,32 +386,5 @@ Twitter: [@v__a__n__](https://twitter.com/@v__a__n__)
 **Fátima Paola Vargas Gómez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Estudios sobre pobreza y economía. 
 
 Twitter: [@PaolaGo57478287](https://twitter.com/PaolaGo57478287)
-
-<div style="clear: both;"></div>
-
-## Coordinación
-
-<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
-**Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
-
-
-ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
-Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities.
-
-ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
-Twitter: [@blros](https://twitter.com/blros)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Colín-Arce** Estudiante de Maestría en Sociología, [University of Victoria](https://www.uvic.ca/socialsciences/sociology/index.php), Canadá. Mis temas de interés son Pedagogía Digital, Archivado Web y Humanidades Digitales.
-
-ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
-Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 
 <div style="clear: both;"></div>

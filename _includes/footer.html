@@ -14,7 +14,6 @@
       {% if site.author %}
         {{ site.author }}
       {% endif %}
-      
 
       {% if site.url-pretty %}
         <br />
@@ -31,6 +30,22 @@
         {% endif %}
       {% endif%}
       </p>
+
+      <p class="copyright text-muted" style="margin-top: 10px;">
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+          <img
+            alt="Licencia Creative Commons CC BY 4.0"
+            src="{{ '/assets/img/CC-BY.png' | relative_url }}"
+            style="height: 31px; margin-bottom: 8px;"
+          />
+        </a>
+        <br />
+        Salvo que se indique algo diferente en contenidos específicos, este recurso educativo abierto está licenciado bajo una
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+          Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+        </a>.
+      </p>
+
       {% unless site.remove-ads %}<p class="theme-by text-muted">
         Powered by
         <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>

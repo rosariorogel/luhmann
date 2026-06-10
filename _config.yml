@@ -10,7 +10,7 @@ url: https://rosariorogel.net
 basurl: /newsite
 
 # Name of website
-title: "Teoría General de los Sistemas Sociales: Niklas Luhmann"
+title: "Luhmann 5.0"
 
 
 # Your name to show in the footer
@@ -67,8 +67,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Class website devoted to Juan Pérez
-
+rss-description: "Recurso Educativo Abierto sobre Niklas Luhmann, teoría de sistemas sociales, comunicación artificial y sociedad algorítmica"
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -80,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.politicas-sociales.com"
+url-pretty: "rosariorogel.net/luhmann"
 
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words

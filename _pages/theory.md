@@ -28,6 +28,8 @@ Se presenta un resumen de lo que fue la infancia, adolescencia y edad madura de 
 
 Aquí se hace un acercamiento a lo que Luhmann llama “clausura operativa” dentro de la Teoría General de Sistemas Sociales, este concepto es fundamental para entender su pensamiento.
 
+https://upload.wikimedia.org/wikipedia/commons/0/0e/Clausura_operativa_de_Niklas_Luhmann.png 
+
 <a title="Aranza Cura Lara, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Clausura_operativa_de_Niklas_Luhmann.png"><img width="128" alt="Clausura operativa de Niklas Luhmann" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clausura_operativa_de_Niklas_Luhmann.png/128px-Clausura_operativa_de_Niklas_Luhmann.png"></a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Clausura operativa</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://rosariorogel.net/luhmann/" property="cc:attributionName" rel="cc:attributionURL">Aranza Cura Lara</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://rosariorogel.net/luhmann/" rel="dct:source">https://rosariorogel.net/luhmann/</a>.
