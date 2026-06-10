@@ -70,6 +70,12 @@ Instagram: [@mary.galvan](https://www.instagram.com/mar.12._.05?utm_source=qr&ig
 
 Instagram: [@hill_babayaga](https://www.instagram.com/hill_babayaga?igsh=MTZpcjI0N3l6bXA4YQ%3D%3D&utm_source=qr)
 
+<img src="{{ site.baseurl }}/assets/img/FotoKarinaLedezma.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Karina Ledezma Diaz** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Urbana, Sociología de la Salud y Politicas Publicas.
+
+Instagram: [@ldkarii_](https://www.instagram.com/ldkarii_?igsh=ZTI2aXJ5bGsyMG16)
+
+
 <img src="{{ site.baseurl }}/assets/img/FOTOPaulinaMLara.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Paulina Mondragón Lara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología Constructivista y Reincersión Social.
 
