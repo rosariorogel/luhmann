@@ -19,6 +19,7 @@ Rogel-Salazar, R. (Coord.). (2026). *Luhmann 5.0: teoría de sistemas, comunicac
 
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+
 ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)  
 
 Email: [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)  
@@ -27,6 +28,7 @@ Email: [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)
 
 <img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
 **Brian Rosenblum** Digital Humanities Librarian, Director of the [Institute for Globally Engaged Librarianship](https://lib.ku.edu/igel), University of Kansas.
+
 ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)  
 
 Email: [brianrosenblum@ku.edu](mailto:brianrosenblum@ku.edu)  
@@ -35,6 +37,7 @@ Email: [brianrosenblum@ku.edu](mailto:brianrosenblum@ku.edu)
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alan Colín-Arce** Sociologist, Mitacs research fellow in open, collaborative scholarship at the [University of Victoria’s Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca/). 
+
 ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)  
 
 Email: [alancolinarce@uvic.ca](mailto:alancolinarce@uvic.ca)  
