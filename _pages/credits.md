@@ -89,8 +89,7 @@ Instagram: [@ML Pau](https://www.instagram.com/paulina_ml_/)
 
 Instagram: [@_mdmary](https://www.instagram.com/_mdmary?igsh=bG9iaDluYWQ4NmI4) 
 
-<img src="{{ site.baseurl }}/assets/img/FotodeXimena.jpg" style="float:left;width:200px;padding-right:20px;">  
-
+<img src="{{ site.baseurl }}/assets/img/FotodeXimena.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ximena Yulissa Mora Hernández** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociología de la Religión y Estudios de población.
 
 Correo: [ximenamora2808@gmail.com](mailto:ximenamora2808@gmail.com)
