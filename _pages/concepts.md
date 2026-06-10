@@ -5,7 +5,7 @@ subtitle: Teoría General de Sistemas Sociales
 permalink: concepts
 ---
 
-# Conceptos fundamentales de la TSS 
+## Conceptos fundamentales y recursos audiovisuales
 
 En este apartado encontrarás cuatro proyectos que buscan explicar los conceptos fundamentales de la Teoría de Sistemas Sociales de Niklas Luhmann:
 
