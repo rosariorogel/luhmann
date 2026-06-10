@@ -7,9 +7,9 @@ permalink: about
 
 # Acerca de Luhmann 5.0
 
-**Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann...
+> *Versión actual: Luhmann 5.0 (junio de 2026)*  
 
-> *Versión actual: Luhmann 5.0 (junio de 2026)*
+**Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann...
 
 **Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y a sus posibles lecturas contemporáneas: comunicación artificial, sociedad algorítmica, ciencia abierta, cultura digital y construcción colaborativa del conocimiento.
 
