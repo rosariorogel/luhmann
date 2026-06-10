@@ -16,7 +16,6 @@ Las contribuciones incluyeron la incorporación de conceptos teóricos, mejoras 
 **Créditos Luhmann 5.0:** Miguel Ángel Celaya Morales, Mariana Galván Arellano y Ximena Yulissa Mora Hernández.
 
 <div style="font-size:0.85em; color:#666;">
-  
 Proyecto desarrollado en el marco de la actualización <strong>Luhmann 5.0: Visualización de datos y recursos de información</strong>, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México.
 </div>
 
@@ -49,7 +48,7 @@ El equipo realizó aportes y ajustes en la página principal de Niklas Luhmann e
 <h2>Sistemas psíquicos</h2>
 
 <p>
-Una de las contribuciones consistió en trabajar el concepto de sistemas psíquicos, incorporando definiciones y referencias que permiten distinguirlos de los sistemas sociales dentro de la teoría luhmanniana.
+Una de las contribuciones consistió en trabajar el concepto de sistemas psíquicos dentro de la página de Niklas Luhmann, incorporando definiciones y referencias que permiten distinguirlos de los sistemas sociales dentro de la teoría luhmanniana.
 </p>
 
 <p>
@@ -64,7 +63,7 @@ Una de las contribuciones consistió en trabajar el concepto de sistemas psíqui
   />
 
   <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    Evidencia visual de edición sobre sistemas psíquicos en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
+    Evidencia visual de edición sobre sistemas psíquicos en la página de Niklas Luhmann en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
   </figcaption>
 </figure>
 
@@ -73,7 +72,7 @@ Una de las contribuciones consistió en trabajar el concepto de sistemas psíqui
 <h2>Complejidad</h2>
 
 <p>
-El equipo también intervino contenidos relacionados con el concepto de complejidad, uno de los ejes fundamentales de la teoría de sistemas sociales. La edición buscó mejorar la explicación del concepto y su relación con la selección de posibilidades dentro de los sistemas.
+El equipo también intervino contenidos relacionados con el concepto de complejidad dentro de la página de Niklas Luhmann. La edición buscó mejorar la explicación del concepto y su relación con la selección de posibilidades dentro de los sistemas.
 </p>
 
 <p>
@@ -88,7 +87,7 @@ El equipo también intervino contenidos relacionados con el concepto de compleji
   />
 
   <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    Evidencia visual de edición sobre complejidad en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
+    Evidencia visual de edición sobre complejidad en la página de Niklas Luhmann en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
   </figcaption>
 </figure>
 
@@ -97,7 +96,7 @@ El equipo también intervino contenidos relacionados con el concepto de compleji
 <h2>Acoplamiento estructural</h2>
 
 <p>
-En el caso de acoplamiento estructural, las contribuciones se orientaron a precisar la relación entre sistema y entorno, así como a mejorar la explicación del modo en que los sistemas pueden irritarse mutuamente sin perder su clausura operativa.
+En el caso de acoplamiento estructural, las contribuciones se orientaron a precisar la relación entre sistema y entorno dentro de la página de Niklas Luhmann, así como a mejorar la explicación del modo en que los sistemas pueden irritarse mutuamente sin perder su clausura operativa.
 </p>
 
 <p>
@@ -112,7 +111,7 @@ En el caso de acoplamiento estructural, las contribuciones se orientaron a preci
   />
 
   <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    Primera evidencia visual de edición sobre acoplamiento estructural en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
+    Primera evidencia visual de edición sobre acoplamiento estructural en la página de Niklas Luhmann en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
   </figcaption>
 </figure>
 
@@ -124,7 +123,7 @@ En el caso de acoplamiento estructural, las contribuciones se orientaron a preci
   />
 
   <figcaption style="font-size:0.72em;color:#666;line-height:1.3;margin-top:6px;">
-    Segunda evidencia visual de edición sobre acoplamiento estructural en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
+    Segunda evidencia visual de edición sobre acoplamiento estructural en la página de Niklas Luhmann en Wikipedia. Captura elaborada por el equipo de estudiantes de Luhmann 5.0.
   </figcaption>
 </figure>
 
@@ -134,6 +133,4 @@ En el caso de acoplamiento estructural, las contribuciones se orientaron a preci
 
 Las capturas incluidas en esta página documentan el proceso de participación estudiantil en Wikipedia como parte de la actualización **Luhmann 5.0**. Su propósito es dejar evidencia del trabajo de edición, mejora de contenidos, verificación de fuentes y contribución a espacios abiertos de conocimiento.
 
-Para consultar las versiones actualizadas, se recomienda visitar directamente las páginas enlazadas en Wikipedia.  
-
-
+Para consultar las versiones actualizadas, se recomienda visitar directamente la página de [Niklas Luhmann en Wikipedia](https://es.wikipedia.org/wiki/Niklas_Luhmann).  
