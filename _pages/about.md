@@ -54,20 +54,10 @@ Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recur
 
 <img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px; max-width: 180px;"> **Niklas Luhmann** (1927-1998) fue un sociólogo alemán reconocido por la formulación de la teoría de sistemas sociales, una de las propuestas más ambiciosas para describir la sociedad moderna.
 
-<br>
-
-<small>
-
-Ilustración de Niklas Luhmann por
-
-<a href="https://commons.wikimedia.org/wiki/File:Luhmann.png">Sonntag</a>,
-
-disponible bajo licencia
-
-<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>,
-
-vía Wikimedia Commons.
-
-</small>
-
-<div style="clear:both"></div>  
+<div style="font-size: 0.75em; color: #666666; line-height: 1.3; margin-top: 5px;">
+  Ilustración de Niklas Luhmann por
+  <a href="https://commons.wikimedia.org/wiki/File:Luhmann.png">Sonntag</a>,
+  disponible bajo licencia
+  <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>,
+  vía Wikimedia Commons.
+</div>
