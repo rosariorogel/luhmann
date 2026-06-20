@@ -7,13 +7,34 @@ permalink: zines
 
 # Fanzines sobre la teoría de sistemas sociales
 
-Los fanzines son publicaciones gráficas independientes que combinan texto, imágenes e ilustraciones para comunicar ideas de manera accesible y creativa. En esta sección se presentan una serie de fanzines elaborados por estudiantes de Sociología de la Universidad Autónoma del Estado de México, con el propósito de explicar algunos de los principales subsistemas identificados por Niklas Luhmann en su teoría de sistemas sociales.
+Los fanzines son publicaciones gráficas independientes que combinan texto, imágenes e ilustraciones para comunicar ideas de manera accesible y creativa. En esta sección se presentan una serie de fanzines elaborados por estudiantes de Sociología de la Universidad Autónoma del Estado de México, con el propósito de explicar algunos de los principales subsistemas identificados por Niklas Luhmann en su teoría de sistemas sociales. 
 
-A través de recursos visuales, conceptos clave y síntesis temáticas, estos materiales buscan facilitar el acercamiento a una propuesta teórica compleja, ofreciendo una experiencia de aprendizaje más dinámica e interactiva.
+A través de recursos visuales, conceptos clave y síntesis temáticas, estos materiales buscan facilitar el acercamiento a una propuesta teórica compleja, ofreciendo una experiencia de aprendizaje más dinámica e interactiva. Además de los materiales finales, se comparte un recurso audiovisual que documenta el proceso de elaboración de un fanzine en formato físico.
 
 ## ¿Cómo se realizó este proyecto?
 
 Para la elaboración de los materiales se utilizaron principalmente las plataformas **Canva** y **Krita**, las cuales permitieron diseñar ilustraciones, diagramas y composiciones visuales. Los materiales finales fueron publicados como recursos educativos abiertos en plataformas de acceso abierto como Wikimedia Commons y Zenodo.
+
+## Del formato digital al papel
+
+Además de elaborar los materiales que se presentan en esta sección, el equipo desarrolló un breve video donde explica el proceso de diseño, impresión, armado y doblado de un fanzine en formato físico. Este recurso puede ser útil para estudiantes, docentes y personas interesadas en explorar formas creativas de divulgación del conocimiento.
+
+<div style="margin:20px 0;">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/QWRarVHN9QI"
+  title="Cómo construir un fanzine"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
+<p style="font-size:0.72em;color:#666;line-height:1.3;">
+Video elaborado por participantes del proyecto <em>Luhmann en Web 5.0</em>. Disponible en
+<a href="https://youtu.be/QWRarVHN9QI">YouTube</a>.
+</p>
 
 ## Créditos de elaboración
 
