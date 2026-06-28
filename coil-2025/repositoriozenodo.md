@@ -2,7 +2,7 @@
 layout: page
 title: "Repositorio en Zenodo"
 subtitle: Materiales de trabajo generados en el curso  
-permalink: /coil-2025/repositoriozenodo/
+permalink: /coil/repositoriozenodo/
 ---
 
 ## Todos los contenidos en un solo sitio 
