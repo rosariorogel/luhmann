@@ -9,7 +9,7 @@ cover-img: "/assets/img/luhmann/luhmann-notes-1920x1080.jpg"
 
 # Bienvenidas, bienvenidos y bienvenides  
 
-> *Versión actual:** Luhmann 5.0 (junio de 2026)* 
+> ***Versión actual:** Luhmann 5.0 (junio de 2026)* 
 
 **Luhmann 5.0** es un Recurso Educativo Abierto dedicado al estudio de la teoría de sistemas sociales de Niklas Luhmann y sus derivas contemporáneas: comunicación artificial, algoritmos, inteligencia artificial, ciencia abierta, decisión y complejidad social.
 
