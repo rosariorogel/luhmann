@@ -13,21 +13,55 @@ Las sesiones incluyen conferencias magistrales, mesas de discusión, clases impa
 
 ## Edición 2026
 
-➡️ **Playlist completa del Curso COIL 2026: Algoritmos, Sistemas Sociales y Decisión (UAEMéx · UFPE · UdeA)**
+<p>
+Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>, edición 2026.
+</p>
 
-https://youtube.com/playlist?list=PLFij2v5-1vf0&si=Al75ENjEhTqdfo17
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLFij2v5-1vf0"
+    title="Playlist del Curso COIL 2026: Algoritmos, Sistemas Sociales y Decisión"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+<p>
+  <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=Al75ENjEhTqdfo17" target="_blank" rel="noopener noreferrer">
+    Abrir playlist 2026 en YouTube
+  </a>
+</p>
 
 ---
 
 ## Edición 2025
 
-➡️ **Playlist completa del Curso COIL 2025: Algoritmos, Sistemas Sociales y Decisión (UAEMéx · UFPE · UdeA)**
+<p>
+Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>, edición 2025.
+</p>
 
-https://youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2&si=rm1CUWkHcM9YRrbZ
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2"
+    title="Playlist del Curso COIL 2025: Algoritmos, Sistemas Sociales y Decisión"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+<p>
+  <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2&si=rm1CUWkHcM9YRrbZ" target="_blank" rel="noopener noreferrer">
+    Abrir playlist 2025 en YouTube
+  </a>
+</p>
 
 ---
 
-# Sesiones de la edición 2025
+# Sesiones individuales de la edición 2025
 
 ---
 
