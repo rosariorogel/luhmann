@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "COIL 2025"
-permalink: /coil-2025/
+title: "COIL"
+permalink: /coil/
 ---
 
-Bienvenidos a la sección **COIL 2025**.  
+Bienvenidos a la sección **COIL**.  
 Aquí podrás encontrar todas las páginas relacionadas con este proyecto.
