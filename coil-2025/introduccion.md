@@ -13,7 +13,7 @@ permalink: /coil/introduccion/
 
 El proyecto surge como una estrategia de internacionalización del currículo orientada a promover experiencias de aprendizaje colaborativo entre estudiantes y profesorado de distintos países, utilizando la **Teoría General de los Sistemas Sociales de Niklas Luhmann** como eje para analizar los desafíos contemporáneos asociados a los algoritmos, la inteligencia artificial y los procesos de decisión.
 
-Desde su primera edición en 2025, el curso ha evolucionado como un espacio permanente de colaboración internacional que integra docencia, investigación y producción de Recursos Educativos Abiertos (REA). La edición 2026 consolidó este modelo incorporando nuevas mesas redondas internacionales, profesorado invitado, proyectos colaborativos y una ampliación significativa del ecosistema digital del proyecto.  [oai_citation:1‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
+Desde su primera edición en 2025, el curso ha evolucionado como un espacio permanente de colaboración internacional que integra docencia, investigación y producción de Recursos Educativos Abiertos (REA). La edición 2026 consolidó este modelo incorporando nuevas mesas redondas internacionales, profesorado invitado, proyectos colaborativos y una ampliación significativa del ecosistema digital del proyecto.
 
 ## Universidades coordinadoras
 
@@ -46,7 +46,7 @@ Analizar los impactos de los algoritmos y la inteligencia artificial sobre los p
 
 El curso adopta el modelo **Collaborative Online International Learning (COIL)**, mediante el cual profesorado de distintas universidades co-diseña y co-imparte un mismo curso, promoviendo el aprendizaje intercultural y el trabajo colaborativo entre estudiantes de diferentes países.
 
-Además de las sesiones impartidas por el equipo coordinador, cada edición incorpora especialistas internacionales provenientes de distintas disciplinas, quienes participan mediante conferencias magistrales y mesas redondas temáticas. Durante la edición 2026 participaron especialistas de México, Brasil, Chile y Argentina, fortaleciendo el carácter interdisciplinario e internacional del proyecto.  [oai_citation:2‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
+Además de las sesiones impartidas por el equipo coordinador, cada edición incorpora especialistas internacionales provenientes de distintas disciplinas, quienes participan mediante conferencias magistrales y mesas redondas temáticas. Durante la edición 2026 participaron especialistas de México, Brasil, Chile y Argentina, fortaleciendo el carácter interdisciplinario e internacional del proyecto.
 
 ## Recursos Educativos Abiertos
 
@@ -61,6 +61,6 @@ Todos los materiales desarrollados durante el curso se publican bajo principios 
 - Repositorio en Zenodo
 - Canal de YouTube
 
-De esta manera, el curso trasciende las sesiones sincrónicas y conforma un ecosistema de Recursos Educativos Abiertos que continúa creciendo con cada nueva edición.  [oai_citation:3‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
+De esta manera, el curso trasciende las sesiones sincrónicas y conforma un ecosistema de Recursos Educativos Abiertos que continúa creciendo con cada nueva edición.
 
 </div>
