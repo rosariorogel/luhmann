@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introducción"
-subtitle: Recurso Educativo Abierto 
+subtitle: Recurso Educativo Abierto
 permalink: /coil/introduccion/
 ---
 
@@ -9,38 +9,58 @@ permalink: /coil/introduccion/
 
 <div style="text-align: justify;" markdown="1">
 
-Con gran entusiasmo presentamos la actualización **Luhmann 4.0** del Recurso Educativo Abierto *Teoría General de los Sistemas Sociales: Niklas Luhmann*. Esta versión incorpora el trabajo realizado en el marco del curso **Algoritmos, Sistemas Sociales y Decisión**, impartido de febrero a junio de 2025 bajo la modalidad COIL, en el que participaron:
+**Algoritmos, Sistemas Sociales y Decisión** es un curso internacional desarrollado bajo la metodología **Collaborative Online International Learning (COIL)**, resultado de la colaboración académica entre la Universidad Autónoma del Estado de México (UAEMéx), la Universidade Federal de Pernambuco (UFPE) y la Universidad de Antioquia (UdeA).
 
-### Coordinadores del curso
-- [**Dra. Rosario Rogel-Salazar**](https://orcid.org/0000-0002-6018-0635){:target="_blank"}, profesora del Doctorado en Ciencias Sociales, Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México (México).
-- [**Dr. Artur Stamford da Silva**](https://orcid.org/0000-0001-6537-2399){:target="_blank"}, professor do Doutorado em Direito da Faculdade de Direito da Universidade Federal de Pernambuco (Brasil).
-- [**Dr. Gabriel Vélez Cuartas**](https://orcid.org/0000-0003-2350-4650){:target="_blank"}, profesor de la Maestría en Sociología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia (Colombia).
+El proyecto surge como una estrategia de internacionalización del currículo orientada a promover experiencias de aprendizaje colaborativo entre estudiantes y profesorado de distintos países, utilizando la **Teoría General de los Sistemas Sociales de Niklas Luhmann** como eje para analizar los desafíos contemporáneos asociados a los algoritmos, la inteligencia artificial y los procesos de decisión.
 
-### Profesores invitados
-- [**Dr. Sergio Pignouli Ocampo**](https://orcid.org/0000-0002-9918-0931){:target="_blank"}, Investigador del CONICET, Universidad de Buenos Aires (Argentina), con el tema: *¿Qué significa hablar de “inteligencia” en el caso de la IA y cómo se compara con los sistemas cognitivos humanos?*
-- [**Dr. Álvaro Farias Pinheiro**](https://orcid.org/0000-0002-6254-7293){:target="_blank"}, professor da Universidade Federal de Pernambuco (Brasil), con el tema: *Gobierno, gobernanza e IA ¿Cómo los usos de algoritmos influyen en la gobernanza y toma de decisiones?*
-- [**Ing. Omar Zapata**](https://co.linkedin.com/in/omar-zapata-295913337){:target="_blank"}, integrante de COLAV, Universidad de Antioquia (Colombia), con el tema: *Inteligencia artificial: el problema de los datos masivos*
-- [**Dr. Gastón Becerra**](https://orcid.org/0000-0001-9432-8848){:target="_blank"}, profesor de la Universidad de Flores (Argentina), con el tema: *Ciencias sociales computacionales y sociología.*
-  
-### Objetivos del curso
-#### Objetivo general:
-Analizar los impactos de los algoritmos y la inteligencia artificial en la toma de decisiones dentro de distintos sistemas sociales, utilizando la teoría de sistemas sociales como marco conceptual para comprender sus efectos en ámbitos como la comunicación, la educación, la gobernanza y el derecho.   
+Desde su primera edición en 2025, el curso ha evolucionado como un espacio permanente de colaboración internacional que integra docencia, investigación y producción de Recursos Educativos Abiertos (REA). La edición 2026 consolidó este modelo incorporando nuevas mesas redondas internacionales, profesorado invitado, proyectos colaborativos y una ampliación significativa del ecosistema digital del proyecto.  [oai_citation:1‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
 
-#### Objetivos específicos:
-- Comprender la teoría de sistemas y su vínculo con la IA y los algoritmos.  
-- Explorar el impacto de la IA en la comunicación y la organización social.  
-- Analizar la autonomía de los algoritmos y su rol en la toma de decisiones.  
-- Examinar el uso de la IA en educación, ciencia, gobernanza y derecho.  
-- Fomentar el conocimiento abierto con un libro colaborativo y un [REA en GitHub](https://github.com/rosariorogel/luhmann){:target="_blank"}.  
-- Impulsar el intercambio académico internacional en el marco del COIL.   
+## Universidades coordinadoras
 
-### Programa del curso – *Syllabus*
+- **Universidad Autónoma del Estado de México (México)**
+- **Universidade Federal de Pernambuco (Brasil)**
+- **Universidad de Antioquia (Colombia)**
 
-El programa del curso *—syllabus—* está disponible en acceso abierto en este [enlace](https://zenodo.org/records/15770097){:target="_blank"}, alojado en el Repositorio del Curso en la plataforma Zenodo en la comunidad [Algoritmos, sistemas sociales y decisiones / Algoritmos, sistemas sociais e decisões](https://zenodo.org/communities/sociologiayalgoritmos/records?q=&l=list&p=1&s=10&sort=newest){:target="_blank"}.
+## Coordinación académica
 
-### Modalidad COIL
+- [**Dra. Rosario Rogel-Salazar**](https://orcid.org/0000-0002-6018-0635){:target="_blank"}
+- [**Dr. Artur Stamford da Silva**](https://orcid.org/0000-0001-6537-2399){:target="_blank"}
+- [**Dr. Gabriel Vélez Cuartas**](https://orcid.org/0000-0003-2350-4650){:target="_blank"}
 
-Este curso se desarrolló bajo la modalidad ***Collaborative Online International Learning (COIL)***, un método que promueve la colaboración entre docentes de al menos dos instituciones de educación superior de diferentes países para co-diseñar y co-facilitar actividades en línea, internacionalizando el currículo y potenciando competencias interculturales en los estudiantes ([Hackett et al, 2023](https://doi.org/10.1007/s11528-024-01000-w){:target="_blank"}).  
+## Objetivos
 
-La actualización de esta página web es uno de los productos finales del curso, reflejo del trabajo conjunto de participantes y coordinadores, y demuestra nuestro compromiso con la enseñanza abierta, colaborativa e internacional.  
+### Objetivo general
+
+Analizar los impactos de los algoritmos y la inteligencia artificial sobre los procesos contemporáneos de decisión mediante la Teoría General de los Sistemas Sociales de Niklas Luhmann, favoreciendo una comprensión interdisciplinaria de sus efectos en ámbitos como la comunicación, la educación, la ciencia, el derecho, la gobernanza y otros sistemas funcionales de la sociedad.
+
+### Objetivos específicos
+
+- Comprender los fundamentos de la Teoría General de los Sistemas Sociales.
+- Analizar las relaciones entre algoritmos, inteligencia artificial y sistemas sociales.
+- Explorar aplicaciones de la teoría de sistemas en distintos ámbitos de la sociedad contemporánea.
+- Desarrollar proyectos colaborativos internacionales.
+- Generar Recursos Educativos Abiertos como productos finales del curso.
+- Promover prácticas de Ciencia Abierta, Educación Abierta y colaboración internacional.
+
+## Metodología COIL
+
+El curso adopta el modelo **Collaborative Online International Learning (COIL)**, mediante el cual profesorado de distintas universidades co-diseña y co-imparte un mismo curso, promoviendo el aprendizaje intercultural y el trabajo colaborativo entre estudiantes de diferentes países.
+
+Además de las sesiones impartidas por el equipo coordinador, cada edición incorpora especialistas internacionales provenientes de distintas disciplinas, quienes participan mediante conferencias magistrales y mesas redondas temáticas. Durante la edición 2026 participaron especialistas de México, Brasil, Chile y Argentina, fortaleciendo el carácter interdisciplinario e internacional del proyecto.  [oai_citation:2‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
+
+## Recursos Educativos Abiertos
+
+Todos los materiales desarrollados durante el curso se publican bajo principios de acceso abierto y se preservan mediante diversas plataformas:
+
+- Programa del curso (Syllabus)
+- Presentaciones
+- Grabaciones de las sesiones
+- Bibliografía
+- Recursos elaborados por estudiantes
+- Sitio web *Luhmann en Web*
+- Repositorio en Zenodo
+- Canal de YouTube
+
+De esta manera, el curso trasciende las sesiones sincrónicas y conforma un ecosistema de Recursos Educativos Abiertos que continúa creciendo con cada nueva edición.  [oai_citation:3‡Informe COIL 2026.docx](sediment://file_00000000cfac720c9fcd569e0a17e926)
+
 </div>
