@@ -2,7 +2,7 @@
 layout: page
 title: "Recursos Web"
 subtitle: Contenidos web compartidos durante el curso
-permalink: /coil-2025/resources/
+permalink: /coil/resources/
 ---
 
 En este apartado encontrarás una colección de contenidos web que fueron compartidos por participantes, profesores y conferencistas invitados al curso **Algoritmos, Sistemas Sociales y Complejidad**.
