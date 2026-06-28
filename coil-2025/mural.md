@@ -2,7 +2,7 @@
 layout: page
 title: "Mural Colaborativo"
 subtitle: La voz de las personas participantes  
-permalink: /coil-2025/mural/
+permalink: /coil/mural/
 ---
 En esta sección puedes encontrar un mural colaborativo realizado con aportaciones de los participantes del **Curso COIL**.
 
