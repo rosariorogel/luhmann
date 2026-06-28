@@ -44,7 +44,7 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
   <iframe
-    src="https://www.youtube.com/embed/videoseries?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2"
+    src="https://youtube.com/playlist?list=PLLDz9GYV7-mhJlDE6QTNkhtw2dfceaoNr&si=A0jdhG1n1DkC4emQ"
     title="Playlist del Curso COIL 2025: Algoritmos, Sistemas Sociales y Decisión"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
