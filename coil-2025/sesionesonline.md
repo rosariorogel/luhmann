@@ -19,8 +19,8 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
   <iframe
-    src="https://www.youtube.com/embed/videoseries?si=NtjNuAYHJ8_VPqsB&amp;list=PLLDz9GYV7-mhJlDE6QTNkhtw2dfceaoNr"
-    title="Playlist del Curso COIL 2025: Algoritmos, Sistemas Sociales y Decisión"
+    src="https://www.youtube.com/embed/videoseries?si=suzi5DKXY5XVUXRt&amp;list=PLFij2v5-1vf0"
+    title="Playlist del Curso COIL 2026: Algoritmos, Sistemas Sociales y Decisión"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -28,6 +28,15 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
+<p>
+  <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=suzi5DKXY5XVUXRt"
+     target="_blank"
+     rel="noopener noreferrer">
+     Abrir playlist 2026 en YouTube
+  </a>
+</p>
+
 
 <p>
   <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=Al75ENjEhTqdfo17" target="_blank" rel="noopener noreferrer">
