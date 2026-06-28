@@ -2,7 +2,7 @@
 layout: page
 title: "Sesiones virtuales"
 subtitle: Acceso a las sesiones sincrónicas del curso COIL 2025
-permalink: /coil-2025/sesionesonline/
+permalink: /coil/sesionesonline/
 ---
 
 En esta sección se encuentran disponibles los enlaces a las grabaciones de las sesiones virtuales desarrolladas durante el curso **COIL 2025: Teoría General de los Sistemas Sociales de Niklas Luhmann**. Cada sesión incluye exposiciones temáticas, discusiones interdisciplinarias y presentaciones de avances de los proyectos colaborativos realizados por estudiantes de posgrado de México, Colombia y Brasil.
