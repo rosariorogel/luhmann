@@ -1,17 +1,69 @@
-Es que ahora está así: ---
+---
 layout: page
-title: "Sesiones virtuales"
-subtitle: Acceso a las sesiones sincrónicas del curso COIL 2025
+title: "Sesiones en línea"
+subtitle: Grabaciones del curso COIL
 permalink: /coil/sesionesonline/
 ---
 
-En esta sección se encuentran disponibles los enlaces a las grabaciones de las sesiones virtuales desarrolladas durante el curso **COIL 2025: Teoría General de los Sistemas Sociales de Niklas Luhmann**. Cada sesión incluye exposiciones temáticas, discusiones interdisciplinarias y presentaciones de avances de los proyectos colaborativos realizados por estudiantes de posgrado de México, Colombia y Brasil.
+En esta sección se reúnen las grabaciones de las distintas ediciones del curso internacional **Algoritmos, Sistemas Sociales y Decisión**, desarrollado bajo la modalidad **Collaborative Online International Learning (COIL)**.
 
-Los videos del curso se encuentran disponibles en <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2&si=rm1CUWkHcM9YRrbZ" target="_blank" rel="noopener noreferrer">YouTube</a>, organizados en una lista de reproducción que facilita su consulta abierta, asincrónica y sin restricciones. Las sesiones están ordenadas cronológicamente e incluyen una breve descripción que orienta sobre su contenido temático.
+Las sesiones incluyen conferencias magistrales, mesas de discusión, clases impartidas por el equipo coordinador y presentaciones de proyectos elaborados por estudiantes de las universidades participantes. Todos los videos se encuentran disponibles en acceso abierto a través de YouTube como parte del ecosistema de Recursos Educativos Abiertos del proyecto.
 
-Si participaste en el curso y deseas incluir una nota, presentación u observación vinculada a alguna sesión, por favor házlo directamente como comentario en los videos de YouTube.
+# Listas de reproducción
 
-### Lista de sesiones disponibles
+## Edición 2026
+
+<p>
+Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>, edición 2026.
+</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLFij2v5-1vf0"
+    title="Playlist del Curso COIL 2026: Algoritmos, Sistemas Sociales y Decisión"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+<p>
+  <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=Al75ENjEhTqdfo17" target="_blank" rel="noopener noreferrer">
+    Abrir playlist 2026 en YouTube
+  </a>
+</p>
+
+---
+
+## Edición 2025
+
+<p>
+Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>, edición 2025.
+</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe
+    src="https://youtube.com/playlist?list=PLLDz9GYV7-mhJlDE6QTNkhtw2dfceaoNr&si=P_gn2CB9KA6rsqTx"
+    title="Playlist del Curso COIL 2025: Algoritmos, Sistemas Sociales y Decisión"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+<p>
+  <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhJlDE6QTNkhtw2dfceaoNr&si=P_gn2CB9KA6rsqTx" target="_blank" rel="noopener noreferrer">
+    Abrir playlist 2025 en YouTube
+  </a>
+</p>
+
+---
+
+# Sesiones individuales de la edición 2025
+
+## Lista de sesiones disponibles
 
 ---
 
