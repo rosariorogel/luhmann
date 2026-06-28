@@ -2,7 +2,7 @@
 layout: page
 title: "Introducción"
 subtitle: Recurso Educativo Abierto 
-permalink: /coil-2025/introduccion/
+permalink: /coil/introduccion/
 ---
 
 # Algoritmos, Sistemas Sociales y Decisión
