@@ -2,7 +2,7 @@
 layout: page
 title: "Créditos"
 subtitle: Personas que contribuyeron a la actualización COIL2025
-permalink: /coil-2025/créditos/
+permalink: /coil/créditos/
 ---
 
 
