@@ -62,9 +62,7 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
 
 ---
 
-# Sesiones individuales de la edición 2025
-
-## Lista de sesiones disponibles
+## Sesiones individuales de la edición 2025
 
 ---
 
