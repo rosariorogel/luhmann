@@ -54,7 +54,7 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
 </div>
 
 <p>
-  <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhMcpTIieEVw4QMKvkVJI-2&si=rm1CUWkHcM9YRrbZ" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtube.com/playlist?list=PLLDz9GYV7-mhJlDE6QTNkhtw2dfceaoNr&si=A0jdhG1n1DkC4emQ" target="_blank" rel="noopener noreferrer">
     Abrir playlist 2025 en YouTube
   </a>
 </p>
