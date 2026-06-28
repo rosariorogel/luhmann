@@ -2,7 +2,7 @@
 layout: page
 title: "Participantes"
 subtitle: Instituciones de adscripción de participantes en el curso  
-permalink: /coil-2025/participantes/
+permalink: /coil/participantes/
 ---
 
 El curso **COIL** se organizó gracias a la colaboración internacional entre el Doctorado en Ciencias Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/){:target="_blank" rel="noopener"}, el Doctorado en Derecho de la [Universidade Federal de Pernambuco](https://www.ufpe.br/){:target="_blank" rel="noopener"} y la Maestría en Sociología de la [Universidad de Antioquia](https://www.udea.edu.co/){:target="_blank" rel="noopener"}.  
