@@ -30,15 +30,6 @@ Grabaciones del curso <strong>Algoritmos, Sistemas Sociales y Decisión</strong>
 </div>
 
 <p>
-  <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=suzi5DKXY5XVUXRt"
-     target="_blank"
-     rel="noopener noreferrer">
-     Abrir playlist 2026 en YouTube
-  </a>
-</p>
-
-
-<p>
   <a href="https://youtube.com/playlist?list=PLFij2v5-1vf0&si=Al75ENjEhTqdfo17" target="_blank" rel="noopener noreferrer">
     Abrir playlist 2026 en YouTube
   </a>
