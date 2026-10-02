@@ -69,11 +69,9 @@ https://rosariorogel.net/luhmann/
 
 ## Licencia
 
-Salvo indicación contraria, los contenidos originales de este proyecto se distribuyen bajo licencia:
+Salvo indicación contraria en recursos específicos, los contenidos originales de este sitio (textos, infografías, fanzines y demás materiales educativos) se comparten bajo licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Véase `LICENSE`.
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-https://creativecommons.org/licenses/by/4.0/
+El código del sitio se basa en la plantilla Beautiful Jekyll, de Dean Attali, distribuida bajo licencia MIT. Véase `LICENSE-CODE`.
 
 ---
 
